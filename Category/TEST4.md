@@ -1,3 +1,0 @@
-# TREST
-
-test
