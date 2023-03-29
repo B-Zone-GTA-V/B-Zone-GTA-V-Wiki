@@ -1,10 +1,6 @@
-# 👋 Welcome to A Product
+# 👋 Bun venit pe B-Zone RageMP Wiki!
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-## Overview
+## Despre
 
 Here are a couple of example overviews from products with really great docs:
 
@@ -18,7 +14,7 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
+## Link-uri
 
 {% content-ref url="overview/what-we-do.md" %}
 [what-we-do.md](overview/what-we-do.md)
