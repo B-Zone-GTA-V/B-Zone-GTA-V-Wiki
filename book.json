@@ -3,12 +3,9 @@
     "pluginsConfig": {
           "git-author":{
               "position": "bottom",
-              "modifyTpl": "Ultima modificare a fost făcută de {user} {timeStamp}",
-              "createTpl": "Creat de {user} {timeStamp}",
+              "modifyTpl": "Last modified by {user} {timeStamp}",
+              "createTpl": "Created by {user} {timeStamp}",
               "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
           }
-    },
-    "styles": {
-        "website": "./website.css"
     }
 }
