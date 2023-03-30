@@ -1,26 +1,19 @@
 ---
+description: Pagina de Wiki oficială a server-ului de RageMP B-Zone!
 cover: .gitbook/assets/test-banner.png
 coverY: 26
 ---
 
-# B-Zone V Wiki Official!
+# 💚 B-Zone V Wiki Official!
 
-## Welcome to MyAPI
+## Bun Venit!
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+Bun venit pe pagina de Wiki! Aici vei găsi informații generale referitoare la cum funcționează server-ul și client-ul de RAGE!
 
-## Want to jump right in?
+## Linkuri
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+Dacă dorești să te alături comunității intră pe link-urile din pagina de mai jos.
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
-
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
+{% content-ref url="linkuri.md" %}
+[linkuri.md](linkuri.md)
 {% endcontent-ref %}

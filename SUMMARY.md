@@ -1,6 +1,7 @@
 # Table of contents
 
-* [B-Zone V Wiki Official!](README.md)
+* [💚 B-Zone V Wiki Official!](README.md)
+* [Linkuri](linkuri.md)
 * [Quick Start](quick-start.md)
 
 ## Reference
