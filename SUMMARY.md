@@ -1,32 +1,22 @@
 # Table of contents
 
-* [Page 4](README.md)
-* [Page 2](page-2.md)
-* [💚 B-Zone V Wiki Official!](<README (1).md>)
+* [B-Zone V Wiki](README.md)
 * [Linkuri](linkuri.md)
-* [Quick Start](quick-start.md)
 
-## Reference
+## 🎮 RageMP
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
-* [Page 1](reference/page-1.md)
-* [Page 3](reference/page-3.md)
+* [RAGE Multiplayer](ragemp/rage-multiplayer.md)
+* [Grand Theft Auto: V](ragemp/grand-theft-auto-v.md)
 
-***
+## Roleplay
 
-* [Page 6](page-6.md)
+* [Page 5](roleplay/page-5.md)
+* [Page 7](roleplay/page-7.md)
 
-## Group 1
+## Sisteme - Shopuri
 
-* [Page 5](group-1/page-5.md)
-* [Page 7](group-1/page-7.md)
+* [Page 9](sisteme-shopuri/page-9.md)
 
-***
+## SISTEME - JOBURI
 
-* [Page 8](page-8.md)
-
-## Group 2
-
-* [Page 9](group-2/page-9.md)
+* [Page 1](sisteme-joburi/page-1.md)
