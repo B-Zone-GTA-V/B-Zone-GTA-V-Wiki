@@ -5,11 +5,10 @@ export default defineConfig({
   description: "Wiki page - B-Zone V Roleplay",
   base: '/B-Zone-GTA-V-Wiki/',
   themeConfig: {
-    logo: '/logo.svg',
+    logo: 'https://i.imgur.com/WDKwGKs.png',
     nav: [
       { text: 'Home', link: '/' },
     ],
-
     sidebar: [
       {
         text: '🎮 Despre Server',
@@ -19,7 +18,6 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/B-Zone-GTA-V' },
       { icon: 'discord', link: 'https://b-zone.ro/rage' },

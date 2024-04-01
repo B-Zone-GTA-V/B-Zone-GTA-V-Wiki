@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "B-Zone V Wiki"
-  text: "Wiki page for B-Zone V Roleplay"
+  text: "Wiki page"
   image:
     src: https://i.imgur.com/WDKwGKs.png
     alt: B-Zone V
