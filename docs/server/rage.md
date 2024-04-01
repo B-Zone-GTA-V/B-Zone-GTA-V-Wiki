@@ -1,3 +1,6 @@
+---
+lastUpdated: true
+---
 # RAGE Multiplayer
 
 ## Ce este RageMP?
