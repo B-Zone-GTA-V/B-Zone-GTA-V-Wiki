@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "B-Zone V Wiki",
-  description: "Wiki page for B-Zone V Roleplay",
+  description: "Wiki page - B-Zone V Roleplay",
   base: '/B-Zone-GTA-V-Wiki/',
   themeConfig: {
     logo: '/logo.svg',
@@ -15,13 +15,14 @@ export default defineConfig({
         text: '🎮 Despre Server',
         items: [
           { text: 'RAGE Multiplayer', link: '/server/rage' },
-          { text: 'Regulament Server', link: '/server/regulament' },
+          { text: 'Regulament Server', link: '/server/rules' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/B-Zone-GTA-V' }
+      { icon: 'github', link: 'https://github.com/B-Zone-GTA-V' },
+      { icon: 'discord', link: 'https://b-zone.ro/rage' },
     ],
     search: {
       provider: 'local',

@@ -1,0 +1,1008 @@
+---
+outline: deep
+lastUpdated: true
+prev:
+  text: 'RAGE Multiplayer'
+  link: '/server/rage'
+---
+
+# Regulament Română
+
+## <a id="1">CAP. 1 - INTRODUCERE</a>
+
+Data ultimei actualizări a regulamentului este: 21 Martie 2024.
+
+### <a id="1.1">1.1 Acord regulament</a>
+
+Vă dați acordul direct cu referire la respectarea regulamentului serverului din momentul în care v-ați conectat pe acesta. Aveți obligația să citiți regulamentul și să vă conformați acestuia, altfel riscați sancțiunile pentru fiecare încălcare de regulament.
+
+### <a id="1.2">1.2 Interpretare regulament</a>
+
+Interpretarea oricărei reguli este interzisă! Nu puteți interpreta nici o regulă după bunul plac, pentru a va oferi avantaje într-un RolePlay. 
+
+Pentru orice neclaritate pe parte de regulament contactați un membru staff. In situațiile de ticket, identificarea încălcării de regulament se face de către membrul staff care a preluat ticketul și nu de către jucători.
+
+### <a id="1.3">1.3 Condiții pentru a putea juca pe server</a>
+
+- Nu se permite RolePlay de sex opus față de sexul real al jucatorului.
+- Aveți nevoie de un microfon funcțional pentru a comunica cu restul jucătorilor.
+- Numele Roleplay - Folosirea numelor de persoane celebre, respectiv cu tentă și/sau intenția de a face troll, sunt interzise. Numele pot fi cele reale sau inventate de voi și care pot fi întâlnite în viața de zi cu zi.
+
+Exemple de nume interzise:  Mickael Jackson / Jhon Coa*eLungi / MaJocBine
+
+Exemple de nume permise: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
+
+Neconformarea, respectiv necooperarea cu administrația serverului pentru a respecta orice parametru de mai sus, va duce la banarea contului dumneavoastră permanent, având posibilitatea să vă faceți ulterior alt cont.
+
+## <a id="2">CAP. 2 REGULI DE BAZĂ</a>
+
+### <a id="2.1">2.1 In Character (IC)</a>
+
+Reprezintă toate acțiunile pe care le face un player/caracter în timpul roleplay-ului. Este opusul semnificației Out-Of-Character (OOC).
+
+<span style="color: yellow">Exemplu:</span> Mi-am creat un cont și un caracter, iar tot ce văd și aud pe joc sunt acțiuni IC. Orice alte informații pe care le observ sau le aud pe chat-ul din joc, Discord, Youtube, etc nu sunt considerate informații IC, ci OOC.
+
+### <a id="2.2">2.2 Out-of-character (OOC)</a>
+
+Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și absolut tot ce este spus pe canalele OOC (discord, chat-ul din joc, etc).
+
+<span style="color: yellow">Exemplu:</span> Toate informațiile ce sunt discutate pe chat-ul din joc sau în afara jocului și nu au legătură cu ce ai văzut sau ai auzit pe joc.
+
+### <a id="2.3">2.3 Player-Kill (PK)</a>
+
+În momentul în care te-ai respawnat la spital uiți ultima acțiune pe care ai avut-o, locația și persoanele care au participat la acțiunea respectivă.
+
+<span style="color: yellow">Exemplu:</span> Te afli într-un roleplay în care ai fost răpit. În locația unde ești dus apar niște persoane cu mască și altele fără, dar poți identifica și mașinile acestora, respectiv numerele de înmatriculare. Roleplay-ul evoluează, iar într-un final persoanele te omoară, te respawnezi la spital iar tu trebuie să uiți toate informațiile din ultimul roleplay.
+
+<span style="color: green">Mențiune:</span> În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație.
+
+### <a id="2.4">2.4 Revenge Kill (RK)</a>
+
+Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, după ce ți-ai acceptat moartea și te-ai respawnat. Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
+
+<span style="color: green">Excepție:</span> În <a href="#7.7">#7.7 Zonele Roșii</a> nu se aplică regula Revenge Kill.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="2.5">2.5 Character Kill (CK)</a>
+
+În urma CK-ului pierzi absolut tot ce deține caracterul jucătorului. CK-ul se oferă în urma unui motiv foarte bine întemeiat. CK reprezintă caracterul care a fost omorât în următoarele condiții de mai jos:
+
+- Când acorzi informații importante despre organizația din care faci parte către o altă organizație sau poliției și ești prins în mod IC făcând aceste lucruri.
+- Când acumulezi prea multe caziere și primești închisoare pe viață.
+- Când te sinucizi și nu mai poți fi salvat.
+
+În urma unui CK <span style="color: red">se pierd următoarele</span>:
+
+- banii din mână și banii din bancă
+- vehiculele deținute
+- casa sau business-ul deținut
+- toate obiectele personale din cufărul personal din casă
+- numărul de telefon, contactele si mesajele din telefon
+- Înfățișarea caracterului și numele IC
+- toate informațiile din roleplay-urile avute cu respectivul caracter
+
+Ce date <span style="color: green">se păstrează</span> dupa un CK:
+
+- skill-urile la job-uri
+- orele jucate
+- CNP
+- obiectele achiziționate cu Gold
+
+<span style="color: green">Mențiuni: </span>
+
+- Prin crearea unui nou caracter nu puteți face roleplay de verișor, frate care să cunoască toata viața caracterului anterior.
+- Transferul de bunuri înainte de a primi CK și recuperarea ulterioară este interzis și se sancționează cu warn și ștergerea respectivelor bunuri.
+
+## <a id="2.6">2.6 Coma</a>
+
+Reprezintă situația în care ești doborât la pământ din diferite motive (împușcat, înjunghiat, lipsă de hrană/apă). Vă este INTERZIS să comunicați prin orice cale, atât IC, cât și OOC cât timp sunteți în comă. Informațiile văzute în comă vor fi ignorate. 
+
+Cât timp ați fost în comă nu știți ce s-a întâmplat în jur, altfel se va considera și se va sancționa conform regulii <a href="#2.10">#2.10 MetaGaming (MG)</a>
+
+## <a id="2.6.1">2.6.1 Apelul către medici</a>
+
+Este simulat de către alți oameni care v-au văzut fiind în comă.
+
+Vă este <span style="color: green">PERMISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
+
+- accident mortal în oraș sau pe un drum circulat
+- ai leșinat de foame
+- când ai fost împușcat pe un drum circulat
+
+Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
+
+- când te afli într-o zonă roșie unde medicii nu și-ar risca viața. Vezi regula <a href="#7.7">#7.7 Zonele roșii</a>
+- când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni. Vezi poza de mai jos.
+- când ești aruncat în apă într-o zonă nepopulată
+
+<span style="color: red">Sancțiuni</span> pentru apel către medici din zone nepopulate: 
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri
+trei sau mai multe abateri: warn
+
+<img src="https://i.imgur.com/dtFLZmv.png"/>
+<div style="text-align: center; width: 100%">Anexa 2.6.1 Zone nepopulate</div>
+
+### <a id="2.6.2">2.6.2 Acceptarea morții</a>
+
+Se poate face după ce au trecut primele 5 minute de comă și reprezintă un <a href="#2.3">#2.3 Player-Kill (PK)</a>. În urma acceptării morții se vor pierde banii cash și toate itemele din inventar, mai puțin hainele.
+
+Această acțiune se poate face chiar dacă medicul a ajuns în apropierea voastră. Puteți să alegeți moartea până la ultima secundă când medicul vă oferă primul ajutor. Dacă acesta nu reușește să vă resusciteze înseamnă ca ați ales moartea. 
+
+<span style="color: yellow">Exemplu:</span> ești împușcat de poliție, ai căzut în comă și ajunge medicul lângă tine. Acesta îți oferă primul ajutor medical, tu vei putea să-ți accepți moartea dacă medicul nu reușește la timp să te salveze.
+
+Vă este interzisă apăsarea tastei de acceptare a morții după ce ați trecut de ușile spitalului. Această acțiune va fi sancționată conform regulii <a href="#2.9">#2.9 Refuz RP</a>
+
+## <a id="2.7">2.7 RolePlay (RP)</a>
+
+Termenul de roleplay reprezintă crearea unui caracter virtual care are o poveste anterioară înainte de a intra în oraș. Prin caracterul pe care-l aveți va trebui sa aveți o experiență cât mai apropiată de realitate.
+
+De asemenea, prin roleplay putem numi interacțiunea dintre 2 jucători.
+
+## <a id="2.8">2.8 Fail Roleplay (Fail RP)</a>
+
+Reprezintă situația în care un jucător nu respectă regulile și normele stabilite pentru desfășurarea unei experiențe de joc realiste și autentice. Acest lucru include acțiuni sau comportamente care sunt nerealiste, nepotrivite sau care încalcă regulamentul serverului.
+
+<span style="color: yellow">Exemple:</span>
+- Medici - Eșecul de a salva persoane. Situația în care un cadru medical are o interacțiune directă sau indirectă cu un cetățean care are nevoie de asistență medicală. Ignorându-l, se consideră fail roleplay.
+- Polițiști - Eșecul de a aplica Codul Penal Rutier
+Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză.
+- Deschiderea OOC în IC
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri
+trei sau mai multe abateri: warn
+
+## <a id="2.9">2.9 Refuz RP</a>
+
+Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai multe părți/persoane sau refuzul de a interacționa cu jucătorii fără motive întemeiate. De asemenea, refuz RP se consideră atunci când un alt jucător rolează o acțiune și nu vă conformați.
+
+<span style="color: yellow">Exemple:</span>
+- Ești dus la secția de poliție și refuzi interacțiunea cu aceștia din diferite motive, având ca scuză soluționarea propriilor probleme avute de unul singur.
+- Deplasarea la un service auto unde se află angajații acestuia și îți repari singur mașina fără a interacționa cu ei.
+Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat sau jefuit portbagajul/torpedoul vehiculului.
+- Situațiile în care o persoană rolează că vă ia un obiect vestimentar (exemplu: Pălăria) iar voi nu doriți să o dați jos, respectiv să i-o acordați.
+- Faci un accident cu un jucător și refuzi să interacționezi cu acesta fără a avea un motiv întemeiat (de ex: ești urmărit de poliție).
+- Mergi la spital și refuzi să interacționezi cu medicii și mergi la Doctorul Sky.
+- Rolezi că arunci cheia în șanț și nu vrei să descui mașina după ce un alt jucător a găsit cheia.
+
+<span style="color: red">Sancțiuni</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri
+trei sau mai multe abateri: warn
+
+## <a id="2.10">2.10 MetaGaming (MG)</a>
+
+Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In Character) pentru a obține avantaje în roleplay.
+
+<span style="color: yellow">Exemple:</span>
+- Prietenul tău îți scrie pe chat să te duci sa îl iei dintr-o locație pentru că nu mai are mașină, iar tu te duci. 
+- Coordonarea pe discord în locul voice chat-ului din joc.
+- Ai auzit diferite informații cât ai fost în comă și te folosești de acestea.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.11">2.11 StreamSnipe</a>
+
+Este atunci când jucătorii merg după un streamer/youtuber/tiktoker și intervin într-un roleplay sau se folosesc de informațiile de pe stream, acest lucru fiind interzis. Pentru streamsnipe se aplică sancțiunile de la regula <a href="#2.10">#2.10 MetaGaming (MG)</a>
+
+## <a id="2.12">2.12 Mixing (MIX)</a>
+
+Reprezintă oferirea informațiilor IC în OOC.
+
+<span style="color: yellow">Exemplu:</span> Un jucător se află în fața unui magazin fără mașină și caută un alt jucător pe chatul din joc solicitându-i să vină să-l ia de acolo.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: mute 15-60 minute
+a doua abatere: 75-150 checkpoints
+trei sau mai multe abateri: warn pana la ban 1 zi în funcție de gravitate 
+
+## <a id="2.13">2.13 PowerGaming (PG)</a>
+
+Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atunci când nu acorzi șanse persoanelor implicate la roleplay-ul pe care l-ai creat.
+
+<span style="color: yellow">Exemple:</span>
+- Să te lovești de un parapet cu 100 km/h și să îți continui drumul ca și cum nimic nu s-ar fi intamplat.
+- Să faci wheelie (să mergi pe o roată) cu motocicleta la peste 100 km/h
+- Să dai cu piciorul de pe motocicletă în alți motocicliști la peste 50 km/h
+- Blocarea căii de acces la un jaf la magazin
+- Intrarea într-o casă în timp ce fugi de la o bătaie, ești urmărit și închizi ușa
+- Jefuirea, omorârea sau interacțiunea cu persoanele care dorm în case
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.14">2.14 RolePlay Scârbos</a>
+
+Este acel roleplay pe care îl fac persoanele pentru a denigra alte persoane prin acțiunile pe care le fac ei sau îi pun pe aceștia să le facă. Roleplay-urile de acest gen se fac doar cu acordul ambelor părți implicate.
+
+<span style="color: yellow">Exemple:</span>
+- dai /me cu: urinez pe el, îl scuip, etc.
+- Îl pui sa facă diferite acțiuni cu conotație sexuală
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.15">2.15 Random Death Match (RDM)</a>
+ 
+Reprezintă atacarea cu pumnii/arme albe sau împușcarea unui jucător sau a unui grup de jucători fără vreun motiv sau un roleplay anterior.
+
+<span style="color: yellow">Exemplu:</span> Te deplasezi pe o stradă, iar la un moment dat vezi 2 persoane care stau retrase și discută. Te apropii de ei și îi împuști, dar tu nu i-ai mai văzut până în acel moment și nu ai nici un roleplay anterior care să te lege de aceștia.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.16">2.16 Vehicle Death Match (VDM)</a>
+
+Reprezintă călcarea intenționată a unui jucător sau al unui grup de jucători fără un motiv anume sau cu un roleplay anterior.
+
+<span style="color: yellow">Exemplu:</span> Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul fără a avea roleplay cu ei.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.17">2.17 Olympic-Swim</a>
+
+Reprezintă înotarea la nesfârșit și este interzisă deoarece în realitate ai obosi, neavând pregătire specială.
+
+<span style="color: yellow">Exemple:</span>
+- Te urmărește poliția, te oprești lângă un ponton și hotărăști să sari în apă pentru a nu te prinde și să înoți fără încetare.
+- Ai căzut din barca în care erai cu prietenii tăi, iar ei s-au îndepărtat foarte mult, ești la o distanță foarte mare de orice mal și hotărăști să înoți pană acolo fără oprire. Acest lucru este interzis. 
+
+<span style="color: red">Sancțiuni: </span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri
+trei sau mai multe abateri: warn
+
+## <a id="2.18">2.18 No Fear (NF)</a>
+Reprezintă acțiunea în care nu îți este frică că propria ta viață ar putea fi pusă în pericol.
+
+<span style="color: yellow">Exemple:</span>
+- Nu te temi în mod realist de a muri atunci când ești amenințat cu arma sau lovit cu pumnii.
+- Ești singur și nu îți este frică să te apropii de zone rău famate unde sunt grupuri cu arme în mâini și începi să îi provoci.
+- Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.19">2.19 Cop-Fear (CF)</a>
+
+Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al poliției.
+
+<span style="color: yellow">Exemple:</span>
+
+Ai ajuns în secția de poliție și refuzi cooperarea cu aceștia.
+Refuzul de a părăsi un perimetru la solicitarea departamentului de poliție.
+Pătrunderea pe teren guvernamental neinvitat.
+Refuzul de a coopera sau încercarea de a fugi din fața polițiștilor care au armele îndreptate spre individ
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.20">2.20 Cop-Bait (CB)</a>
+
+Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poliție fără un roleplay anterior, care sa conducă la propriul tău amuzament.
+
+<span style="color: yellow">Exemple:</span>
+- Drift-uri si burn-out in prezența unui echipaj de poliție.
+- Conducerea în mod intenționat și repetat pe contra-sens în preajma poliției.
+- Trecerea în mod repetat pe lângă un echipaj de poliție având față acoperită.
+- Conducerea în mod repetat prin față secției de poliție fără numere de înmatriculare.
+- Apeluri nefondate la 112 pentru a îi aduce intr-o zonă doar cu scopul de a porni un roleplay forțat cu ei.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.21">2.21 Disconnect în RolePlay</a>
+
+Reprezintă deconectarea de pe server în mod intenționat în timpul un roleplay pentru a-ți crea un avantaj. Aveți obligația să anunțați persoanele implicate în roleplay că reveniți (discord pe canalul general) și să reveniți pe server în maxim 5 minute. În cazul în care rămâneți fără curent sau internet puteți să anunțați de pe telefon pe discordul nostru.
+
+În situațiile în care este implicată poliția într-o acțiune de tip razie la o locație, jucătorul care s-a deconectat de la server și care nu revine, va pierde itemele pe care le are in inventar și mașină. 
+
+<span style="color: yellow">Exemple:</span>
+- Ești la o locație de ilegale și îți dai disconnect când vine o razie din partea poliției sau când vine altă mafie.
+- Disconnect în momentul în care ești urmărit de poliție.
+- Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="2.22">2.22 Bombardier</a>
+Reprezintă orice atitudine sau comportament de superioritate față de ceilalți jucători, jignirea în mod repetat în lipsa unui roleplay anterior.
+
+<span style="color: yellow">Exemple:</span>
+- Jignirea jucătorilor fără un motiv întemeiat.
+- Emanarea unui aer de superioritate față de oamenii care lucrează la un job legal.
+- Folosirea repetată a insultelor despre familie și decese într-un mod vulgar și nepotrivit în conversațiile cu alți jucători
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="2.23">2.23 Provoking</a>
+
+Reprezintă acțiunea prin care provoci un alt jucător să se enerveze, fără a avea o interacțiune anterioară cu acesta, spre propriul tău amuzament.
+
+<span style="color: yellow">Exemple:</span>
+- Lovirea motocicletei pentru a da un jucător jos de pe aceasta.
+- Lovirea cu pumnul și părăsirea locului.
+- Forțarea unui jucător să intre într-un roleplay pe care nu și-l dorește.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="2.24">2.24 Sleep</a>
+
+Folosirea comenzii /sleep se poate face doar în case cu condiția să nu aveți un roleplay activ.
+
+Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este interzisă și se sancționează conform regulii <a href="#2.13">#2.13 PowerGaming (PG)</a>
+
+<span style="color: yellow">Exemple:</span>
+- Ești urmărit de poliție și te pui /sleep
+- Ești urmărit de mafie și te pui /sleep
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="2.25">2.25 Penitenciar</a>
+
+În interiorul curții penitenciarului se aplica “Legea Junglei”.
+
+Sunteți într-o zonă în care există numai infractori, iar regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> nu se aplică.
+
+Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci cand sunt prezenți membri din cadrul departamentului de poliție.
+
+## <a id="2.26">2.26 Corupția</a>
+Este interzisă atât în Character (IC), cât și Out Of Character (OOC).
+
+<span style="color: yellow">Exemple:</span>
+- Orice act prin care oferiți bunuri dobândite în facțiunile guvernamentale fără un RolePlay anterior și în cantități - exagerate.
+- Orice acțiune ilegală care se sancționează cu închisoare conform Codului Penal (pentru poliție).
+- Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală).
+
+<span style="color: red">Sancțiune:</span> ban 3-30 de zile în funcție de gravitatea situației
+
+# <a id="3">CAP 3. Comportament OOC</a>
+
+## <a id="3.1">3.1 Comportamentului neadecvat față de fete</a>
+
+Reprezintă orice formă de comportament neadecvat, hărțuire verbală sau discriminare bazată pe gen îndreptată împotriva fetelor. Jucătorii sunt obligați să respecte drepturile și confortul tuturor jucătorilor, indiferent de gen, și să se abțină de la orice comportament care ar putea crea un mediu nedorit sau neplăcut. 
+
+Aceasta regulă include, dar nu se limitează la:
+- Utilizarea limbajului obscen sau aluzii cu conținut sexual în conversațiile cu fetele de pe server.
+- Hărțuirea constantă sau persistentă a jucătoarelor prin mesaje private, chat public sau alte mijloace de comunicare disponibile pe server.
+
+Administrarea serverului va investiga rapoartele de încălcare a acestei reguli și va lua măsuri potrivite în funcție de gravitate, începând cu <span style="color: red">mute până la ban permanent</span>.
+
+## <a id="3.2">3.2 Jignirile/Amenințările OOC</a>
+
+Reprezintă folosirea căilor de comunicare OOC din cadrul comunității (chat joc, chat/voice discord) pentru a aduce jigniri sau amenințări membrilor comunității.
+
+Sancțiunile se oferă în funcție de gravitate, începând cu mute pana la ban permanent.
+
+Echipa administrativă nu va interveni în cazul jignirilor transmise prin căile de comunicare private.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: mute 60-90 minute
+a doua abatere: 75-150 checkpoint-uri
+trei sau mai multe abateri: 300 checkpoint-uri
+
+<span style="color: green">Mențiuni:</span>
+Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
+Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="3.3">3.3 Suferințele OOC</a>
+Reprezintă instigarea la ceartă a unei persoane sau a unui grup de persoane în urma unui roleplay sau revenirea la o acțiune anterioară cu scopul de a îi enerva.
+
+<span style="color: yellow">Exemple (chat in game/voice chat/discord):</span>
+- Ce ai facut baiatule?
+- Poftim un servetel!
+- Te-ai lovit?
+- Câți polițiști mai vin?
+- Ce slabă este poliția
+- Injurii/jigniri repetate aduse unui jucător în comă
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: mute 60-90 minute
+a doua abatere: 75-150 checkpoint-uri
+trei sau mai multe abateri: 300 checkpoint-uri
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="3.4">3.4 Toxicitate</a>
+Reprezintă încălcări repetate ale regulamentului și distrugerea experienței de joc pentru alți jucători. Această regulă este menită să asigure un mediu de joc pozitiv și plăcut pentru toți membrii comunității. Administrația va lua deciziile necesare pentru menținerea integrității și bunăstării comunității.
+
+<span style="color: yellow">Exemple:</span>
+- Încălcarea repetată a regulamentului pentru a-ți crea avantaje IC față de alți jucători
+- Manifestarea frustrării prin instigarea la ură sau certuri OOC bazate pe acțiunile desfășurate în joc (IC)
+- Distrugerea experienței de joc a altor jucători care doresc să se bucure de o experiență lină și plăcută
+- Utilizarea injuriilor sau jignirilor OOC pe chat privat sau în fluxurile de streaming după acțiuni IC în repetate rânduri pentru a denigra o persoana/grup de persoane
+
+<span style="color: red">Sancțiuni:</span>
+În funcție de gravitatea faptelor și a sancțiunilor anterioare, se poate aplica ban de la 5 zile până la ban permanent.
+
+# <a id="4">CAP. 4 ABUZURI ȘI HACKING</a>
+
+## <a id="4.1">4.1 Bug abuse</a>
+Reprezintă crearea unui avantaj prin folosirea unui bug/exploit și, în funcție de gravitate, poate duce de la retragerea bunurilor obținute până la ban permanent. Bug-urile se raportează prin /ticket pentru a fi rezolvate și nu abuzate.
+
+## <a id="4.2">4.2 Ban Evading</a>
+Încercarea de a te conecta pe server prin orice modalitate pentru a evita un ban temporar sau unul permanent va duce la banarea permanentă a contului și blocarea oricărei căi de acces.
+
+## <a id="4.3">4.3 Hacking</a>
+Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a deranja ceilalți jucători pentru propriul amuzament.
+
+În cazul în care sunteți suspectat de hacking, veți fi luați la teste; acestea pot fi refuzate, însă veți fi sancționați cu ban de 30 de zile la prima abatere, urmând ca banul să devină permanent la a doua abatere.
+
+<span style="color: red">Sancțiuni:</span>
+- aimbot/norecoil/silent aim - prima abatere ban permanent, a doua abatere ban permanent fără drept de plată
+- alte coduri: ban 30 zile
+
+## <a id="4.4">4.4 AFK (Away From Keyboard)</a>
+Este permis cel mult de 5 minute într-o zonă publică populată (secție poliție, spital, etc) și cel mult de 30 de minute într-o zonă retrasă dacă nu aveți un roleplay activ.
+
+Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de o pauză și să primiți acordul acestora. 
+
+În <a href="#7.7">#7.7 Zonele roșii</a> nu este permis să rămâi AFK. În acest caz, itemele ilegale vor fi confiscate atât din inventarul jucătorului, cât și din vehiculul acestuia.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="4.5">4.5 Tranzacțiile OOC</a>
+Afacerile sau tentativele de afaceri cu bunuri reale pe bunuri în joc sau conturi nu sunt permise.
+<span style="color: red">Sancțiune:</span> ban permanent fără drept de plata
+
+## <a id="4.6">4.6 System Abuse</a>
+Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea un avantaj față de ceilalți jucători.
+
+<span style="color: yellow">Exemple:</span>
+- Ești urmărit de poliție și mergi la un garaj sa îți parchezi mașina.
+- Folosirea de diferite animații pentru a te descătușa.
+- Evacuarea chiriașilor curenți pentru a obține obiectele din locurile lor de depozitare.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="4.7">4.7 Reclama este interzisă</a>
+Orice promovare de conținut ce nu ține de comunitatea B-Zone este interzisă!
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: ban 30 de zile
+a doua abatere: ban permanent
+
+## <a id="4.8">4.8 Trolling</a>
+Reprezintă încălcarea regulamentului în mod repetat sau băgarea în seamă pentru a interacționa cu alți jucători care nu își doresc acest lucru, doar pentru propriul tău amuzament.
+
+<span style="color: red">Sancțiuni:</span>
+
+30 de zile ban pentru conturile ce au mai mult de 10 ore jucate pe server. 
+ban permanent pentru conturile ce au mai putin de 10 ore jucate pe server.
+
+## <a id="4.9">4.9 Account sharing</a>
+Împărțirea contului cu alte persoane este interzisă. Această practică reprezintă un risc la adresa securității contului, apar inconsistențe în povestea unui caracter, se poate distorsiona echilibrul jocului și poate duce la conflicte între jucători. Este esențial ca fiecare jucător să aibă propriul său cont și să nu împărtășească informații de conectare cu alte persoane. 
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: ban 30 de zile
+a doua abatere: ban permanent
+
+# <a id="5">CAP 5. REGULI DE CONDUS / ACȚIUNI CU VEHICULUL</a>
+
+## <a id="5.1">5.1 Semafoare</a>
+
+Pe comunitatea noastră semafoarele sunt în regim intermitent și se respectă regula de a acorda prioritate de dreapta.
+
+## <a id="5.2">5.2 Limitele de viteză</a>
+
+Limita de viteză în oraș este de 70 km/h. 
+
+Limita de viteză pe drumurile naționale este de 100 km/h. 
+
+Limita de viteză pe autostradă este de 150 km/h.
+
+## <a id="5.3">5.3 Pit-Stop</a>
+
+Este interzisă folosirea manevrei pit-stop la o viteza de peste 150 km/h. 
+
+Manevra este interzisă indiferent de viteză pentru clasele de mașini: SPORT/SUPER SPORT. Excepție de la regulă se aplică pentru mașinile de poliție, întrucât prinderea unui suspect periculos primează și mașinile poliției sunt reparate/decontate de către stat.
+
+De asemenea, o mașină joasă nu poate face pitstop unei mașini cu gardă înaltă.
+
+<span style="color: green">Excepții:</span> În cazul în care 2 vehicule de mare viteză accelerează în același timp și ajung până la maxim 180 km/h în momentul aplicării manevrei pit-stop manevra este considerata regulamentară deoarece este foarte greu să aproximezi viteza în condițiile în care mașinile accelerează foarte repede.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="5.4">5.4 Ninja-Jack</a>
+Reprezintă acțiunea prin care te urci într-un vehicul imediat după ce un jucător a părăsit-o și pleci cu ea imediat fără a verifica dacă în contact se regăsesc cheile. 
+
+Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit. 
+
+În cazul în care o mașină este deblocată puteți să rolați că îi legați firele și apoi să ii porniți motorul.
+
+<span style="color: yellow">Exemplu:</span> Oprește o mașină scumpă lângă tine, vrei sa o furi, ușile sunt deschise și pentru a nu fi prins de proprietar apeși tasta de pornire a motorului și pleci imediat.
+
+<span style="color: green">Excepție:</span> dacă motorul autovehiculului este pornit nu se consideră ninja-jack.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="5.5">5.5 Condus NON-RP</a>
+Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră în care în realitate nu ai putea. 
+
+<span style="color: yellow">Exemple:</span>
+- Să mergi cu un autovehicul cu cel puțin o roată spartă la peste 70 km/h
+- Să mergi pe contra-sens în mod repetat sau pe autostradă
+- Să mergi cu o mașină cu gardă joasă pe drumuri accidentate
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+Pentru fiecare categorie de mai jos va fi impusă o limită maximă de viteză în funcție de gardă, respectiv suspensiile pe care le are.
+
+## <a id="5.5.1">5.5.1 Oraș</a>
+
+Condusul cu peste 200km/h în oraș se consideră condus NON-RP.
+
+<span style="color: green">Excepție:</span> În cazul în care viața vă este pusă în pericol puteți depăși limita de 200km/h în oraș. 
+
+## <a id="5.5.2">5.5.2 Off-Road</a>
+
+Pentru a conduce un vehicul cu garda înaltă pe drumurile off-road (drumurile marcate cu maro pe radar) aveți obligația sa nu depășiți viteza maxima de 100 km/h. Nu puteți conduce mașini din categoriile Super si Super Sport pe drumurile OFF-ROAD.
+
+## <a id="5.5.3">5.5.3 Extreme Off-Road</a>
+Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poate face respectând următoarele aspecte:
+- Mașina sa fie echipata cu roti de tip OFF-ROAD.
+- Mașina sa fie de tip SUV cu gardă înaltă.
+- Viteza să nu fie mai mare de 50 km/h. 
+
+## <a id="5.5.4">5.5.4 Motociclete</a>
+- Motociclete de viteză - sunt destinate a fi folosite doar pe drumurile asfaltate fără limită de viteza în afara orașului.
+- Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere (marcate cu maro pe radar) cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
+
+## <a id="5.5.5">5.5.5 Elicoptere</a>
+Aterizarea cu elicopterul în locuri neamenajate (helipad) cu excepția elicopterelor din cadrul departamentului de poliție sau SMURD este interzisă. 
+
+Aterizarea cu elicopterele din cadrul departamentelor se face într-o acțiune urgentă și/sau importantă în orice locație cu suprafață plană.
+
+## <a id="5.6">5.6 Car-Ram (CR)</a>
+Folosirea vehiculului cu intenția de a lovi un alt vehicul fără un roleplay anterior sau staționarea cu acesta peste un jucător este interzisă.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+# <a id="6">CAP.6 JOBURI ȘI ACTIVITĂȚI LEGALE</a>
+## <a id="6.1">6.1 Locurile de muncă legale</a>
+
+În momentul în care vă aflați la un loc de muncă legal, aveți îndatorirea de a respecta următoarele reguli:
+
+- Să continuați să lucrați cu uniforma alocată respectivului loc de muncă.
+- Să aveți un comportament adecvat la locul de muncă.
+- Să nu jefuiți sau să răpiți jucători în timp ce vă aflați la locul de muncă.
+- Să nu folosiți vehiculele de job în scopuri personale.
+- Să nu folosiți uniformele de job ca și acoperire pentru activități ilegale.
+- Să nu deranjați persoanele cu care interacționați la locul de muncă
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+# <a id="7">CAP. 7 ACȚIUNI ILEGALE</a>
+
+## <a id="7.1">7.1 Furt vehicule</a>
+Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi.
+
+Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="5.4">#5.4 Ninja-Jack</a>.
+
+Vă este permis să furați o mașină de poliție/medici doar în cazuri extreme ca o ultimă cale de scăpare urmând ca să o abandonați cat mai repede posibil.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.2">7.2 Ilegalități sub 50 de ore</a>
+
+în cazul în care nu aveți 50 de ore pe cont, este interzisă orice tip de ilegalitate. Nu vă este permis să ajutați, indirect prin acordarea de informații sau alte mijloace care să ajute persoanele implicate, într-o acțiune ilegală dacă nu aveți peste 50 de ore. Toată lumea trebuie să îndeplinească acest criteriu.
+
+Acțiunile ilegale cuprind:
+- Jefuirea persoanelor/proprietăților sau participarea la o acțiune de acest tip.
+- Luarea de Ostatic sau participarea la o actiune de acest tip.
+- Craftarea respectiv, confecționarea de obiecte ilegale.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.3">7.3 Ilegalități în zona publică</a>
+Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de masini sau orice alt tip de afacere, respectiv interiorul acestora.
+
+Denumim zone publice locurile în care în realitate ar exista camere de luat vederi sau ar fi o zona des circulată.
+
+De asemenea, este interzis să se desfășoare activități ilegale în apropierea unui spital sau a unei secții de poliție, respectiv penitenciar.
+
+<span style="color: yellow">Exemple:</span>
+- scoaterea unei arme albe / a unei arme de foc în zonele publice
+- deschiderea focului în zonele publice
+- uciderea unui jucător în zonele publice
+- aruncarea unui cetățean în comă într-o zonă publică
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.4">7.4 Ostatic</a>
+
+Luarea de ostatic se poate face doar în cazul în care viața sau libertatea vă sunt puse sub amenințare, cu scopul de a scăpa de aceste presiuni și nu se pot cere bani.
+
+Luarea unei persoane sau a unui grup de persoane sub amenințarea ta sau a grupului tău cu scopul de a obține un avantaj într-un roleplay este permisă, dar nu mai mult de 2 ore din momentul în care a început luarea de ostatic(i).
+
+În cazul în care jucătorul/jucătorii nu mai pot sta, vi se permite amânarea, respectiv ostaticii au obligația de a reveni la data și ora stabilită de comun acord.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.5">7.5 Răpirea</a>
+
+Este permisă, respectând următoarele cerințe:
+- Să se folosească o armă letală pentru a amenința.
+- Zona din care sunt răpiți să fie o zonă retrasă.
+- Să se folosească un vehicul în care este pusă persoana răpită și să se afle minim 2 persoane din grupul care organizează răpirea. Invitarea persoanelor din zone publice nu se poate face cu forța sau sub amenințare.
+- În intervalul orar 20:00 - 08:00
+- Persoana răpită sa nu fie la un job legal sau pe traseul de la job.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.6">7.6 Acțiunile teroriste</a>
+Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul pe care vreți să-l faceți. Aceste acțiuni sunt permise cu aprobarea unui membru staff senior în baza unui roleplay complex. 
+
+<span style="color: yellow">Exemple:</span>
+- Intrarea pe terenurile guvernamentale înarmat.
+- Folosirea armelor de orice calibru în locațiile publice.
+- Folosirea explozibilului prin care puneți în pericol viețile oamenilor respectiv deteriorarea spațiilor publice fără un motiv întemeiat (Jaf-uri).
+- Incendierea intenționată a unui vehicul în preajma cetățenilor.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: ban 1-3 zile în funcție de gravitate
+a doua abatere: ban 3-5 zile în funcție de gravitate
+trei sau mai multe abateri: ban 7-14 zile în funcție de gravitate
+
+## <a id="7.7">7.7 Zonele roșii</a>
+Zonele roșii sunt zonele în care se plantează sau se confecționează obiecte ilegale, respectiv spitalul ilegal. De asemenea, proximitatea magazinelor în timpul jafurilor devine zonă roșie: <a href="#7.11">#7.11 Regulament jafuri magazine</a>.
+
+NU se consideră zonă roșie acele zone în care există un job legal care ajută la evoluția pentru o acțiune ilegală pe server (exemplu: Miner).
+
+Pe aceste zone sunt <span style="color: green">permise</span> următoarele:
+- Deschiderea focului în cazul în care nu se dorește comunicarea și negocierea între jucători, deoarece toată lumea cunoaște această zonă ca fiind una ilegală și se consideră un minim de roleplay în acest sens. Pe zona roșie nu există aplicarea regulii de Revenge-Kill.
+- Jefuirea persoanelor se poate realiza indiferent de oră (nu se aplică intervalul de jaf), atâta timp cât persoanele se află pe zonă roșie. Se pot lua toate obiectele pe care le deține asupra sa sau din vehiculul cu care a venit.
+- Este permisă jefuirea persoanelor care sunt în stare de COMA folosind sfoara.
+- Persoanele implicate într-o bătaie în zonă roșie care au folosit armele de foc nu pot pleca într-o zonă publică.
+
+Pe aceste zone sunt <span style="color: red">interzise</span> următoarele:
+- Apelarea medicilor în urma unor schimburi de focuri prin actionarea tastei N, respectiv apel telefonic creat de alt participant.
+- Chemarea taximetriștilor și mecanicilor pe zona roșie cu scopul de a-i omorî. Aceste apeluri se pot face doar în condițiile în care aveți nevoie de ajutorul acestora.
+- Atragerea altor persoane pentru schimburi de bunuri și proprietăți cu pretextul de a face tranzacții legitime, iar rezultatul fiind jefuirea și omorârea acestora.
+- Aducerea unor persoane din zone publice în zonele roșii pentru a le jefui și omorî.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.8">7.8 Alianța între mafii/grupări</a>
+Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindicat. Dacă o grupare nu a fost recunoscută de către sindicat, aceștia nu pot face alianță. În zonele roșii se pot alia mai mult de 2 mafii/grupări doar în cazul în care poliția intervine în aceste zone.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.9">7.9 Zonele rău famate</a>
+Zonele rău famate sunt acele zone periculoase ale orașului unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi). Aceste zone sunt puțin populate, ceea ce le permite jucătorilor să facă următoarele în intervalul orar 20:00 - 08:00:
+
+- Jefuirea persoanelor sau a vehiculelor
+- Luarea de ostatic respectiv rapirea cetatenilor
+- Deschiderea focului în baza unui roleplay anterior
+
+În afara intervalului 20:00 - 08:00 nu sunt permise acțiunile de mai sus și se <span style="color: red">sancționează</span> cu:
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+<p style="text-align: center"><img src="https://i.imgur.com/A2nt9Uw.png"/></p>
+<div style="text-align: center; width: 100%">Anexa 7.9 Zone rău famate</div>
+
+## <a id="7.10">7.10 Jafuri jucători</a>
+
+Intervalul orar în care puteți jefui un jucător este 20:00 - 08:00.
+
+Pentru a putea jefui, aveți nevoie de minim o armă albă / o armă de foc asupra voastră.
+
+Jefuirea jucătorilor se poate face doar în <a href="#7.7">#7.7 Zonele roșii</a> și <a href="#7.9">#7.9 Zonele rău famate</a> respectând condițiile acestor reguli.
+
+Puteți să jefuiți o persoană doar de banii și obiectele care se află asupra sa și de obiectele care se află în vehiculul pe care îl conducea în momentul în care a fost jefuit.
+
+Este <span style="color: red">interzis</span>:
+- să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe server. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
+- să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
+- să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
+- să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+### <a id="7.10.1">7.10.1 Rob & Kill</a>
+Reprezintă acțiunea de a jefui, ulterior omorî o persoană. Este interzisă omorârea unei persoane după ce ați jefuit-o.
+
+<span style="color: yellow">Exemple:</span>
+
+- Ai răpit o persoană, o duci într-un loc ferit și o jefuiești.
+- Jefuiești o persoană și chemi pe altcineva să-l omoare având un plan stabilit anterior.
+
+<span style="color: green">Excepții de la regulă:</span>
+- Ai voie să omori o persoană doar atunci când tu pleci din acel loc unde ai jefuit-o, iar aceasta te urmărește singură sau se întâlnește cu alte persoane pentru a te doborî/recupera lucrurile furate. 
+- Persoanele care sunt guralive, nu au frică și care nu se conformează jefuitorului pot fi omorâte. De asemenea, persoanele care folosesc telefonul sau stația în timp ce sunt amenințate cu arma pot fi omorâte.
+- Persoana jefuită, dacă întâlnește jefuitorul, îl poate jefui pe acesta de tot ce are în inventar și de a-l omorî ulterior doar pe jefuitorul inițial, fără a avea 50 de ore jucate
+- În momentul în care primiți o țeapă IC cu obiecte ilegale
+
+Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="7.10.2">7.10.2 Kill & Rob</a>
+
+În cazul jafurilor de magazine sau bănci se pot jefui alți jucători care au fost deja doborâți în schimbul de focuri pentru a putea scăpa.
+
+## <a id="7.10.3">7.10.3 Drop & Kill</a>
+Reprezintă acțiunea de a pune pe cineva sa arunce pe jos toate obiectele din inventar ca mai apoi să-l omori.
+
+<span style="color: yellow">Exemplu:</span> Te-ai hotărât să oprești pe cineva și îl forțezi, folosindu-te de intimidare, să arunce tot ce are in inventar. Mai apoi, te gândești să-l omori, acest lucru este interzis.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatere: 75-150 checkpoint-uri
+a doua abatere: 300 checkpoint-uri
+trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="7.11">7.11 Regulament jafuri magazine</a>
+Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore.
+
+După ce alarma se declanșează, proximitatea magazinului devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți. Despre zonele roșii puteți citi regula <a href="#7.7">#7.7 Zonele roșii</a> .
+
+În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (6). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 6 persoane.
+
+În cazul în care un jucător își acceptă moartea după cele 5 minute de comă, el se poate reîntoarce în zona roșie de la jaf, regula <a href="#2.4">#2.4 Revenge Kill (RK)</a> nu se aplică. O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf, singurele persoane care pot reveni în zona roșie fiind cele 8 persoane implicate în jaf.
+
+Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuirea unui magazin.
+
+Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.12">7.12 Ilegalități în case și în jurul caselor</a>
+Sunt <span style="color: green">permise</span> următoarele în intervalul 20:00 - 08:00:
+- ducerea unui cetățean răpit în casă
+- jefuirea unui cetățean în casă
+- acțiuni ilegale în apropierea caselor din
+
+Sunt <span style="color: red">interzise</span> următoarele:
+- forțarea unui jucător să scoată iteme din seifuri personale
+- încuierea ușii atunci când ești urmărit de alți oameni/poliție
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="7.13">7.13 Deturnarea unui transport</a>
+Se permite deturnarea unui transport de deținuți pe autostradă dacă liderul sau cel puțin 2 membri din gruparea voastră se află în aceste transporturi. Se permite alianța dintre 2 grupări/mafii pentru a deturna un transport.
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+# <a id="8">CAP 8. Tickete</a>
+Ticketul reprezintă o formă de contactare a staff-ului serverului pentru a rezolva o problemă sau pentru a raporta o încălcare a regulamentului. 
+
+Dorim să vă transmitem că membrii staff vor veni să vă soluționeze problema într-un mod calm și vă rugăm să uitați toate problemele IC și să aveți un comportament adecvat.
+
+Ticketele în care nu se oferă informații pot fi respinse. Descrierea ne ajută să înțelegem natura problemei și ticketul poate fi preluat de persoana potrivită.
+
+Pentru prezentarea dovezilor din joc se solicită să fie afișate data și ora, respectiv ID-urile persoanelor care au încălcat regula.
+
+## <a id="8.1">8.1 Ticket in RolePlay</a>
+Se poate deschide doar dacă regula încălcată este una gravă care nu mai permite continuarea acțiunii de tip RolePlay. În cazul în care acțiunea poate continua puteți deschide un ticket după încheierea roleplay-ului.
+
+<span style="color: yellow">Exemple:</span>
+- Persoana sau grupul de persoane nu respectă regula de CONDUS RP și nu poți să-i urmărești pentru că ai încălca aceeași regulă
+- Ești amenințat cu arma într-o zonă publică
+- Disconnect în roleplay
+
+<span style="color: red">Sancțiuni:</span>
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="8.2">8.2 Comportamentul neadecvat la ticket</a>
+Prin comportament neadecvat catalogăm orice situație în care luați peste picior echipa administrativă sau persoanele implicate în ticket. În momentul în care luați parte la un ticket va trebui să uitați de toate problemele pe care le aveți IC și să vă comportați respectuos.
+
+<span style="color: red">Sancțiuni:</span>
+
+Pentru injurii adresate unui jucător se acordă de la warn până ban o zi.
+Pentru injurii adresate unui membru staff se acordă ban pentru 1-3 zile.
+Aceste sancțiuni se oferă în plus față de sancțiunea oferită la ticket.
+
+## <a id="8.3">8.3 Minciuni la ticket</a>
+Nu sunt permise minciuni la ticket. Staff-ul dorește să vă ajute în rezolvarea problemelor și nu acceptăm să pierdem timpul în care am putea să ajutăm alte persoane.
+
+<span style="color: yellow">Exemple:</span>
+- Nu recunoașteți că ați fost implicat într-o acțiune cu dovezi clar prezentate
+- Încercarea de a falsifica dovezi
+- Iteme pierdute care de fapt au fost depozitate în alte părți
+
+<span style="color: red">Sancțiuni:</span>
+
+prima abatare: 50-100 Checkpoint-uri 
+a doua abatere: 200 Checkpoint-uri 
+trei sau mai multe abateri: warn
+
+## <a id="8.4">8.4 Tickete pe Discord</a>
+Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) pentru următoarele probleme:
+- Reclamații staff
+- Cereri unban
+- Alte probleme
