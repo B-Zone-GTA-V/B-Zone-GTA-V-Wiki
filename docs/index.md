@@ -1,14 +1,5 @@
----
-layout: home
+# B-Zone V Wiki
 
-hero:
-  name: "B-Zone V Wiki"
-  text: "Wiki page"
-  image:
-    src: https://i.imgur.com/WDKwGKs.png
-    alt: B-Zone V
-  actions:
-    - theme: brand
-      text: Regulament
-      link: /server/rules
----
+## Bun venit!
+
+Bun venit pe pagina de Wiki! Aici vei găsi informații generale referitoare la cum funcționează server-ul și client-ul de RAGE!
