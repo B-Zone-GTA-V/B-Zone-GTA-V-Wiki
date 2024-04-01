@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "B-Zone V Wiki",
   description: "Wiki page for B-Zone V Roleplay",
-  base: '/repo/',
+  base: '/B-Zone-GTA-V-Wiki/',
   themeConfig: {
     logo: '/logo.svg',
     nav: [
