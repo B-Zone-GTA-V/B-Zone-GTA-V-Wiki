@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "B-Zone V Wiki",
   description: "Wiki page for B-Zone V Roleplay",
@@ -13,9 +12,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Despre Server',
+        text: '🎮 Despre Server',
         items: [
-          { text: 'Regulament', link: '/regulament' },
+          { text: 'RAGE Multiplayer', link: '/server/rage' },
+          { text: 'Regulament Server', link: '/server/regulament' },
         ]
       }
     ],
@@ -37,11 +37,21 @@ export default defineConfig({
     editLink: {
       pattern: ({ filePath }) => {
         if (filePath.startsWith('packages/')) {
-          return `https://github.com/acme/monorepo/edit/main/${filePath}`
+          return `https://github.com/B-Zone-GTA-V/B-Zone-GTA-V-Wiki/edit/master/${filePath}`
         } else {
-          return `https://github.com/acme/monorepo/edit/main/docs/${filePath}`
+          return `https://github.com/B-Zone-GTA-V/B-Zone-GTA-V-Wiki/edit/master/docs/${filePath}`
         }
       }
+    },
+    lastUpdated: {
+      text: 'Actualizat la',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
+    },
+    footer: {
+      copyright: 'Copyright © 2024 B-Zone V'
     }
   }
 })
