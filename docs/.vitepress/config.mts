@@ -7,14 +7,14 @@ export default defineConfig({
   themeConfig: {
     logo: 'https://i.imgur.com/WDKwGKs.png',
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: '/server/rules' },
     ],
     sidebar: [
       {
-        text: '🎮 Despre Server',
+        text: '📖 Regulamente',
         items: [
-          { text: 'RAGE Multiplayer', link: '/server/rage' },
           { text: 'Regulament Server', link: '/server/rules' },
+          { text: 'Cod Penal', link: '/server/penal_code' },
         ]
       }
     ],
