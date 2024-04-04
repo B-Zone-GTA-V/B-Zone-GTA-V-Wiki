@@ -20,10 +20,80 @@ export default defineConfig({
     ],
     sidebar: [
       {
+        text: '🕹️ RAGEMP',
+        items: [
+          { text: 'RAGE Multiplayer', link: '/server/rage/rage' },
+        ]
+      },
+      {
         text: '📖 Regulamente',
         items: [
-          { text: 'Regulament Server', link: '/server/rules' },
-          { text: 'Cod Penal', link: '/server/penal_code' },
+          { text: 'Regulament (Romana)', link: '/server/rules' },
+          { text: 'Cod Penal (Romana)', link: '/server/rules/penal_code' },
+          { text: 'Rules (English)', link: '/server/rules/rulesen' },
+          { text: 'Penal Code (English)', link: '/server/wip' },
+        ]
+      },
+      {
+        text: 'ℹ️ Informatii Generale / General Info',
+        items: [
+          { text: 'Account & Character Creation', link: '/server/info/account' },
+          { text: 'RolePlay Test', link: '/server/info/rptest' },
+          { text: 'Tutorial', link: '/server/info/tutorial' },
+          { text: 'Settings & Hotkeys', link: '/server/info/settings' },
+          { text: 'Inventory & Backpack', link: '/server/info/inventory' },
+          { text: 'Update your document', link: '/server/info/updatedoc' },
+          { text: 'Garage System', link: '/server/info/garage' },
+          { text: 'Animation System', link: '/server/info/animation' },
+          { text: 'ATM', link: '/server/info/atm' },
+          { text: 'Vehicle Recycle Center', link: '/server/info/remat' },
+          { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
+          { text: 'Licenses', link: '/server/info/licenses' },
+          { text: 'Paying Fines', link: '/server/info/fines' },
+          { text: 'Job Unlock System', link: '/server/info/jobunlock' },
+          { text: 'Search in trash bins', link: '/server/info/trashsearch' },
+          { text: 'Phone', link: '/server/info/phone' },
+        ]
+      },
+      {
+        text: '🛒 Magazine / Shops',
+        items: [
+          { text: 'Dealership', link: '/server/shops/dealership' },
+          { text: '24/7', link: '/server/shops/247' },
+          { text: 'Clothing Store', link: '/server/shops/clothing' },
+          { text: 'White Weapon Shop', link: '/server/shops/meleeweapon' },
+          { text: 'Hairstyle Shop', link: '/server/shops/hairstyle' },
+          { text: 'Tattoo Shop', link: '/server/shops/tattoo' },
+          { text: 'Tuning Shop', link: '/server/shops/tuning' },
+          { text: 'Gas Station & Jerry can', link: '/server/shops/gasstation' },
+        ]
+      },
+      {
+        text: '🛍️ Factiuni / Factions',
+        items: [
+          { text: 'Los Santos Medical Department', link: '/server/factions/medics' },
+          { text: 'Los Santos Police Department', link: '/server/factions/police' },
+          { text: 'Los Santos Mechanics', link: '/server/factions/mechanics' },
+        ]
+      },
+      {
+        text: '✒️ Locuri de munca / Jobs',
+        items: [
+          { text: 'Job Applications', link: '/server/jobs/applications' },
+          { text: 'Gunoier / Garbageman', link: '/server/jobs/garbageman' },
+          { text: 'Miner', link: '/server/jobs/miner' },
+          { text: 'McBeeDelivery', link: '/server/jobs/mcbee' },
+          { text: 'Electrician', link: '/server/jobs/electrician' },
+          { text: 'Trucker', link: '/server/jobs/trucker' },
+        ]
+      },
+      {
+        text: '🎣 Hobby',
+        items: [
+          { text: 'Fisherman', link: '/server/hobby/fisherman' },
+          { text: 'B-Taxi', link: '/server/hobby/taxi' },
+          { text: 'Tailoring', link: '/server/hobby/tailor' },
+          { text: 'More to disover in-game', link: '/server/hobby/ic' },
         ]
       }
     ],

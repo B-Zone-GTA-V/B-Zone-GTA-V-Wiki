@@ -3,9 +3,9 @@ outline: deep
 lastUpdated: true
 ---
 
-# Legislație (Română)
+# Cod penal (Română)
 
-## <a id="1"></a><span style="color: #0088CC">CAP. 1 - Legislație Rutieră</span>
+## <a id="1"></a><span style="color: #0088CC">CAP. 1 Legislație Rutieră</span>
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Limitele de viteză</span>
 
@@ -16,7 +16,7 @@ Incălcarea limitelor de viteze se sancționează după următoarele cazuri:
 - Sub 50 km/h : 3.000$ și 3 puncte penalizare
 - Peste 50 km/h : 7.000$, anularea permisului de conducere și închisoare pentru 30 de luni
 
-### <a id="1.2"></a><span style="color: #0088CC">Conducere imprudentă</span>
+### <a id="1.2"></a><span style="color: #0088CC">1.2 Conducere imprudentă</span>
 
 Conducere imprudentă înseamnă operarea unui vehicul în mod agresiv, neasigurarea în trafic, conducerea cu viteză excesivă sau punerea în pericol a propriei vieți sa sau a altor persoane.
 
@@ -101,7 +101,7 @@ Orice cetățean care are montate xenoane pe autovehicul sau instalații de ilum
 
 Orice cetățean care circulă pe drumurile publice cu un autovehicul fără un certificat care să ateste că autovehiculul este apt pentru punerea în circulație constituie infracțiune și se pedepsește cu anularea permisului, amendă în valoare de <b>10.000$</b> și cu <b>ridicarea autovehiculului</b>.
 
-## <a id="2"></a><span style="color: #0088CC">CAP. 2 - Infracțiuni în Trafic</span>
+## <a id="2"></a><span style="color: #0088CC">CAP. 2 Infracțiuni în Trafic</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Evadarea de un ofiţer cu un autovehicul</span>
 
@@ -123,7 +123,7 @@ Orice cetățean care face orice tip de cursă pe stradă și nu are permisiunea
 
 Orice cetățean care fuge de la locul unui accident sau al unei crime, fără să se prezinte sau să sune la autorități, constituie infracțiune și se poate pedepsi cu <b>reținerea suspectului timp de 30 - 50 luni</b> și cu o amendă în valoare de <b>5.500$</b>.
 
-## <a id="3"></a><span style="color: #0088CC">CAP. 3 -Infracţiuni asupra bunelor moravuri, proprietăţilor și liniştii publice</span>
+## <a id="3"></a><span style="color: #0088CC">CAP. 3 Infracţiuni asupra bunelor moravuri, proprietăţilor și liniştii publice</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Acoperirea feței</span>
 
@@ -211,7 +211,7 @@ Calomnia reprezintă afirmarea sau imputarea în public, prin orice mijloace, a 
 
 Orice acțiune care implică căutarea în gunoaiele din spațiul public de către civili este strict interzisă. Acest lucru include, dar nu se limitează la, încercarea de a inspecta, răscoli sau căuta în containerele de gunoi, coșurile de gunoi sau alte recipiente destinate depozitării deșeurilor. Acest lucru reprezintă o infracţiune care se poate pedepsi cu o amendă în valoare de <b>2.000$</b>.
 
-## <a id="4"></a><span style="color: #0088CC">CAP. 4 - Infracţiuni asupra justiţie</span>
+## <a id="4"></a><span style="color: #0088CC">CAP. 4 Infracţiuni asupra justiţie</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstrucția unui ofiţer</span>
 

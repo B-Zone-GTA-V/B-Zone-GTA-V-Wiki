@@ -7,7 +7,7 @@ lastUpdated: true
 
 Serverul rulează pe platforma **RAGE Multiplayer**, iar singura metodă prin care te poți conecta la server este aceea de a utiliza launcher-ul oficial.
 
-Pentru a descărca launcher-ul accesați pagina oficială ([rage.mp](https://rage.mp/)) și apăsați pe butonul de <mark style="color:red;">**DOWNLOAD**</mark>.&#x20;
+Pentru a descărca launcher-ul accesați pagina oficială ([rage.mp](https://rage.mp/)) și apăsați pe butonul de **DOWNLOAD**.
 
 ## Despre Launcher
 
