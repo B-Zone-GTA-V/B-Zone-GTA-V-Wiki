@@ -5,9 +5,7 @@ lastUpdated: true
 
 # Regulament (Română)
 
-## <a id="1"></a><span style="color: #0088CC">CAP. 1 - INTRODUCERE</span>
-
-Data ultimei actualizări a regulamentului este: 21 Martie 2024.
+## <a id="1"></a><span style="color: #0088CC">CAP. 1 INTRODUCERE</span>
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Acord regulament</span>
 
@@ -834,7 +832,7 @@ prima abatare: 50-100 Checkpoint-uri
 a doua abatere: 200 Checkpoint-uri 
 trei sau mai multe abateri: warn
 
-<p style="text-align: center"><img src="https://i.imgur.com/A2nt9Uw.png"/></p>
+<p style="text-align: center"><img src="https://i.imgur.com/uMstusN.png"/></p>
 <div style="text-align: center; width: 100%">Anexa 7.9 Zone rău famate</div>
 
 ### <a id="7.10"></a><span style="color: #0088CC">7.10 Jafuri jucători</span>
