@@ -4,10 +4,19 @@ export default defineConfig({
   title: "B-Zone V Wiki",
   description: "Wiki page - B-Zone V Roleplay",
   base: '/B-Zone-GTA-V-Wiki/',
+  head: [
+    ['link', { rel: 'icon', href: '/B-Zone-GTA-V-Wiki/favicon.ico' }]
+  ],
   themeConfig: {
-    logo: 'https://i.imgur.com/WDKwGKs.png',
+    logo: '/assets/images/logo.png',
     nav: [
-      { text: 'Home', link: '/server/rules' },
+      { 
+        text: 'Linkuri',
+        items: [
+          { text: 'UCP', link: 'https://v.b-zone.ro' },
+          { text: 'RAGEMP', link: 'https://rage.mp' },
+        ]
+      },
     ],
     sidebar: [
       {
@@ -89,8 +98,8 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/B-Zone-GTA-V' },
       { icon: 'discord', link: 'https://b-zone.ro/rage' },
+      { icon: 'github', link: 'https://github.com/B-Zone-GTA-V' },
     ],
     search: {
       provider: 'local',
