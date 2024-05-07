@@ -3,7 +3,7 @@ outline: deep
 lastUpdated: true
 ---
 
-# Tutorial 
+## Tutorial 
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -44,5 +44,5 @@ This screen provides additional and useful information about the server's functi
 - Respawn at the hospital
 - The tutorial interface can be closed by pressing the ESC key. The tutorial can be accessed at any time using the command [/tutorial] in-game.
 
-<div style="text-align: center"><img src="https://i.imgur.com/7C2jl67.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/7C2jl67.gif"/></p>
 <p style="text-align: center">Tutorial</p>
