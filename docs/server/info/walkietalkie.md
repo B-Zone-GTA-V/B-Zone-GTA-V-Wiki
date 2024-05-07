@@ -1,9 +1,9 @@
 ---
 outline: deep
-lastUpdated: true
+lastUpdated: file.info("filepath/filename.Rmd")$mtime
 ---
 
-# Walkie Talkie
+## Walkie Talkie
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -27,8 +27,8 @@ If you wish to leave the frequency you are on, press the button marked below in 
 |101-200| private channels accessible with a password|
 |201-999|public channels that anyone can join|
 
-<div style="text-align: center"><img src="https://i.imgur.com/8JGRIiZ.png"/></div>
+<p align="center"><img src="https://i.imgur.com/8JGRIiZ.png"/></p>
 <p style="text-align: center">Reset frequency button</p>
 
-<div style="text-align: center"><img src="https://i.imgur.com/4yvaht9.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/4yvaht9.gif"/></p>
 <p style="text-align: center">Set frequency</p>

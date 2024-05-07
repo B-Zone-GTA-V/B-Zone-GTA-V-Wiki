@@ -4,6 +4,7 @@ export default defineConfig({
   title: "B-Zone V Wiki",
   description: "Wiki page - B-Zone V Roleplay",
   base: '/B-Zone-GTA-V-Wiki/',
+  appearance: 'force-dark', 
   head: [
     ['link', { rel: 'icon', href: '/B-Zone-GTA-V-Wiki/favicon.ico' }]
   ],
@@ -93,7 +94,6 @@ export default defineConfig({
           { text: 'Fisherman', link: '/server/hobby/fisherman' },
           { text: 'B-Taxi', link: '/server/hobby/taxi' },
           { text: 'Tailoring', link: '/server/hobby/tailor' },
-          { text: 'More to disover in-game', link: '/server/hobby/ic' },
         ]
       }
     ],

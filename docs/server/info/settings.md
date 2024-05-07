@@ -1,9 +1,9 @@
 ---
 outline: deep
-lastUpdated: true
+lastUpdated: file.info("filepath/filename.Rmd")$mtime
 ---
 
-# Setări și taste rapide / Settings & Hotkeys
+## Setări și taste rapide / Settings & Hotkeys
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -66,5 +66,5 @@ Each hotkey can be changed by accessing the command [/settings] in the chat, and
 | CAPS | Stație / Station|
 | F8 | Captură de ecran / Screenshot|
 
-<div style="text-align: center"><img src="https://i.imgur.com/rRN9Vn1.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/rRN9Vn1.gif"/></p>
 <p style="text-align: center">Settings</p>
