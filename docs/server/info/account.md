@@ -1,6 +1,5 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
 ## Crearea contului / Account Creation

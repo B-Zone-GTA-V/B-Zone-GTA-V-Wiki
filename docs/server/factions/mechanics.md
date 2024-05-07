@@ -1,6 +1,5 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
 ## Los Santos Mechanics

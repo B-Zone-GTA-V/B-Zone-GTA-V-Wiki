@@ -1,6 +1,5 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
 # <span style="color: #0088CC">Regulament staff</span>

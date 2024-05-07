@@ -1,6 +1,5 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
 ## Magazinul de Arme albe / White Weapons Shop
