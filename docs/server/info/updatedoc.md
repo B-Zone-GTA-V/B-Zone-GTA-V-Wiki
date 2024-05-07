@@ -1,9 +1,9 @@
 ---
 outline: deep
-lastUpdated: true
+lastUpdated: file.info("filepath/filename.Rmd")$mtime
 ---
 
-# Actualizarea documentului / Update your document
+## Actualizarea documentului / Update your document
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -21,8 +21,8 @@ If you change your appearance (hair/color of hair/makeup) and want the photo in 
 
 To take a new photo, you need to go to the first floor of the town hall, where you can interact with the "NPC Document Photo Change." After interacting with the NPC, if you have the necessary amount ($5,000), you will be directed to a checkpoint. At that checkpoint, a new photo will be taken and displayed in the documents.
 
-<div style="text-align: center"><img src="https://i.imgur.com/d4viqy1.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/d4viqy1.gif"/></p>
 <p style="text-align: center">Photo Update</p>
 
-<div style="text-align: center"><img src="https://i.imgur.com/hRzbaBX.png"/></div>
+<p align="center"><img src="https://i.imgur.com/hRzbaBX.png"/></p>
 <p style="text-align: center">Model Buletin</p>

@@ -1,6 +1,8 @@
 ---
-lastUpdated: true
+outline: deep
+lastUpdated: file.info("filepath/filename.Rmd")$mtime
 ---
+
 # RAGE Multiplayer
 
 ## Ce este RageMP?

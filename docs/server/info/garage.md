@@ -1,9 +1,9 @@
 ---
 outline: deep
-lastUpdated: true
+lastUpdated: file.info("filepath/filename.Rmd")$mtime
 ---
 
-# Sistemul de garaje / Garage System
+## Sistemul de garaje / Garage System
 
 ### <span style="color: #0088CC">Română</span>
 

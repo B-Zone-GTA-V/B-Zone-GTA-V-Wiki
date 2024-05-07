@@ -1,5 +1,6 @@
 ---
-lastUpdated: true
+outline: deep
+lastUpdated: file.info("filepath/filename.Rmd")$mtime
 ---
 # Pagina in lucru / Work in progress
 

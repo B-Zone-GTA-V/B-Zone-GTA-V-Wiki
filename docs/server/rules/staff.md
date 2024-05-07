@@ -1,6 +1,6 @@
 ---
 outline: deep
-lastUpdated: true
+lastUpdated: file.info("filepath/filename.Rmd")$mtime
 ---
 
 # <span style="color: #0088CC">Regulament staff</span>
@@ -60,7 +60,7 @@ Fiecare ticket este unic si necesita o abordare diferita. In timp veti reusi sa 
 
 ### <span style="color: #0088CC">4.1. Tickete in joc</span>
 
-Pasi de urmat pentru ickete in joc care pot fi rezolvate in joc:
+Pasi de urmat pentru tickete in joc care pot fi rezolvate in joc:
 
 - Identificarea problemei
 - Rezolvarea problemei
@@ -73,7 +73,7 @@ Pentru tickete de revive, puteti sa dati revive daca nu sunt medici on-duty.
 
 ### <span style="color: #0088CC">4.2 Tickete in joc cu dovezi</span>
 
-Pasi de urmat pentru tickete in joc care se vor rezolva pe discord atunci cand este ncesara prezentarea de dovezi:
+Pasi de urmat pentru tickete in joc care se vor rezolva pe discord atunci cand este necesara prezentarea de dovezi:
 
 - Identificarea problemei
 - Solicitarea dovezilor reclamantului
