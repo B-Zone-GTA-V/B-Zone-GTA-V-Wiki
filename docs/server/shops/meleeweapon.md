@@ -1,6 +1,6 @@
 ---
 outline: deep
-lastUpdated: file.info("filepath/filename.Rmd")$mtime
+lastUpdated: true
 ---
 
 ## Magazinul de Arme albe / White Weapons Shop

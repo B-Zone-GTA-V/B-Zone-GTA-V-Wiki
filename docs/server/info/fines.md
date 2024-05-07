@@ -1,6 +1,6 @@
 ---
 outline: deep
-lastUpdated: file.info("filepath/filename.Rmd")$mtime
+lastUpdated: true
 ---
 
 ## Plata amenzilor / Paying Fines
