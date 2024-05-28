@@ -32,7 +32,7 @@ export default defineConfig({
           { text: 'Regulament (Romana)', link: '/server/rules' },
           { text: 'Cod Penal (Romana)', link: '/server/rules/penal_code' },
           { text: 'Rules (English)', link: '/server/rules/rulesen' },
-          { text: 'Penal Code (English)', link: '/server/wip' },
+          { text: 'Penal Code (English)', link: '/server/rules/penal_code_en' },
         ]
       },
       {

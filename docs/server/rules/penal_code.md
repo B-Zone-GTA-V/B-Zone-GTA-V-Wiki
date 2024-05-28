@@ -34,30 +34,30 @@ Incălcarea limitelor de viteze se sancționează după următoarele cazuri:
 
 Conducere imprudentă înseamnă operarea unui vehicul în mod agresiv, neasigurarea în trafic, conducerea cu viteză excesivă sau punerea în pericol a propriei vieți sa sau a altor persoane.
 
-Conducătorii imprudenți pot primi o contravenție care se pedepsește cu o amendă în valoare de **2.500$** și **3 puncte penalizare**.
+Conducătorii imprudenți pot fi sancționați contravențional cu o amendă în valoare de **2.500$** și **3 puncte penalizare**.
 
 ### <a id="1.3"></a><span style="color: #0088CC">1.3 Nerespectarea marcajelor rutiere</span>
 
-Orice conducător de autovehicul care nu respectă marcajele rutiere (STOP, linia dubla continua, etc) se pedepsește cu o amendă în valoare de **2.500$** și **3 puncte penalizare**.
+Orice conducător de autovehicul care nu respectă marcajele rutiere (STOP, linia dubla continua, etc), poate fi pedepsit cu o amendă în valoare de **2.500$** și **3 puncte penalizare**.
 
 ### <a id="1.4"></a><span style="color: #0088CC">1.4 Neacordare de Prioritate</span>
 
-Orice conducator de autovehicul care nu acordă prioritate vehiculelor și pietonilor care traversează se pedepsește cu **suspendarea permisului** și cu o amendă în valoare de **3.500$** și **3 puncte penalizare**.
+Orice conducător de autovehicul care nu acordă prioritate vehiculelor și pietonilor care traversează, poate fi pedepsit cu **suspendarea permisului**, cu o amendă în valoare de **3.500$** și **3 puncte penalizare**.
 
 ### <a id="1.5"></a><span style="color: #0088CC">1.5 Nerespectarea semnelor de circulatie ale Polițistului</span>
 
-Orice conducător de autovehicul care nu respectă semnele de circulație impuse de Polițist se pedepsește cu **anularea permisului** și cu o amendă în valoare de **5.000$**.
+Orice conducător de autovehicul care nu respectă semnele de circulație impuse de Polițist poate fi pedepsit cu **anularea permisului** și cu o amendă în valoare de **5.000$**.
 
 ### <a id="1.6"></a><span style="color: #0088CC">1.6 Nerespectarea semnalelor luminoase și sonore</span>
 
 Orice conducător are obligația sa oprească și să tragă pe dreapta dacă are suficient spațiu în momentul în care vede sau aude un vehicul din cadrul Poliției sau din cadru Spitalului cu semnalele luminoase sau luminoase+sonore în funcțiune. După ce aceștia au trecut aveți dreptul să vă puneți in mișcare.
 
-Încălcarea acestei reguli, duce la o contravenție care se pedepsește cu suspendarea permisului și cu o amendă în valoare de **8.000$**.
+Încălcarea acestei reguli reprezintă o contravenție si va fi pedepsită cu **suspendarea permisului** și cu o amendă în valoare de **8.000$**.
 
 ### <a id="1.7"></a><span style="color: #0088CC">1.7 Parcare ilegală</span>
 
 Este interzis să parcați pe bordură! Aveți dreptul lângă bordură doar dacă bordura nu este vopsită cu roșu! Bordura roșie reprezintă parcare interzisă!
-Parcarea ilegală duce la o contravenție care se pedepsește cu o amendă în valoare de **2.500$** și cu **ridicarea autovehiculului**.
+Parcarea ilegală reprezintă o contravenție si va fi pedepsită cu o amendă în valoare de **2.500$** și cu **ridicarea autovehiculului**.
 
 <div stlye="text-align: center"><img src="https://i.imgur.com/0Dyd4fE.png"/></div>
 <p style="text-align: center">Parcare neregulamentara</p>
@@ -66,27 +66,27 @@ Parcarea ilegală duce la o contravenție care se pedepsește cu o amendă în v
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.8 Traversarea interzisă</span>
 
-Orice cetățean care traversează printr-un loc în care trecerea nu este permisă, punând în pericol viața unui cetățean sau propria viață se pedepsește cu o contraventie care constă într-o amendă în valoare de **1.000$**.
+Orice cetățean care traversează printr-un loc în care trecerea nu este permisă, punând în pericol viața unui cetățean sau propria viață poate fi pedepsit pedepsește cu o contravenție în valoare de **1.000$**.
 
 ### <a id="1.9"></a><span style="color: #0088CC">1.9 Acoperirea feței la volan</span>
 
-Orice conducător de autovehicul care poartă o mască/bandană sau orice alt obiect ce îi acoperă fața reduce vizibilitatea și pune in pericol siguranța tuturor participanților la trafic și se pedepsește cu o amendă în valoare de **5.000$**.
+Orice conducător de autovehicul care poartă o mască/bandană sau orice alt obiect ce îi acoperă fața, reduce vizibilitatea și pune in pericol siguranța tuturor participanților la trafic, poate fi sancționat cu o amendă în valoare de **5.000$**.
 
 ### <a id="1.10"></a><span style="color: #0088CC">1.10 Folosirea telefonului în timpul condusului</span>
 
-Orice conducator de autovehicul îi este strict interzis sa foloseasca telefonul în timp ce conduce.
+Este strict interzisă folosirea telefonului în timpul condusului.
 
-Încălcarea acestei reguli duce la o contravenție care se pedepsește cu o amendă în valoare de **1.500$**.
+Încălcarea acestei reguli reprezintă o contravenție si va fi pedepsită cu o amendă în valoare de **1.500$**.
 
 ### <a id="1.11"></a><span style="color: #0088CC">1.11 Claxonarea excesivă</span>
 
 Mijloacele de avertizare sonoră trebuie folosite de la o distanță de cel puțin 25 m față de cei cărora li se adresează, pe o durată de timp care să asigure perceperea semnalului și fără să îi determine pe aceștia la manevre ce pot pune în pericol siguranța circulației.
 
-Incălcarea acestei reguli duce la o contraventie care se pedepsește cu o amendă în valoare de **1.500$**.
+Incălcarea acestei reguli reprezintă o contravenție si va fi pedepsită cu o amendă în valoare de **1.500$**.
 
 ### <a id="1.12"></a><span style="color: #0088CC">1.12 Geamuri fumurii</span>
 
-Orice cetățean care deține geamuri fumurii la mașină și împiedică recunoașterea conducătorului de către ofițer va fi sancționat cu o amendă în valoare de **3.000$** și cu **confiscarea certificatului ITP**.
+Orice cetățean care deține geamuri fumurii la mașină care împiedică recunoașterea conducătorului de către un ofițer va fi sancționat cu o amendă în valoare de **3.000$** și cu **confiscarea certificatului ITP**.
 
 În cazul în care ITP-ul vehiculului este expirat se va aplica sancțiunea de la regula <a href="#1.16">#1.16 ITP Expirat</a>
 
@@ -107,7 +107,7 @@ Orice conducător de autovehicul care își montează un claxon diferit față d
 
 ### <a id="1.15"></a><span style="color: #0088CC">1.15 Xenoane</span>
 
-Orice cetățean care are montate xenoane pe autovehicul sau instalații de iluminat diferite față de cel din fabrică va fi sancționat cu o amendă în valoare de **3.500$** și cu **confiscarea certificatului ITP**. 
+Orice cetățean care are montate xenoane pe autovehicul sau instalații de iluminat diferite față de cele din fabrică va fi sancționat cu o amendă în valoare de **3.500$** și cu **confiscarea certificatului ITP**. 
 
 În cazul în care ITP-ul vehiculului este expirat se va aplica sancțiunea de la regula <a href="#1.16">#1.16 ITP Expirat</a>
 
@@ -119,33 +119,33 @@ Orice cetățean care circulă pe drumurile publice cu un autovehicul fără un 
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Evadarea de un ofiţer cu un autovehicul</span>
 
-Orice cetățean care folosește un vehicul pentru a evada de un ofițer constituie o infracțiune care se poate pedepsi cu **anularea permisului, reținerea suspectului timp de 50-80 luni** și cu o amendă în valoare de **7.000$**.
+Orice cetățean care folosește un vehicul pentru a evada de un ofițer înfăptuiește o infracțiune si poate fi pedepsit cu **anularea permisului**, **reținerea suspectului timp de 50-80 luni** și cu o amendă în valoare de **7.000$**.
 
 ### <a id="2.2"></a><span style="color: #0088CC">2.2 Condusul fără permis</span>
 
-Orice cetățean care conduce un vehicul fără să aibă un permis de conducere valid constituie o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **6.000$**.
+Orice cetățean care conduce un vehicul fără să aibă un permis de conducere valid înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **6.000$**.
 
 ### <a id="2.3"></a><span style="color: #0088CC">2.3 Conducere sub influența drogurilor sau a alcoolului</span>
 
-Orice cetățean care este la volan și deține valoarea de 0.1% alcool în sânge sau este sub influența oricărui tip de narcotice și pune în pericol viața unui civil sau propria viață constituie o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni, confiscarea permisului** și cu o amendă în valoare de **6.000$**.
+Orice cetățean care este la volan și deține valoarea de 0.1% alcool în sânge sau este sub influența oricărui tip de narcotice și pune în pericol viața unui civil sau propria viață înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni**, **confiscarea permisului** și cu o amendă în valoare de **6.000$**.
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Curse ilegale</span>
 
-Orice cetățean care face orice tip de cursă pe stradă și nu are permisiunea legală a poliției, punând în pericol viața civililo constituie o infracțiune care se poate pedepsi cu **suspendarea permisului, reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **15.000$**.
+Orice cetățean care face orice tip de cursă pe stradă și nu are permisiunea legală a poliției, punând în pericol viața civililor, înfăptuiește o infracțiune care se poate pedepsi cu **suspendarea permisului**, **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **15.000$**.
 
 ### <a id="2.5"></a><span style="color: #0088CC">2.5 Părăsirea locului accidentului sau a unei scene</span>
 
-Orice cetățean care fuge de la locul unui accident sau al unei crime, fără să se prezinte sau să sune la autorități, constituie infracțiune și se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **5.500$**.
+Orice cetățean care fuge de la locul unui accident sau al unei crime, fără să se prezinte sau să sune la autorități, înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **5.500$**.
 
 ## <a id="3"></a><span style="color: #0088CC">CAP. 3 Infracţiuni asupra bunelor moravuri, proprietăţilor și liniştii publice</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Acoperirea feței</span>
 
-Orice persoană care își acoperă zona facială cu orice fel de obiect (mască, bandană, eșarfă, etc) în spațiile publice poate fi sancționată cu amendă de **3000$** și **percheziție obligatorie** deoarece se consideră ca acea persoană poate fi periculoasă și poate pune în pericol siguranța cetățenilor.
+Orice persoană care își acoperă zona facială cu orice fel de obiect (mască, bandană, eșarfă, etc) în spațiile publice poate fi sancționată cu amendă de **3.000$** și **percheziție obligatorie** deoarece se consideră ca acea persoană poate fi periculoasă și poate pune în pericol siguranța cetățenilor.
 
 ### <a id="3.2"></a><span style="color: #0088CC">3.2 Urmărirea unei persoane fără acord</span>
 
-Orice persoană care urmăreşte, cu bună ştiinţă, o altă persoană şi o hărţuieşte cu intenţia de a i se face frică pentru propria siguranţă sau pentru siguranţa familiei sale reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50  luni** și cu o amendă în valoare de **7.000$**.
+Orice persoană care urmăreşte, cu bună ştiinţă, o altă persoană şi o hărţuieşte cu intenţia de a i se face frică pentru propria siguranţă sau pentru siguranţa familiei sale înfăptuiește o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50  luni** și cu o amendă în valoare de **7.000$**.
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 Urmărirea unei autospeciale de poliție/medici fără acord</span>
 
@@ -153,7 +153,7 @@ Orice persoană care urmăreşte, cu bună ştiinţă, o unitate de poliție/med
 
 ### <a id="3.4"></a><span style="color: #0088CC">3.4 Expunere indecentă</span>
 
-Orice persoană care îşi expune organele genitale, cu bună ştiinţă, în public sau în orice spaţiu unde se află şi alte persoane reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 20-40 luni** și cu o amendă în valoare de **6.000$**.
+Orice persoană care îşi expune organele genitale, cu bună ştiinţă, în public sau în orice spaţiu unde se află şi alte persoane, înfăptuiește o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 20-40 luni** și cu o amendă în valoare de **6.000$**.
 
 ### <a id="3.5"></a><span style="color: #0088CC">3.5 Prostituţie</span>
 
@@ -175,11 +175,11 @@ Orice persoană care refuză sa părăsească o instituție a statului (Sectia d
 
 ### <a id="3.9"></a><span style="color: #0088CC">3.9 Vandalism</span>
 
-Orice persoană care distruge sau deteriorează un bun sau o proprietate care nu îi aparţine, reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **15.000$**.
+Orice persoană care distruge sau deteriorează un bun sau o proprietate care nu îi aparţine, înfăptuiește o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **15.000$**.
 
 ### <a id="3.10"></a><span style="color: #0088CC">3.10 Şantaj</span>
 
-Şantajul reprezintă folosirea fricii sau a altor metode drept mecanism pentru a influenţa un individ să îndeplinească diferite activităţi sau servicii, reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 35-55 luni** și cu o amendă în valoare de **6.000$**.
+Şantajul reprezintă folosirea fricii sau a altor metode drept mecanism pentru a influenţa un individ să îndeplinească diferite activităţi sau servicii, si reprezintă o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 35-55 luni** și cu o amendă în valoare de **6.000$**.
 
 ### <a id="3.11"></a><span style="color: #0088CC">3.11 Furt</span>
 
@@ -187,13 +187,13 @@ Furtul constă în fapta unei persoane de a lua un bun mobil din posesia altei p
 
 #### <a id="3.11.1"></a><span style="color: #0088CC">3.11.1 Furt auto</span>
 
-Orice persoană care fură un autovehicul, nu contează valoarea acestuia, reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **7.000$**. 
+Orice persoană care fură un autovehicul, nu contează valoarea acestuia, înfăptuiește o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **7.000$**. 
 
 Această acuzație se aplică și pentru spargerea unui autovehicul, cu sau fără intenţia de a-l fura.
 
 #### <a id="3.11.2"></a><span style="color: #0088CC">3.11.2 Furt auto Politie/Spital</span>
 
-Orice persoană care fură un autovehicul care aparține Departamentului de Poliție sau al Spitalului reprezintă o infracţiune care se poate pedepsi cu reținerea suspectului timp de **50-70 luni** și cu o amendă în valoare de **10.000$**.
+Orice persoană care fură un autovehicul care aparține Departamentului de Poliție sau al Spitalului înfăptuiește o infracţiune care se poate pedepsi cu reținerea suspectului timp de **50-70 luni** și cu o amendă în valoare de **10.000$**.
 
 Această acuzație se aplică și pentru spargerea unui autovehicul, cu sau fără intenţia de a-l fura.
 
@@ -203,19 +203,19 @@ Jaful reprezintă furtul unor bunuri personale care se află în posesia altor p
 
 #### <a id="3.12.1"></a><span style="color: #0088CC">3.12.1 Jaf armat</span>
 
-Obţinerea unui bun din posesia unei persoane prin folosirea forţei sau impunerea fricii cu ajutorul unei arme de orice model reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 100-150 luni** și cu o **amendă în valoare de 35.000$**.
+Obţinerea unui bun din posesia unei persoane prin folosirea forţei sau impunerea fricii cu ajutorul unei arme de orice model reprezintă o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 100-150 luni** și cu o **amendă în valoare de 35.000$**.
 
 ### <a id="3.13"></a><span style="color: #0088CC">3.13 Deranjarea liniştii publice</span>
 
-Atunci când un civil dă volumul unui aparat electronic la maxim, vorbește cu un ton prea ridicat, folosește semne obscene în public sau provoacă ceartă sau bătaie, reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 10-20 luni** și cu o amendă în valoare de **5.000$**.
+Atunci când un civil dă volumul unui aparat electronic la maxim, vorbește cu un ton prea ridicat, folosește semne obscene în public sau provoacă ceartă sau bătaie, înfăptuiește o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 10-20 luni** și cu o amendă în valoare de **5.000$**.
 
 ### <a id="3.14"></a><span style="color: #0088CC">3.14 Eșecul de a părăsi un loc</span>
 
-Atunci când unul sau mai mulți civili refuză să părăsească locul indicat de un ofițer al legii, reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 15-30 luni** și cu o amendă în valoare de **5.000$**.
+Atunci când unul sau mai mulți civili refuză să părăsească locul indicat de un ofițer al legii, ei înfăptuiesc o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 15-30 luni** și cu o amendă în valoare de **5.000$**.
 
 ### <a id="3.15"></a><span style="color: #0088CC">3.15 Instigarea unei revolte</span>
 
-Atunci când unul sau mai mulți civili încearcă să creeze o revoltă cu tentativa de a distruge bunurile publice sau de a răni mai mulți oameni pe care îi înconjoară, reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 25-50 luni** și cu o amendă în valoare de **20.000$**.
+Atunci când unul sau mai mulți civili încearcă să creeze o revoltă cu tentativa de a distruge bunurile publice sau de a răni mai mulți oameni pe care îi înconjoară, ei înfăptuiesc o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 25-50 luni** și cu o amendă în valoare de **20.000$**.
 
 ### <a id="3.16"></a><span style="color: #0088CC">3.16 Calomnie</span>
 
@@ -245,7 +245,7 @@ Orice persoană care a fost reţinută fizic de către un ofiţer de poliţie ş
 
 Orice persoană care opune rezistență când trebuie să fie arestată sau reținută de către ofițerii din cadrul Poliției reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **7.500$**. 
 
-Această acuzație înlocuiește acuzația  și trebuie folosită când un suspect se folosește de fugă pentru a evita arestul.
+Această acuzație înlocuiește acuzația <a href="#2.1">#2.1 Evadarea de un ofiter cu un autovehicul</a> și trebuie folosită când un suspect se folosește de fugă pentru a evita arestul.
 
 ### <a id="4.5"></a><span style="color: #0088CC">4.5 Eşecul identificarii</span>
 
@@ -271,7 +271,7 @@ Orice persoană care împiedică sau descurajează orice martor sau victimă de 
 
 ### <a id="4.9"></a><span style="color: #0088CC">4.9 Limbaj vulgar</span>
 
-Orice persoană folosește cuvinte vulgare cu scopul de a jigni, intimida sau obține avantaj în fața altei persoane, reprezintă o infracţiune care se poate pedepsi cu o amendă în valoare de **5.500$**.
+Orice persoană folosește cuvinte vulgare cu scopul de a jigni, intimida sau obține avantaj în fața altei persoane, înfăptuiește o infracţiune care se poate pedepsi cu o amendă în valoare de **5.500$**.
 
 ### <a id="4.10"></a><span style="color: #0088CC">4.10 Abuzulul liniei de urgență</span>
 
@@ -287,11 +287,11 @@ Aceste amenințări criminale reprezintă o infracţiune care se poate pedepsi c
 
 ### <a id="5.2"></a><span style="color: #0088CC">5.2 Tentativă de omor</span>
 
-Orice persoană care încearcă să comită o crimă sau vătămări severe şi ireversibile se poate pedepsi cu **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **10.000$**.
+Orice persoană care încearcă să comită o crimă sau vătămări severe şi ireversibile înfăptuiește o infracțiune și poate fi pedepsită cu **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **10.000$**.
 
 ### <a id="5.3"></a><span style="color: #0088CC">5.3 Vătămare corporală gravă</span>
 
-Orice persoană care răneşte altă persoană prin utilizarea unei armei mortale sau vătămare corporală unde apar răni severe, reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **11.000$**.
+Orice persoană care răneşte altă persoană prin utilizarea unei armei mortale sau vătămarea corporală unde apar răni severe, reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **11.000$**.
 
 ### <a id="5.4"></a><span style="color: #0088CC">5.4 Asalt cu o armă mortală</span>
 
@@ -303,7 +303,7 @@ Omorul din culpă reprezintă uciderea fără intenţie a unui individ, cu sau f
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Crimă (Omucidere)</span>
 
-Crima este un delict ilegal de ucidere a unei fiinţe umane și reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 60-80 luni** și cu o amendă în valoare de **14.000$**.
+Omuciderea este un delict ilegal de ucidere a unei fiinţe umane și reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 60-80 luni** și cu o amendă în valoare de **14.000$**.
 
 ### <a id="5.7"></a><span style="color: #0088CC">5.7 Răpire</span>
 
@@ -378,9 +378,9 @@ Această faptă se poate cumula cu <a href="#6.2">#6.2 Posesia unei arme de foc 
 
 Definiție: Orice cetățean care deține mai mult de o armă de foc sau mai mult de 200 gloanțe fără a deține un permis pentru vânzarea acestora. 
 
-De asemenea, toate obiectele folosite pentru a fabrica gloanțe sau arme găsite în zona de fabricație vor fi confiscate.
-
 Această faptă reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 120-150 luni** și cu o amendă în valoare de **35.000$**.
+
+De asemenea, toate obiectele folosite pentru a fabrica gloanțe sau arme găsite în zona de fabricație vor fi confiscate.
 
 Aceasta faptă nu se cumulează cu <a href="#6.2">#6.2 Posesia unei arme de foc de calibru mic fără permis PORT-ARMĂ</a> sau <a href="#6.3">#6.3 Posesia unei arme automate de foc</a> sau <a href="#6.5">#6.5 Îndreptarea unei arme asupra unui obiect</a> sau <a href="#6.6">#6.6 Îndreptarea unei arme asupra unui obiect</a>
 
@@ -426,24 +426,3 @@ Definiție: Orice cetățean care practică medicina fără un act legal primit 
 Se aplică doar la persoanele care încearcă să injecteze sau să practice intervenții chirurgicale.
 
 Această faptă reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 60-100 de luni** și cu o amendă în valoare de **20.000$**.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
