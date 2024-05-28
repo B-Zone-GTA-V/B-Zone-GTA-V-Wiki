@@ -803,7 +803,7 @@ Red zones are areas where illegal items are planted or manufactured, including t
 It does NOT consider those areas as red zones where there is a legal job that aids in the evolution of an illegal action on the server (example: Miner).
 
 In these zones, the following are <span style="color: green">permitted</span>:
-- Opening fire if communication and negotiation between players are not desired, as everyone knows this area to be illegal, and it is considered a minimum level of roleplay in this regard. In the red zone, the rule of Revenge-Kill does not apply.
+- Opening fire if communication and negotiation between players are not desired, as everyone knows this area to be illegal, and it is considered a minimum level of roleplay in this regard.
 - Robbing persons is possible regardless of time (does not apply to the robbery interval), as long as the persons are on a red zone. All items they hold on them or in the vehicle they came with can be taken.
 - It is permitted to rob persons who are in a COMA using a rope.
 - Persons involved in a fight in a red zone who have used firearms cannot go to a public area.
@@ -922,9 +922,9 @@ Robbing stores can be done with at least one firearm, at any time, in a group of
 
 After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed. About red zones, you can read the rule <a href="#7.7">#7.7 Red Zones</a>.
 
-If a robbery starts with fewer than 8 participants, other people can join up to the maximum number (8). For example: the robbery starts in 2 people, a maximum of 6 more people can be called for reinforcements.
+If a robbery starts with fewer than 8 participants, other people can join up to the maximum number (8). For example: the robbery starts in 2 people, a maximum of 8 more people can be called for reinforcements.
 
-If a player accepts death after the 5 minutes of coma, they can return to the red zone of the robbery, the rule <a href="#2.4">#2.4 Revenge Kill (RK)</a> does not apply. A person who has accepted death cannot be replaced by another colleague in the robbery, only the 8 people involved in the robbery can return to the red zone.
+A person who has accepted death cannot be replaced by another colleague in the robbery.
 
 During the robbery, you cannot have a hostage because the focus is exclusively on robbing a store.
 

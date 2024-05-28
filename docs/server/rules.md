@@ -811,7 +811,7 @@ Zonele roșii sunt zonele în care se plantează sau se confecționează obiecte
 NU se consideră zonă roșie acele zone în care există un job legal care ajută la evoluția pentru o acțiune ilegală pe server (exemplu: Miner).
 
 Pe aceste zone sunt <span style="color: green">permise</span> următoarele:
-- Deschiderea focului în cazul în care nu se dorește comunicarea și negocierea între jucători, deoarece toată lumea cunoaște această zonă ca fiind una ilegală și se consideră un minim de roleplay în acest sens. Pe zona roșie nu există aplicarea regulii de Revenge-Kill.
+- Deschiderea focului în cazul în care nu se dorește comunicarea și negocierea între jucători, deoarece toată lumea cunoaște această zonă ca fiind una ilegală și se consideră un minim de roleplay în acest sens.
 - Jefuirea persoanelor se poate realiza indiferent de oră (nu se aplică intervalul de jaf), atâta timp cât persoanele se află pe zonă roșie. Se pot lua toate obiectele pe care le deține asupra sa sau din vehiculul cu care a venit.
 - Este permisă jefuirea persoanelor care sunt în stare de COMA folosind sfoara.
 - Persoanele implicate într-o bătaie în zonă roșie care au folosit armele de foc nu pot pleca într-o zonă publică.
@@ -930,9 +930,9 @@ Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice inter
 
 După ce alarma se declanșează, proximitatea magazinului devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți. Despre zonele roșii puteți citi regula <a href="#7.7">#7.7 Zonele roșii</a> .
 
-În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (6). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 6 persoane.
+În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (8). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 8 persoane.
 
-În cazul în care un jucător își acceptă moartea după cele 5 minute de comă, el se poate reîntoarce în zona roșie de la jaf, regula <a href="#2.4">#2.4 Revenge Kill (RK)</a> nu se aplică. O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf, singurele persoane care pot reveni în zona roșie fiind cele 8 persoane implicate în jaf.
+O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf.
 
 Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuirea unui magazin.
 
