@@ -1,10 +1,24 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
 # Cod penal (Română)
+## <a id="1"></a><span style="color: #0088CC">Definiții Generale</span>
 
+### <a id="1.1"></a><span style="color: #0088CC">Complicitatea</span>
+Complice este persoana care, cu intenţie, ajută în orice mod la săvârşirea unei fapte prevăzute de legea penală. Se considera complice si persoana care instiga la savarsirea unei infractiuni.
+
+Este de asemenea complice persoana care promite, înainte sau în timpul săvârşirii faptei, că va pastra bunurile provenite din aceasta sau că va favoriza pe făptuitor, chiar dacă după săvârşirea faptei promisiunea nu este îndeplinită.
+
+Complicele la o infracţiune săvârşită cu intenţie se sancţionează cu pedeapsa prevăzută de lege pentru autor. La stabilirea pedepsei se ţine seama de contribuţia fiecăruia la săvârşirea infracţiunii.
+
+### <a id="1.1"></a><span style="color: #0088CC">Tentativa</span>
+
+Tentativa constă în punerea în executare a intenţiei de a săvârşi infracţiunea, executare care a fost însă întreruptă sau nu şi-a produs efectul.
+
+Nu se pedepseşte autorul care, înainte de descoperirea faptei, a recunoscut savarsirea ori a încunoştinţat autorităţile de comiterea acesteia, astfel încât executarea infractiunii să poată fi împiedicată, sau a împiedicat el însuşi consumarea infracţiunii.
+
+Tentativa se sancţionează cu pedeapsa prevăzută de lege pentru infracţiunea consumată, ale cărei limite se reduc la jumătate.
 ## <a id="1"></a><span style="color: #0088CC">CAP. 1 Legislație Rutieră</span>
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Limitele de viteză</span>
