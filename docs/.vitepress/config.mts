@@ -54,6 +54,7 @@ export default defineConfig({
           { text: 'Job Unlock System', link: '/server/info/jobunlock' },
           { text: 'Search in trash bins', link: '/server/info/trashsearch' },
           { text: 'Phone', link: '/server/info/phone' },
+          { text: 'Books', link: '/server/info/books' },
         ]
       },
       {
