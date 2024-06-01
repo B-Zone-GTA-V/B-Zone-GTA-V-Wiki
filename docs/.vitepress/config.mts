@@ -4,6 +4,7 @@ export default defineConfig({
   title: "B-Zone V Wiki",
   description: "Wiki page - B-Zone V Roleplay",
   base: '/B-Zone-GTA-V-Wiki/',
+  appearance: 'force-dark', 
   head: [
     ['link', { rel: 'icon', href: '/B-Zone-GTA-V-Wiki/favicon.ico' }]
   ],
@@ -31,7 +32,7 @@ export default defineConfig({
           { text: 'Regulament (Romana)', link: '/server/rules' },
           { text: 'Cod Penal (Romana)', link: '/server/rules/penal_code' },
           { text: 'Rules (English)', link: '/server/rules/rulesen' },
-          { text: 'Penal Code (English)', link: '/server/wip' },
+          { text: 'Penal Code (English)', link: '/server/rules/penal_code_en' },
         ]
       },
       {
@@ -53,6 +54,7 @@ export default defineConfig({
           { text: 'Job Unlock System', link: '/server/info/jobunlock' },
           { text: 'Search in trash bins', link: '/server/info/trashsearch' },
           { text: 'Phone', link: '/server/info/phone' },
+          { text: 'Books', link: '/server/info/books' },
         ]
       },
       {
@@ -93,7 +95,6 @@ export default defineConfig({
           { text: 'Fisherman', link: '/server/hobby/fisherman' },
           { text: 'B-Taxi', link: '/server/hobby/taxi' },
           { text: 'Tailoring', link: '/server/hobby/tailor' },
-          { text: 'More to disover in-game', link: '/server/hobby/ic' },
         ]
       }
     ],

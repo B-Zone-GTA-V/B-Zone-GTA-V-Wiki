@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# REMAT / Vehicle Recycle Center
+## REMAT / Vehicle Recycle Center
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -21,5 +20,5 @@ Once this button is pressed, the car will be sold and despawned! You will receiv
 
 Be careful before selling the car with the items you have in the trunk and glove compartment, as they will be lost along with the car.
 
-<div style="text-align: center"><img src="https://i.imgur.com/i9UJFUO.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/i9UJFUO.gif"/></p>
 <p style="text-align: center">REMAT</p>

@@ -1,11 +1,10 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Căutarea in gunoi / Search in the trash
+## Căutarea in gunoi / Search in the trash
 
-### <span style="color: #0088CC">Română</span>>
+### <span style="color: #0088CC">Română</span>
 
 Pe serverul nostru, se oferă posibilitatea de a efectua căutări în containerele de gunoi pentru a obține nu doar ață, ci și alte obiecte valoroase. La momentul actual, sunt amenajate 80 de locații specifice în acest sens pe întregul server.
 
@@ -26,5 +25,5 @@ It is important to note that two or more individuals cannot engage in searching 
 |nothing|unfavorable|
 |special item |unfavorable|
 
-<div style="text-align: center"><img src="https://i.imgur.com/WM6gxn6.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/WM6gxn6.gif"/></p>
 <p style="text-align: center">Search in the trash bin</p>

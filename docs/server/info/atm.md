@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# ATM
+## ATM
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -17,5 +16,5 @@ ATMs are used to deposit or withdraw money quickly. They have predefined amounts
 
 From the ATM, it is not possible to withdraw or add amounts that the player does not have valid. (You cannot withdraw more money than you have in the bank/add more than you have in hand).
 
-<div style="text-align: center"><img src="https://i.imgur.com/5xu950b.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/5xu950b.gif"/></p>
 <p style="text-align: center">ATM</p>

@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Deblocarea joburilor / Jub Unlock system
+## Deblocarea joburilor / Jub Unlock system
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -25,5 +24,5 @@ Experience points are awarded when you complete a shift at any other government 
 
 Experience points cannot be lost and cannot be awarded to another player.
 
-<div style="text-align: center"><img src="https://i.imgur.com/18CvmAb.png"/></div>
-<p style="text-align: center">Fines payment</p>
+<p align="center"><img src="https://i.imgur.com/18CvmAb.png"/></p>
+<p style="text-align: center">Job unlock</p>

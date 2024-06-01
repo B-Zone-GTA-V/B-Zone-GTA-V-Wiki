@@ -1,13 +1,10 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
 # Rules (English)
 
 ## <a id="1"></a><span style="color: #0088CC">CAP. 1 - INTRODUCTION</span>
-
-The last update of the rules & regulations is: March 21, 2024.
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Regulation Agreement</span>
 
@@ -51,13 +48,17 @@ When you respawn at the hospital, you forget the last action you had, the locati
 
 <span style="color: yellow">Example:</span> You are in a roleplay where you were kidnapped. In the location where you are taken, some people appear with masks and others without, but you can identify their cars and license plates. The roleplay evolves, and eventually, those people kill you, you respawn at the hospital and you must forget all the information from the last roleplay.
 
+<span style="color: red">Sanctions:</span>
+
+- First offense: 50-100 Checkpoints 
+- Second offense: 200 Checkpoints 
+- Three or more offenses: Warn
+
 <span style="color: green">Note:</span> When a mafia/group leader kills a member, the latter will forget all the information known about that organization.
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Revenge Kill (RK)</span>
 
 The action of returning to the area where you had a previous roleplay, after accepting your death and respawning. Returning to the initial roleplay area can be done after 30 minutes.
-
-<span style="color: green">Exception:</span> In <a href="#7.7">#7.7 Red Zones</a> rule does not apply.
 
 <span style="color: red">Sanctions:</span>
 
@@ -123,7 +124,7 @@ You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing 
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-<img src="https://i.imgur.com/dtFLZmv.png"/>
+<p align="center"><img src="https://i.imgur.com/dtFLZmv.png"/></p>
 <div style="text-align: center; width: 100%">Annex 2.6.1 Unpopulated Areas</div>
 
 #### <a id="2.6.2"></a><span style="color: #0088CC">2.6.2 Accepting Death</span>
@@ -134,7 +135,7 @@ This action can be taken even if the medic has reached your location. You can ch
 
 <span style="color: yellow">Example:</span> you are shot by the police, you fall into a coma, and the medic reaches you. They start offering first aid, you are allowed to accept your death if the medic does not help you in time.
 
-You are prohibited from pressing the death acceptance key after you have passed through the hospital doors. This action will be sanctioned according to rule <a href="#2.9">#2.9 Refuz RP</a>
+You are prohibited from pressing the death acceptance key after you have passed through the hospital doors. This action will be sanctioned according to rule <a href="#2.9">#2.9 Refusing RP</a>
 
 ### <a id="2.7"></a><span style="color: #0088CC">2.7 RolePlay (RP)</span>
 
@@ -580,6 +581,11 @@ Sharing your account with other people is prohibited. This practice represents a
 - First offense: 30-day ban
 - Second offense: permanent ban
 
+### <a id="4.10"></a><span style="color: #0088CC">4.10 Multiple accounts</span>
+To ensure an authentic and fair experience for all players, only one account per server is allowed. Playing on multiple accounts is strictly prohibited. 
+
+Any violation of this rule will attract penalties, including permanent banning of the accounts involved.
+
 ## <a id="5"></a><span style="color: #0088CC">CAP 5. DRIVING RULES / ACTIONS WITH THE VEHICLE</span>
 
 ### <a id="5.1"></a><span style="color: #0088CC">5.1 Traffic Lights</span>
@@ -756,9 +762,9 @@ If the player(s) can no longer stay, you are allowed to postpone, and the hostag
 
 <span style="color: red">Sanctions:</span>
 
-First offense: 50-100 Checkpoints
-Second offense: 200 Checkpoints
-Three or more offenses: Warn
+- First offense: 50-100 Checkpoints
+- Second offense: 200 Checkpoints
+- Three or more offenses: Warn
 
 ### <a id="7.5"></a><span style="color: #0088CC">7.5 Kidnapping</span>
 
@@ -797,7 +803,7 @@ Red zones are areas where illegal items are planted or manufactured, including t
 It does NOT consider those areas as red zones where there is a legal job that aids in the evolution of an illegal action on the server (example: Miner).
 
 In these zones, the following are <span style="color: green">permitted</span>:
-- Opening fire if communication and negotiation between players are not desired, as everyone knows this area to be illegal, and it is considered a minimum level of roleplay in this regard. In the red zone, the rule of Revenge-Kill does not apply.
+- Opening fire if communication and negotiation between players are not desired, as everyone knows this area to be illegal, and it is considered a minimum level of roleplay in this regard.
 - Robbing persons is possible regardless of time (does not apply to the robbery interval), as long as the persons are on a red zone. All items they hold on them or in the vehicle they came with can be taken.
 - It is permitted to rob persons who are in a COMA using a rope.
 - Persons involved in a fight in a red zone who have used firearms cannot go to a public area.
@@ -824,7 +830,7 @@ An alliance can be made between a maximum of 2 groups recognized by the syndicat
 - Three or more offenses: Warn
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Notorious Areas</span>
-Notorious areas are those dangerous parts of the city where many illegalities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs). These areas are sparsely populated, allowing players to do the following between 20:00 - 08:00:
+Notorious areas are those dangerous parts of the city (marked on the map below) or outside the city where many illegalities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs). These areas are sparsely populated, allowing players to do the following between 20:00 - 08:00:
 
 - Robbing people or vehicles
 - Taking hostages or kidnapping citizens
@@ -836,8 +842,8 @@ Outside the interval of 20:00 - 08:00, the above actions are not allowed and are
 - Second offense: 200 Checkpoints
 - Three or more offenses: warn
 
-<p style="text-align: center"><img src="https://i.imgur.com/uMstusN.png"/></p>
-<div style="text-align: center; width: 100%">Annex 7.9 Notorious Areas</div>
+<p align="center"><img src="https://i.imgur.com/uMstusN.png"/></p>
+<div style="text-align: center; width: 100%">Annex 7.9 Notorious Areas in the city</div>
 
 ### <a id="7.10"></a><span style="color: #0088CC">7.10 Player Robberies</span>
 
@@ -912,13 +918,13 @@ Represents the action of making someone drop all the items from their inventory 
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="7.11"></a><span style="color: #0088CC">7.11 Store Robbery Regulations</span>
-Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 6 people provided that all participants in the robbery have at least 50 hours.
+Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people provided that all participants in the robbery have at least 50 hours.
 
 After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed. About red zones, you can read the rule <a href="#7.7">#7.7 Red Zones</a>.
 
-If a robbery starts with fewer than 6 participants, other people can join up to the maximum number (6). For example: the robbery starts in 2 people, a maximum of 6 more people can be called for reinforcements.
+If a robbery starts with fewer than 8 participants, other people can join up to the maximum number (8). For example: the robbery starts in 2 people, a maximum of 8 more people can be called for reinforcements.
 
-If a player accepts death after the 5 minutes of coma, they can return to the red zone of the robbery, the rule <a href="#2.4">#2.4 Revenge Kill (RK)</a> does not apply. A person who has accepted death cannot be replaced by another colleague in the robbery, only the 6 people involved in the robbery can return to the red zone.
+A person who has accepted death cannot be replaced by another colleague in the robbery.
 
 During the robbery, you cannot have a hostage because the focus is exclusively on robbing a store.
 
@@ -926,19 +932,20 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 75-150 checkpoints
-- Second offense: 300 checkpoints
+- First offense: 50-100 checkpoints
+- Second offense: 200 checkpoints
 - Three or more offenses: Warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Illegalities in Houses and Around Houses</span>
 The following are <span style="color: green">permitted</span> between 20:00 - 08:00:
 - Taking a kidnapped citizen to a house
 - Robbing a citizen in a house
-- Illegal actions near houses
+- Illegal actions near houses in <a href="#7.9">#7.9 Notorious Areas</a>
 
 The following are <span style="color: red">prohibited</span>:
 - Forcing a player to take out items from personal safes
 - Locking the door when being chased by other people/police
+- Illegal actions near houses that are not in <a href="#7.9">#7.9 Notorious Areas</a>
 
 <span style="color: red">Sanctions:</span>
 

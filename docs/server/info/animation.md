@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Sistemul de animații / Animation System
+## Sistemul de animații / Animation System
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -38,5 +37,5 @@ For a quicker activation of animations, the server provides you with the followi
 - The ability to use the command [/saveanimation] to add up to 9 animations to favorites, which can be triggered from the K menu -> Animations -> Quick Animations (see video for the English version).
 - Animations can be interrupted using the command [/c] in the chat.
 
-<div style="text-align: center"><img src="https://i.imgur.com/JFA3E5r.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/JFA3E5r.gif"/></p>
 <p style="text-align: center">Animation shortcuts</p>

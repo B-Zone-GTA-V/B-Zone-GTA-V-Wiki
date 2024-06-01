@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Crearea contului / Account Creation
+## Crearea contului / Account Creation
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -25,10 +24,11 @@ Additionally, during the account registration, you can set the game language, wh
 
 If you encounter connectivity issues (forgot your password), you can always recover it by accessing v.b-zone.ro -> Forgot Password.
 
-<div style="text-align: center"><img src="https://i.imgur.com/LF35Ite.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/LF35Ite.gif"/></p>
 <p style="text-align: center"> Account creation</p>
 
-## <span style="color: #0088CC">Crearea caracterului / Character Creation</span>
+
+## Crearea caracterului / Character Creation
 
 ### <span style="color: #0088CC">Romana</span>
 

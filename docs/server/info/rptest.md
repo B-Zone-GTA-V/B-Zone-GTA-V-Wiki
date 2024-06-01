@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Roleplay Test
+## Roleplay Test
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -24,5 +23,5 @@ This consists of a set of 15 randomly generated questions out of a total of 30 p
 
 The RolePlay test also has a time limit of 30 minutes, and if the time expires, the test will be automatically failed.
 
-<div style="text-align: center"><img src="https://i.imgur.com/cUt6ofT.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/cUt6ofT.gif"/></p>
 <p style="text-align: center">Roleplay Test</p>

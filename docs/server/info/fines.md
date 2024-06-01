@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Plata amenzilor / Paying Fines
+## Plata amenzilor / Paying Fines
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -22,5 +21,5 @@ To see the complete list of fines recorded under your name, you need to go to th
 Upon accumulating 4 unpaid fines, you will no longer be able to work legally (at jobs marked on GPS), so it is crucial to always have your fines paid. If, however, you choose not to pay your fines, you should consider that opportunities to join government factions (police, medics & mechanics) may decrease.
 
 
-<div style="text-align: center"><img src="https://i.imgur.com/GheCPA0.gif"/></div>
+<p align="center"><img src="https://i.imgur.com/GheCPA0.gif"/></p>
 <p style="text-align: center">Fines payment</p>

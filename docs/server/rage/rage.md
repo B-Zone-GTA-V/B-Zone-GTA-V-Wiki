@@ -1,6 +1,7 @@
 ---
-lastUpdated: true
+outline: deep
 ---
+
 # RAGE Multiplayer
 
 ## Ce este RageMP?

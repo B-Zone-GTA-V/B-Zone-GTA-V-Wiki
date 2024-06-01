@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Telefon / Phone
+## Telefon / Phone
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -29,5 +28,5 @@ The phone comes with several applications used as follows:
 |Faction|Leader App|
 |Staff|Admin App|
 
-<div style="text-align: center"><img src="https://i.imgur.com/26NQ8vJ.png"/></div>
+<p align="center"><img src="https://i.imgur.com/26NQ8vJ.png"/></p>
 <p style="text-align: center">Phone</p>

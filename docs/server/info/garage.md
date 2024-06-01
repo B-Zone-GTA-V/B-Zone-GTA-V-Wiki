@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Sistemul de garaje / Garage System
+## Sistemul de garaje / Garage System
 
 ### <span style="color: #0088CC">Română</span>
 

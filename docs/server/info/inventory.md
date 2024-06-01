@@ -1,9 +1,8 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
-# Inventar și rucsac / Inventory & Backpack
+## Inventar și rucsac / Inventory & Backpack
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -28,5 +27,5 @@ The inventory capacity cannot be increased if the player works out; this concept
 It is worth noting that all items in the inventory are deleted when the player accepts their death, as well as the money in hand (displayed when the inventory is open). The only items that do NOT get deleted from the inventory are the equipped ones (clothing items), except for equipped weapons.
 
 
-<div style="text-align: center"><img src="https://i.imgur.com/pAYxWjW.gif"/></div>
-<p style="text-align: center">Settings</p>
+<p align="center"><img src="https://i.imgur.com/pAYxWjW.gif"/></p>
+<p style="text-align: center">inventory system & interface</p>

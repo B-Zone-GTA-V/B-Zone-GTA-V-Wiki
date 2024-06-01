@@ -1,5 +1,5 @@
 ---
-lastUpdated: true
+outline: deep
 ---
 # Pagina in lucru / Work in progress
 
