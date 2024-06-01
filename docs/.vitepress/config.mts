@@ -24,6 +24,7 @@ export default defineConfig({
         text: '🕹️ RAGEMP',
         items: [
           { text: 'RAGE Multiplayer', link: '/server/rage/rage' },
+          { text: 'Probleme RAGE', link: '/server/rage/probleme_rage' },
         ]
       },
       {
