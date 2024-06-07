@@ -100,6 +100,10 @@ In the situation that the ITP of the vehicle is already expired, then the law <a
 
 Driving on public roads with a vehicle that has an expired ITP certificate that can attest that the vehicle is roadworthy and safe to driver is considered a felony and the act will be sanctioned with **revoking the driving license**, a fine of **10.000$** and with **towing the vehicle**.
 
+### <a id="1.17"></a><span style="color: #0088CC">1.16 Driving without license plates</span>
+
+Driving on public roads with a vehicle that does not have displayed valid license plates is conisdered illegal and the act will be sanctioned with **3 points on your license**, a fine of **10.000$** and with **towing the vehicle**.
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 Traffic Felonies</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Fleeing from an officer in a vehicle</span>

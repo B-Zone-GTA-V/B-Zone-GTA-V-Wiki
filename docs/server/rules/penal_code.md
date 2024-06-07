@@ -113,7 +113,11 @@ Orice cetățean care are montate xenoane pe autovehicul sau instalații de ilum
 
 ### <a id="1.16"></a><span style="color: #0088CC">1.16 ITP Expirat</span>
 
-Orice cetățean care circulă pe drumurile publice cu un autovehicul fără un certificat care să ateste că autovehiculul este apt pentru punerea în circulație constituie infracțiune și se pedepsește cu **anularea permisului**, amendă în valoare de **10.000$** și cu **ridicarea autovehiculului**.
+Orice cetățean care circulă pe drumurile publice cu un autovehicul fără un certificat care să ateste că autovehiculul este apt pentru punerea în circulație constituie o infracțiune și se pedepsește cu **anularea permisului**, amendă în valoare de **10.000$** și cu **ridicarea autovehiculului**.
+
+### <a id="1.17"></a><span style="color: #0088CC">1.16 Condusul fără numere de înmatriculare</span>
+
+Orice cetățean care circulă pe drumurile publice cu un autovehicul fără numere de inmatriculare valide constituie o infracțiune și se pedepsește cu **3 puncte pe licență**, amendă în valoare de **10.000$** și cu **ridicarea autovehiculului**.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 Infracțiuni în Trafic</span>
 
