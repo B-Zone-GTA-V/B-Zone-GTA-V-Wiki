@@ -122,6 +122,10 @@ The act of racing anyone on public streets without getting prior permission from
 
 The act of running from the scene of an accident or of a crime, without going to the police or calling them, is a felony and can be punished with the **detention of the suspect for 30-50 months** and a fine of **5.500$**.
 
+### <a id="2.6"></a><span style="color: #0088CC">2.6 Driving without license plates</span>
+
+Any citizen driving a vehicle/motorcyle without having valid license plates is considered to be committing a felony and will be punished with **30-50 months of arrest**, a fine of **10.000$** and the **revoking of the driving license**. 
+
 ## <a id="3"></a><span style="color: #0088CC">CAP. 3 Offenses against good morals, properties and public peace</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Covering the face</span>

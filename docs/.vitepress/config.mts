@@ -24,6 +24,7 @@ export default defineConfig({
         text: '🕹️ RAGEMP',
         items: [
           { text: 'RAGE Multiplayer', link: '/server/rage/rage' },
+          { text: 'Probleme RAGE', link: '/server/rage/probleme_rage' },
         ]
       },
       {
@@ -54,6 +55,7 @@ export default defineConfig({
           { text: 'Job Unlock System', link: '/server/info/jobunlock' },
           { text: 'Search in trash bins', link: '/server/info/trashsearch' },
           { text: 'Phone', link: '/server/info/phone' },
+          { text: 'Books', link: '/server/info/books' },
         ]
       },
       {

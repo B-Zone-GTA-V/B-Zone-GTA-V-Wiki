@@ -137,6 +137,10 @@ Orice cetățean care face orice tip de cursă pe stradă și nu are permisiunea
 
 Orice cetățean care fuge de la locul unui accident sau al unei crime, fără să se prezinte sau să sune la autorități, înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **5.500$**.
 
+### <a id="2.6"></a><span style="color: #0088CC">2.6 Conducerea unui autovehicul neînmatriculat</span>
+
+Orice cetățean care conduce un autovehicul/motocicletă fără a avea o plăcuță de înmatriculat valabilă, înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni**, o amendă în valoare de **10.000$** și **confiscarea permisului**.
+
 ## <a id="3"></a><span style="color: #0088CC">CAP. 3 Infracţiuni asupra bunelor moravuri, proprietăţilor și liniştii publice</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Acoperirea feței</span>
