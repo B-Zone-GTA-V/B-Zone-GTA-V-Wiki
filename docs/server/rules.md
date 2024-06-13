@@ -189,17 +189,16 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 - Prietenul tău îți scrie pe chat să te duci sa îl iei dintr-o locație pentru că nu mai are mașină, iar tu te duci. 
 - Coordonarea pe discord în locul voice chat-ului din joc.
 - Ai auzit diferite informații cât ai fost în comă și te folosești de acestea.
+- Utilizarea tastei Home fără un motiv bine întemeiat(încălcări grave de regulament prin care un roleplay nu poate continua).
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatere: 75-150 checkpoint-uri
-- a doua abatere: 300 checkpoint-uri
-- trei sau mai multe abateri: warn
+- prima abatere: 150-300 checkpoint-uri
+- doua sau mai multe abateri: warn
 
 <span style="color: green">Mențiuni:</span>
-
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- Neprezentarea de dovezi în cazul în care se suspectează un caz de metagaming se sancționează de asemenea.
 
 ### <a id="2.11"></a><span style="color: #0088CC">2.11 StreamSnipe</span>
 
@@ -209,13 +208,18 @@ Este atunci când jucătorii merg după un streamer/youtuber/tiktoker și interv
 
 Reprezintă oferirea informațiilor IC în OOC.
 
-<span style="color: yellow">Exemplu:</span> Un jucător se află în fața unui magazin fără mașină și caută un alt jucător pe chatul din joc solicitându-i să vină să-l ia de acolo.
+<span style="color: yellow">Exemple:</span> 
+- Un jucător se află în fața unui magazin fără mașină și caută un alt jucător pe chatul din joc solicitându-i să vină să-l ia de acolo.
+- Un jucător care transmite pe Discord că a fost omorât la o anumită locație.
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatere: mute 15-60 minute
-- a doua abatere: 75-150 checkpoints
-- trei sau mai multe abateri: warn pana la ban 1 zi în funcție de gravitate 
+- prima abatere: mute 30-60 minute sau 150-300 checkpoint-uri
+- doua sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- Neprezentarea de dovezi în cazul în care se suspectează un caz de mixing se sancționează de asemenea.
 
 ### <a id="2.13"></a><span style="color: #0088CC">2.13 PowerGaming (PG)</span>
 
@@ -328,10 +332,12 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 
 <span style="color: yellow">Exemple:</span>
 
-Ai ajuns în secția de poliție și refuzi cooperarea cu aceștia.
-Refuzul de a părăsi un perimetru la solicitarea departamentului de poliție.
-Pătrunderea pe teren guvernamental neinvitat.
-Refuzul de a coopera sau încercarea de a fugi din fața polițiștilor care au armele îndreptate spre individ
+- Ai ajuns în secția de poliție și refuzi cooperarea cu aceștia.
+- Refuzul de a părăsi un perimetru la solicitarea departamentului de poliție.
+- Pătrunderea pe teren guvernamental neinvitat.
+- Refuzul de a coopera sau încercarea de a fugi din fața polițiștilor care au armele îndreptate spre individ
+- Ridicarea polițiștilor doborâți
+- Oferirea de trusă medicală polițiștilor de către mafioți
 
 <span style="color: red">Sancțiuni:</span>
 
@@ -378,13 +384,11 @@ Reprezintă deconectarea de pe server în mod intenționat în timpul un rolepla
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatere: 75-150 checkpoint-uri
-- a doua abatere: 300 checkpoint-uri
-- trei sau mai multe abateri: warn
+- prima abatere: 150-300 checkpoint-uri
+- două sau mai multe abateri: warn
 
 <span style="color: green">Mențiuni:</span>
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
 Reprezintă orice atitudine sau comportament de superioritate față de ceilalți jucători, jignirea în mod repetat în lipsa unui roleplay anterior.
@@ -490,16 +494,15 @@ Reprezintă instigarea la ceartă a unei persoane sau a unui grup de persoane î
 - Câți polițiști mai vin?
 - Ce slabă este poliția
 - Injurii/jigniri repetate aduse unui jucător în comă
+- Utilizarea de animații în scopul de enerva un jucător în comă
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatere: mute 60-90 minute
-- a doua abatere: 75-150 checkpoint-uri
-- trei sau mai multe abateri: 300 checkpoint-uri
+- prima abatere: mute 60-90 minute sau 150-300 checkpoint-uri
+- doua abatere sau mai multe abateri: warn
 
 <span style="color: green">Mențiuni:</span>
-- Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="3.4"></a><span style="color: #0088CC">3.4 Toxicitate</span>
 Reprezintă încălcări repetate ale regulamentului și distrugerea experienței de joc pentru alți jucători. Această regulă este menită să asigure un mediu de joc pozitiv și plăcut pentru toți membrii comunității. Administrația va lua deciziile necesare pentru menținerea integrității și bunăstării comunității.
@@ -829,13 +832,17 @@ Pe aceste zone sunt <span style="color: red">interzise</span> următoarele:
 - trei sau mai multe abateri: warn
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Alianța între mafii/grupări</span>
-Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindicat. Dacă o grupare nu a fost recunoscută de către sindicat, aceștia nu pot face alianță. În zonele roșii se pot alia mai mult de 2 mafii/grupări doar în cazul în care poliția intervine în aceste zone.
+Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindicat(neoficiale și oficiale). Grupările care nu sunt recunoscute de către sindicat nu se pot alia cu grupări recunoscute(neoficiale și oficiale). În zonele roșii se pot alia mai mult de 2 mafii/grupări doar în cazul în care poliția intervine în aceste zone. 
 
 <span style="color: red">Sancțiuni:</span>
 
 - prima abatare: 50-100 Checkpoint-uri
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Zonele rău famate</span>
 Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta de mai jos) sau din afara acestuia unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi). Aceste zone sunt puțin populate, ceea ce le permite jucătorilor să facă următoarele în intervalul orar 20:00 - 08:00:
@@ -969,6 +976,19 @@ Se permite deturnarea unui transport de deținuți pe autostradă dacă liderul 
 - prima abatare: 50-100 Checkpoint-uri
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
+
+### <a id="7.14"></a><span style="color: #0088CC">7.14 Limite membri la ilegalitati</span>
+**Gang** - Grupare de maxim 10 persoane care nu este recunoscută de către sindicat.
+
+**Grupare neoficială** - Grupare de maxim 15 persoane care este recunoscută de către sindicat.
+
+**Grupare oficială** - Grupare de maxim 21 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
+
+<span style="color: red">Sancțiuni</span> pentru toți membrii care nu respectă acestă regulă. În funcție de gravitatea situației și numărul de abateri se poate sancționa de la 100 Checkpoint-uri pănă la ban 7 zile.
+
+<span style="color: green">Mențiuni:</span>
+
+Orice tip de grupare poate avea mai mulți membri pentru activități legale. Aceste limitări se aplică doar pentru activități ilegale.
 
 ## <a id="8"></a><span style="color: #0088CC">CAP 8. Tickete</span>
 Ticketul reprezintă o formă de contactare a staff-ului serverului pentru a rezolva o problemă sau pentru a raporta o încălcare a regulamentului. 
