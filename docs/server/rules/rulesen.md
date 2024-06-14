@@ -185,16 +185,16 @@ Represents the use of OOC (Out Of Character) information for IC (In Character) p
 - Your friend writes to you on chat to go pick him up from a location because he no longer has a car, and you go. 
 - Coordination on Discord instead of the in-game voice chat.
 - You heard various information while you were in a coma and use it.
+- Using the hotkey "HOME" without a good reason (serious rule violgation from which a roleplay cannot continue).
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 75-150 Checkpoints
-- Second offense: 300 Checkpoints
-- Three or more offenses: Warn
+- First offense: 150-300 Checkpoints
+- Second offense: Warn
 
 <span style="color: green">Notes:</span>
-- For multiple offenses, sanctioning with a 1-3 day ban is possible.
-- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+- The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
+- Not presenting evidence in the case where metagaming is suspected can also be sanctioned.
 
 ### <a id="2.11"></a><span style="color: #0088CC">2.11 StreamSnipe</span>
 
@@ -204,13 +204,18 @@ It is when players follow a streamer/youtuber/tiktoker and interfere in a rolepl
 
 Represents offering IC information in OOC.
 
-<span style="color: yellow">Example:</span> A player is in front of a store without a car and looks for another player on the in-game chat asking them to come and pick him up.
+<span style="color: yellow">Example:</span> 
+- A player is in front of a store without a car and looks for another player on the in-game chat asking them to come and pick him up.
+- A player says on discord that he was killed at a specific location.
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: mute 15-60 minutes
-- Second offense: 75-150 checkpoints
-- Three or more offenses: warn up to a 1-day ban depending on the seriousness
+- First offense: mute 30-60 minutes or 150-300 checkpoints
+- Second offense: warn
+
+<span style="color: green">Notes:</span>
+- The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
+- Not presenting evidence in the case where mixing is suspected can also be sanctioned.
 
 ### <a id="2.13"></a><span style="color: #0088CC">2.13 PowerGaming (PG)</span>
 
@@ -325,17 +330,17 @@ Represents the action by which you are not afraid in the presence of a police bo
 - You have arrived at the police station and refuse cooperation with them.
 - Refusal to leave a perimeter at the request of the police department.
 - Entering government land uninvited.
-- Refusal to cooperate or attempt to flee from police officers who have their weapons pointed at the individual
+- Refusal to cooperate or attempt to flee from police officers who have their weapons pointed at the individual.
+- Picking up downed police officers.
+- Giving medical kits to police officers by gang members.
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 75-150 Checkpoints
-- Second offense: 300 Checkpoints
-- Three or more offenses: Warn
+- First offense: 150-300 Checkpoints
+- Second offense: Warn
 
 <span style="color: green">Notes:</span>
-- For multiple offenses, sanctioning with a 1-3 day ban is possible.
-- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+- The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="2.20"></a><span style="color: #0088CC">2.20 Cop-Bait (CB)</span>
 
@@ -482,16 +487,15 @@ Represents instigating a fight with a person or a group of people following a ro
 - How many policemen are coming?
 - How weak is the police
 - Repeated insults/offenses directed at a player in a coma
+- Using animations with the aim of pissing off a player in a coma
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: mute 60-90 minutes
-- Second offense: 75-150 checkpoints
-- Three or more offenses: 300 checkpoints
+- First offense: mute 60-90 minutes or 150-300 checkpoints
+- Second offense: warn
 
 <span style="color: green">Notes:</span>
-- For multiple offenses, sanctioning with a warn or a 1-3 day ban is possible.
-- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+- The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="3.4"></a><span style="color: #0088CC">3.4 Toxicity</span>
 Represents repeated violations of the regulation and destroying the game experience for other players. This rule is intended to ensure a positive and enjoyable gaming environment for all community members. The administration will make the necessary decisions to maintain the integrity and well-being of the community.
@@ -821,13 +825,18 @@ In these zones, the following are <span style="color: red">prohibited</span>:
 - Three or more offenses: Warn
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Alliance Between Mafias/Groups</span>
-An alliance can be made between a maximum of 2 groups recognized by the syndicate. If a group has not been recognized by the syndicate, they cannot form an alliance. In red zones, more than 2 mafias/groups can ally only if the police intervene in these areas.
+An alliance can be made between a maximum of 2 groups recognized by the syndicate(unofficial and official). If a group has not been recognized by the syndicate, they cannot form an alliance with recognized groups. In red zones, more than 2 mafias/groups can ally only if the police intervene in these areas.
 
 <span style="color: red">Sanctions:</span>
 
 - First offense: 50-100 Checkpoints
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
+
+<span style="color: green">Notes:</span>
+
+- For multiple rule violations, sanctioning with a 1-3 day ban is possible.
+- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Notorious Areas</span>
 Notorious areas are those dangerous parts of the city (marked on the map below) or outside the city where many illegalities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs). These areas are sparsely populated, allowing players to do the following between 20:00 - 08:00:
@@ -961,6 +970,19 @@ Hijacking a prisoner transport on the highway is allowed if the leader or at lea
 - First offense: 50-100 Checkpoints
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
+
+### <a id="7.14"></a><span style="color: #0088CC">7.14 Limite membri la ilegalitati</span>
+**Gang** - A group of maximum 10 people not recognized by the syndicate.
+
+**Grupare neoficială** - A group of maximum 15 people recognized by the syndicate.
+
+**Grupare oficială** - A group of maximum 21 people not recognized by the syndicate that has been in business with the syndicate for a longer period of time.
+
+<span style="color: red">Sanctions:</span> For all members that do not obey this rule. Depending on the severity and multiple rule violations, the sanction can range from 100 checkpoints to 7 day ban.
+
+<span style="color: green">Mențiuni:</span>
+
+Any type of group can have more members for legal activities. These limits only apply to illegal activities.
 
 ## <a id="8"></a><span style="color: #0088CC">CAP 8. Tickets</span>
 A ticket represents a form of contacting the server's staff to solve a problem or to report a violation of the regulations.
