@@ -391,12 +391,11 @@ Reprezintă deconectarea de pe server în mod intenționat în timpul un rolepla
 - Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
-Reprezintă orice atitudine sau comportament de superioritate față de ceilalți jucători, jignirea în mod repetat în lipsa unui roleplay anterior.
+Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, în **lipsa unui roleplay anterior**.
 
 <span style="color: yellow">Exemple:</span>
 - Jignirea jucătorilor fără un motiv întemeiat.
 - Emanarea unui aer de superioritate față de oamenii care lucrează la un job legal.
-- Folosirea repetată a insultelor despre familie și decese într-un mod vulgar și nepotrivit în conversațiile cu alți jucători
 
 <span style="color: red">Sancțiuni:</span>
 

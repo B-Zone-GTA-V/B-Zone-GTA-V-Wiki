@@ -390,7 +390,6 @@ Represents any attitude or behavior of superiority towards other players, repeat
 <span style="color: yellow">Examples:</span>
 - Insulting players without a valid reason.
 - Emitting an air of superiority towards people working at a legal job.
-- Repeated use of insults about family and deaths in a vulgar and inappropriate manner in conversations with other players.
 
 <span style="color: red">Sanctions:</span>
 
