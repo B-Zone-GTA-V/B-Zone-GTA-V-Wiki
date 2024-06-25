@@ -127,7 +127,9 @@ Orice cetățean care conduce un vehicul fără să aibă un permis de conducere
 
 ### <a id="2.3"></a><span style="color: #0088CC">2.3 Conducere sub influența drogurilor sau a alcoolului</span>
 
-Orice cetățean care este la volan și deține valoarea de 0.1% alcool în sânge sau este sub influența oricărui tip de narcotice și pune în pericol viața unui civil sau propria viață înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni**, **confiscarea permisului** și cu o amendă în valoare de **6.000$**.
+Orice cetățean care este la volan și deține valoarea de **0.8% alcool în sânge** sau este sub influența oricărui tip de narcotice și pune în pericol viața unui civil sau propria viață înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni**, **confiscarea permisului** și cu o amendă în valoare de **6.000$**.
+
+Pentru o concentrație de alcool între **0,1% și 0,7%**, se comite o contravenție care se pedepsește cu o amendă de **5.000$ și confiscarea permisului de conducere**.
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Curse ilegale</span>
 
@@ -140,6 +142,10 @@ Orice cetățean care fuge de la locul unui accident sau al unei crime, fără s
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Conducerea unui autovehicul neînmatriculat</span>
 
 Orice cetățean care conduce un autovehicul/motocicletă fără a avea o plăcuță de înmatriculat valabilă, înfăptuiește o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni**, o amendă în valoare de **10.000$** și **confiscarea permisului**.
+
+### <a id="2.6"></a><span style="color: #0088CC">2.7 Refuzul preluarii de probe biologice</span>
+
+Orice cetatean care refuza preluarea de monstre biologice constituie infractiune, ce se poate pedepsi cu **retinerea suspectului timp de 50-60 luni**, cu amenda in valoare de **15.000$**, si **confiscarea permisului de conducere**.
 
 ## <a id="3"></a><span style="color: #0088CC">CAP. 3 Infracţiuni asupra bunelor moravuri, proprietăţilor și liniştii publice</span>
 
