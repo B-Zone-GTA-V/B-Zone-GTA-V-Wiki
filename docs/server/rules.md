@@ -744,7 +744,7 @@ Acțiunile ilegale cuprind:
 - trei sau mai multe abateri: warn
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zona publică</span>
-Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de masini sau orice alt tip de afacere, respectiv interiorul acestora.
+Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de masini sau orice alt tip de afacere, respectiv interiorul acestora (acestea locuri de interes trebuie să fie marcate pe hartă, în caz contrar sunt considerate abandonate iar regula nu se aplică).
 
 Denumim zone publice locurile în care în realitate ar exista camere de luat vederi sau ar fi o zona des circulată.
 
@@ -816,7 +816,6 @@ Pe aceste zone sunt <span style="color: green">permise</span> următoarele:
 - Deschiderea focului în cazul în care nu se dorește comunicarea și negocierea între jucători, deoarece toată lumea cunoaște această zonă ca fiind una ilegală și se consideră un minim de roleplay în acest sens.
 - Jefuirea persoanelor se poate realiza indiferent de oră (nu se aplică intervalul de jaf), atâta timp cât persoanele se află pe zonă roșie. Se pot lua toate obiectele pe care le deține asupra sa sau din vehiculul cu care a venit.
 - Este permisă jefuirea persoanelor care sunt în stare de COMA folosind sfoara.
-- Persoanele implicate într-o bătaie în zonă roșie care au folosit armele de foc nu pot pleca într-o zonă publică.
 
 Pe aceste zone sunt <span style="color: red">interzise</span> următoarele:
 - Apelarea medicilor în urma unor schimburi de focuri prin actionarea tastei N, respectiv apel telefonic creat de alt participant.
@@ -844,7 +843,7 @@ Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindica
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Zonele rău famate</span>
-Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta de mai jos) sau din afara acestuia unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi). Aceste zone sunt puțin populate, ceea ce le permite jucătorilor să facă următoarele în intervalul orar 20:00 - 08:00:
+Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta de mai jos) sau din afara acestuia unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă). Aceste zone sunt puțin populate, ceea ce le permite jucătorilor să facă următoarele în intervalul orar 20:00 - 08:00:
 
 - Jefuirea persoanelor sau a vehiculelor
 - Luarea de ostatic respectiv rapirea cetatenilor
@@ -856,7 +855,7 @@ Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta d
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-<p align="center"><img src="https://i.imgur.com/uMstusN.png"/></p>
+<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
 <div style="text-align: center; width: 100%">Anexa 7.9 Zone rău famate din oraș</div>
 
 ### <a id="7.10"></a><span style="color: #0088CC">7.10 Jafuri jucători</span>

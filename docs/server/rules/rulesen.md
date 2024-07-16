@@ -737,7 +737,7 @@ Illegal actions include:
 - Three or more offenses: Warn
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Illegalities in Public Area</span>
-An action is considered illegal in a public area when a person or a group of people commit a crime in a densely populated area, a job/hobby zone, on a highway, or near a shop, gas station, banks, ATMs, car garages, or any other type of business, including their interiors.
+An action is considered illegal in a public area when a person or a group of people commit a crime in a densely populated area, a job/hobby zone, on a highway, or near a shop, gas station, banks, ATMs, car garages, or any other type of business, including their interiors (those points of interest must be marked on the map, any other is considere abandoned).
 
 Public areas are defined as places where, in reality, there would be surveillance cameras or it would be a heavily trafficked area.
 
@@ -809,7 +809,6 @@ In these zones, the following are <span style="color: green">permitted</span>:
 - Opening fire if communication and negotiation between players are not desired, as everyone knows this area to be illegal, and it is considered a minimum level of roleplay in this regard.
 - Robbing persons is possible regardless of time (does not apply to the robbery interval), as long as the persons are on a red zone. All items they hold on them or in the vehicle they came with can be taken.
 - It is permitted to rob persons who are in a COMA using a rope.
-- Persons involved in a fight in a red zone who have used firearms cannot go to a public area.
 
 In these zones, the following are <span style="color: red">prohibited</span>:
 - Calling medics after exchanges of fire by pressing the N key, or a phone call created by another participant.
@@ -838,7 +837,7 @@ An alliance can be made between a maximum of 2 groups recognized by the syndicat
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Notorious Areas</span>
-Notorious areas are those dangerous parts of the city (marked on the map below) or outside the city where many illegalities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs). These areas are sparsely populated, allowing players to do the following between 20:00 - 08:00:
+Notorious areas are those dangerous parts of the city (marked on the map below) or outside the city where many illegalities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs - marked on the map). These areas are sparsely populated, allowing players to do the following between 20:00 - 08:00:
 
 - Robbing people or vehicles
 - Taking hostages or kidnapping citizens
@@ -850,7 +849,7 @@ Outside the interval of 20:00 - 08:00, the above actions are not allowed and are
 - Second offense: 200 Checkpoints
 - Three or more offenses: warn
 
-<p align="center"><img src="https://i.imgur.com/uMstusN.png"/></p>
+<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
 <div style="text-align: center; width: 100%">Annex 7.9 Notorious Areas in the city</div>
 
 ### <a id="7.10"></a><span style="color: #0088CC">7.10 Player Robberies</span>
