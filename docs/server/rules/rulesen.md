@@ -775,7 +775,7 @@ Is permitted, adhering to the following requirements:
 - Use a lethal weapon to threaten.
 - The area from which they are kidnapped must be secluded.
 - Use a vehicle in which the kidnapped person is placed and have at least 2 people from the group organizing the kidnapping present. Inviting people from public areas cannot be done forcibly or under threat.
-- Between the hours of 20:00 - 08:00
+- Between the hours of <span style="color:yellowgreen">**20:00 - 08:00**</span>
 - The kidnapped person should not be at a legal job or on the route from the job.
 
 <span style="color: red">Sanctions:</span>
@@ -837,28 +837,70 @@ An alliance can be made between a maximum of 2 groups recognized by the syndicat
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Notorious Areas</span>
-Notorious areas are those dangerous parts of the city (marked on the map below) or outside the city where many illegalities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs - marked on the map). These areas are sparsely populated, allowing players to do the following between 20:00 - 08:00:
+<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
+<div style="text-align: center; width: 100%">Appendix 7.9 Notorious Areas of the City</div>
 
+<h3 style="color:green; border-bottom: 1px solid silver;">GREEN ZONES/ROADS</h3><br>
+Public areas, frequented by many people and usually monitored by surveillance cameras, are places where committing illegal activities is not allowed. The regulation of <a href="#7.3">#7.3 Illegalities in Public Areas</a> applies here.
+
+<h3 style="color:pink; border-bottom: 1px solid silver;">PINK ZONES</h3><br>
+Notorious areas are those dangerous parts of the city (marked on the map below) or outside the city where many illegal activities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs - marked on the map).
+
+The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Robbing people or vehicles
 - Taking hostages or kidnapping citizens
-- Opening fire based on a prior roleplay
+- Opening fire based on a previous roleplay
 
-Outside the interval of 20:00 - 08:00, the above actions are not allowed and are <span style="color: red">sanctioned</span> with:
+The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
+- Opening fire on police officers, considering it your territory and that the police have no business being there
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: warn
+<h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.9.1"></a>YELLOW ZONES/ROADS</h3><br>
+These are semi-public or semi-notorious areas that mark the transition between a public area and a dangerous one. In these areas, illegal activities are committed at your own risk. It is allowed to kidnap or use weapons for kidnappings, but robberies are prohibited. To kill someone in these areas, you must have a solid reason. These roads are usually frequently traveled, so there is a risk of being seen committing illegal activities, which we want to avoid. Yellow zones are near red zones, so it is recommended to kidnap from the yellow zone and move to the red zone to continue the roleplay (RP).
 
-<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
-<div style="text-align: center; width: 100%">Annex 7.9 Notorious Areas in the city</div>
+The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
+- Taking hostages or kidnapping citizens
+- Opening fire based on previous roleplay and a very well-founded reason.
+**<span style="color:red">BEING STOPPED AT A TRAFIC STOP IS NOT A GOOD ENOUGH REASON TO OPEN FIRE ON THE COP</span>**
+
+Between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
+- The regulation of <a href="#7.3">#7.3 Illegalities in Public Areas</a> applies
+
+<h3 style="color:red; border-bottom: 1px solid silver;">RED ZONES</h3><br>
+Red zones, where the red zone regulations apply. <a href="#7.7">#7.7 Red Zones</a>
+
+<h3 style="color:gray; border-bottom: 1px solid silver;">GRAY ZONES / PINK ROADS</h3><br>
+These are unpopulated areas or roads where illegal activities are permitted.
+
+The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
+- Robbing people or vehicles
+- Taking hostages or kidnapping citizens
+- Opening fire based on previous roleplay
+
+The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
+- The regulation of <a href="#7.3">#7.3 Illegalities in Public Areas</a> applies<br><br>
+
+<span style="color: green">Notes and Exceptions:</span>
+- There is no abuse of green zones. Once an action starts in a notorious, red, gray, or pink road area, you have the right to continue it in the green/public or yellow zone, but at your own risk. Passersby or even the police can see you.
+- Between the green zones, there are some secluded areas (for example, Rockford area - between buildings, behind buildings). If you manage to lure another player there, you can kidnap, rob, or kill them.
+- On the yellow streets of notorious areas, it is forbidden to rob or kidnap right in that perimeter. The robbery must be moved to a notorious area, not on the semi-public street.
+- The regulation of illegal activities in public areas applies regardless if it is a notorious, semi-notorious, or gray area. The only exceptions are those mentioned above. You still cannot rob someone at a gas station even if it is in Grove.
+
+<span style="color: green">Examples:</span>
+- An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.
+- In general, you must be careful in the areas where you commit illegal activities, ensuring they are not frequented by people or vehicles, do not have surveillance cameras, and are not near a police station. Practically, illegal activities are permitted in secluded and hidden areas. Attention, you are not allowed to kidnap from the green zone and take between buildings for robbery or murder; try to lure people into these areas.
+
+Any other illegal action not specified within a time frame is prohibited. Violating the above time frames will be <span style="color: red">sanctioned</span> with:
+- first offense: 50-100 Checkpoints
+- second offense: 200 Checkpoints
+- three or more offenses: warning
 
 ### <a id="7.10"></a><span style="color: #0088CC">7.10 Player Robberies</span>
 
-The time interval in which you can rob a player is 20:00 - 08:00.
+The time interval in which you can rob a player is <span style="color:yellowgreen">**20:00 - 08:00**</span>.
 
 To be able to rob, you need at least one white weapon / a firearm on you.
 
-Robbing players can only be done in <a href="#7.7">#7.7 Red Zones</a> and <a href="#7.9">#7.9 Notorious Areas</a>, adhering to the conditions of these rules.
+Robbing players can only be done in <a href="#7.7">#7.7 Red Zones</a>, <a href="#7.9">#7.9 Notorious Areas</a> and <a href="#7.9.1">Gray areas / pink roads</a>, adhering to the conditions of these rules.
 
 You can only rob a person of the money and items they have on them and the items in the vehicle they were driving at the moment they were robbed.
 
@@ -867,6 +909,7 @@ It is <span style="color: red">prohibited</span>:
 - to rob people in public places. See rule <a href="#7.3">#7.3 Illegalities in Public Area</a>
 - to rob a medic or a policeman who is on duty or people who are at legal workplaces if they are in uniform.
 - to rob a player who is working at a legal job. See <a href="#6.1">#6.1 Legal Jobs</a>
+- to rob the same player in a smaller window than 2 hour
 
 <span style="color: red">Sanctions:</span>
 
@@ -884,7 +927,7 @@ Represents the action of robbing and subsequently killing a person. It is prohib
 
 <span style="color: yellow">Examples:</span>
 
-- You kidnap a person, take them to a secluded place, and rob them.
+- You kidnap a person, take them to a secluded place kill them and rob them.
 - You rob a person and call someone else to kill them having a pre-established plan.
 
 <span style="color: green">Rule exceptions:</span>
@@ -944,15 +987,17 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 - Three or more offenses: Warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Illegalities in Houses and Around Houses</span>
-The following are <span style="color: green">permitted</span> between 20:00 - 08:00:
+The following are <span style="color: green">permitted</span> between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Taking a kidnapped citizen to a house
 - Robbing a citizen in a house
-- Illegal actions near houses in <a href="#7.9">#7.9 Notorious Areas</a>
 
 The following are <span style="color: red">prohibited</span>:
 - Forcing a player to take out items from personal safes
 - Locking the door when being chased by other people/police
 - Illegal actions near houses that are not in <a href="#7.9">#7.9 Notorious Areas</a>
+- It is strictly forbidden to wait outside a player's house with the intention of robbing or killing them as they exit. <br>
+*Example: I saw you in Grove and watched you enter your house. I did not interact with you until then and waited outside to rob you when you came out. If you interact with them and try to rob them, and they run into their house and lock the door, you are not allowed to camp outside. At that moment, they have violated the rule of locking a door during a chase. If you know that someone lives in a house in a notorious area, you have the right to wait on the nearby streets or other relatively close areas to try and rob them, but not immediately outside their house.*
+
 
 <span style="color: red">Sanctions:</span>
 
