@@ -849,13 +849,12 @@ Notorious areas are those dangerous parts of the city (marked on the map below) 
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Robbing people or vehicles
 - Taking hostages or kidnapping citizens
-- Opening fire based on a previous roleplay
 
 The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
-- Opening fire on police officers, considering it your territory and that the police have no business being there
+- Opening fire based on a previous roleplay or a very good reasoning (Example: You control the Grove area and a rival mafia enters your territory, you have the right to open fire on them)
 
 <h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.9.1"></a>YELLOW ZONES/ROADS</h3><br>
-These are semi-public or semi-notorious areas that mark the transition between a public area and a dangerous one. In these areas, illegal activities are committed at your own risk. It is allowed to kidnap or use weapons for kidnappings, but robberies are prohibited. To kill someone in these areas, you must have a solid reason. These roads are usually frequently traveled, so there is a risk of being seen committing illegal activities, which we want to avoid. Yellow zones are near red zones, so it is recommended to kidnap from the yellow zone and move to the red zone to continue the roleplay (RP).
+These are semi-public or semi-notorious areas that mark the transition between a public area and a dangerous one. In these areas, illegal activities are committed at your own risk. It is allowed to kidnap or use weapons for kidnappings, but robberies are prohibited. To kill someone in these areas, you must have a solid reason. These roads are usually frequently traveled, so there is a risk of being seen committing illegal activities, which we want to avoid. Yellow zones are near notorious areas, so it is recommended to kidnap from the yellow zone and move to the notorious areas to continue the roleplay (RP).
 
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Taking hostages or kidnapping citizens
@@ -869,7 +868,7 @@ Between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
 Red zones, where the red zone regulations apply. <a href="#7.7">#7.7 Red Zones</a>
 
 <h3 style="color:gray; border-bottom: 1px solid silver;">GRAY ZONES / PINK ROADS</h3><br>
-These are unpopulated areas or roads where illegal activities are permitted.
+These are unpopulated areas or roads where illegal activities are permitted. Pretty much, these are roads that have not been marked on the map above with any color, alleys between buildings, roads through the mountains, or on the edge of the map.
 
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Robbing people or vehicles
@@ -880,10 +879,11 @@ The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:
 - The regulation of <a href="#7.3">#7.3 Illegalities in Public Areas</a> applies<br><br>
 
 <span style="color: green">Notes and Exceptions:</span>
-- There is no abuse of green zones. Once an action starts in a notorious, red, gray, or pink road area, you have the right to continue it in the green/public or yellow zone, but at your own risk. Passersby or even the police can see you.
-- Between the green zones, there are some secluded areas (for example, Rockford area - between buildings, behind buildings). If you manage to lure another player there, you can kidnap, rob, or kill them.
-- On the yellow streets of notorious areas, it is forbidden to rob or kidnap right in that perimeter. The robbery must be moved to a notorious area, not on the semi-public street.
-- The regulation of illegal activities in public areas applies regardless if it is a notorious, semi-notorious, or gray area. The only exceptions are those mentioned above. You still cannot rob someone at a gas station even if it is in Grove.
+- There is no abuse of the green zone. Once an action starts in a notorious, red, gray, or pink road area, you have the right to continue it in the green/public or yellow zone, but at your own risk. Bystanders or even the police may see you.
+- Any illegal action that reaches the green/yellow zones must not last more than 5 minutes; otherwise, the rule <a href="#7.6">#7.6 Terrorist Actions</a> will apply.
+- An action is considered finished when at least 10 minutes have passed since the last interaction between the involved parties.
+- Between the green zones, there are certain secluded areas (e.g., the Rockford area - between blocks, behind buildings). If you manage to lure another player there, you can kidnap, rob, or kill them. Essentially, the Gray Zone rule applies.
+- On the yellow streets in notorious areas, it is forbidden to rob exactly within that perimeter. The robbery must be moved to a notorious area, not on the semi-public street
 
 <span style="color: green">Examples:</span>
 - An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.
@@ -909,7 +909,7 @@ It is <span style="color: red">prohibited</span>:
 - to rob people in public places. See rule <a href="#7.3">#7.3 Illegalities in Public Area</a>
 - to rob a medic or a policeman who is on duty or people who are at legal workplaces if they are in uniform.
 - to rob a player who is working at a legal job. See <a href="#6.1">#6.1 Legal Jobs</a>
-- to rob the same player in a smaller window than 2 hour
+- to rob the same player in a smaller window than 2 hours (People who have been robbed are not allowed to abuse this rule and must continue to role-play the fear of being robbed)
 
 <span style="color: red">Sanctions:</span>
 

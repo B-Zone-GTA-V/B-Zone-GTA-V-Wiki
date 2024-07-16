@@ -855,13 +855,12 @@ Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta d
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
 - Luarea de ostatic respectiv rapirea cetatenilor
-- Deschiderea focului în baza unui roleplay anterior
 
-Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
-- Deschiderea focului asupra polițiștilor, se consideră faptul că acela este teritoriul vostru iar poliția nu are ce căuta acolo
+Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**00:00 - 24:00**</span>:
+- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlati zona Grove iar o mafie rivala vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
 
 <h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.9.1"></a>ZONE/DRUMURI GALBENE</h3><br>
-Acestea sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar jafurile sunt interzise. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele roșii, așa că se recomandă răpirea din zona galbenă și mutarea în zona roșie pentru continuarea acțiunii de rol (RP).
+Acestea sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar jafurile sunt interzise. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea acțiunii de rol (RP).
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Luarea de ostatic respectiv rapirea cetatenilor
@@ -875,7 +874,7 @@ Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:0
 Zone roșii, aici se aplică regulamentul zonelor roșii.<a href="#7.7">#7.7 Zonele roșii</a>
 
 <h3 style="color:gray; border-bottom: 1px solid silver;">ZONE GRI / DRUMURI ROZ</h3><br>
-Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități.
+Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități. În principiu sunt drumurile ce nu au fost marcate pe harta de mai sus cu nici o culoare, alei între cladiri, drumuri prin munti sau prin extremitatea hărții.
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
@@ -886,9 +885,11 @@ Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:0
 - Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a><br><br>
 
 <span style="color: green">Mențiuni și Exceptii:</span>
-- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă rău famată, roșie, gri sau drumuri roz, aveți dreptul să o continuați în zona verde/publică sau galbenă, dar pe propria răspundere. Trecătorii sau chiar poliția vă pot vedea
-- Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți.
-- Pe străzile galbene din zonele rău famate, este interzis să jefuiți sau să răpiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică.
+- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă rău famată, roșie, gri sau drumuri roz, aveți dreptul să o continuați în zona verde/publică sau galbenă, dar pe propria răspundere. Trecătorii sau chiar poliția vă pot vedea. - Orice acțiune ilegala ce ajung pe zonele verzi/galbene nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>
+- O acțiune se considera încheiata în momentul în care au trecut cel putin 10 minute de la ultima înteracțiune între parțile implicate
+
+- Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. În principiu se aplică regula de Zone Gri.
+- Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică.
 - Regula de ilegalitate în zona publică se aplică indiferent dacă e zonă rău famată, semifamată sau gri. Singurele excepții sunt cele menționate mai sus. În continuare nu puteți să jefuiți pe cineva în benzinărie chair daca aceasta este in Grove.
 
 <span style="color: green">Exemple:</span>
@@ -915,7 +916,7 @@ Este <span style="color: red">interzis</span>:
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
-- jefuirea aceluiasi individ intr-un interval mai mic de 2 ore
+- jefuirea aceluiasi individ intr-un interval mai mic de 2 ore (Persoanele care au fost jefuite nu au voie sa abuzeze de această regula și trebuie să ruleze în continuare frica de jefuire)
 
 <span style="color: red">Sancțiuni:</span>
 
