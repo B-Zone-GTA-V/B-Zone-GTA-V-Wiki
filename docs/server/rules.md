@@ -783,7 +783,7 @@ Este permisă, respectând următoarele cerințe:
 - Să se folosească o armă letală pentru a amenința.
 - Zona din care sunt răpiți să fie o zonă retrasă.
 - Să se folosească un vehicul în care este pusă persoana răpită și să se afle minim 2 persoane din grupul care organizează răpirea. Invitarea persoanelor din zone publice nu se poate face cu forța sau sub amenințare.
-- În intervalul orar 20:00 - 08:00
+- În intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>
 - Persoana răpită sa nu fie la un job legal sau pe traseul de la job.
 
 <span style="color: red">Sancțiuni:</span>
@@ -843,28 +843,70 @@ Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindica
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Zonele rău famate</span>
-Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta de mai jos) sau din afara acestuia unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă). Aceste zone sunt puțin populate, ceea ce le permite jucătorilor să facă următoarele în intervalul orar 20:00 - 08:00:
+<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
+<div style="text-align: center; width: 100%">Anexa 7.9 Zone rău famate din oraș</div>
 
+<h3 style="color:green; border-bottom: 1px solid silver;">ZONE/DRUMURI VERZI</h3><br>
+Zone publice, frecventate de multe persoane și de obicei monitorizate prin camere de supraveghere, sunt zone unde nu este permis să comiți ilegalități. Aici se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
+
+<h3 style="color:pink; border-bottom: 1px solid silver;">ZONE ROZ</h3><br>
+Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta de mai jos) sau din afara acestuia unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
+
+Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
 - Luarea de ostatic respectiv rapirea cetatenilor
 - Deschiderea focului în baza unui roleplay anterior
 
-În afara intervalului 20:00 - 08:00 nu sunt permise acțiunile de mai sus și se <span style="color: red">sancționează</span> cu:
+Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
+- Deschiderea focului asupra polițiștilor, se consideră faptul că acela este teritoriul vostru iar poliția nu are ce căuta acolo
 
+<h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.9.1"></a>ZONE/DRUMURI GALBENE</h3><br>
+Acestea sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar jafurile sunt interzise. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele roșii, așa că se recomandă răpirea din zona galbenă și mutarea în zona roșie pentru continuarea acțiunii de rol (RP).
+
+Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+- Luarea de ostatic respectiv rapirea cetatenilor
+- Deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat. 
+**<span style="color:red">OPRIREA LA UN TRAFIC STOP NU ESTE UN MOTIV BINE ÎNTEMEIAT PENTRU A DESCHIDE FOCUL ÎN ACESTE ZONE</span>**
+
+În intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
+- Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
+
+<h3 style="color:red; border-bottom: 1px solid silver;">ZONE ROSII</h3><br>
+Zone roșii, aici se aplică regulamentul zonelor roșii.<a href="#7.7">#7.7 Zonele roșii</a>
+
+<h3 style="color:gray; border-bottom: 1px solid silver;">ZONE GRI / DRUMURI ROZ</h3><br>
+Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități.
+
+Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+- Jefuirea persoanelor sau a vehiculelor
+- Luarea de ostatic respectiv rapirea cetatenilor
+- Deschiderea focului în baza unui roleplay anterior
+
+Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
+- Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a><br><br>
+
+<span style="color: green">Mențiuni și Exceptii:</span>
+- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă rău famată, roșie, gri sau drumuri roz, aveți dreptul să o continuați în zona verde/publică sau galbenă, dar pe propria răspundere. Trecătorii sau chiar poliția vă pot vedea
+- Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți.
+- Pe străzile galbene din zonele rău famate, este interzis să jefuiți sau să răpiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică.
+- Regula de ilegalitate în zona publică se aplică indiferent dacă e zonă rău famată, semifamată sau gri. Singurele excepții sunt cele menționate mai sus. În continuare nu puteți să jefuiți pe cineva în benzinărie chair daca aceasta este in Grove.
+
+<span style="color: green">Exemple:</span>
+- Acțiunea începe în zona rău famată Labirint și se extinde spre Mirror sau autostradă. Aceasta nu va fi considerată ilegalitate în zona publică, deoarece acțiunea a început într-o zonă rău famată și a ajuns într-o zonă publică
+- În general, trebuie să fiți atenți în zonele în care comiteți ilegalități, să nu fie tranzitate de oameni sau mașini, să nu aibă camere de supraveghere sau să nu fie aproape de o secție de poliție. Practic, ilegalitățile sunt permise în zonele ferite și ascunse. Atenție, nu aveți voie să răpiți din zona verde și să duceți între blocuri pentru jefuire sau omor, încercați să atrageți persoanele în aceste zone.
+
+Orice altă acțiune ilegala nespecifitată într-un interval este interzisă. Încălcarea întervalelor orare de mai sus se <span style="color: red">sancționează</span> cu:
 - prima abatare: 50-100 Checkpoint-uri
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
-<div style="text-align: center; width: 100%">Anexa 7.9 Zone rău famate din oraș</div>
-
 ### <a id="7.10"></a><span style="color: #0088CC">7.10 Jafuri jucători</span>
 
-Intervalul orar în care puteți jefui un jucător este 20:00 - 08:00.
+Intervalul orar în care puteți jefui un jucător este <span style="color:yellowgreen">**20:00 - 08:00**</span>.
 
 Pentru a putea jefui, aveți nevoie de minim o armă albă / o armă de foc asupra voastră.
 
-Jefuirea jucătorilor se poate face doar în <a href="#7.7">#7.7 Zonele roșii</a> și <a href="#7.9">#7.9 Zonele rău famate</a> respectând condițiile acestor reguli.
+Jefuirea jucătorilor se poate face doar în <a href="#7.7">#7.7 Zonele roșii</a>, <a href="#7.9">#7.9 Zonele rău famate</a> și <a href="#7.9.1">Zonele gri/ drumuri roz</a> respectând condițiile acestor reguli.
 
 Puteți să jefuiți o persoană doar de banii și obiectele care se află asupra sa și de obiectele care se află în vehiculul pe care îl conducea în momentul în care a fost jefuit.
 
@@ -873,6 +915,7 @@ Este <span style="color: red">interzis</span>:
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
+- jefuirea aceluiasi individ intr-un interval mai mic de 2 ore
 
 <span style="color: red">Sancțiuni:</span>
 
@@ -890,7 +933,7 @@ Reprezintă acțiunea de a jefui, ulterior omorî o persoană. Este interzisă o
 
 <span style="color: yellow">Exemple:</span>
 
-- Ai răpit o persoană, o duci într-un loc ferit și o jefuiești.
+- Ai răpit o persoană, o duci într-un loc ferit să o omori și o jefuiești.
 - Jefuiești o persoană și chemi pe altcineva să-l omoare având un plan stabilit anterior.
 
 <span style="color: green">Excepții de la regulă:</span>
@@ -950,15 +993,16 @@ Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, câ
 - trei sau mai multe abateri: warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Ilegalități în case și în jurul caselor</span>
-Sunt <span style="color: green">permise</span> următoarele în intervalul 20:00 - 08:00:
+Sunt <span style="color: green">permise</span> următoarele în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - ducerea unui cetățean răpit în casă
 - jefuirea unui cetățean în casă
-- acțiuni ilegale în apropierea caselor din <a href="#7.9">7.9 Zonele rău famate</a>
 
 Sunt <span style="color: red">interzise</span> următoarele:
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.9">7.9 Zonele rău famate</a>
+- Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br>
+*Exemplu: Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
 
 <span style="color: red">Sancțiuni:</span>
 
