@@ -888,7 +888,7 @@ Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:0
 - Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a><br><br>
 
 <span style="color: green">Mențiuni și Exceptii:</span>
-- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă rău famată, roșie, gri sau drumuri roz, aveți dreptul să o continuați în zona verde/publică sau galbenă, dar pe propria răspundere. Trecătorii sau chiar poliția vă pot vedea. - Orice acțiune ilegala ce ajung pe zonele verzi/galbene nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>
+- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă rău famată, roșie, gri sau drumuri roz, aveți dreptul să o continuați în zona verde sau galbenă. De precizat e faptul ca pe zonele verzi singura actiune ilegala admisă este răpirea în afara institutilor guvernamentale (Primarie, Secție de poliție, Spital etc.). Orice acțiune ilegala ce ajung pe zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>
 - O acțiune se considera încheiata în momentul în care au trecut cel putin 10 minute de la ultima înteracțiune între parțile implicate
 
 - Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. În principiu se aplică regula de Zone Gri.
