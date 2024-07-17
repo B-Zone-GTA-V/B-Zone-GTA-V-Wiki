@@ -879,7 +879,10 @@ Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalit
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
 - Luarea de ostatic respectiv rapirea cetatenilor
-- Deschiderea focului în baza unui roleplay anterior
+- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat 
+
+Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:yellowgreen">**00:00 - 24:00**</span>:
+- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Sunteti urmariti de politie si vreti sa faceti o ambuscada, drumurile acestea retrase pot sa fie folosite in respectivele actiuni)
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
 - Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a><br><br>

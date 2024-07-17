@@ -858,7 +858,7 @@ These are semi-public or semi-notorious areas that mark the transition between a
 
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Taking hostages or kidnapping citizens
-- Opening fire based on previous roleplay and a very well-founded reason.
+- Opening fire based on previous roleplay or a very well-founded reason.
 **<span style="color:red">BEING STOPPED AT A TRAFIC STOP IS NOT A GOOD ENOUGH REASON TO OPEN FIRE ON THE COP</span>**
 
 Between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
@@ -873,7 +873,10 @@ These are unpopulated areas or roads where illegal activities are permitted. Pre
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Robbing people or vehicles
 - Taking hostages or kidnapping citizens
-- Opening fire based on previous roleplay
+- Opening fire based on previous roleplay or a very well-founded reason.
+
+The following are allowed between outside the city areas<span style="color:yellowgreen">**00:00 - 24:00**</span>:
+- Opening fire based on previous roleplay or a very well-founded reason (Example: You are being pursued by the police and want to set up an ambush, these secluded roads can be used for such actions.)
 
 The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
 - The regulation of <a href="#7.3">#7.3 Illegalities in Public Areas</a> applies<br><br>
