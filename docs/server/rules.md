@@ -892,7 +892,8 @@ Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:0
 - O acțiune se considera încheiata în momentul în care au trecut cel putin 10 minute de la ultima înteracțiune între parțile implicate
 
 - Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. În principiu se aplică regula de Zone Gri.
-- Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică.
+- Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică. Pe aceste drumuri regulile din intervalul orar 08:01 - 19:59 nu se aplica.
+
 - Regula de ilegalitate în zona publică se aplică indiferent dacă e zonă rău famată, semifamată sau gri. Singurele excepții sunt cele menționate mai sus. În continuare nu puteți să jefuiți pe cineva în benzinărie chair daca aceasta este in Grove.
 
 <span style="color: green">Exemple:</span>

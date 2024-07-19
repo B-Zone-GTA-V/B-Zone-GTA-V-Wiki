@@ -885,7 +885,7 @@ The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:
 - There is no abuse of the green zone. Once an action starts in a bad area, red, gray, or pink roads, you have the right to continue it in the green or yellow zone. It should be noted that in green zones, the only illegal action allowed is kidnapping outside government institutions (City Hall, Police Station, Hospital, etc.). Any illegal action that reaches the green zones is not allowed to last more than 5 minutes; otherwise, the rule of <a href="#7.6">#7.6 Terrorist Actions</a> will apply.
 - An action is considered finished when at least 10 minutes have passed since the last interaction between the involved parties.
 - Between the green zones, there are certain secluded areas (e.g., the Rockford area - between blocks, behind buildings). If you manage to lure another player there, you can kidnap, rob, or kill them. Essentially, the Gray Zone rule applies.
-- On the yellow streets in notorious areas, it is forbidden to rob exactly within that perimeter. The robbery must be moved to a notorious area, not on the semi-public street
+- On the yellow streets in notorious areas, it is forbidden to rob exactly within that perimeter. The robbery must be moved to a notorious area, not on the semi-public street. On those roads the 08:01 - 19:59 rules don't apply.
 
 <span style="color: green">Examples:</span>
 - An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.
