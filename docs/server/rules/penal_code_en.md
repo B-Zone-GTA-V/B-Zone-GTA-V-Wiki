@@ -112,7 +112,9 @@ The act of driving a motor vehicle without having a valid driving license is con
 
 ### <a id="2.3"></a><span style="color: #0088CC">2.3 Driving under the influence of drugs or alcohol</span>
 
-Anyone who is caught driving under the influence of alcohol, with a percentage of alcohol of 0.1% or more in blood, or under the influence of any type of narcotic, and represents a danger for himself or other traffic participants will be punished with the **revoking of the driving license**, a fine of **6.000$** and will be **arrested for 30-50 months**.
+Anyone who is caught driving under the influence of alcohol, with a percentage of alcohol of **0.8% or more in blood**, or under the influence of any type of narcotic, and represents a danger for himself or other traffic participants will be punished with the **revoking of the driving license**, a fine of **6.000$** and will be **arrested for 30-50 months**.
+
+For an alcohol concentration of **0,1% și 0,7%**, a sanction of a fine in total of **5.000$ and revoking of the driving license**.
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Illegal races</span>
 
@@ -125,6 +127,10 @@ The act of running from the scene of an accident or of a crime, without going to
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Driving without license plates</span>
 
 Any citizen driving a vehicle/motorcyle without having valid license plates is considered to be committing a felony and will be punished with **30-50 months of arrest**, a fine of **10.000$** and the **revoking of the driving license**. 
+
+### <a id="2.6"></a><span style="color: #0088CC">2.7 Refusal of biological samples</span>
+
+Any citizen that refuses the sampling of biological matter can be sanctioned with **detention of the suspect for 50-60 months**, a fine of **15.000$** and the **revoking of the driving license**.
 
 ## <a id="3"></a><span style="color: #0088CC">CAP. 3 Offenses against good morals, properties and public peace</span>
 
