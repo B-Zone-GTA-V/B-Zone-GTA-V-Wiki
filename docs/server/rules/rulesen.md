@@ -114,7 +114,6 @@ You are <span style="color: green">ALLOWED</span> to call a medic by pressing th
 
 You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing the designated key to be saved in the following cases:
 
-- When you are in a red zone where medics would not risk their lives. See rule <a href="#7.7">#7.7 Red Zones</a>
 - When you are in an unpopulated area where you could not be seen by other people. See the picture below.
 - When you are thrown into the water in an unpopulated area.
 
@@ -530,8 +529,6 @@ It is allowed for a maximum of 5 minutes in a populated public area (police stat
 
 You must inform the players with whom you have a roleplay that you are requesting a break and receive their consent.
 
-In <a href="#7.7">#7.7 Red Zones</a> it is not allowed to stay AFK. In this case, illegal items will be confiscated both from the player's inventory and from their vehicle.
-
 <span style="color: red">Sanctions:</span>
 
 - First offense: 50-100 Checkpoints
@@ -800,29 +797,7 @@ Represent actions through which multiple people will die as a result of the role
 - Second offense: 3-5 day ban depending on the severity
 - Three or more offenses: 7-14 day ban depending on the severity
 
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Red Zones</span>
-Red zones are areas where illegal items are planted or manufactured, including the illegal hospital. Also, the proximity of stores during robberies becomes a red zone: <a href="#7.11">#7.11 Store Robbery Regulations</a>.
-
-It does NOT consider those areas as red zones where there is a legal job that aids in the evolution of an illegal action on the server (example: Miner).
-
-In these zones, the following are <span style="color: green">permitted</span>:
-- Opening fire if communication and negotiation between players are not desired, as everyone knows this area to be illegal, and it is considered a minimum level of roleplay in this regard.
-- Robbing persons is possible regardless of time (does not apply to the robbery interval), as long as the persons are on a red zone. All items they hold on them or in the vehicle they came with can be taken.
-- It is permitted to rob persons who are in a COMA using a rope.
-
-In these zones, the following are <span style="color: red">prohibited</span>:
-- Calling medics after exchanges of fire by pressing the N key, or a phone call created by another participant.
-- Calling taxi drivers and mechanics to the red zone with the intention of killing them. These calls can only be made if you need their help.
-- Luring other people for exchanges of goods and properties under the pretext of making legitimate transactions, with the outcome being the robbery and killing of them.
-- Bringing people from public areas to red zones to rob and kill them.
-
-<span style="color: red">Sanctions:</span>
-
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
-
-### <a id="7.8"></a><span style="color: #0088CC">7.8 Alliance Between Mafias/Groups</span>
+### <a id="7.7"></a><span style="color: #0088CC">7.8 Alliance Between Mafias/Groups</span>
 An alliance can be made between a maximum of 2 groups recognized by the syndicate(unofficial and official). If a group has not been recognized by the syndicate, they cannot form an alliance with recognized groups. In red zones, more than 2 mafias/groups can ally only if the police intervene in these areas.
 
 <span style="color: red">Sanctions:</span>
@@ -836,28 +811,28 @@ An alliance can be made between a maximum of 2 groups recognized by the syndicat
 - For multiple rule violations, sanctioning with a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
-### <a id="7.9"></a><span style="color: #0088CC">7.9 Notorious Areas</span>
+### <a id="7.8"></a><span style="color: #0088CC">7.8 Notorious Areas</span>
 <p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
-<div style="text-align: center; width: 100%">Appendix 7.9 Notorious Areas of the City</div>
+<div style="text-align: center; width: 100%">Appendix 7.8 Notorious Areas of the City</div>
 
 <h3 style="color:green; border-bottom: 1px solid silver;">GREEN ZONES/ROADS</h3><br>
 Public areas, frequented by many people and usually monitored by surveillance cameras, are places where committing illegal activities is not allowed. The regulation of <a href="#7.3">#7.3 Illegalities in Public Areas</a> applies here.
 
-<h3 style="color:pink; border-bottom: 1px solid silver;">PINK ZONES</h3><br>
+<h3 style="color:pink; border-bottom: 1px solid silver;">RED ZONES</h3><br>
 Notorious areas are those dangerous parts of the city (marked on the map below) or outside the city where many illegal activities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs - marked on the map).
 
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Robbing people or vehicles
-- Taking hostages or kidnapping citizens
 
 The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
+- Taking hostages or kidnapping citizens based on a previous roleplay or a very good reasoning
 - Opening fire based on a previous roleplay or a very good reasoning (Example: You control the Grove area and a rival mafia enters your territory, you have the right to open fire on them)
 
-<h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.9.1"></a>YELLOW ZONES/ROADS</h3><br>
+<h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.8.1"></a>YELLOW ZONES/ROADS</h3><br>
 These are semi-public or semi-notorious areas that mark the transition between a public area and a dangerous one. In these areas, illegal activities are committed at your own risk. It is allowed to kidnap or use weapons for kidnappings, but robberies are prohibited. To kill someone in these areas, you must have a solid reason. These roads are usually frequently traveled, so there is a risk of being seen committing illegal activities, which we want to avoid. Yellow zones are near notorious areas, so it is recommended to kidnap from the yellow zone and move to the notorious areas to continue the roleplay (RP).
 
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
-- Taking hostages or kidnapping citizens
+- Taking hostages or kidnapping citizens based on a previous roleplay or a very good reasoning
 - Opening fire based on previous roleplay or a very well-founded reason.
 **<span style="color:red">BEING STOPPED AT A TRAFIC STOP IS NOT A GOOD ENOUGH REASON TO OPEN FIRE ON THE COP</span>**
 
@@ -867,22 +842,26 @@ Between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
 <h3 style="color:red; border-bottom: 1px solid silver;">RED ZONES</h3><br>
 Red zones, where the red zone regulations apply. <a href="#7.7">#7.7 Red Zones</a>
 
-<h3 style="color:gray; border-bottom: 1px solid silver;">GRAY ZONES / PINK ROADS</h3><br>
+<h3 style="color:gray; border-bottom: 1px solid silver;">GRAY ZONES / RED ROADS</h3><br>
 These are unpopulated areas or roads where illegal activities are permitted. Pretty much, these are roads that have not been marked on the map above with any color, alleys between buildings, roads through the mountains, or on the edge of the map.
 
-The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
+The following are allowed in the cities between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
 - Robbing people or vehicles
-- Taking hostages or kidnapping citizens
+- Taking hostages or kidnapping citizens based on a previous roleplay or a very good reasoning
 - Opening fire based on previous roleplay or a very well-founded reason.
 
-The following are allowed between outside the city areas<span style="color:yellowgreen">**00:00 - 24:00**</span>:
-- Opening fire based on previous roleplay or a very well-founded reason (Example: You are being pursued by the police and want to set up an ambush, these secluded roads can be used for such actions.)
-
-The following are allowed between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
+In the cities between <span style="color:yellowgreen">**8:01 AM - 7:59 PM**</span>:
 - The regulation of <a href="#7.3">#7.3 Illegalities in Public Areas</a> applies<br><br>
 
+The following are allowed in the cities between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
+- Robbing people or vehicles
+
+The following are allowed outside the city areas between <span style="color:yellowgreen">**00:00 - 24:00**</span>:
+- Taking hostages or kidnapping citizens based on a previous roleplay or a very good reasoning
+- Opening fire based on previous roleplay or a very well-founded reason (Example: You are being pursued by the police and want to set up an ambush, these secluded roads can be used for such actions.)
+
 <span style="color: green">Notes and Exceptions:</span>
-- There is no abuse of the green zone. Once an action starts in a bad area, red, gray, or pink roads, you have the right to continue it in the green or yellow zone. It should be noted that in green zones, the only illegal action allowed is kidnapping outside government institutions (City Hall, Police Station, Hospital, etc.). Any illegal action that reaches the green zones is not allowed to last more than 5 minutes; otherwise, the rule of <a href="#7.6">#7.6 Terrorist Actions</a> will apply.
+- There is no abuse of the green zone. Once an action starts in a red area, gray, or red roads, you have the right to continue it in the green or yellow zone. It should be noted that in green zones, the only illegal action allowed is kidnapping outside government institutions (City Hall, Police Station, Hospital, etc.). Any illegal action that reaches the green zones is not allowed to last more than 5 minutes; otherwise, the rule of <a href="#7.6">#7.6 Terrorist Actions</a> will apply.
 - An action is considered finished when at least 10 minutes have passed since the last interaction between the involved parties.
 - Between the green zones, there are certain secluded areas (e.g., the Rockford area - between blocks, behind buildings). If you manage to lure another player there, you can kidnap, rob, or kill them. Essentially, the Gray Zone rule applies.
 - On the yellow streets in notorious areas, it is forbidden to rob exactly within that perimeter. The robbery must be moved to a notorious area, not on the semi-public street. On those roads the 08:01 - 19:59 rules don't apply.
@@ -896,13 +875,13 @@ Any other illegal action not specified within a time frame is prohibited. Violat
 - second offense: 200 Checkpoints
 - three or more offenses: warning
 
-### <a id="7.10"></a><span style="color: #0088CC">7.10 Player Robberies</span>
+### <a id="7.9"></a><span style="color: #0088CC">7.9 Player Robberies</span>
 
 The time interval in which you can rob a player is <span style="color:yellowgreen">**20:00 - 08:00**</span>.
 
 To be able to rob, you need at least one white weapon / a firearm on you.
 
-Robbing players can only be done in <a href="#7.7">#7.7 Red Zones</a>, <a href="#7.9">#7.9 Notorious Areas</a> and <a href="#7.9.1">Gray areas / pink roads</a>, adhering to the conditions of these rules.
+Robbing players can only be done in <a href="#7.8">#7.8 Notorious Areas</a> and <a href="#7.8.1">Gray areas / pink roads</a>, adhering to the conditions of these rules.
 
 You can only rob a person of the money and items they have on them and the items in the vehicle they were driving at the moment they were robbed.
 
@@ -924,8 +903,9 @@ It is <span style="color: red">prohibited</span>:
 - For multiple rule violations, sanctioning with a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
-#### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Rob & Kill</span>
-Represents the action of robbing and subsequently killing a person. It is prohibited to kill a person after you have robbed them.
+#### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill</span>
+Represents the action of robbing and subsequently killing a person. It is prohibited to kill a person after you have robbed them.<br>
+Represents the action of killing and subsequently robbing a person. It is prohibited to rob a person after killing them.
 
 <span style="color: yellow">Examples:</span>
 
@@ -950,11 +930,7 @@ All these exceptions can be made adhering to the rule <a href="#7.3">#7.3 Illega
 - For multiple rule violations, sanctioning with a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
-#### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Kill & Rob</span>
-
-In the case of store or bank robberies, other players who have been downed in the exchange of fire can be robbed in order to escape.
-
-#### <a id="7.10.3"></a><span style="color: #0088CC">7.10.3 Drop & Kill</span>
+#### <a id="7.9.3"></a><span style="color: #0088CC">7.9.3 Drop & Kill</span>
 Represents the action of making someone drop all the items from their inventory and then killing them.
 
 <span style="color: yellow">Example:</span> You decide to stop someone and intimidate them into dropping everything they have in their inventory. Then, you think to kill them, this action is prohibited.
@@ -969,10 +945,10 @@ Represents the action of making someone drop all the items from their inventory 
 - For multiple rule violations, sanctioning with a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
-### <a id="7.11"></a><span style="color: #0088CC">7.11 Store Robbery Regulations</span>
+### <a id="7.10"></a><span style="color: #0088CC">7.10 Store Robbery Regulations</span>
 Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people provided that all participants in the robbery have at least 50 hours.
 
-After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed. About red zones, you can read the rule <a href="#7.7">#7.7 Red Zones</a>.
+After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
 If a robbery starts with fewer than 8 participants, other people can join up to the maximum number (8). For example: the robbery starts in 2 people, a maximum of 8 more people can be called for reinforcements.
 
@@ -988,7 +964,7 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 - Second offense: 200 checkpoints
 - Three or more offenses: Warn
 
-### <a id="7.12"></a><span style="color: #0088CC">7.12 Illegalities in Houses and Around Houses</span>
+### <a id="7.11"></a><span style="color: #0088CC">7.11 Illegalities in Houses and Around Houses</span>
 The following are <span style="color: green">permitted</span> between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Taking a kidnapped citizen to a house
 - Robbing a citizen in a house
@@ -996,7 +972,7 @@ The following are <span style="color: green">permitted</span> between <span styl
 The following are <span style="color: red">prohibited</span>:
 - Forcing a player to take out items from personal safes
 - Locking the door when being chased by other people/police
-- Illegal actions near houses that are not in <a href="#7.9">#7.9 Notorious Areas</a>
+- Illegal actions near houses that are not in <a href="#7.8">#7.8 Notorious Areas</a>
 - It is strictly forbidden to wait outside a player's house with the intention of robbing or killing them as they exit. <br>
 *Example: I saw you in Grove and watched you enter your house. I did not interact with you until then and waited outside to rob you when you came out. If you interact with them and try to rob them, and they run into their house and lock the door, you are not allowed to camp outside. At that moment, they have violated the rule of locking a door during a chase. If you know that someone lives in a house in a notorious area, you have the right to wait on the nearby streets or other relatively close areas to try and rob them, but not immediately outside their house.*
 
@@ -1007,7 +983,7 @@ The following are <span style="color: red">prohibited</span>:
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-### <a id="7.13"></a><span style="color: #0088CC">7.13 Hijacking a Transport</span>
+### <a id="7.12"></a><span style="color: #0088CC">7.12 Hijacking a Transport</span>
 Hijacking a prisoner transport on the highway is allowed if the leader or at least 2 members of your group are in these transports. An alliance between 2 groups/mafias to hijack a transport is allowed.
 
 <span style="color: red">Sanctions:</span>
@@ -1016,7 +992,7 @@ Hijacking a prisoner transport on the highway is allowed if the leader or at lea
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-### <a id="7.14"></a><span style="color: #0088CC">7.14 Limite membri la ilegalitati</span>
+### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
 **Gang** - A group of maximum 10 people not recognized by the syndicate.
 
 **Grupare neoficială** - A group of maximum 15 people recognized by the syndicate.

@@ -117,7 +117,6 @@ Vă este <span style="color: green">PERMISĂ</span> apelarea medicului prin acț
 
 Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
 
-- când te afli într-o zonă roșie unde medicii nu și-ar risca viața. Vezi regula <a href="#7.7">#7.7 Zonele roșii</a>
 - când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni. Vezi poza de mai jos.
 - când ești aruncat în apă într-o zonă nepopulată
 
@@ -538,8 +537,6 @@ Este permis cel mult de 5 minute într-o zonă publică populată (secție poli�
 
 Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de o pauză și să primiți acordul acestora. 
 
-În <a href="#7.7">#7.7 Zonele roșii</a> nu este permis să rămâi AFK. În acest caz, itemele ilegale vor fi confiscate atât din inventarul jucătorului, cât și din vehiculul acestuia.
-
 <span style="color: red">Sancțiuni:</span>
 
 - prima abatare: 50-100 Checkpoint-uri
@@ -807,29 +804,7 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 - a doua abatere: ban 3-5 zile în funcție de gravitate
 - trei sau mai multe abateri: ban 7-14 zile în funcție de gravitate
 
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Zonele roșii</span>
-Zonele roșii sunt zonele în care se plantează sau se confecționează obiecte ilegale, respectiv spitalul ilegal. De asemenea, proximitatea magazinelor în timpul jafurilor devine zonă roșie: <a href="#7.11">#7.11 Regulament jafuri magazine</a>.
-
-NU se consideră zonă roșie acele zone în care există un job legal care ajută la evoluția pentru o acțiune ilegală pe server (exemplu: Miner).
-
-Pe aceste zone sunt <span style="color: green">permise</span> următoarele:
-- Deschiderea focului în cazul în care nu se dorește comunicarea și negocierea între jucători, deoarece toată lumea cunoaște această zonă ca fiind una ilegală și se consideră un minim de roleplay în acest sens.
-- Jefuirea persoanelor se poate realiza indiferent de oră (nu se aplică intervalul de jaf), atâta timp cât persoanele se află pe zonă roșie. Se pot lua toate obiectele pe care le deține asupra sa sau din vehiculul cu care a venit.
-- Este permisă jefuirea persoanelor care sunt în stare de COMA folosind sfoara.
-
-Pe aceste zone sunt <span style="color: red">interzise</span> următoarele:
-- Apelarea medicilor în urma unor schimburi de focuri prin actionarea tastei N, respectiv apel telefonic creat de alt participant.
-- Chemarea taximetriștilor și mecanicilor pe zona roșie cu scopul de a-i omorî. Aceste apeluri se pot face doar în condițiile în care aveți nevoie de ajutorul acestora.
-- Atragerea altor persoane pentru schimburi de bunuri și proprietăți cu pretextul de a face tranzacții legitime, iar rezultatul fiind jefuirea și omorârea acestora.
-- Aducerea unor persoane din zone publice în zonele roșii pentru a le jefui și omorî.
-
-<span style="color: red">Sancțiuni:</span>
-
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
-
-### <a id="7.8"></a><span style="color: #0088CC">7.8 Alianța între mafii/grupări</span>
+### <a id="7.7"></a><span style="color: #0088CC">7.7 Alianța între mafii/grupări</span>
 Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindicat(neoficiale și oficiale). Grupările care nu sunt recunoscute de către sindicat nu se pot alia cu grupări recunoscute(neoficiale și oficiale). În zonele roșii se pot alia mai mult de 2 mafii/grupări doar în cazul în care poliția intervine în aceste zone. 
 
 <span style="color: red">Sancțiuni:</span>
@@ -842,53 +817,54 @@ Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindica
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
-### <a id="7.9"></a><span style="color: #0088CC">7.9 Zonele rău famate</span>
+### <a id="7.8"></a><span style="color: #0088CC">7.8 Zonele rău famate</span>
 <p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
-<div style="text-align: center; width: 100%">Anexa 7.9 Zone rău famate din oraș</div>
+<div style="text-align: center; width: 100%">Anexa 7.8 Zone rău famate din oraș</div>
 
 <h3 style="color:green; border-bottom: 1px solid silver;">ZONE/DRUMURI VERZI</h3><br>
 Zone publice, frecventate de multe persoane și de obicei monitorizate prin camere de supraveghere, sunt zone unde nu este permis să comiți ilegalități. Aici se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 
-<h3 style="color:pink; border-bottom: 1px solid silver;">ZONE ROZ</h3><br>
+<h3 style="color:red; border-bottom: 1px solid silver;">ZONE ROSII</h3><br>
 Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta de mai jos) sau din afara acestuia unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
-- Luarea de ostatic respectiv rapirea cetatenilor
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**00:00 - 24:00**</span>:
+- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
 - Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlati zona Grove iar o mafie rivala vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
 
-<h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.9.1"></a>ZONE/DRUMURI GALBENE</h3><br>
+<h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.8.1"></a>ZONE/DRUMURI GALBENE</h3><br>
 Acestea sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar jafurile sunt interzise. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea acțiunii de rol (RP).
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Luarea de ostatic respectiv rapirea cetatenilor
+- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
 - Deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat. 
 **<span style="color:red">OPRIREA LA UN TRAFIC STOP NU ESTE UN MOTIV BINE ÎNTEMEIAT PENTRU A DESCHIDE FOCUL ÎN ACESTE ZONE</span>**
 
 În intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
 - Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 
-<h3 style="color:red; border-bottom: 1px solid silver;">ZONE ROSII</h3><br>
-Zone roșii, aici se aplică regulamentul zonelor roșii.<a href="#7.7">#7.7 Zonele roșii</a>
-
-<h3 style="color:gray; border-bottom: 1px solid silver;">ZONE GRI / DRUMURI ROZ</h3><br>
+<h3 style="color:gray; border-bottom: 1px solid silver;">ZONE GRI / DRUMURI ROȘII</h3><br>
 Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități. În principiu sunt drumurile ce nu au fost marcate pe harta de mai sus cu nici o culoare, alei între cladiri, drumuri prin munti sau prin extremitatea hărții.
 
-Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+Se permit urmatoarele în intervalul orar în oraș <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
-- Luarea de ostatic respectiv rapirea cetatenilor
+- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
 - Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat 
 
-Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:yellowgreen">**00:00 - 24:00**</span>:
-- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Sunteti urmariti de politie si vreti sa faceti o ambuscada, drumurile acestea retrase pot sa fie folosite in respectivele actiuni)
-
-Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
+În intervalul orar în oraș <span style="color:yellowgreen">**08:01 - 19:59**</span>:
 - Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a><br><br>
 
+Se permit urmatoarele în intervalul orar în afara oraselor <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+- Jefuirea persoanelor sau a vehiculelor
+
+Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:yellowgreen">**00:00 - 24:00**</span>:
+- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
+- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Sunteti urmariti de politie si vreti sa faceti o ambuscada, drumurile acestea retrase pot sa fie folosite in respectivele actiuni)
+
 <span style="color: green">Mențiuni și Exceptii:</span>
-- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă rău famată, roșie, gri sau drumuri roz, aveți dreptul să o continuați în zona verde sau galbenă. De precizat e faptul ca pe zonele verzi singura actiune ilegala admisă este răpirea în afara instituțiilor guvernamentale (Primarie, Secție de poliție, Spital etc.). Orice acțiune ilegala ce ajung pe zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>
+- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați în zona verde sau galbenă. De precizat e faptul ca pe zonele verzi singura actiune ilegala admisă este răpirea în afara instituțiilor guvernamentale (Primarie, Secție de poliție, Spital etc.). Orice acțiune ilegala ce ajung pe zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>
 - O acțiune se considera încheiata în momentul în care au trecut cel putin 10 minute de la ultima înteracțiune între parțile implicate
 
 - Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. În principiu se aplică regula de Zone Gri.
@@ -905,13 +881,13 @@ Orice altă acțiune ilegala nespecifitată într-un interval este interzisă. �
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-### <a id="7.10"></a><span style="color: #0088CC">7.10 Jafuri jucători</span>
+### <a id="7.9"></a><span style="color: #0088CC">7.9 Jafuri jucători</span>
 
 Intervalul orar în care puteți jefui un jucător este <span style="color:yellowgreen">**20:00 - 08:00**</span>.
 
 Pentru a putea jefui, aveți nevoie de minim o armă albă / o armă de foc asupra voastră.
 
-Jefuirea jucătorilor se poate face doar în <a href="#7.7">#7.7 Zonele roșii</a>, <a href="#7.9">#7.9 Zonele rău famate</a> și <a href="#7.9.1">Zonele gri/ drumuri roz</a> respectând condițiile acestor reguli.
+Jefuirea jucătorilor se poate face doar în <a href="#7.8">#7.8 Zonele rău famate</a> și <a href="#7.8.1">Zonele gri/ drumuri roșii</a> respectând condițiile acestor reguli.
 
 Puteți să jefuiți o persoană doar de banii și obiectele care se află asupra sa și de obiectele care se află în vehiculul pe care îl conducea în momentul în care a fost jefuit.
 
@@ -933,8 +909,9 @@ Este <span style="color: red">interzis</span>:
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
-#### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Rob & Kill</span>
-Reprezintă acțiunea de a jefui, ulterior omorî o persoană. Este interzisă omorârea unei persoane după ce ați jefuit-o.
+#### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill / Kill & Rob</span>
+Reprezintă acțiunea de a jefui, ulterior omorî o persoană. Este interzisă omorârea unei persoane după ce ați jefuit-o.<br>
+Reprezintă acțiunea de a omorî, ulterior jefuind persoană. Este interzisă jefuirea unei persoane după ce ați omorât-o.
 
 <span style="color: yellow">Exemple:</span>
 
@@ -959,11 +936,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
-#### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Kill & Rob</span>
-
-În cazul jafurilor de magazine sau bănci se pot jefui alți jucători care au fost deja doborâți în schimbul de focuri pentru a putea scăpa.
-
-#### <a id="7.10.3"></a><span style="color: #0088CC">7.10.3 Drop & Kill</span>
+#### <a id="7.9.3"></a><span style="color: #0088CC">7.9.2 Drop & Kill</span>
 Reprezintă acțiunea de a pune pe cineva sa arunce pe jos toate obiectele din inventar ca mai apoi să-l omori.
 
 <span style="color: yellow">Exemplu:</span> Te-ai hotărât să oprești pe cineva și îl forțezi, folosindu-te de intimidare, să arunce tot ce are in inventar. Mai apoi, te gândești să-l omori, acest lucru este interzis.
@@ -978,10 +951,10 @@ Reprezintă acțiunea de a pune pe cineva sa arunce pe jos toate obiectele din i
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
-### <a id="7.11"></a><span style="color: #0088CC">7.11 Regulament jafuri magazine</span>
+### <a id="7.10"></a><span style="color: #0088CC">7.10 Regulament jafuri magazine</span>
 Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore.
 
-După ce alarma se declanșează, proximitatea magazinului devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți. Despre zonele roșii puteți citi regula <a href="#7.7">#7.7 Zonele roșii</a> .
+După ce alarma se declanșează, proximitatea magazinului devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
 
 În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (8). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 8 persoane.
 
@@ -997,7 +970,7 @@ Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, câ
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-### <a id="7.12"></a><span style="color: #0088CC">7.12 Ilegalități în case și în jurul caselor</span>
+### <a id="7.11"></a><span style="color: #0088CC">7.11 Ilegalități în case și în jurul caselor</span>
 Sunt <span style="color: green">permise</span> următoarele în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - ducerea unui cetățean răpit în casă
 - jefuirea unui cetățean în casă
@@ -1005,7 +978,7 @@ Sunt <span style="color: green">permise</span> următoarele în intervalul <span
 Sunt <span style="color: red">interzise</span> următoarele:
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
-- acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.9">7.9 Zonele rău famate</a>
+- acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.8">7.8 Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br>
 *Exemplu: Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
 
@@ -1015,7 +988,7 @@ Sunt <span style="color: red">interzise</span> următoarele:
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-### <a id="7.13"></a><span style="color: #0088CC">7.13 Deturnarea unui transport</span>
+### <a id="7.12"></a><span style="color: #0088CC">7.12 Deturnarea unui transport</span>
 Se permite deturnarea unui transport de deținuți pe autostradă dacă liderul sau cel puțin 2 membri din gruparea voastră se află în aceste transporturi. Se permite alianța dintre 2 grupări/mafii pentru a deturna un transport.
 
 <span style="color: red">Sancțiuni:</span>
@@ -1024,7 +997,7 @@ Se permite deturnarea unui transport de deținuți pe autostradă dacă liderul 
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-### <a id="7.14"></a><span style="color: #0088CC">7.14 Limite membri la ilegalitati</span>
+### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
 **Gang** - Grupare de maxim 10 persoane care nu este recunoscută de către sindicat.
 
 **Grupare neoficială** - Grupare de maxim 15 persoane care este recunoscută de către sindicat.
