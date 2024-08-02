@@ -442,14 +442,38 @@ Sunteți într-o zonă în care există numai infractori, iar regulile de <a hre
 Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci cand sunt prezenți membri din cadrul departamentului de poliție.
 
 ### <a id="2.26"></a><span style="color: #0088CC">2.26 Corupția</span>
-Este interzisă atât în Character (IC), cât și Out Of Character (OOC).
+<br>
+
+#### <a id="2.26.1"></a><span style="color: #0088CC">2.26.1 IC</span>
+
+Corupția IC reprezintă orice metodă de corupție la nivel de caracter.
 
 <span style="color: yellow">Exemple:</span>
-- Orice act prin care oferiți bunuri dobândite în facțiunile guvernamentale fără un RolePlay anterior și în cantități exagerate.
-- Orice acțiune ilegală care se sancționează cu închisoare conform Codului Penal (pentru poliție).
-- Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală).
 
-<span style="color: red">Sancțiune:</span> ban 3-30 de zile în funcție de gravitatea situației
+- Orice acțiune ilegală care se sancționează cu închisoare conform Codului Penal (pentru poliție)
+- Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală)
+- Luarea de mită
+
+<span style="color: red">Sancțiune:</span> 14 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 14 zile) + blacklist în facțiune
+
+#### <a id="2.26.2"></a><span style="color: #0088CC">2.26.2 OOC</span>
+
+Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de comunicare decât cele oferite de server.
+
+<span style="color: yellow">Exemple:</span>
+
+- Orice act prin care oferiți bunuri dobândite în facțiunile guvernamentale
+- Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală) prin canale de comunicare OOC (discord, whatsapp, etc)
+- Depozitarea de echipamente de facțiune in vehicule personale sau case
+
+<span style="color: red">Sancțiune:</span> ban 3-7 zile în funcție de gravitate fără drept de plată + 20 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 20 zile) + blacklist în facțiune
+
+### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
+Freechat reprezintă folosirea chatului OOC din joc, transmițând mesaje care nu sunt de interes comun, a mesajelor de ură sau a frustrărilor.
+
+Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și comanda /ticket pot adresa întrebări și pot socializa cu alți jucatori fără sa deranjeze pe alții. Dorim ca pe acest chat să vedem o atitudine pozitivă, să ne ajutăm unii pe alții sau să ne distrăm. Acest chat este văzut de toți jucătorii și poate fi închis ori de câte ori noi considerăm că nu se folosește în scopurile în care a fost oferit.
+
+<span style="color: red">Sancțiune:</span> mute 10-600 minute și poate ajunge până la ban 7 zile în funcție de gravitate
 
 ## <a id="3"></a><span style="color: #0088CC">CAP 3. Comportament OOC</span>
 
@@ -741,7 +765,7 @@ Acțiunile ilegale cuprind:
 - trei sau mai multe abateri: warn
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zona publică</span>
-Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de masini sau orice alt tip de afacere, respectiv interiorul acestora (acestea locuri de interes trebuie să fie marcate pe hartă, în caz contrar sunt considerate abandonate iar regula nu se aplică).
+Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de masini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="#7.8.1">#7.8.1 Zone Verzi</a>.
 
 Denumim zone publice locurile în care în realitate ar exista camere de luat vederi sau ar fi o zona des circulată.
 
@@ -817,44 +841,59 @@ Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindica
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
-### <a id="7.8"></a><span style="color: #0088CC">7.8 Zonele rău famate</span>
+### <a id="7.8"></a><span style="color: #0088CC">7.8 Delimitarea zonelor</span>
+
 <p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
-<div style="text-align: center; width: 100%">Anexa 7.8 Zone rău famate din oraș</div>
 
-<h3 style="color:green; border-bottom: 1px solid silver;">ZONE/DRUMURI VERZI</h3><br>
-Zone publice, frecventate de multe persoane și de obicei monitorizate prin camere de supraveghere, sunt zone unde nu este permis să comiți ilegalități. Aici se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
+<div style="text-align: center; width: 100%;">Anexa 7.8 Delimitarea zonelor din oraș</div>
 
-<h3 style="color:red; border-bottom: 1px solid silver;">ZONE ROSII</h3><br>
-Zonele rău famate sunt acele zone periculoase ale orașului (marcate pe harta de mai jos) sau din afara acestuia unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
+--- 
+
+#### <a id="7.8.1"></a><span style="color:green; font-size: 20px;">7.8.1 ZONE/DRUMURI VERZI</span>
+
+Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și, de obicei, monitorizate prin camere de supraveghere. În aceste zone unde nu este permis să comiți ilegalități. Aici se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>.
+
+---
+
+#### <a id="7.8.2"></a><span style="color:red; font-size: 20px;">7.8.2 ZONE ROSII</span>
+Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara acestuia, unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**00:00 - 24:00**</span>:
-- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
-- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlati zona Grove iar o mafie rivala vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
+- Luarea de ostatic respectiv răpirea cetățenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
+- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlati zona Grove iar o mafie rivală vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
 
-<h3 style="color:yellow; border-bottom: 1px solid silver;"><a id="7.8.1"></a>ZONE/DRUMURI GALBENE</h3><br>
-Acestea sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar jafurile sunt interzise. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea acțiunii de rol (RP).
+---
+
+#### <a id="7.8.3"></a><span style="color:yellow; font-size: 20px;">7.8.3 ZONE/DRUMURI GALBENE</span>
+Zonele și drumurile galbene sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar jafurile sunt interzise. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea roleplay-ului.
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
+- Luarea de ostatic, respectiv răpirea cetățenilor, în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
 - Deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat. 
 **<span style="color:red">OPRIREA LA UN TRAFIC STOP NU ESTE UN MOTIV BINE ÎNTEMEIAT PENTRU A DESCHIDE FOCUL ÎN ACESTE ZONE</span>**
 
 În intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
 - Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 
-<h3 style="color:gray; border-bottom: 1px solid silver;">ZONE GRI / DRUMURI ROȘII</h3><br>
-Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități. În principiu sunt drumurile ce nu au fost marcate pe harta de mai sus cu nici o culoare, alei între cladiri, drumuri prin munti sau prin extremitatea hărții.
+---
 
-Se permit urmatoarele în intervalul orar în oraș <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+#### <a id="7.8.4"></a><span style="color:gray; font-size: 20px;">7.8.4 ZONE GRI / DRUMURI ROȘII</span>
+Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități. În principiu sunt drumurile ce nu au fost marcate pe harta de mai sus cu nici o culoare, alei între cladiri, drumuri prin munți sau prin extremitatea hărții.
+
+<span style="color:gray; font-size: 18px;">În orașe</span>
+
+Se permit urmatoarele în intervalul orar în orașe <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
 - Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
 - Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat 
 
 În intervalul orar în oraș <span style="color:yellowgreen">**08:01 - 19:59**</span>:
 - Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a><br><br>
+
+<span style="color:gray; font-size: 18px;">În afara orașelor</span>
 
 Se permit urmatoarele în intervalul orar în afara oraselor <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Jefuirea persoanelor sau a vehiculelor
@@ -863,20 +902,27 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 - Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
 - Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Sunteti urmariti de politie si vreti sa faceti o ambuscada, drumurile acestea retrase pot sa fie folosite in respectivele actiuni)
 
+---
+
 <span style="color: green">Mențiuni și Exceptii:</span>
-- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați în zona verde sau galbenă. De precizat e faptul ca pe zonele verzi singura actiune ilegala admisă este răpirea în afara instituțiilor guvernamentale (Primarie, Secție de poliție, Spital etc.). Orice acțiune ilegala ce ajung pe zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>
-- O acțiune se considera încheiata în momentul în care au trecut cel putin 10 minute de la ultima înteracțiune între parțile implicate
+- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați în zona verde sau galbenă. De precizat este faptul că pe zonele verzi singura acțiune ilegală admisă este răpirea în afara instituțiilor guvernamentale (Primărie, Secție de poliție, Spital etc.). În acest caz, răpirea din zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>. Răpirea din zona verde poate avea loc doar dacă nu au trecut mai mult de 10 minute de la ultima înteracțiune dintre părțile implicate, acțiune ce a început într-o zonă rău famată. 
 
-- Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. În principiu se aplică regula de Zone Gri.
-- Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică. Pe aceste drumuri regulile din intervalul orar 08:01 - 19:59 nu se aplica.
+Exemplu permis: Pe zona Grove a început un conflict între mai multe persoane. Una dintre persoane reușește să scape în zonă verde, aceasta fiind urmărită. Persoana care a scăpat poate fi răpită din zona verde rapid (acțiunea de răpire poate dura maxim 5 minute).
 
-- Regula de ilegalitate în zona publică se aplică indiferent dacă e zonă rău famată, semifamată sau gri. Singurele excepții sunt cele menționate mai sus. În continuare nu puteți să jefuiți pe cineva în benzinărie chair daca aceasta este in Grove.
+Exemplu nepermis: La o plantație a început un conflict între mai mult persoane. Una dintre persoane pleacă și este identificată câteva ore mai tărziu într-o zonă verde. Nu se poate răpi din zonă verde pentru că au trecut mai mult de 10 minute în care se permite răpirea din zonă verde.
+
+- Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. Între blocurile din zonă verde, pe aleele dintre blocuri se aplică regula de Zone Gri.
+
+- Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică. Pe drumurile galbene din zonele rău famate se permit urmatoarele indiferent de oră: luarea de ostatic și deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat (fără trafic-stop).
+
+- Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă rău famată, semifamată sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată.
 
 <span style="color: green">Exemple:</span>
 - Acțiunea începe în zona rău famată Labirint și se extinde spre Mirror sau autostradă. Aceasta nu va fi considerată ilegalitate în zona publică, deoarece acțiunea a început într-o zonă rău famată și a ajuns într-o zonă publică
+
 - În general, trebuie să fiți atenți în zonele în care comiteți ilegalități, să nu fie tranzitate de oameni sau mașini, să nu aibă camere de supraveghere sau să nu fie aproape de o secție de poliție. Practic, ilegalitățile sunt permise în zonele ferite și ascunse. Atenție, nu aveți voie să răpiți din zona verde și să duceți între blocuri pentru jefuire sau omor, încercați să atrageți persoanele în aceste zone.
 
-Orice altă acțiune ilegala nespecifitată într-un interval este interzisă. Încălcarea întervalelor orare de mai sus se <span style="color: red">sancționează</span> cu:
+Încălcarea întervalelor orare de mai sus și nerespectarea indicațiilor se <span style="color: red">sancționează</span> cu:
 - prima abatare: 50-100 Checkpoint-uri
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
@@ -910,12 +956,12 @@ Este <span style="color: red">interzis</span>:
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill / Kill & Rob</span>
-Reprezintă acțiunea de a jefui, ulterior omorî o persoană. Este interzisă omorârea unei persoane după ce ați jefuit-o.<br>
-Reprezintă acțiunea de a omorî, ulterior jefuind persoană. Este interzisă jefuirea unei persoane după ce ați omorât-o.
+Rob & Kill reprezintă acțiunea de a jefui, ulterior omorî o persoană. Este interzisă omorârea unei persoane după ce ați jefuit-o.<br>
+Kill & Rob reprezintă acțiunea de a omorî, ulterior jefuind persoană. Este interzisă jefuirea unei persoane după ce ați omorât-o.
 
 <span style="color: yellow">Exemple:</span>
 
-- Ai răpit o persoană, o duci într-un loc ferit să o omori și o jefuiești.
+- Ai răpit o persoană, o duci într-un loc ferit, o omori și o jefuiești.
 - Jefuiești o persoană și chemi pe altcineva să-l omoare având un plan stabilit anterior.
 
 <span style="color: green">Excepții de la regulă:</span>
@@ -951,18 +997,40 @@ Reprezintă acțiunea de a pune pe cineva sa arunce pe jos toate obiectele din i
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
-### <a id="7.10"></a><span style="color: #0088CC">7.10 Regulament jafuri magazine</span>
+### <a id="7.10"></a><span style="color: #0088CC">7.10 Regulament jafuri</span>
+<br>
+
+#### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Magazine</span>
 Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore.
 
 După ce alarma se declanșează, proximitatea magazinului devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
 
-În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (8). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 8 persoane.
+În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (8). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 6 persoane.
 
 O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf.
 
 Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuirea unui magazin.
 
 Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
+
+#### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banci</span>
+Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6, maxim 15 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de 15 oameni.
+
+După ce alarma se declanșează, proximitatea băncii devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi banca pot fi omorâți.
+
+În cazul în care un jaf începe cu un număr mai mic decât 15 participanți, se pot alătura alte persoane până la numărul maxim (15). De exemplu: jaful începe în 6 persoane, se mai solicită întăriri de maxim 9 persoane.
+
+O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf.
+
+Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuirea unei bănci. Dorim să evităm situațiile de tickete în care aceeași persoană ar putea fi luată drept ostatic de mai multe ori sau tickete pentru nerespectarea condițiilor negociate.
+
+Un alt grup de persoane nu poate interveni să bată jefuitorii sau să preia jaful.
+
+Cel care începe jaful are nevoie de minim 500 ore.
+
+După terminarea jafului și neutralizarea zonei, poliția va trebui să închidă sistemele de siguranță ale băncii.
+
+Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Nu se permite spargerea roților mașinilor parcate. Aceaste acțiuni pot conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 <span style="color: red">Sancțiuni:</span>
 
