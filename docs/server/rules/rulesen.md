@@ -777,6 +777,10 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
+<span style="color: green">Mențiuni:</span>
+- if an action starts from a <a href="#7.8.2">Notorious area</a> and continues in a public location (job/hobby area or in the vicinity of a shop, gas station, bank, ATMs, car garages or any other type of business) the illegality in public area rule does not apply if there is a good reason. Example: on a drug delivery you are followed by police crews. You are allowed to fire your gun even in public areas that are on red or yellow zones
+- item crafting areas are not considered public areas, even if they are marked on the map. The regulations of the areas in which they are located apply to them. See rule <a href="#7.8">7.8 Zoning</a>
+
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage</span>
 
 Taking hostages can only be done if your life or freedom is under threat, with the goal of escaping these pressures, and money cannot be demanded.
@@ -909,7 +913,7 @@ Illegal example: On a plantation, a conflict started between several people. One
 
 - On yellow streets in notorious areas, it is forbidden to rob in that exact perimeter. Robbing should be moved to a notorious area, not the semi-public street. On the yellow roads in the infamous areas, the following are allowed regardless of the time: taking a hostage and opening fire based on a previous roleplay and a very well-founded reason (no traffic-stop).
 
-- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a notorious, semi-notorious or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the infamous area.
+- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a red, yellow or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the notorious area and you have a good reason. If you are followed by the police while delivering drugs it is considered a good reason and you are allowed to open fire, even in public areas within red or yellow zones.
 
 <span style="color: green">Examples:</span>
 - An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.
