@@ -764,8 +764,8 @@ Acțiunile ilegale cuprind:
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zona publică</span>
-Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de masini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="#7.8.1">#7.8.1 Zone Verzi</a>.
+### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zonă publică</span>
+Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="#7.8.1">7.8.1 Zone Verzi</a>.
 
 Denumim zone publice locurile în care în realitate ar exista camere de luat vederi sau ar fi o zona des circulată.
 
@@ -783,6 +783,10 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - prima abatare: 50-100 Checkpoint-uri
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- în cazul în care o acțiune începe din <a href="#7.8.2">zonă rău famată</a> și se continuă într-o locație publică (zonă de job/hobby sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere) nu se aplică regula de ilegalități în zonă publică dacă există un motiv bine întemeiat. Exemplu: la o livrare de droguri ești urmărit de echipaje de poliție. Îți este permis să tragi cu arma chiar și în zonele publice care se află pe zone roșii sau galbene
+- zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic</span>
 
@@ -915,7 +919,7 @@ Exemplu nepermis: La o plantație a început un conflict între mai mult persoan
 
 - Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică. Pe drumurile galbene din zonele rău famate se permit urmatoarele indiferent de oră: luarea de ostatic și deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat (fără trafic-stop).
 
-- Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă rău famată, semifamată sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată.
+- Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă rău roșie, galbenă sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată și există un motiv bine întemeiat. Dacă ești urmărit de poliție în timp ce livrezi droguri se consideră un motiv bine întemeiat și este permis să deschizi focul chiar și în zonele publice din cadrul zonelor roșii sau galbene.
 
 <span style="color: green">Exemple:</span>
 - Acțiunea începe în zona rău famată Labirint și se extinde spre Mirror sau autostradă. Aceasta nu va fi considerată ilegalitate în zona publică, deoarece acțiunea a început într-o zonă rău famată și a ajuns într-o zonă publică
