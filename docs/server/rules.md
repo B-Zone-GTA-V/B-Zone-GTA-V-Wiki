@@ -863,11 +863,11 @@ Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și,
 Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara acestuia, unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Jefuirea persoanelor sau a vehiculelor
+- Jefuirea persoanelor, a vehiculelor, a plantelor sau orice forma de furt/jaf
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**00:00 - 24:00**</span>:
-- Luarea de ostatic respectiv răpirea cetățenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
-- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlati zona Grove iar o mafie rivală vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
+- Luarea de ostatic respectiv răpirea cetățenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
+- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlați zona Grove, iar o mafie rivală vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
 
 ---
 

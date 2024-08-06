@@ -857,7 +857,7 @@ Green zones and roads are public areas, frequented by many people and usually mo
 Red Zones are notorious areas and dangerous parts of the city or outside the city where many illegal activities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs - marked on the map).
 
 The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
-- Robbing people or vehicles
+- Robbing people, vehicles, plants or any kind of stealing/robbing
 
 The following are allowed between <span style="color:yellowgreen">**00:00 AM - 24:00 PM**</span>:
 - Taking hostages or kidnapping citizens based on a previous roleplay or a very good reasoning
