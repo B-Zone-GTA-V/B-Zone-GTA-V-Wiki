@@ -4,13 +4,17 @@ outline: deep
 
 # RAGE Multiplayer
 
-## Ce este RageMP?
+## Despre RAGEMP
+
+### Ce este RageMP?
 
 Serverul rulează pe platforma **RAGE Multiplayer**, iar singura metodă prin care te poți conecta la server este aceea de a utiliza launcher-ul oficial.
 
 Pentru a descărca launcher-ul accesați pagina oficială ([rage.mp](https://rage.mp/)) și apăsați pe butonul de **DOWNLOAD**.
 
-## Despre Launcher
+Dacă întâmpini probleme la conectare pe server îți recomandăm să consulți [pagina de probleme](/server/rage/probleme_rage).
+
+### Despre Launcher
 
 Launcher-ul RageMP este construit modern și are o interfață destul de intuitivă. Însă, simțim nevoia să documentăm funcțiile prezente în launcher.
 
@@ -24,7 +28,7 @@ Launcher-ul RageMP este construit modern și are o interfață destul de intuiti
 - **Direct Connect** - Te ajută să te conectezi direct pe un server.
 - **Settings** - Te ajută să accesezi setările launcherului
 
-## Setările launcher-ului
+### Setările launcher-ului
 
 Această opțiune este puțin mai delicată și merită o rubrică separată.
 
