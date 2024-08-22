@@ -28,7 +28,7 @@ Orice cetățean care conduce un (auto)vehicul, are obligația de a conduce pe a
 Incălcarea limitelor de viteze se sancționează după următoarele cazuri:
 
 - sub dublul vitezei legale: **3.000$** și **3 puncte penalizare**
-- peste dublul vitezei legale: **7.000$**, **anularea permisului de conducere** și **închisoare pentru 30 de luni**
+- peste dublul vitezei legale: **7.000$**, **anularea permisului de conducere** și **închisoare pentru 20 de luni**
 
 ### <a id="1.2"></a><span style="color: #0088CC">1.2 Conducere imprudentă</span>
 
@@ -113,13 +113,13 @@ Orice cetățean care are montate xenoane pe autovehicul sau instalații de ilum
 
 ### <a id="1.16"></a><span style="color: #0088CC">1.16 ITP Expirat</span>
 
-Orice cetățean care circulă pe drumurile publice cu un autovehicul fără un certificat care să ateste că autovehiculul este apt pentru punerea în circulație constituie infracțiune și se pedepsește cu **anularea permisului**, amendă în valoare de **10.000$** și cu **ridicarea autovehiculului**.
+Orice cetățean care circulă pe drumurile publice cu un autovehicul fără un certificat care să ateste că autovehiculul este apt pentru punerea în circulație constituie infracțiune și se pedepsește cu amendă în valoare de **10.000$** și cu **ridicarea autovehiculului**.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 Infracțiuni în Trafic</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Evadarea de un ofiţer cu un autovehicul</span>
 
-Orice cetățean care folosește un vehicul pentru a evada de un ofițer înfăptuiește o infracțiune si poate fi pedepsit cu **anularea permisului**, **reținerea suspectului timp de 50-80 luni** și cu o amendă în valoare de **7.000$**.
+Orice cetățean care folosește un vehicul pentru a evada de un ofițer înfăptuiește o infracțiune si poate fi pedepsit cu **anularea permisului**, **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **7.000$**.
 
 ### <a id="2.2"></a><span style="color: #0088CC">2.2 Condusul fără permis</span>
 
@@ -209,11 +209,11 @@ Această acuzație se aplică și pentru spargerea unui autovehicul, cu sau făr
 
 ### <a id="3.12"></a><span style="color: #0088CC">3.12 Jaf</span>
 
-Jaful reprezintă furtul unor bunuri personale care se află în posesia altor persoane, în prezenţa acestora sau absenţa acestora, realizat prin orice mijloace în care forţa sau frica predomină. Această acțiune reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 100-150 luni** și cu o amendă în valoare de **30.000$**.
+Jaful reprezintă furtul unor bunuri personale care se află în posesia altor persoane, în prezenţa acestora sau absenţa acestora, realizat prin orice mijloace în care forţa sau frica predomină. Această acțiune reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 60-100 luni** și cu o amendă în valoare de **30.000$**.
 
 #### <a id="3.12.1"></a><span style="color: #0088CC">3.12.1 Jaf armat</span>
 
-Obţinerea unui bun din posesia unei persoane prin folosirea forţei sau impunerea fricii cu ajutorul unei arme de orice model reprezintă o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 100-150 luni** și cu o **amendă în valoare de 35.000$**.
+Obţinerea unui bun din posesia unei persoane prin folosirea forţei sau impunerea fricii cu ajutorul unei arme de orice model reprezintă o infracțiune care se poate pedepsi cu **reținerea suspectului timp de 80-120 luni** și cu o **amendă în valoare de 35.000$**.
 
 ### <a id="3.13"></a><span style="color: #0088CC">3.13 Deranjarea liniştii publice</span>
 
@@ -235,17 +235,25 @@ Calomnia reprezintă afirmarea sau imputarea în public, prin orice mijloace, a 
 
 Orice acțiune care implică căutarea în gunoaiele din spațiul public de către civili este strict interzisă. Acest lucru include, dar nu se limitează la, încercarea de a inspecta, răscoli sau căuta în containerele de gunoi, coșurile de gunoi sau alte recipiente destinate depozitării deșeurilor. Acest lucru reprezintă o infracţiune care se poate pedepsi cu o amendă în valoare de **2.000$**.
 
+### <a id="3.18"></a><span style="color: #0088CC">3.18 Înșelăciune</span>
+
+Inducerea în eroare a unei persoane prin prezentarea ca adevărată a unei fapte mincinoase sau ca mincinoasă a unei fapte adevărate, în scopul de a obţine pentru sine sau pentru altul un folos injust şi dacă s-a pricinuit o pagubă, se pedepseşte cu **închisoarea de la 40 la 60 de luni** și o **amendă de 40.000$**.
+
+Se aplică și pentru societățile cu răspundere limitată, societățile pe acțiuni și persoanele fizice autorizate.
+
+În cazul în care săvârșirea infracțiunii prevăzută mai sus a adus pagube unei entități fizice sau juridice, se poate dispune returnarea bunurilor în cauză sau a contravalorii acestora.
+
 ## <a id="4"></a><span style="color: #0088CC">CAP. 4 Infracţiuni asupra justiţie</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstrucția unui ofiţer</span>
 
-Orice cetăţean care împiedică un ofițer să-şi face treabă corect sau periclitează siguranța ofițerului sau a oricărui civil care este alături. Această faptă reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 25-50 luni** și cu o amendă în valoare de **7.000$**.
+Orice cetăţean care împiedică un ofițer să-şi face treabă corect sau periclitează siguranța ofițerului sau a oricărui civil care este alături. Această faptă reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 40-70 luni** și cu o amendă în valoare de **15.000$**.
 
 A nu se acorda împreună cu Rezistență la Arest.
 
 ### <a id="4.2"></a><span style="color: #0088CC">4.2 Ultraj</span>
 
-Infracțiune care constă în insultă, injosire, calomnie, vandalism, amenințare ori alte acte de violență verbală cât și fizică împotriva unui agent de poliție. Această acțiune reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 35-55 luni** și cu o amendă în valoare de **8.000$**.
+Infracțiune care constă în insultă, injosire, calomnie, vandalism, amenințare ori alte acte de violență verbală cât și fizică împotriva unui agent de poliție. Această acțiune reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 50-80 luni** și cu o amendă în valoare de **20.000$**.
 
 ### <a id="4.3"></a><span style="color: #0088CC">4.3 Evadarea din custodie</span>
 
@@ -267,7 +275,7 @@ Orice persoană care oferă bunuri personale pentru a schimba decizia unui angaj
 
 ### <a id="4.7"></a><span style="color: #0088CC">4.7 Codul Muncii</span>
 
-Efectuarea de servicii fără deținerea de licență sau atestat in domeniul unde este specificat că necesită, înseamnă înșelarea statului și se pedepseste penal. În momentul în care o persoană este surprinsă fără aceste documente de tip "atestat" sau "licență" înseamnă încalcarea Codului Muncii și reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **15.000$**.
+Efectuarea de servicii fără deținerea de licență sau atestat in domeniul unde este specificat că necesită, înseamnă înșelarea statului și se pedepseste penal. În momentul în care o persoană este surprinsă fără aceste documente de tip "atestat" sau "licență" înseamnă încalcarea Codului Muncii și reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 15-30 luni** și cu o amendă în valoare de **15.000$**.
 
 În acest moment urmatoarele licențe pot fi emise de către primăria orașului:
 - De Pescuit
@@ -281,11 +289,33 @@ Orice persoană care împiedică sau descurajează orice martor sau victimă de 
 
 ### <a id="4.9"></a><span style="color: #0088CC">4.9 Limbaj vulgar</span>
 
-Orice persoană folosește cuvinte vulgare cu scopul de a jigni, intimida sau obține avantaj în fața altei persoane, înfăptuiește o infracţiune care se poate pedepsi cu o amendă în valoare de **5.500$**.
+Orice persoană folosește cuvinte vulgare cu scopul de a jigni, intimida sau obține avantaj în fața altei persoane, înfăptuiește o infracţiune care se poate pedepsi cu o amendă în valoare de **7.000$**.
 
 ### <a id="4.10"></a><span style="color: #0088CC">4.10 Abuzulul liniei de urgență</span>
 
 Orice persoană care apelează în mod abuziv linia de urgență 112 sau fără a avea o adevărată problemă reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 de luni** și cu o amendă în valoare de **10.000$**.
+
+### <a id="4.11"></a><span style="color: #0088CC">4.11 Braconajul</span>
+
+Cel ce vânează sau pescuiește în zonele care nu sunt stabilite prin lege ca locații de vânătoare/pescuit, comite delictul de braconaj şi se pedepseşte prin lege cu **închisoare intre 20 si 30 de luni** și **amendă 30.000$**.
+
+Animalul vânat într-o zona care nu conferă dreptul de vânătoare, se consideră bun de contrabandă și este confiscat de agentul care a surprins săvârșirea delictului.
+
+Persoană care este surprinsă săvârșind delictul de braconaj, este obligată să se supună atât percheziției corporale cât și percheziției vehiculului cu care s-a deplasat în zona(dacă este cazul).
+
+Se considera Braconaj persoana care are in posesia sa bunuri de contrabanda(carcase de animal) care pot fi obtinute numai prin intermediul braconajului. 
+
+Nu se considera Braconaj vanatoarea fara licenta. Vanatul fara licenta se pedepseste conform <a href="#4.7"> 4.7 Codul Muncii </a>.
+
+**Nu se cumuleaza cu <a href="#4.7"> 4.7 Codul Muncii </a>**
+
+Se considera Tentativa atunci când persoana este gasită echipata pentru activitatea de vanat intr-o zonă care interzice vânătoarea sau atunci cand manifestă intenția de a vâna in zone interzise.
+
+Lista peștilor protejați de lege: Baracuda, Caracatita, Catfish, Orice specie de rechin, Orice specie de balena, Olive Turtle, Blue Turtle, Green Turtle, Pufferfish. 
+
+### <a id="4.12"></a><span style="color: #0088CC">4.12 Fals/Uz de fals</span>
+
+Acela care falsifică un act public, fie contrafăcând scrierea sau subscrierea, fie alterând un act adevărat, în orice mod, comite delictul de fals în acte publice şi se pedepseşte cu **închisoare intre 20 si 50 de luni** si **amenda 15.000$**.
 
 ## <a id="5"></a><span style="color: #0088CC">CAP. 5 Infracţiuni asupra persoanelor</span>
 
@@ -354,13 +384,13 @@ Această faptă reprezintă o crimă care se poate pedepsi cu **reținerea suspe
 
 Definiție: Orice cetățean care deține asupra lui o armă de foc de calibru mic fără să aibă un permis port-armă legal eliberat de departamentul de poliţie. Arma poate fi considerată "asupra lui" chiar dacă se află în casa individului, în vehiculul personal sau într-o proprietate ce-i aparține.
 
-Această faptă reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 50-70 luni** și cu o amendă în valoare de **10.000$**.
+Această faptă reprezintă o infracţiune care se poate pedepsi cu **reținerea suspectului timp de 30-50 luni** și cu o amendă în valoare de **10.000$**.
 
 ### <a id="6.3"></a><span style="color: #0088CC">6.3 Posesia unei arme automate de foc</span>
 
 Definiție: Orice cetățean care deține asupra lui o armă de foc automată, precum: AK47, SMG, TEC, SHOTGUN, M4, RIFLES, etc. sau derivate sau chiar gloanțe pentru aceste arme.
 
-Această faptă reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 60-80 luni** și cu o amendă în valoare de **12.000$**.
+Această faptă reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 40-60 luni** și cu o amendă în valoare de **12.000$**.
 În cazul în care deține și o armă de calibru mic nu se mai cumulează sentința <a href="#6.2">#6.2 Posesia unei arme de foc de calibru mic fără permis PORT-ARMĂ</a>.
 
 ### <a id="6.4"></a><span style="color: #0088CC">6.4 Posesia de explozibil</span>
@@ -388,7 +418,7 @@ Această faptă se poate cumula cu <a href="#6.2">#6.2 Posesia unei arme de foc 
 
 Definiție: Orice cetățean care deține mai mult de o armă de foc sau mai mult de 200 gloanțe fără a deține un permis pentru vânzarea acestora. 
 
-Această faptă reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 120-150 luni** și cu o amendă în valoare de **35.000$**.
+Această faptă reprezintă o crimă care se poate pedepsi cu **reținerea suspectului timp de 80-120 luni** și cu o amendă în valoare de **35.000$**.
 
 De asemenea, toate obiectele folosite pentru a fabrica gloanțe sau arme găsite în zona de fabricație vor fi confiscate.
 
@@ -396,7 +426,15 @@ Aceasta faptă nu se cumulează cu <a href="#6.2">#6.2 Posesia unei arme de foc 
 
 ## <a id="7"></a><span style="color: #0088CC">CAP. 7 Infracţiuni asupra sănătăţii şi siguranţei publice</span>
 
-### <a id="7.1"></a><span style="color: #0088CC">7.1 Producerea sau deținerea Țigărilor si Trabucurilor de contrabanda</span>
+### <a id="7.1"></a><span style="color: #0088CC">7.1 Deţinerea sau producerea de substante ilegale</span>
+
+Producerea, deţinerea, precum şi orice operaţiune privind cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe se pedepsesc cu **închisoarea de la 30 la 60 de luni** şi **amenda in valoare de 15.000$**.
+
+Se aplica doar pentru semintele si frunzele de plante care contin astfel de substante.
+
+A nu se cumula cu <a href="#7.2">#7.2 Producerea sau deținerea Țigărilor si Trabucurilor de contrabanda</a> sau <a href="#7.3">#7.3 Producerea sau deținerea de droguri de risc și mare risc</a>
+
+### <a id="7.2"></a><span style="color: #0088CC">7.2 Producerea sau deținerea Țigărilor si Trabucurilor de contrabanda</span>
 
 Definiție: Orice cetăţean care produce, transportă, confecționează sau deține trabucuri/țigări sau pachete țigări/trabucuri de contrabandă care sunt prevăzute de lege ca fiind ilegale. 
 
@@ -407,7 +445,7 @@ Această faptă reprezintă o crimă care se poate pedepsi cu reținerea suspect
 
 În cazul în care cetățeanul este surprins producând sau deținând aceste tipuri de obiecte ilegale, componentele necesare pentru producerea obiectelor vor fi confiscate (semințe/frunze/hârtie de rulat), fără a se aplica articolul sancțiuni sau contravenții. 
 
-### <a id="7.2"></a><span style="color: #0088CC">7.2 Producerea sau deținerea de droguri de risc și mare risc</span>
+### <a id="7.3"></a><span style="color: #0088CC">7.3 Producerea sau deținerea de droguri de risc și mare risc</span>
 
 Definiție: Orice cetăţean care produce, transportă, creează sau deține substanţe care sunt prevăzute de lege ca fiind ilegale, pe cale chimică sau naturală.
 
@@ -420,7 +458,7 @@ Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
-### <a id="7.3"></a><span style="color: #0088CC">7.3 Bani nemarcati (Blood Money)</span>
+### <a id="7.4"></a><span style="color: #0088CC">7.4 Bani nemarcati (Blood Money)</span>
 
 Definiție: Orice persoană deține bani nemarcati obtinuti prin diferite mijloace ilegale.
 
@@ -429,7 +467,7 @@ Această faptă reprezintă o crimă care se poate pedepsi cu reținerea suspect
 - **TIP I (sub 1000 pachete bani nemarcati): sentință 80 - 100 luni și amendă 30.000$.**
 - **TIP II (1000+ pachete bani nemarcati): sentință 100 - 120 luni și amendă 40.000$.**
 
-### <a id="7.4"></a><span style="color: #0088CC">7.4 Practicarea medicinei fără licenţă</span>
+### <a id="7.5"></a><span style="color: #0088CC">7.5 Practicarea medicinei fără licenţă</span>
 
 Definiție: Orice cetățean care practică medicina fără un act legal primit de la instituțiile guvernamentale și încearcă să ajute viața unui civil, fără să aibă pregătirea necesară.
 
