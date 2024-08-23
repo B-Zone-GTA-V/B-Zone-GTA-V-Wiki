@@ -428,11 +428,11 @@ Aceasta faptă nu se cumulează cu <a href="#6.2">#6.2 Posesia unei arme de foc 
 
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Deţinerea sau producerea de substante ilegale</span>
 
-Producerea, deţinerea, precum şi orice operaţiune privind cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe se pedepsesc cu **închisoarea de la 30 la 60 de luni** şi **amenda in valoare de 15.000$**.
+Producerea, deţinerea, precum şi orice operaţiune privind cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe se pedepsesc cu **închisoarea de la 15 la 30 de luni** şi **amenda in valoare de 10.000$**.
 
 Se aplica doar pentru semintele si frunzele de plante care contin astfel de substante.
 
-A nu se cumula cu <a href="#7.2">#7.2 Producerea sau deținerea Țigărilor si Trabucurilor de contrabanda</a> sau <a href="#7.3">#7.3 Producerea sau deținerea de droguri de risc și mare risc</a>
+A nu se cumula cu <a href="#7.2">#7.2 Producerea sau deținerea Țigărilor si Trabucurilor de contrabanda</a> sau <a href="#7.3">#7.3 Producerea sau deținerea de droguri de risc și mare risc</a>.
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Producerea sau deținerea Țigărilor si Trabucurilor de contrabanda</span>
 
