@@ -274,9 +274,9 @@ Represents attacking with fists/white weapons or shooting a player or a group of
 
 ### <a id="2.16"></a><span style="color: #0088CC">2.16 Vehicle Death Match (VDM)</span>
 
-Represents the intentional running over of a player or a group of players without a specific reason or with a previous roleplay.
+Represents the intentional running over of a player or a group of players.
 
-<span style="color: yellow">Example:</span> You are traveling from one point to another and notice a group of people standing on the sidewalk, you decide to drive into them and continue your journey without having any roleplay with them.
+<span style="color: yellow">Example:</span> You are traveling from one point to another and notice a group of people standing on the sidewalk, you decide to drive into them and continue your journey.
 
 <span style="color: red">Sanctions:</span>
 
