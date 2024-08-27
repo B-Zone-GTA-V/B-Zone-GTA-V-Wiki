@@ -28,5 +28,5 @@ The phone comes with several applications used as follows:
 |Faction|Leader App|
 |Staff|Admin App|
 
-<p align="center"><img src="https://i.imgur.com/26NQ8vJ.png"/></p>
+<p align="center"><img src="https://imgur.com/y5AXDK7"/></p>
 <p style="text-align: center">Phone</p>
