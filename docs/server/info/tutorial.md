@@ -41,7 +41,7 @@ This screen provides additional and useful information about the server's functi
 - Government factions
 - Ticket system & bug abuse
 - Respawn at the hospital
-- The tutorial interface can be closed by pressing the ESC key. The tutorial can be accessed at any time using the command [/tutorial] in-game.
+- The tutorial interface can be closed by pressing the ESC key. The tutorial can be accessed at any time using the command [/tutorial] in-game.dadadadadagit 
 
-<p align="center"><img src="https://i.imgur.com/7C2jl67.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/hP8GmRP.gif"/></p>
 <p style="text-align: center">Tutorial</p>
