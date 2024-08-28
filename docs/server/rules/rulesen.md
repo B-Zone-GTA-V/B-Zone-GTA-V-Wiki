@@ -704,6 +704,9 @@ Landing helicopters from the departments is done in an urgent and/or important a
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Using the vehicle with the intention of hitting another vehicle without a previous roleplay or parking it over a player is prohibited.
 
+<span style="color: yellow">Exceptions:</span>
+- The police battering ram can be used for a Car-Ram on moving vehicles, at which point the action is considered a forced Pit-Stop, only if the hit is not frontal.
+
 <span style="color: red">Sanctions:</span>
 
 - First offense: 50-100 Checkpoints

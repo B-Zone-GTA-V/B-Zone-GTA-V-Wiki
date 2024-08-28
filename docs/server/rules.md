@@ -710,6 +710,9 @@ Aterizarea cu elicopterele din cadrul departamentelor se face într-o acțiune u
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Folosirea vehiculului cu intenția de a lovi un alt vehicul fără un roleplay anterior sau staționarea cu acesta peste un jucător este interzisă.
 
+<span style="color: yellow">Excepții:</span>
+- Blindata de poliție poate să fie folosită pentru Car-Ram pe vehiculele în mișcare, moment în care acțiuea este considerată Pit-Stop forțat, doar dacă lovitura nu este una frontală.
+
 <span style="color: red">Sancțiuni:</span>
 
 - prima abatare: 50-100 Checkpoint-uri
