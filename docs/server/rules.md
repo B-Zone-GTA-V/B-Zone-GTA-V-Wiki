@@ -1132,3 +1132,34 @@ Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a
 - Reclamații staff
 - Cereri unban
 - Alte probleme
+
+## <a id="9"></a><span style="color: #0088CC">CAP. 9 Legislația aeriană</span>
+
+### <a id="9.1"></a><span style="color: #0088CC">9.1 Regulament</span>
+
+Este STRICT INTERZIS să aterizați cu un elicopter pe insula Cayo înafară de Helipad.
+
+Este STRICT INTERZIS să aterizați cu un elicopter pe străzi.
+* Cu excepția elicopterelor de Medici si Poliție.
+* Excepție de la regula: Rămâi fără benzină desupra la CNN și aterizezi să alimentezi >> Dacă iți cere adminul dovadă și nu ai riști să fii sancționat cu Fail RP.
+* Mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă.
+
+Este STRICT INTERZIS să aterizați cu un elicopter pe blocurile din LOS SANTOS cu excepția unde există un HELIPAD.
+
+Este STRICT INTERZIS să aterizați cu un elicopter pe case indiferent de zonă.
+
+Este STRICT INTERZIS să mergi la jaf cu elicopterul PERSONAL.
+
+Este STRICT INTERZIS să faci acțiuni TERORISTE cu elicopterul.
+
+Regula Jafuri: În cazul în care se dă jaf, atât mafioții cât și polițiști pot ateriza oriunde ( Strada / camp / cladiri ) doar în perimetrul jafului.
+
+## <a id="10"></a><span style="color: #0088CC">CAP. 10 Legislația maritimă</span>
+
+### <a id="10.1"></a><span style="color: #0088CC">10.1 Regulament</span>
+
+Este STRICT INTERZIS să intrați intenționat cu barca în maluri pentru a ajunge mai rapid pe uscat.
+
+Este STRICT INTERZIS să loviți intenționat bărcile parcate sau bărcile care au alte persoane în ele.
+
+Este STRICT INTERZIS să parcați bărcile pe uscat.

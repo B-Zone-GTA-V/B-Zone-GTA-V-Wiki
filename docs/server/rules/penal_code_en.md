@@ -421,34 +421,3 @@ It is illegal for anyone to practice medicine without a proper license from a go
 This statement only pertains to those attempting to administer injections or perform medical procedures.
 
 This is a criminal offense that can result in **imprisonment for 60-100 months** and a fine of **20.000$**.
-
-## <a id="8"></a><span style="color: #0088CC">CAP. 8 Flying Legislation</span>
-
-### <a id="8.1"></a><span style="color: #0088CC">8.1 Rules</span>
-
-It is STRICTLY FORBIDDEN to land a helicopter on Cayo Island outside of the Helipad.
-
-It is STRICTLY FORBIDDEN to land a helicopter on streets.
-* Exception: Medical and Police helicopters.
-* Exception to the rule: If you run out of fuel above the CNN building and land to refuel. If the admin asks for proof and you don't have it, you risk being sanctioned for Fail RP.
-* If you're starving or dehydrated and need to land urgently to buy food or water.
-
-It is STRICTLY FORBIDDEN to land a helicopter on buildings in LOS SANTOS except where there is a HELIPAD.
-
-It is STRICTLY FORBIDDEN to land a helicopter on houses, regardless of the area.
-
-Heist Rule: In the event of a heist, both mafias and police can land anywhere (street, field, buildings) only within the perimeter of the heist.
-
-It is STRICTLY FORBIDDEN to go to a heist with your PERSONAL helicopter!
-
-It is STRICTLY FORBIDDEN to carry out TERRORIST actions with a helicopter.
-
-## <a id="9"></a><span style="color: #0088CC">CAP. 9 Sailing Legislation</span>
-
-### <a id="9.1"></a><span style="color: #0088CC">9.1 Rules</span>
-
-It is STRICTLY FORBIDDEN to intentionally run a boat aground to reach land more quickly.
-
-It is STRICTLY FORBIDDEN to intentionally hit parked boats or boats with people in them.
-
-It is STRICTLY FORBIDDEN to park boats on land.
