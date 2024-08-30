@@ -703,9 +703,34 @@ Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poa
 - Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere (marcate cu maro pe radar) cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Elicoptere</span>
-Aterizarea cu elicopterul în locuri neamenajate (helipad) cu excepția elicopterelor din cadrul departamentului de poliție sau SMURD este interzisă. 
+Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
+- locuri special amenajate (helipad)
+- helipaduri special amenajate de pe case
+- perimetrul unui jaf (activ sau ce urmează sa inceapă)  atat pe stradă, câmp, clădiri etc. cu elicopterul de departament sau mafie <span style="color: red">NU personal</span>
 
-Aterizarea cu elicopterele din cadrul departamentelor se face într-o acțiune urgentă și/sau importantă în orice locație cu suprafață plană.
+Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
+- insula Cayo
+- locuri neamenajate
+- case indiferent de zonă
+- blocurile din Los Santos
+- străzi, parcari
+
+Este <span style="color: #ff0000">STRICT INTERZIS</span> să folosiți elicopterul **PERSONAL** la un jaf.<br>
+Este <span style="color: #ff0000">STRICT INTERZIS</span> să faci acțiuni **TERORISTE** cu elicopterul.<br>
+Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați un elicoper abandonat pe un garaj de elicoptere (blocând parcarea).
+
+<span style="color: yellow">Exceptii:</span>
+- elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
+- rămâi fără benzină desupra la CNN și aterizezi să alimentezi
+- mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
+
+#### <a id="5.5.5"></a><span style="color: #0088CC">5.5.6 Bărci</span>
+
+Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
+- intrați intenționat cu barca în maluri pentru a ajunge mai rapid pe uscat
+- loviți intenționat bărcile parcate sau bărcile care au alte persoane în ele
+- parcați bărcile pe uscat
+- blocați intrările în porturi sau locuri special amenajate pentru bărci
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Folosirea vehiculului cu intenția de a lovi un alt vehicul fără un roleplay anterior sau staționarea cu acesta peste un jucător este interzisă.
@@ -1135,34 +1160,3 @@ Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a
 - Reclamații staff
 - Cereri unban
 - Alte probleme
-
-## <a id="9"></a><span style="color: #0088CC">CAP. 9 Legislația aeriană</span>
-
-### <a id="9.1"></a><span style="color: #0088CC">9.1 Regulament</span>
-
-Este STRICT INTERZIS să aterizați cu un elicopter pe insula Cayo înafară de Helipad.
-
-Este STRICT INTERZIS să aterizați cu un elicopter pe străzi.
-* Cu excepția elicopterelor de Medici si Poliție.
-* Excepție de la regula: Rămâi fără benzină desupra la CNN și aterizezi să alimentezi >> Dacă iți cere adminul dovadă și nu ai riști să fii sancționat cu Fail RP.
-* Mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă.
-
-Este STRICT INTERZIS să aterizați cu un elicopter pe blocurile din LOS SANTOS cu excepția unde există un HELIPAD.
-
-Este STRICT INTERZIS să aterizați cu un elicopter pe case indiferent de zonă.
-
-Este STRICT INTERZIS să mergi la jaf cu elicopterul PERSONAL.
-
-Este STRICT INTERZIS să faci acțiuni TERORISTE cu elicopterul.
-
-Regula Jafuri: În cazul în care se dă jaf, atât mafioții cât și polițiști pot ateriza oriunde ( Strada / camp / cladiri ) doar în perimetrul jafului.
-
-## <a id="10"></a><span style="color: #0088CC">CAP. 10 Legislația maritimă</span>
-
-### <a id="10.1"></a><span style="color: #0088CC">10.1 Regulament</span>
-
-Este STRICT INTERZIS să intrați intenționat cu barca în maluri pentru a ajunge mai rapid pe uscat.
-
-Este STRICT INTERZIS să loviți intenționat bărcile parcate sau bărcile care au alte persoane în ele.
-
-Este STRICT INTERZIS să parcați bărcile pe uscat.

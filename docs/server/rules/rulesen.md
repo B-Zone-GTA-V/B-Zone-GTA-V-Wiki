@@ -697,9 +697,35 @@ Driving a vehicle on road portions not marked on the map can be done respecting 
 - Cross motorcycles - Are allowed to be used both on paved roads and on forest roads (marked brown on the radar) with a maximum speed of 100 km/h, but also on unmarked roads with a maximum speed of 70 km/h.
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Helicopters</span>
-Landing a helicopter in unarranged places (helipad) except for helicopters from the police department or SMURD is prohibited.
+It is <span style="color: limegreen">PERMITTED</span> to land a helicopter on:
+- specially designated areas (helipad)
+- specially designated helipads on houses
+- the perimeter of a robbery (active or about to begin), whether on the street, field, buildings, etc., with a department or mafia helicopter <span style="color: red">NOT personal</span>
 
-Landing helicopters from the departments is done in an urgent and/or important action in any location with a flat surface.
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to land a helicopter on:
+- Cayo Island
+- undesignated areas
+- houses, regardless of the area
+- buildings in Los Santos
+- streets, parking lots
+
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to use a **PERSONAL** helicopter in a robbery.<br>
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to perform **TERRORIST** actions with a helicopter.<br>
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to stay or leave an abandoned helicopter on a helipad (blocking the parking).
+
+<span style="color: yellow">Exceptions:</span>
+- Medical and Police helicopters can be used during operations
+- You run out of fuel above CNN and land to refuel
+- You are starving/thirsty and need to land urgently to buy food or water
+
+#### <a id="5.5.6"></a><span style="color: #0088CC">5.5.6 Boats</span>
+
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
+- intentionally drive the boat onto shores to reach land faster
+- intentionally hit parked boats or boats with other people in them
+- park boats on land
+- block entrances to ports or specially designated areas for boats
+
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Using the vehicle with the intention of hitting another vehicle without a previous roleplay or parking it over a player is prohibited.
@@ -1132,34 +1158,3 @@ Tickets can be opened in the support area on our discord server (<a href="https:
 - Staff complaints
 - Unban requests
 - Other problems
-
-## <a id="9"></a><span style="color: #0088CC">CAP. 9 Flying Legislation</span>
-
-### <a id="9.1"></a><span style="color: #0088CC">9.1 Rules</span>
-
-It is STRICTLY FORBIDDEN to land a helicopter on Cayo Island outside of the Helipad.
-
-It is STRICTLY FORBIDDEN to land a helicopter on streets.
-* Exception: Medical and Police helicopters.
-* Exception to the rule: If you run out of fuel above the CNN building and land to refuel. If the admin asks for proof and you don't have it, you risk being sanctioned for Fail RP.
-* If you're starving or dehydrated and need to land urgently to buy food or water.
-
-It is STRICTLY FORBIDDEN to land a helicopter on buildings in LOS SANTOS except where there is a HELIPAD.
-
-It is STRICTLY FORBIDDEN to land a helicopter on houses, regardless of the area.
-
-Heist Rule: In the event of a heist, both mafias and police can land anywhere (street, field, buildings) only within the perimeter of the heist.
-
-It is STRICTLY FORBIDDEN to go to a heist with your PERSONAL helicopter!
-
-It is STRICTLY FORBIDDEN to carry out TERRORIST actions with a helicopter.
-
-## <a id="10"></a><span style="color: #0088CC">CAP. 10 Sailing Legislation</span>
-
-### <a id="10.1"></a><span style="color: #0088CC">10.1 Rules</span>
-
-It is STRICTLY FORBIDDEN to intentionally run a boat aground to reach land more quickly.
-
-It is STRICTLY FORBIDDEN to intentionally hit parked boats or boats with people in them.
-
-It is STRICTLY FORBIDDEN to park boats on land.
