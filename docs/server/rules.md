@@ -278,7 +278,7 @@ Reprezintă atacarea cu pumnii/arme albe sau împușcarea unui jucător sau a un
 
 ### <a id="2.16"></a><span style="color: #0088CC">2.16 Vehicle Death Match (VDM)</span>
 
-Reprezintă călcarea intenționată a unui jucător sau al unui grup de jucători.
+Reprezintă călcarea intenționată a unui jucător sau al unui grup de jucători fară un motiv foarte bine întemeiat sau un roleplay anterior.
 
 <span style="color: yellow">Exemplu:</span> Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul.
 
