@@ -40,5 +40,5 @@ NOTE 3: This job does NOT allow teamwork.
 
 NOTE 4: To progress the job, once you arrive at the station, you must stay in the checkpoint until your speed reaches 0 km/h.
 
-<p align="center"><img src="https://i.imgur.com/MX076mG.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/xi7aZEr.png"/></p>
 <p style="text-align: center">Bus Driver</p>
