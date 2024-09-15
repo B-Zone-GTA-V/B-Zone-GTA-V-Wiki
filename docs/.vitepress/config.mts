@@ -88,6 +88,7 @@ export default defineConfig({
           { text: 'McBeeDelivery', link: '/server/jobs/mcbee' },
           { text: 'Electrician', link: '/server/jobs/electrician' },
           { text: 'Trucker', link: '/server/jobs/trucker' },
+          { text: 'Șofer De Autobuz / Bus Driver', link: '/server/jobs/bus_driver' },
         ]
       },
       {
