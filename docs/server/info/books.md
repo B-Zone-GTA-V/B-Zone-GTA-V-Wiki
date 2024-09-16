@@ -25,7 +25,7 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 |Forjor|480|160|
 |Croitor|150|50|
 |Fermier|1050|350|
-|Rulor de țigări|129|43|
+|Rulor de țigări|393|131|
 |Craft general|150|50|
 |Chimist|240|80|
 
@@ -43,17 +43,14 @@ To write a book, you need a notebook that can be bought in any 24/7 store.
 
 |Book Type|Points for writing a book|Points received for reading the book|
 |:---:|:---:|:---:|
-|Garbageman|60|20||
 |Miner|84|28|
 |Fisherman|312|104|
-|McBee Delivery|12|4|
 |Scavanger|1080|360|
-|Electrician|60|20|
 |Trucker|48|16|
 |Weapon Smith|300|100|
 |Forgery|1200|400|
 |Tailor|150|50|
 |Farmer|1050|350|
-|Smoke crafts|129|43|
+|Smoke crafts|393|131|
 |General Craft|150|50|
 |Chemist|240|80|
