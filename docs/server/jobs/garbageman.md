@@ -6,7 +6,7 @@ outline: deep
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a putea lucra ca Gunoier trebuie să vă îndreptați la una din zonele de angajare (Los Santos sau Paleto Bay). 
+Pentru a putea lucra ca Gunoier trebuie să vă îndreptați la zona de angajare din Los Santos. 
 
 Acest loc de muncă permite lucrul în echipă prin intermediul aplicației "Teams" din telefon. Dacă lucrați în echipă, la sfârșitul turei o să primiți un procentaj bonus la plata salarială drept răsplată pentru lucrul în echipă. Ambele persoane care lucrează în echipă o să primească un punct pentru avansarea în skill.
 
@@ -22,7 +22,7 @@ NOTA 3: Plata la locul de muncă se face atunci când decideți să ieșiți din
 
 ### <span style="color: #0088CC">English</span>
 
-To work as a Garbage Collector, you need to head to one of the hiring areas (Los Santos or Paleto Bay). 
+To work as a Garbage Collector, you need to head to the hiring area in Los Santos.
 
 This job allows teamwork through the "Teams" application on your phone. If you work as a team, at the end of the shift, you will receive a percentage bonus on your salary as a reward for teamwork. Both individuals working in the team will receive a point for skill advancement.
 

@@ -12,11 +12,6 @@ Scopul livratorului este acela de a prepara un număr de burgeri, urmând ca mai
 
 Prepararea burgerilor este bazată pe un memory game, de fiecare dată o să aveți o rețetă de preparare diferită. Dacă alegeți un ingredient greșit, puteți oricând să vă întoarceți la masa de lucru pentru a vedea rețeta iar. Ingredientele alese corect sunt afișate diferit în interfața care afișează rețeta burgerului. 
 
-În funcție de skill, livratorul poate prepara cât și livra mai mulți burgeri pentru a primi o plată mai mare la tura de job. (se adaugă progresiv câte 1 burger extra pentru fiecare skill) 
-
-- Skill 1 - Livratorul poate prepara un singur burger 
-- Skill 6 - Livratorul poate prepara până la 6 burgeri
-
 NOTĂ: Pentru a lucra la acest loc de muncă, aveți nevoie de un permis de conducere activ. 
 
 NOTĂ 2: Dacă nu conduceti scuterul timp de 5 minute, tura de job se încheie, iar scuterul este despawnat datorită inactivității. 
@@ -32,11 +27,6 @@ To work as a delivery driver, you need to head to one of the employment zones.
 The goal of the delivery driver is to prepare a number of burgers and then deliver them to the locations marked on the GPS. It's worth noting that the delivery locations are often different.
 
 The preparation of the burgers is based on a memory game, each time you will have a different preparation recipe. If you choose the wrong ingredient, you can always return to the workstation to see the recipe again. The correctly chosen ingredients are displayed differently in the interface that shows the burger recipe.
-
-Depending on the skill level, the delivery driver can prepare and deliver more burgers to receive a higher payment for the job. (progressively adding 1 extra burger for each skill level) 
-
-- Skill 1 - The delivery driver can prepare only one burger. 
-- Skill 6 - The delivery driver can prepare up to 6 burgers
 
 NOTE: To work at this job, you need an active driver's license. 
 

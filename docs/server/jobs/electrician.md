@@ -6,7 +6,7 @@ outline: deep
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a putea lucra ca Electrician trebuie să vă îndreptați la una din zonele de angajare. 
+Pentru a putea lucra ca Electrician trebuie să vă îndreptați la zona de angajare din Los Santos. 
 
 La acest loc de muncă trebuie să reparați toate panourile electrice marcate pe GPS. Locațiile sunt adesea diferite, oferind o experiență nouă de fiecare dată. Traseul pe care-l alegeți în repararea panourilor electrice este decis de către voi, nu de către server.
 
@@ -22,7 +22,7 @@ NOTĂ 4: Acest loc de muncă NU permite lucrul în echipă.
 
 ### <span style="color: #0088CC">English</span>
 
-To work as an Electrician, you need to head to one of the employment zones.
+To work as an Electrician, you need to head to the hiring area in Los Santos.
 
 In this job, you need to repair all the electrical panels marked on the GPS. The locations are often different, providing a new experience each time. The route you choose for repairing the electrical panels is decided by you, not by the server.
 
