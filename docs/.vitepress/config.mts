@@ -56,6 +56,7 @@ export default defineConfig({
           { text: 'Search in trash bins', link: '/server/info/trashsearch' },
           { text: 'Phone', link: '/server/info/phone' },
           { text: 'Books', link: '/server/info/books' },
+          { text: 'Gym / Sală', link: '/server/info/gym' },
         ]
       },
       {
