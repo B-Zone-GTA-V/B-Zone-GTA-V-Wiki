@@ -8,7 +8,7 @@ outline: deep
 
 Inventarul este elementul de bază al serverului nostru. În inventar vă puteți depozita mâncarea, piesele de vestimentație, obiectele dobândite de la locurile de muncă și nu numai. 
 
-Inventarul vine cu o capacitate de 5 kilograme, putând să fie urcat la 35 kg prin echiparea unui ghiozdan. Cu inventarul deschis, puteți vedea obiectele aruncate în vecinătate, dar și să aruncați obiecte în vecinătate (pe jos). 
+Inventarul vine cu o capacitate de 5 kilograme, putând să fie urcat la 45 kg prin echiparea unui ghiozdan. Cu inventarul deschis, puteți vedea obiectele aruncate în vecinătate, dar și să aruncați obiecte în vecinătate (pe jos). 
 
 Obiectele din vecinătate pot să fie ridicate de către orice jucător ce se află în vecinătatea voastră.
 Capacitatea inventarului NU se poate crește dacă jucătorul face sală; acest concept NU este adoptat pe serverul nostru.
@@ -19,7 +19,7 @@ De notat este că toate obiectele din inventar sunt șterse atunci când jucăto
 
 The inventory is the basic element of our server. In the inventory, you can store food, clothing items, objects obtained from jobs, and more. 
 
-The inventory comes with a capacity of 5 kilograms, which can be increased to 35 kg by equipping a backpack. With the inventory open, you can see items thrown nearby and also throw items in the vicinity (on the ground). 
+The inventory comes with a capacity of 5 kilograms, which can be increased to 45 kg by equipping a backpack. With the inventory open, you can see items thrown nearby and also throw items in the vicinity (on the ground). 
 
 Items in the vicinity can be picked up by any player in your proximity. 
 The inventory capacity cannot be increased if the player works out; this concept is NOT adopted on our server.
