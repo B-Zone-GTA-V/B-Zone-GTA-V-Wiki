@@ -14,12 +14,9 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 
 |Tip carte|Puncte utilizate pentru a scrie o carte|Puncte primite la citirea cărții|
 |:---:|:---:|:---:|
-|Gunoier|60|20|
 |Miner|84|28|
 |Pescar|312|104|
-|McBee Delivery|12|4|
 |Cautator de comori|1080|360|
-|Electrician|60|20|
 |Tirist|48|16|
 |Artizan arme|1200|400|
 |Forjor|480|160|
