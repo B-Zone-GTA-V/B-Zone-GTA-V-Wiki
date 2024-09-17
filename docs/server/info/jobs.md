@@ -20,5 +20,5 @@ If you CLICK on a legal job you will receive a Waypoint to its location.
 
 For illegal jobs and related activities you will not receive a Waypoint, you will have to discover them IC.
 
-<p align="center"><img src=""/></p>
+<p align="center"><img src="https://i.imgur.com/M26iBvW.gif"/></p>
 <p style="text-align: center">Jobs Interface</p>
