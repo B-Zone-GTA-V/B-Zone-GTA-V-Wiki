@@ -52,7 +52,7 @@ export default defineConfig({
           { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
           { text: 'Licenses', link: '/server/info/licenses' },
           { text: 'Paying Fines', link: '/server/info/fines' },
-          { text: 'Job Unlock System', link: '/server/info/jobunlock' },
+          { text: 'Jobs', link: '/server/info/jobs' },
           { text: 'Search in trash bins', link: '/server/info/trashsearch' },
           { text: 'Phone', link: '/server/info/phone' },
           { text: 'Books', link: '/server/info/books' },
