@@ -6,35 +6,35 @@ outline: deep
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a putea lucra ca Electrician trebuie să vă îndreptați la zona de angajare din Los Santos. 
+Pentru a putea lucra ca <span style="color: #4A90E2">Electrician</span> trebuie să vă îndreptați la zona de angajare din Los Santos. 
+<br>Puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> Electrician</span>).</br>
+<br>La acest loc de muncă trebuie să reparați toate panourile electrice marcate pe <span style="color: #4A90E2">GPS</span>.</br>
+<br>Locațiile sunt adesea diferite, oferind o experiență nouă de fiecare dată. Traseul pe care-l alegeți în repararea panourilor electrice este decis de către voi, nu de către server.</br>
 
-La acest loc de muncă trebuie să reparați toate panourile electrice marcate pe GPS. Locațiile sunt adesea diferite, oferind o experiență nouă de fiecare dată. Traseul pe care-l alegeți în repararea panourilor electrice este decis de către voi, nu de către server.
+Tura la locul de muncă se încheie atunci când toate panourile electrice necesare sunt reparate.
 
-Tura la locul de muncă se încheie atunci când toate panourile electrice necesare sunt reparate, oferindu-vă și un punct de experiență pentru avansarea în skill.
+<span style="color: #4A90E2"><b>Notați că:</b></span>
 
-NOTĂ: Pentru a lucra la acest loc de muncă, aveți nevoie de un permis de conducere activ. 
-
-NOTĂ 2: Dacă nu intrați în mașina de Electrician timp de 5 minute, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
-
-NOTA 3: Plata la locul de muncă se face atunci când decideți să ieșiți din tură (puteți face asta după prima tură sau să continuați să lucrați și să fiți plătiți integral la sfârșit pentru toate turele). 
-
-NOTĂ 4: Acest loc de muncă NU permite lucrul în echipă.
+- Pentru a lucra la acest loc de muncă, aveți nevoie de un <span style="color: #4A90E2">permis de conducere valabil</span>. 
+- Dacă nu intrați în mașina de Electrician <span style="color: #ff4c4c">5 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
+- Plata la locul de muncă se face atunci când decideți să ieșiți din tură (<span style="color: #e9cc54">puteți face asta după prima tură sau să continuați să lucrați și să fiți plătiți integral la sfârșit pentru toate turele</span>). 
+- Acest loc de muncă <span style="color: #ff4c4c">NU permite</span> în echipă.
 
 ### <span style="color: #0088CC">English</span>
 
-To work as an Electrician, you need to head to the hiring area in Los Santos.
+To work as an <span style="color: #4A90E2">Electrician</span>, you need to head to the hiring area in Los Santos.
+<br>You can use your phone (<span style="color: #4A90E2">Press L -> GPS -> Jobs -> Electrician</span>).</br>
+<br>In this job, you need to repair all the electrical panels marked on the <span style="color: #4A90E2">GPS</span>.</br>
+<br>The locations are often different, providing a new experience each time. The route you choose for repairing the electrical panels is decided by you, not the server.</br>
 
-In this job, you need to repair all the electrical panels marked on the GPS. The locations are often different, providing a new experience each time. The route you choose for repairing the electrical panels is decided by you, not by the server.
+The shift ends when all necessary electrical panels have been repaired.
 
-The work shift ends when all the necessary electrical panels are repaired, also giving you an experience point for skill advancement.
+<span style="color: #4A90E2"><b>Note that:</b></span>
 
-NOTE: To work at this job, you need an active driver's license. 
-
-NOTE 2: If you don't enter the electrician vehicle for 5 minutes, the job shift ends, and the vehicle is despawned due to inactivity. 
-
-NOTE 3: Payment at the workplace is made when you decide to end the shift (you can do this after the first shift or continue to work and be paid in full at the end of all shifts). 
-
-NOTE 4: This job does NOT allow teamwork.
+- To work at this job, you need a <span style="color: #4A90E2">valid driver's license</span>.
+- If you do not enter the Electrician's vehicle within <span style="color: #ff4c4c">5 minutes</span>, your shift will end, and the vehicle will despawn due to inactivity.
+- Payment for this job is made when you choose to finish your shift (<span style="color: #e9cc54">you can do this after the first shift or continue working and be paid in full at the end for all shifts</span>).
+- This job <span style="color: #ff4c4c">DOES NOT allow</span> teamwork.
 
 <p align="center"><img src="https://i.imgur.com/MX076mG.gif"/></p>
 <p style="text-align: center">Electrician minigame</p>
