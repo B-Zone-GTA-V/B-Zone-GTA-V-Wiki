@@ -7,8 +7,8 @@ outline: deep
 ### <span style="color: #0088CC">Română</span>
 
 Pentru a putea lucra ca <span style="color: #4A90E2">Șofer de Autobuz</span> sau <span style="color: #4A90E2">Șofer de Autocar</span>, trebuie să vă îndreptați către zona de angajare din Los Santos.
-<br>Puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> Șofer de Autobuz sau Șofer de Autocar</span>).</br>
-<br>Puteți deveni <span style="color: #4A90E2">Șofer de Autobuz</span> (<span style="color: #ff4c4c">0 ore</span>) sau <span style="color: #4A90E2">Șofer de Autocar</span> (<span style="color: #ff4c4c">50 ore</span>) în funcție de experiența dumneavoastră în oraș.<br>
+<br>Puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> Șofer de Autobuz sau Șofer de Autocar</span>).
+<br>Puteți deveni <span style="color: #4A90E2">Șofer de Autobuz</span> (<span style="color: #ff4c4c">0 ore</span>) sau <span style="color: #4A90E2">Șofer de Autocar</span> (<span style="color: #ff4c4c">50 ore</span>) în funcție de experiența dumneavoastră în oraș.
 
 Rutele sunt diferite: pentru <span style="color: #4A90E2">Șofer de Autobuz</span> sunt disponibile 3 rute, iar pentru <span style="color: #4A90E2">Șofer de Autocar</span> sunt 2 rute.
 
@@ -22,8 +22,8 @@ Rutele sunt diferite: pentru <span style="color: #4A90E2">Șofer de Autobuz</spa
 ### <span style="color: #0088CC">English</span>
 
 To work as a <span style="color: #4A90E2">Bus Driver</span> or a <span style="color: #4A90E2">Coach Driver</span>, you need to head to the hiring area in Los Santos.
-<br>You can use your phone (<span style="color: #4A90E2">Press L -> GPS -> Jobs -> Bus Driver or Coach Driver</span>).</br>
-<br>You can become a <span style="color: #4A90E2">Bus Driver</span> (<span style="color: #ff4c4c">0 hours</span>) or a <span style="color: #4A90E2">Coach Driver</span> (<span style="color: #ff4c4c">50 hours</span>) depending on your experience in the city.</br>
+<br>You can use your phone (<span style="color: #4A90E2">Press L -> GPS -> Jobs -> Bus Driver or Coach Driver</span>).
+<br>You can become a <span style="color: #4A90E2">Bus Driver</span> (<span style="color: #ff4c4c">0 hours</span>) or a <span style="color: #4A90E2">Coach Driver</span> (<span style="color: #ff4c4c">50 hours</span>) depending on your experience in the city.
 
 The routes are different: there are 3 routes available for the <span style="color: #4A90E2">Bus Driver</span> and 2 routes for the <span style="color: #4A90E2">Coach Driver</span>.
 

@@ -7,9 +7,7 @@ outline: deep
 ### <span style="color: #0088CC">Română</span>
 
 Pentru a aplica la orice loc de muncă disponibil pe server, trebuie să vă deplasați fizic la punctele de angajare. Pentru a ajunge acolo, puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> și selectați locul de muncă dorit.</span>)
-<br>
-    Asigurați-vă că îndepliniți cerințele de ore pentru acel job din <span style="color: #4A90E2">ESC -> meniul Jobs.</span>
-</br>
+<br>Asigurați-vă că îndepliniți cerințele de ore pentru acel job din <span style="color: #4A90E2">ESC -> meniul Jobs.</span>
 
 Locurile de muncă disponibile pe server sunt:
 - [Gunoier](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/garbageman.html) - valabil în Los Santos & Paleto Bay

@@ -7,9 +7,10 @@ outline: deep
 ### <span style="color: #0088CC">Română</span>
 
 Pentru a putea lucra ca <span style="color: #4A90E2">Electrician</span> trebuie să vă îndreptați la zona de angajare din Los Santos. 
-<br>Puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> Electrician</span>).</br>
-<br>La acest loc de muncă trebuie să reparați toate panourile electrice marcate pe <span style="color: #4A90E2">GPS</span>.</br>
-<br>Locațiile sunt adesea diferite, oferind o experiență nouă de fiecare dată. Traseul pe care-l alegeți în repararea panourilor electrice este decis de către voi, nu de către server.</br>
+<br>Puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> Electrician</span>).
+<br>Puteți deveni <span style="color: #4A90E2">Electrician</span> (<span style="color: #ff4c4c">40 ore</span>) în funcție de experiența dumneavoastră.
+<br>La acest loc de muncă trebuie să reparați toate panourile electrice marcate pe <span style="color: #4A90E2">GPS</span>.
+<br>Locațiile sunt adesea diferite, oferind o experiență nouă de fiecare dată. Traseul pe care-l alegeți în repararea panourilor electrice este decis de către voi, nu de către server.
 
 Tura la locul de muncă se încheie atunci când toate panourile electrice necesare sunt reparate.
 
@@ -23,9 +24,10 @@ Tura la locul de muncă se încheie atunci când toate panourile electrice neces
 ### <span style="color: #0088CC">English</span>
 
 To work as an <span style="color: #4A90E2">Electrician</span>, you need to head to the hiring area in Los Santos.
-<br>You can use your phone (<span style="color: #4A90E2">Press L -> GPS -> Jobs -> Electrician</span>).</br>
-<br>In this job, you need to repair all the electrical panels marked on the <span style="color: #4A90E2">GPS</span>.</br>
-<br>The locations are often different, providing a new experience each time. The route you choose for repairing the electrical panels is decided by you, not the server.</br>
+<br>You can use your phone (<span style="color: #4A90E2">Press L -> GPS -> Jobs -> Electrician</span>).
+<br>You can become an <span style="color: #4A90E2">Electrician</span> (<span style="color: #ff4c4c">40 hours</span>) based on your experience.
+<br>In this job, you need to repair all the electrical panels marked on the <span style="color: #4A90E2">GPS</span>.
+<br>The locations are often different, providing a new experience each time. The route you choose for repairing the electrical panels is decided by you, not the server.
 
 The shift ends when all necessary electrical panels have been repaired.
 
