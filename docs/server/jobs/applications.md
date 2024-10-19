@@ -10,10 +10,10 @@ Pentru a aplica la orice loc de muncă disponibil pe server, trebuie să vă dep
 <br>Asigurați-vă că îndepliniți cerințele de ore pentru acel job din <span style="color: #4A90E2">ESC -> meniul Jobs.</span>
 
 Locurile de muncă disponibile pe server sunt:
-- [Gunoier](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/garbageman.html) - valabil în Los Santos & Paleto Bay
+- [Gunoier](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/garbageman.html) - valabil în Los Santos
 - [Miner](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/miner.html) - Novice & Experimentat (de la skill 4+)
 - [McBeeDelivery](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/mcbee.html) - valabil în Los Santos
-- [Electrician](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/electrician.html) - valabil în Los Santos & Paleto Bay
+- [Electrician](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/electrician.html) - valabil în Los Santos
 - [Trucker](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/trucker.html) - valabil în Los Santos
 - [Șofer De Autobuz / Bus Driver](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/bus_driver.html) - valabil în Los Santos
 
@@ -31,7 +31,7 @@ The available jobs on the server are:
 - [Garbage Collector](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/garbageman.html) - available in Los Santos
 - [Miner](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/miner.html) - Novice & Experienced (de la skill 4+)
 - [McBeeDelivery](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/mcbee.html) - available in Los Santos
-- [Electrician](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/electrician.html) - valabil în Los Santos & Paleto Bay
+- [Electrician](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/electrician.html) - available in Los Santos
 - [Trucker](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/trucker.html) - available in Los Santos
 - [Șofer De Autobuz / Bus Driver](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/bus_driver.html) - available in Los Santos
 
