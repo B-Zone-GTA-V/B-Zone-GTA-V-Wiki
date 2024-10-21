@@ -40,7 +40,7 @@ export default defineConfig({
         text: 'ℹ️ Informatii Generale / General Info',
         items: [
           { text: 'Account & Character Creation', link: '/server/info/account' },
-          { text: 'RolePlay Test', link: '/server/info/rptest' },
+          // { text: 'RolePlay Test', link: '/server/info/rptest' },
           { text: 'Tutorial', link: '/server/info/tutorial' },
           { text: 'Settings & Hotkeys', link: '/server/info/settings' },
           { text: 'Inventory & Backpack', link: '/server/info/inventory' },
