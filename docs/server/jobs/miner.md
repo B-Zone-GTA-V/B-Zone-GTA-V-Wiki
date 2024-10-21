@@ -7,7 +7,7 @@ outline: deep
 ### <span style="color: #0088CC">Română</span>
 
 Pentru a putea lucra ca <span style="color: #4A90E2">Miner</span> trebuie să vă îndreptați la una din zonele de angajare.
-<br>Puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> Miner Incepator, Miner Avansat Fier sau Miner Avansat Sulf.</span>).
+<br>-> Puteți folosi telefonul (<span style="color: #4A90E2">Apăsați pe L -> GPS -> Joburi -> Miner Incepator, Miner Avansat Fier sau Miner Avansat Sulf</span>).
 <br>Puteți deveni <span style="color: #4A90E2">Miner</span> (<span style="color: #ff4c4c">100 ore</span>) în funcție de experiența dumneavoastră.
 <br>Acest loc de muncă permite lucrul în echipă prin intermediul aplicației <span style="color: #4A90E2">"Teams"</span> din telefon. Dacă lucrați în echipă, veți primi cu <span style="color: #e9cc54">2 checkpoint-uri</span> în plus fiecare.
 
@@ -17,7 +17,7 @@ La fiecare tură de <span style="color: #4A90E2">Miner</span> terminată sunteț
 
 Optiunea de <span style="color: #4A90E2">Miner Avansat Fier</span> sau <span style="color: #4A90E2">Miner Avansat Sulf</span> este deblocată de la <span style="color: #ff4c4c">skill 4+</span> și oferă posibilitatea de a lucra la o nouă mină unde spargerea bolovanilor aduce materiale îmbunătățite ce pot fi folosite în joc (<span style="color: #e9cc54">de descoperit IC la ce se folosesc</span>). De menționat este că materialele îmbunătățite o să poată fi găsite doar în mina nouă.
 
-<span style="color: #4A90E2"><b>Notați că:</b></span>
+#### <span style="color: #4A90E2"><b>Important</b></span>
 
 - Pentru a lucra la acest loc de muncă, aveți nevoie de un <span style="color: #4A90E2">permis de conducere valabil</span>. 
 -  Plata la locul de muncă se face atunci când decideți să ieșiți din tură (<span style="color: #e9cc54">puteți face asta după prima tură sau să continuați să lucrați și să fiți plătiți integral la sfârșit pentru toate turele</span>).
@@ -35,7 +35,7 @@ For each completed <span style="color: #4A90E2">Miner</span> shift, you will be 
 
 The option for <span style="color: #4A90E2">Advanced Iron Miner</span> or <span style="color: #4A90E2">Advanced Sulfur Miner</span> is unlocked at <span style="color: #ff4c4c">skill level 4+</span> and offers the chance to work at a new mine where breaking boulders yields improved materials that can be used in-game (<span style="color: #e9cc54">discover in-game what they are used for</span>). It’s important to note that the enhanced materials can only be found in the new mine.
 
-<span style="color: #4A90E2"><b>Note that:</b></span>
+#### <span style="color: #4A90E2"><b>Note</b></span>
 
 - To work at this job, you need a <span style="color: #4A90E2">valid driver's license</span>.
 - Payment for this job is made when you decide to finish your shift (<span style="color: #e9cc54">you can do this after the first shift or continue working and be fully paid at the end for all shifts</span>).
