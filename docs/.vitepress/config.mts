@@ -60,6 +60,28 @@ export default defineConfig({
         ]
       },
       {
+        text: '✒️ Locuri de munca / Jobs',
+        items: [
+          { text: '📝 Job Applications', link: '/server/jobs/applications' },
+          { text: '♻️ Gunoier / Garbageman', link: '/server/jobs/garbageman' },
+          { text: '⛏️ Miner', link: '/server/jobs/miner' },
+          { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
+          { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
+          { text: '🚛 Trucker', link: '/server/jobs/trucker' },
+          { text: '🚌 Șofer De Autobuz / Bus Driver', link: '/server/jobs/bus_driver' },
+          { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
+        ]
+      },
+      {
+        text: '🎣 Hobby',
+        items: [
+          { text: 'Fisherman', link: '/server/hobby/fisherman' },
+          { text: 'B-Taxi', link: '/server/hobby/taxi' },
+          { text: 'Tailoring', link: '/server/hobby/tailor' },
+          { text: 'Lumberjack', link: '/server/hobby/lumberjack'},
+        ]
+      },
+      {
         text: '🛒 Magazine / Shops',
         items: [
           { text: 'Dealership', link: '/server/shops/dealership' },
@@ -80,26 +102,6 @@ export default defineConfig({
           { text: 'Los Santos Mechanics', link: '/server/factions/mechanics' },
         ]
       },
-      {
-        text: '✒️ Locuri de munca / Jobs',
-        items: [
-          { text: 'Job Applications', link: '/server/jobs/applications' },
-          { text: 'Gunoier / Garbageman', link: '/server/jobs/garbageman' },
-          { text: 'Miner', link: '/server/jobs/miner' },
-          { text: 'McBeeDelivery', link: '/server/jobs/mcbee' },
-          { text: 'Electrician', link: '/server/jobs/electrician' },
-          { text: 'Trucker', link: '/server/jobs/trucker' },
-          { text: 'Șofer De Autobuz / Bus Driver', link: '/server/jobs/bus_driver' },
-        ]
-      },
-      {
-        text: '🎣 Hobby',
-        items: [
-          { text: 'Fisherman', link: '/server/hobby/fisherman' },
-          { text: 'B-Taxi', link: '/server/hobby/taxi' },
-          { text: 'Tailoring', link: '/server/hobby/tailor' },
-        ]
-      }
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://b-zone.ro/rage' },
