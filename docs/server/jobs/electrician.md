@@ -1,11 +1,45 @@
 ---
 outline: deep
 ---
-<html lang="ro">
-    <head>
-        <link rel="stylesheet" href="styles.css">
-    </head>
-</html>
+<style scoped>
+.button-p, .button-r {
+    display: inline-block;
+    padding: 0 8px;
+    color: white;
+    border-radius: 8px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.button-p { background-color: #0088CC; }
+
+.button-r { background-color: #ad3838; }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.image-row {
+    display: flex;
+    justify-content: center;
+}
+
+.image-row img {
+    margin: 0 5px;
+    width: 50px;
+    height: 50px;
+}
+</style>
 
 ## Electrician
 
