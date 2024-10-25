@@ -349,7 +349,7 @@ Represents the action through which you want to attract the attention of the pol
 - Drifts and burn-outs in the presence of a police crew.
 - Intentionally and repeatedly driving on the wrong side of the road near the police.
 - Repeatedly passing by a police crew with your face covered.
-- Repeatedly driving in front of the police station without license plates.
+- Driving conspicuously through populated areas without license plates.
 - Baseless 112 calls to bring them to an area just for the purpose of starting a forced roleplay with them.
 
 <span style="color: red">Sanctions:</span>
@@ -1158,3 +1158,14 @@ Tickets can be opened in the support area on our discord server (<a href="https:
 - Staff complaints
 - Unban requests
 - Other problems
+
+## <a id="9"></a> <span style="color: #0088CC">CAP 9. Activity</span>
+
+### <a id="9.1"></a><span style="color: #0088CC"> 9.1 Houses</span>
+
+Players who own a house must log a minimum of 10 hours within 30 days.
+Those who do not meet the required minimum hours will lose their house, which will then be put up for IC auctions.
+<br><span style="color: red">If you own items</span> in the house at the time of losing it, these will not be returned by the administrative team.
+
+Players permanently banned without the right to appeal will lose their house after a period of 10 days if the "no appeal" status is changed to "with appeal" following a ticket.
+<br>For players temporarily banned for a period longer than 30 days, the minimum requirement of 10 hours will only be considered after the ban expires.

@@ -12,11 +12,11 @@ outline: deep
     </tr>
     <tr>
         <td>De cate ore am nevoie?</td>
-        <td>De minim 70 de ore.</td>
+        <td>Poti sa il faci la 70 de ore.</td>
     </tr>
     <tr>
         <td>Necesită iteme specifice?</td>
-        <td>Da, undita si momeala.</td>
+        <td>Da, ai nevoie de undita si momeala.</td>
     </tr>
     <tr>
         <td>Necesită vehicul personal?</td>
@@ -26,7 +26,11 @@ outline: deep
         <td>Necesită permis de conducere?</td>
         <td>Nu.</td>
     </tr>
-</table> 
+    <tr>
+        <td>Necesită un atestat de la primarie?</td>
+        <td>Da.</td>
+    </tr>
+</table>
 
 Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea pescui, este nevoie de achiziționarea unei <span class="button-p-hobby">undițe</span>, cât și a <span class="button-p-hobby">momelelor</span>. Acestea pot fi găsită în interiorul magazinului de lângă zona de pescuit. Odată ce aceste criterii au fost îndeplinite, pescarul se poate îndrepta spre ponton.
 
@@ -152,11 +156,11 @@ Pentru a prinde pești, apasă pe <span class="button-p-hobby">E</span>, după c
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 70 hours.</td>
+        <td>You can complete it in 70 hours.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>
-        <td>Yes, a fishing rod and bait.</td>
+        <td>Yes, you need a fishing rod and bait.</td>
     </tr>
     <tr>
         <td>Does it require a personal vehicle?</td>
@@ -165,6 +169,10 @@ Pentru a prinde pești, apasă pe <span class="button-p-hobby">E</span>, după c
     <tr>
         <td>Does it require a driving license?</td>
         <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it require a certificate from the city hall?</td>
+        <td>Yes.</td>
     </tr>
 </table>
 

@@ -357,7 +357,7 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
 - Drift-uri si burn-out in prezența unui echipaj de poliție.
 - Conducerea în mod intenționat și repetat pe contra-sens în preajma poliției.
 - Trecerea în mod repetat pe lângă un echipaj de poliție având față acoperită.
-- Conducerea în mod repetat prin față secției de poliție fără numere de înmatriculare.
+- Conducerea in mod evident prin zonele populate (Strazi principale / Sectie de Politie / Magazine / Benzinarii / Spital) fara numere de inmatriculare.
 - Apeluri nefondate la 112 pentru a îi aduce intr-o zonă doar cu scopul de a porni un roleplay forțat cu ei.
 
 <span style="color: red">Sancțiuni:</span>
@@ -1160,3 +1160,14 @@ Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a
 - Reclamații staff
 - Cereri unban
 - Alte probleme
+
+## <a id="9"></a> <span style="color: #0088CC">CAP 9. Activitate</span>
+
+### <a id="9.1"></a><span style="color: #0088CC"> 9.1 Case</span>
+
+Persoanele ce detin o casa trebuie sa aibe la activ minim 10 ore in 30 de zile.
+<br>Persoanele ce nu indeplinesc minimul de ore solicitat li se va scoate casa de pe cont, iar aceasta ulterior scoasa la licitatii IC.
+<br><span style="Color: red">Daca detineti bunuri</span> in casa in momentul in care o pierdeti, acestea nu vor fi returnate de catre echipa administrativa.
+
+Persoanele banate permanent fara drept de plata li se vor scoate casa dupa o perioada de 10 zile in cazul in care exista situatia unei modificari din "fara drept de plata" in "cu drept de plata" in urma unui ticket.
+<br>Persoanelor banate temporar pentru o perioada mai mare de 30 de zile nu li se va lua in considerare minimul de 10 ore decat dupa expirarea banului.
