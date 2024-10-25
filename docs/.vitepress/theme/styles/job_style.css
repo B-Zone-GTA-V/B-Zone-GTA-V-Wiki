@@ -1,0 +1,19 @@
+.button-p-job, .button-r-job {
+    display: inline-block;
+    padding: 0 8px;
+    color: white;
+    border-radius: 8px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.button-p-job { 
+    background-color: #0088CC;
+}
+
+.button-r-job { 
+    background-color: #ad3838; 
+}
