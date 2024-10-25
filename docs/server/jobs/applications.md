@@ -1,52 +1,13 @@
 ---
 outline: deep
 ---
-<style scoped>
-.button-p, .button-r {
-    display: inline-block;
-    padding: 0 8px;
-    color: white;
-    border-radius: 8px;
-    font-family: 'Arial', sans-serif;
-    font-weight: bold;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-    font-size: 14px;
-    letter-spacing: 1px;
-}
-
-.button-p { background-color: #0088CC; }
-
-.button-r { background-color: #ad3838; }
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-td {
-    border: 1px solid black;
-    padding: 10px;
-    text-align: center;
-}
-
-.image-row {
-    display: flex;
-    justify-content: center;
-}
-
-.image-row img {
-    margin: 0 5px;
-    width: 50px;
-    height: 50px;
-}
-</style>
 
 ## Job Applications
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a aplica la orice loc de muncă disponibil pe server, trebuie să vă deplasați fizic la punctele de angajare. Pentru a ajunge acolo, puteți folosi telefonul: <span class="button-p">Apăsați pe L -> GPS -> Joburi -> și selectați locul de muncă dorit.</span>
-<br>Asigurați-vă că îndepliniți cerințele de ore pentru acel job din <span class="button-p">ESC -> meniul Jobs.</span>
+Pentru a aplica la orice loc de muncă disponibil pe server, trebuie să vă deplasați fizic la punctele de angajare. Pentru a ajunge acolo, puteți folosi telefonul: <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> și selectați locul de muncă dorit.</span>
+<br>Asigurați-vă că îndepliniți cerințele de ore pentru acel job din <span class="button-p-job">ESC -> meniul Jobs.</span>
 
 Locurile de muncă disponibile pe server sunt:
 - [Gunoier](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/garbageman.html) - valabil în Los Santos
@@ -57,14 +18,14 @@ Locurile de muncă disponibile pe server sunt:
 - [Șofer De Autobuz / Bus Driver](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/bus_driver.html) - valabil în Los Santos
 - [GoPostal](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/gopostal.html) - valabil în Los Santos
 
-Pentru fiecare dintre locurile de muncă specificate mai sus, aveți nevoie de un <span class="button-p">permis de conducere</span> valabil pentru a vă putea angaja.
+Pentru fiecare dintre locurile de muncă specificate mai sus, aveți nevoie de un <span class="button-p-job">permis de conducere</span> valabil pentru a vă putea angaja.
 
-Fiecare loc de muncă afișează informații despre modul de lucru și despre cum sunteți plătit. Aceste informații pot fi vizualizate înainte de a începe tura, accesând <span class="button-p">butonul din dreapta sus -> numit "Informații"</span>.
+Fiecare loc de muncă afișează informații despre modul de lucru și despre cum sunteți plătit. Aceste informații pot fi vizualizate înainte de a începe tura, accesând <span class="button-p-job">butonul din dreapta sus -> numit "Informații"</span>.
 
 ### <span style="color: #0088CC">English</span>
 
-To apply for any available job on the server, you need to physically go to the job application points. To get there, you can use your phone <span class="button-p">Press L -> GPS -> Jobs -> and select the desired job.</span>
-<br>Make sure you meet the required hours for that job in the <span class="button-p">ESC -> Jobs menu.</span></br>
+To apply for any available job on the server, you need to physically go to the job application points. To get there, you can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> and select the desired job.</span>
+<br>Make sure you meet the required hours for that job in the <span class="button-p-job">ESC -> Jobs menu.</span></br>
 
 The available jobs on the server are: 
  
@@ -76,9 +37,9 @@ The available jobs on the server are:
 - [Șofer De Autobuz / Bus Driver](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/bus_driver.html) - available in Los Santos
 - [GoPostal](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/gopostal.html) - available in Los Santos
 
-For each of the jobs mentioned above, you need a valid <span class="button-p">driver's license</span> when applying.
+For each of the jobs mentioned above, you need a valid <span class="button-p-job">driver's license</span> when applying.
 
-Each job displays information about how to work and how you're paid. This information can be viewed before starting your shift by accessing the <span class="button-p">top right button -> called "Info"</span>.
+Each job displays information about how to work and how you're paid. This information can be viewed before starting your shift by accessing the <span class="button-p-job">top right button -> called "Info"</span>.
 
 
 <p align="center"><img src="https://i.imgur.com/PbdXwlC.gif"/></p>
