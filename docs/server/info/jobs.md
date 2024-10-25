@@ -2,9 +2,7 @@
 outline: deep
 ---
 
-## Joburi / Jobs
-
-### <span style="color: #0088CC">Română</span>
+## Despre Joburi
 
 Toate joburile și activitățile au fost trecute într-o interfață specială pentru a ajuta jucătorii noi.
 
@@ -12,13 +10,6 @@ Dacă apăsați CLICK pe un job legal veți primi un Waypoint către locația ac
 
 Pentru joburile ilegale și activitățile aferente nu veți primi un Waypoint, acestea trebuind să le descoperiți IC.
 
-### <span style="color: #0088CC">English</span>
-
-All jobs and activities have been moved to a special interface to help new players.
-
-If you CLICK on a legal job you will receive a Waypoint to its location.
-
-For illegal jobs and related activities you will not receive a Waypoint, you will have to discover them IC.
-
-<p align="center"><img src="https://i.imgur.com/M26iBvW.gif"/></p>
-<p style="text-align: center">Jobs Interface</p>
+::: details Interfața de Joburi
+  <img src="https://i.imgur.com/M26iBvW.gif"/>
+:::

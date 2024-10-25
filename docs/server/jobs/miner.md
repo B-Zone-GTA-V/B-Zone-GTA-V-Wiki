@@ -4,8 +4,6 @@ outline: deep
 
 ## Miner
 
-### <span style="color: #0088CC">Română</span>
-
 <table>
     <tr>
         <td>Întrebare</td>
@@ -48,64 +46,12 @@ La fiecare tură de <span class="button-p-job">Miner</span> terminată sunteți 
 
 Optiunea de <span class="button-p-job">Miner Avansat Fier</span> sau <span class="button-p-job">Miner Avansat Sulf</span> este deblocată de la <span class="button-r-job">skill 4+</span> și oferă posibilitatea de a lucra la o nouă mină unde spargerea bolovanilor aduce materiale îmbunătățite ce pot fi folosite în joc. De menționat este că materialele îmbunătățite o să poată fi găsite doar în mina nouă.
 
-### <span style="color: #0088CC">English</span>
+::: details Activitate miner
+  <img src="https://i.imgur.com/1rd5GYD.gif"/>
+:::
 
-<table>
-    <tr>
-        <td>Question</td>
-        <td>Answer</td>
-    </tr>
-    <tr>
-        <td>How many hours do I need?</td>
-        <td>At least 100 hours.</td>
-    </tr>
-    <tr>
-        <td>Does it require specific items?</td>
-        <td>Yes, a Pickaxe.</td>
-    </tr>
-    <tr>
-        <td>Does it require a personal vehicle?</td>
-        <td>Yes.</td>
-    </tr>
-    <tr>
-        <td>Does it require a driving license?</td>
-        <td>Yes.</td>
-    </tr>
-    <tr>
-        <td>Does it require a certificate from the town hall?</td>
-        <td>Yes.</td>
-    </tr>
-    <tr>
-        <td>Does it allow teamwork?</td>
-        <td>Yes.</td>
-    </tr>
-</table>
-
-
-To work as a <span class="button-p-job">Miner</span>, you need to head to one of the hiring areas.
-<br>You can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> Junior Miner, Advanced Iron Miner etc</span>.
-<br>You can become a <span class="button-p-job">Miner</span> based on your experience.
-<br>This job allows teamwork through the <span class="button-p-job">"Teams"</span> app on your phone. If you work in a team, you will receive an additional <span span class="button-r-job">2 checkpoints</span> each.
-
-To complete your shift, you must visit 10 locations marked on the <span class="button-p-job">GPS</span> to collect minerals <span span class="button-r-job">24 if working in a team</span>. It’s important to note that the locations often change, and each player must break 10/12 boulders.
-
-For each completed <span class="button-p-job">Miner</span> shift, you will be rewarded with materials that can later be processed at the <span class="button-p-job">Smelter</span>.
-
-The option for <span class="button-p-job">Advanced Iron Miner</span> or <span class="button-p-job">Advanced Sulfur Miner</span> is unlocked at <span class="button-r-job">skill level 4+</span> and offers the chance to work at a new mine where breaking boulders yields improved materials that can be used in-game. It’s important to note that the enhanced materials can only be found in the new mine.
-
-<p align="center"><img src="https://i.imgur.com/1rd5GYD.gif"/></p>
-<p style="text-align: center">Miner system</p>
-
-## Topitorie / Smelter
-
-### <span style="color: #0088CC">Română</span>
+## Topitorie
 
 <span class="button-p-job"><b>Topitoria</b></span> este situată în orașul Los Santos. Pentru a ajunge la ea, trebuie să aflați locația acesteia în joc.
 
 <span class="button-p-job"><b>Topitoria</b></span> este folosită pentru a prelucra materialele obținute de la Miner. Aceste materiale pot fi folosite pentru a crafta iteme, să fie oferite altor jucători, aruncate pe jos sau pierdute în cazul în care doriți să vă respawnati la spital.
-
-### <span style="color: #0088CC">English</span>
-
-<span class="button-p-job"><b>The Smelter</b></span> is located in Los Santos. To reach it, you need to find its location in-game.
-
-<span class="button-p-job"><b>The Smelter</b></span> is used to process materials obtained from the Miner. These materials can be used for crafting items, can be offered to other players, dropped on the ground, or lost if you choose to respawn at the hospital.

@@ -4,8 +4,6 @@ outline: deep
 
 ## GoPostal
 
-### <span style="color: #0088CC">Română</span>
-
 <table>
     <tr>
         <td>Întrebare</td>
@@ -54,57 +52,5 @@ După ce ați livrat toate cutiile, vă întoarceți la sediu, unde puteți aleg
 #### <span class="button-p-job"><b>Important</b></span>
 
 - Dacă nu intrați în mașina de job timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității.
-
-### <span style="color: #0088CC">English</span>
-<table>
-    <tr>
-        <td>Question</td>
-        <td>Answer</td>
-    </tr>
-    <tr>
-        <td>How many hours do I need?</td>
-        <td>At least 10 hours.</td>
-    </tr>
-    <tr>
-        <td>Does it require specific items?</td>
-        <td>No.</td>
-    </tr>
-    <tr>
-        <td>Does it require a personal vehicle?</td>
-        <td>No, you receive one from the employer.</td>
-    </tr>
-    <tr>
-        <td>Does it require a driving license?</td>
-        <td>Yes.</td>
-    </tr>
-    <tr>
-        <td>Does it require a certificate from the town hall?</td>
-        <td>No.</td>
-    </tr>
-    <tr>
-        <td>Does it allow teamwork?</td>
-        <td>Yes.</td>
-    </tr>
-</table>
-
-
-To become a <span class="button-p-job">Courier</span> for the <span class="button-p-job">GoPostal</span> company, you need to go to the hiring location in Los Santos.
-
--> You can use the in-game phone: <span class="button-p-job">L -> GPS -> Jobs -> GoPostal</span>.
-<br>You can work as a Courier, depending on your accumulated experience.
-
-This job allows teamwork through the '<span class="button-p-job">Teams</span>' app on your in-game phone.
-If you choose to work in a team, you will receive a percentage <span class="button-p-job">bonus</span> at the end of the shift for collaboration.
-
-To complete the shift, you need to load a certain number of packages into the job vehicle, then follow the map to the delivery location.
-
--> The destinations will vary with each shift.
-<br>-> If working in a team, each member must deliver their own packages.
-
-Once all packages are delivered, you return to the headquarters where you can either continue with more deliveries or collect your payment for the completed delivery.
-
-#### <span class="button-p-job">Note</span>
-
-- If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
 <p align="center"><img src="https://v.b-zone.ro/images/wiki/gopostal.png"/></p>
