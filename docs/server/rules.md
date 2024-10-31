@@ -28,6 +28,10 @@ Exemple de nume permise: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
 Neconformarea, respectiv necooperarea cu administrația serverului pentru a respecta orice parametru de mai sus, va duce la banarea contului dumneavoastră permanent, având posibilitatea să vă faceți ulterior alt cont.
 
+### <a id="1.4"></a><span style="color: #0088CC">1.4 Politică de comportament și de excludere a jucătorilor</span>
+
+Echipa Administrativă își rezervă dreptul de a selecta și, dacă este necesar, de a elimina permanent jucătorii de pe server. Ne ghidăm după atitudine, comportament, toxicitate și alte aspecte relevante. Scopul nostru este de a menține un mediu plăcut pentru toți utilizatorii, iar persoanele care generează probleme vor fi excluse.
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 REGULI DE BAZĂ</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
