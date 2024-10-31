@@ -28,6 +28,10 @@ Examples of allowed names: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
 Non-compliance or non-cooperation with the server administration to respect any of the above parameters will lead to your account being permanently banned, with the possibility to create another account later.
 
+### <a id="1.4"></a><span style="color: #0088CC">1.4 Player Behavior and Exclusion Policy</span>
+
+The Administrative Team reserves the right to select and, if necessary, permanently remove players from the server. We base our decisions on attitude, behavior, toxicity, and other relevant aspects. Our goal is to maintain a pleasant environment for all users, and individuals who cause issues will be excluded.
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 BASIC RULES</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
