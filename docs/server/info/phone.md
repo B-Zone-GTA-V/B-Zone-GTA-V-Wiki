@@ -10,7 +10,6 @@ Telefonul vine cu mai multe aplicații folosite după cum urmează:
 
 |Application|Description|
 |:---:|:---:|
-|Info|Pentru a vedea informații despre caracter|
 |Vehicles|Pentru a vedea toate mașinile personale deținute|
 |GPS|Pentru a vedea diferite locații pe hartă|
 |Banking|Pentru a vedea informații despre contul bancar|
@@ -34,7 +33,6 @@ The phone comes with several applications used as follows:
 
 |Application|Description|
 |:---:|:---:|
-|Info|Used to see various info about your character|
 |Vehicles|Used to see a full list of your personal vehicles|
 |GPS|Used to view different locations on the map|
 |Banking|Used to view all the latest transactions that you made|
