@@ -44,6 +44,8 @@ export default defineConfig({
           // { text: 'Tutorial', link: '/server/info/tutorial' },
           { text: 'Settings & Hotkeys', link: '/server/info/settings' },
           { text: 'Inventory & Backpack', link: '/server/info/inventory' },
+          { text: 'BNN', link: '/server/info/bnn' },
+          { text: 'Referral', link: '/server/info/referral' },
           { text: 'Garage System', link: '/server/info/garage' },
           { text: 'Animation System', link: '/server/info/animation' },
           { text: 'ATM', link: '/server/info/atm' },

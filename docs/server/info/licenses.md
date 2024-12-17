@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-## Licențe / Licenses
+# Licențe / Licenses
 
 ### <span style="color: #0088CC">Română</span>
 

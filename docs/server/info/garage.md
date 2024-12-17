@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Sistemul de garaje / Garage System
+# Sistemul de garaje / Garage System
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 

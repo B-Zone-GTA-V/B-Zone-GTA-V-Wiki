@@ -2,6 +2,8 @@
 outline: deep
 ---
 
+# Despre cont și crearea caracterului.
+
 ## Crearea contului / Account Creation
 
 ### <span style="color: #0088CC">Română</span>
@@ -28,9 +30,6 @@ When creating the account you have the possibility to add the Referral code wher
 
 If you encounter connectivity issues (forgot your password), you can always recover it by accessing v.b-zone.ro -> Forgot Password.
 
-<p align="center"><img src="https://i.imgur.com/LF35Ite.gif"/></p>
-<p style="text-align: center"> Account creation</p>
-
 
 ## Crearea caracterului / Character Creation
 
@@ -51,3 +50,5 @@ Only one character is valid per account, so make sure to invest time in customiz
 
 Features such as freckles / nose size / cheekbones, and so on, cannot be changed after the character has been finalized!
 
+<p align="center"><img src="https://i.imgur.com/LF35Ite.gif"/></p>
+<p style="text-align: center"> Account creation</p>

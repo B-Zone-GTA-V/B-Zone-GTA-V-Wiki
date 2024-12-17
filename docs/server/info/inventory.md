@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Inventar și rucsac / Inventory & Backpack
+# Inventar și rucsac / Inventory & Backpack
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 

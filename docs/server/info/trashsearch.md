@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Căutarea in gunoi / Search in the trash
+# Căutarea in gunoi / Search in the trash
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 

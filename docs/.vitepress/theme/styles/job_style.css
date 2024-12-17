@@ -17,3 +17,9 @@
 .button-r-job { 
     background-color: #ad3838; 
 }
+
+.money {
+    background-color: green;
+    border-radius: 5px;
+    font-weight: bold;
+}
