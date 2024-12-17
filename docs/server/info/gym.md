@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Gym / Sală de forță
+# Gym / Sală de forță
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 

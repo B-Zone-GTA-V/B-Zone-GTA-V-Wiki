@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Telefon / Phone
+# Telefon / Phone
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -20,6 +22,7 @@ Telefonul vine cu mai multe aplicații folosite după cum urmează:
 |B-Taxi|Pentru a munci ca taximetrist / a cere o cursă de taxi|
 |B-Invest|Pentru a vedea informații despre investiții|
 |Galerie|Pentru a vedea fotografiile făcute|
+|BNN|B-Zone Network App|
 |Faction|Leader App|
 |Staff|Admin App|
 |Camera|Pentru a face poze|
@@ -43,6 +46,7 @@ The phone comes with several applications used as follows:
 |B-Taxi|Used to work as taxi / request an taxi|
 |B-Invest|Used to see informations about investments|
 |Gallery|Used to see photos|
+|BNN|B-Zone Network App|
 |Faction|Leader App|
 |Staff|Admin App|
 |Camera|Used to take photos|
@@ -50,5 +54,5 @@ The phone comes with several applications used as follows:
 |Message|Used to send messages to another players|
 |Call|Used to answer / start calls|
 
-<p align="center"><img src="https://i.imgur.com/jju64wF.png"/></p>
+<p align="center"><img src="https://i.imgur.com/mKEwItQ.png"/></p>
 <p style="text-align: center">Phone</p>

@@ -2,15 +2,19 @@
 outline: deep
 ---
 
+# Despre cont și crearea caracterului.
+
 ## Crearea contului / Account Creation
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a te conecta pe serverul comunității B-Zone de GTA V ai nevoie de un cont valid. Pentru a-ți face un cont ai nevoie de un nume care să nu conțină caractere speciale(doar litere si cifre), o adresă de email validă, precum și o parolă securizată.
+Pentru a te conecta pe serverul comunității B-Zone de GTA V ai nevoie de un cont valid. Pentru a-ți face un cont ai nevoie de un nume care să nu conțină caractere speciale (doar litere și cifre), o adresă de email validă, precum și o parolă securizată.
 
 Securitatea contului este dată de modul în care parola este concepută. Pentru a-ți seta o parolă ai nevoie de cel puțin o literă mare, o literă mică, un simbol, un număr, precum și un total de opt caractere.
 
-De asemenea, la înregistrarea contului o să vă puteți seta limba jocului, aceasta ulterior poate să fie schimbată în timp real din setări [/settings].
+De asemenea, la înregistrarea contului o să vă puteți seta limba jocului, aceasta ulterior poate să fie schimbată în timp real din setări [/settings] sau din meniul de ESC.
+
+La crearea contului ai posibilitatea de a adăuga codul de Referral unde îți va aduce niște beneficii considerabile.
 
 În cazul în care întâmpinați probleme de conectivitate (ați uitat parola), puteți oricând să o recuperați accesând [v.b-zone.ro -> Forgot Password](https://v.b-zone.ro/account/forgot-password).
 
@@ -20,12 +24,11 @@ To connect to the B-Zone community server for GTA V, you need a valid account. T
 
 The security of the account is determined by how the password is structured. To set a password, you need at least one uppercase letter, one lowercase letter, one symbol, one number, and a total of eight characters.
 
-Additionally, during the account registration, you can set the game language, which can be changed in real-time from the settings [/settings].
+Additionally, during the account registration, you can set the game language, which can be changed in real-time from the settings [/settings] or from ESC menu.
+
+When creating the account you have the possibility to add the Referral code where it will bring you some considerable benefits.
 
 If you encounter connectivity issues (forgot your password), you can always recover it by accessing v.b-zone.ro -> Forgot Password.
-
-<p align="center"><img src="https://i.imgur.com/LF35Ite.gif"/></p>
-<p style="text-align: center"> Account creation</p>
 
 
 ## Crearea caracterului / Character Creation
@@ -47,3 +50,5 @@ Only one character is valid per account, so make sure to invest time in customiz
 
 Features such as freckles / nose size / cheekbones, and so on, cannot be changed after the character has been finalized!
 
+<p align="center"><img src="https://i.imgur.com/LF35Ite.gif"/></p>
+<p style="text-align: center"> Account creation</p>

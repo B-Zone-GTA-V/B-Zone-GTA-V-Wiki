@@ -2,6 +2,8 @@
 outline: deep
 ---
 
+# Setări / Settings
+
 ## Setări și taste rapide / Settings & Hotkeys
 
 ### <span style="color: #0088CC">Română</span>

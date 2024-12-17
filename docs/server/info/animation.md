@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Sistemul de animații / Animation System
+# Sistemul de animații / Animation System
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
