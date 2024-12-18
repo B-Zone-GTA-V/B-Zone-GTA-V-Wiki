@@ -725,7 +725,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați
 
 <span style="color: yellow">Exceptii:</span>
 - elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
-- rămâi fără benzină desupra la CNN și aterizezi să alimentezi
+- rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.6 Bărci</span>
@@ -1175,3 +1175,83 @@ Persoanele ce detin o casa trebuie sa aibe la activ minim 10 ore in 30 de zile.
 
 Persoanele banate permanent fara drept de plata li se vor scoate casa dupa o perioada de 10 zile in cazul in care exista situatia unei modificari din "fara drept de plata" in "cu drept de plata" in urma unui ticket.
 <br>Persoanelor banate temporar pentru o perioada mai mare de 30 de zile nu li se va lua in considerare minimul de 10 ore decat dupa expirarea banului.
+
+## <a id="10"></a> <span style="color: #0088CC">CAP 10. BNN (B-Zone Network News)</span>
+
+### <a id="10.1"></a><span style="color: #0088CC"> 10.1 Respectarea limbajului</span>
+
+Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice alt conținut ofensator vor fi șterse.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 150 CP
+- A doua abatere Warn
+
+### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Obligativitatea roleplay-ului</span>
+
+Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay. 
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Avertisment
+- A doua abatere 50 CP
+- A treia abatere 150 CP
+
+### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Obligativitatea imaginilor relevante</span>
+
+Poza atașată anunțului trebuie să fie relevantă pentru produsul sau serviciul oferit. Sunt interzise imaginile care:
+- Nu reprezintă bunul vândut.
+- Au caracter non-roleplay.
+- Conțin arme, cadavre sau alte elemente inadecvate roleplay-ului.
+- Prezintă elemente OOC (Out of Character).
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Avertisment
+- A doua abatere 50 CP
+- A treia abatere 150 CP
+
+Excepție: În cazul utilizării imaginilor controversate, cu conținut politic sau cu tentă sexual-pornografică, sancțiunile pot varia în funcție de gravitate, putând include și Ban permanent.
+
+### <a id="10.4"></a><span style="color: #0088CC"> 10.4 Interzicerea promovării bunurilor ilegale</span>
+
+Nu este permisă promovarea sau vânzarea de bunuri ilegale prin intermediul platformei de anunțuri.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Avertisment
+- A doua abatere 50 CP
+- A treia abatere 150 CP 
+
+### <a id="10.5"></a><span style="color: #0088CC"> 10.5 Fără incitare la ură sau certuri</span>
+
+Postările care instigă la ură, certuri sau conflicte inutile nu sunt permise.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 75CP
+- A doua abatere 150 CP 
+- A treia abatere Warn
+
+### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Interzicerea anunțurilor nepotrivite</span>
+
+Exemple de anunțuri interzise:
+- "Vând sclav."
+- "Cumpăr femeie de moravuri ușoare."
+- "L-am culcat pe X pe Groove."
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 100CP
+- A doua abatere Warn
+
+### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Fără promovarea altor comunități</span>
+
+Promovarea altor servere sau comunități, inclusiv prin metode subtile, este strict interzisă.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Ban 7 zile
+- A doua abatere Ban Permanent
+
+### <a id="10.8"></a><span style="color: #0088CC"> 10.8 Limitarea anunțurilor legate de acțiuni roleplay</span>
+
+Nu este permisă utilizarea platformei pentru a anunța sau prefața anumite acțiuni sau scenarii roleplay.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 150CP
+- A doua abatere Warn 
+- A treia abatere Ban 3 zile

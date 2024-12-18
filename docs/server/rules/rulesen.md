@@ -719,7 +719,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to stay or leave an
 
 <span style="color: yellow">Exceptions:</span>
 - Medical and Police helicopters can be used during operations
-- You run out of fuel above CNN and land to refuel
+- You run out of fuel above BNN and land to refuel
 - You are starving/thirsty and need to land urgently to buy food or water
 
 #### <a id="5.5.6"></a><span style="color: #0088CC">5.5.6 Boats</span>
@@ -1173,3 +1173,83 @@ Those who do not meet the required minimum hours will lose their house, which wi
 
 Players permanently banned without the right to appeal will lose their house after a period of 10 days if the "no appeal" status is changed to "with appeal" following a ticket.
 <br>For players temporarily banned for a period longer than 30 days, the minimum requirement of 10 hours will only be considered after the ban expires.
+
+## <a id="10"></a> <span style="color: #0088CC">CAP 10. BNN (B-Zone Network News)</span>
+
+### <a id="10.1"></a><span style="color: #0088CC"> 10.1 Respect for language</span>
+
+Ads that contain offensive words, swearing, racist messages, or any other offensive content will be deleted.
+
+<span style="color: red">Sanctions:</span>
+- First deviation 150 CP
+- The second Warn deviation
+
+### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Mandatory roleplay</span>
+
+Announcements must be written in a manner that complies with the rules of roleplay.
+
+<span style="color: red">Sanctions:</span>
+- First Deviation Warning
+- Second deviation 50 CP
+- Third deviation 150 CP
+
+### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Mandatory Relevant Images</span>
+
+The photo attached to the ad must be relevant to the product or service offered. Images that:
+- It does not represent the goods sold.
+- Have a non-roleplay character.
+- Contain weapons, corpses or other elements inappropriate for roleplay.
+- Features OOC (Out of Character) elements.
+
+<span style="color: red">Sanctions:</span>
+- First Deviation Warning
+- Second deviation 50 hp
+- Third deviation 150 hp
+
+Exception: In the case of the use of controversial, political or sexually pornographic images, the penalties may vary depending on the severity and may also include a permanent ban.
+
+### <a id="10.4"></a><span style="color: #0088CC"> 10.4 Prohibition of the promotion of illegal goods</span>
+
+It is not allowed to promote or sell illegal goods through the ad platform.
+
+<span style="color: red">Sanctions:</span>
+- First Deviation Warning
+- Second deviation 50 CP
+- Third deviation 150 CP 
+
+### <a id="10.5"></a><span style="color: #0088CC"> 10.5 No incitement to hatred or quarrels</span>
+
+Posts that incite hatred, arguments, or unnecessary conflict are not allowed.
+
+<span style="color: red">Sanctions:</span>
+- First deviation 75 CP
+- Second deviation 150 CP 
+- Third Warn Offense
+
+### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Prohibition of inappropriate ads</span>
+
+Examples of prohibited ads:
+- "Sell slave."
+- "I'm buying a woman of easy morals."
+- "I put X to bed on Groove."
+
+<span style="color: red">Sanctions:</span>
+- First deviation 100 CP
+- The second Warn deviation
+
+### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Without promoting other communities</span>
+
+Promoting other servers or communities, including through subtle methods, is strictly prohibited.
+
+<span style="color: red">Sanctions:</span>
+- First offense Ban 7 days
+- Second Permanent Ban Offense
+
+### <a id="10.8"></a><span style="color: #0088CC"> 10.8 Limiting ads related to roleplay actions</span>
+
+It is not allowed to use the platform to announce or preface certain actions or roleplay scenarios.
+
+<span style="color: red">Sanctions:</span>
+- First deviation 150 CP
+- The second Warn deviation 
+- Third offense Ban 3 days
