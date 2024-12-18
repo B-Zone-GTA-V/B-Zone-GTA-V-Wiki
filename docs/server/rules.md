@@ -725,7 +725,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați
 
 <span style="color: yellow">Exceptii:</span>
 - elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
-- rămâi fără benzină desupra la CNN și aterizezi să alimentezi
+- rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.6 Bărci</span>

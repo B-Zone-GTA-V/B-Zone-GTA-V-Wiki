@@ -719,7 +719,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to stay or leave an
 
 <span style="color: yellow">Exceptions:</span>
 - Medical and Police helicopters can be used during operations
-- You run out of fuel above CNN and land to refuel
+- You run out of fuel above BNN and land to refuel
 - You are starving/thirsty and need to land urgently to buy food or water
 
 #### <a id="5.5.6"></a><span style="color: #0088CC">5.5.6 Boats</span>
