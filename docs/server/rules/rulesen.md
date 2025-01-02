@@ -700,7 +700,7 @@ Driving a vehicle on road portions not marked on the map can be done respecting 
 It is <span style="color: limegreen">PERMITTED</span> to land a helicopter on:
 - specially designated areas (helipad)
 - specially designated helipads on houses
-- the perimeter of a robbery (active or about to begin), whether on the street, field, buildings, etc., with a department or mafia helicopter <span style="color: red">NOT personal</span>
+- the perimeter of a bank robbery (active or about to begin), whether on the street, field, buildings, etc.
 
 It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to land a helicopter on:
 - Cayo Island

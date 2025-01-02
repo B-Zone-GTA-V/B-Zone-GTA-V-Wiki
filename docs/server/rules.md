@@ -706,7 +706,7 @@ Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poa
 Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
 - locuri special amenajate (helipad)
 - helipaduri special amenajate de pe case
-- perimetrul unui jaf (activ sau ce urmează sa inceapă)  atat pe stradă, câmp, clădiri etc. cu elicopterul de departament sau mafie <span style="color: red">NU personal</span>
+- perimetrul unui jaf de banca (activ sau ce urmează sa inceapă) atat pe stradă, câmp, clădiri etc
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
 - insula Cayo
