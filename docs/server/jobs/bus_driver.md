@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-## Electrician
+## Șofer De Autobuz / Bus Driver
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -13,7 +13,7 @@ outline: deep
     </tr>
     <tr>
         <td>De cate ore am nevoie?</td>
-        <td>De minim 40 ore.</td>
+        <td>De minim 0 la sofer de autobuz si 50 la sofer de autocar.</td>
     </tr>
     <tr>
         <td>Necesită iteme specifice?</td>
@@ -21,7 +21,7 @@ outline: deep
     </tr>
     <tr>
         <td>Necesită vehicul personal?</td>
-        <td>Nu, in primesti de la angajator</td>
+        <td>Nu, il primesti de la angajator</td>
     </tr>
     <tr>
         <td>Necesită permis de conducere?</td>
@@ -37,21 +37,19 @@ outline: deep
     </tr>
 </table>
 
-Pentru a putea lucra ca <span class="button-p-job">Electrician</span> trebuie să vă îndreptați la zona de angajare din Los Santos. 
-<br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> Electrician</span>.
+Pentru a putea lucra ca <span class="button-p-job">Șofer de Autobuz</span> sau <span class="button-p-job">Șofer de Autocar</span>, trebuie să vă îndreptați către zona de angajare din Los Santos.
+<br>-> Puteți folosi telefonul:<span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> Șofer de Autobuz sau Șofer de Autocar</span>.
 
-Puteți deveni <span class="button-p-job">Electrician</span> în funcție de experiența dumneavoastră.
-<br>La acest loc de muncă trebuie să reparați toate panourile electrice marcate pe <span class="button-p-job">GPS</span>.
-<br>Locațiile sunt adesea diferite, oferind o experiență nouă de fiecare dată. Traseul pe care-l alegeți în repararea panourilor electrice este decis de către voi, nu de către server.
+Puteți deveni <span class="button-p-job">Șofer de Autobuz</span> sau <span class="button-p-job">Șofer de Autocar</span> în funcție de experiența dumneavoastră în oraș.
 
-Tura la locul de muncă se încheie atunci când toate panourile electrice necesare sunt reparate.
+Rutele sunt diferite: pentru <span class="button-p-job">Șofer de Autobuz</span> sunt disponibile 3 rute, iar pentru <span class="button-p-job">Șofer de Autocar</span> sunt 2 rute.
 
 #### <span class="button-p-job"><b>Important</b></span>
 
 - Dacă nu intrați în mașina de job timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității.
 
-
 ### <span style="color: #0088CC">English</span>
+
 <table>
     <tr>
         <td>Question</td>
@@ -59,7 +57,7 @@ Tura la locul de muncă se încheie atunci când toate panourile electrice neces
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 40 hours.</td>
+        <td>At least 0 for bus driver and 50 for coach driver.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>
@@ -83,18 +81,16 @@ Tura la locul de muncă se încheie atunci când toate panourile electrice neces
     </tr>
 </table>
 
-To work as an <span class="button-p-job">Electrician</span>, you need to head to the hiring area in Los Santos.
+To work as a <span class="button-p-job">Bus Driver</span> or a <span class="button-p-job">Coach Driver</span>, you need to head to the hiring area in Los Santos.
+<br>You can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> Bus Driver or Coach Driver</span>.
 
--> You can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> Electrician</span>.
+You can become a <span class="button-p-job">Bus Driver</span> or a <span class="button-p-job">Coach Driver</span> depending on your experience in the city.
 
-You can become an <span class="button-p-job">Electrician</span>  based on your experience.
-<br>In this job, you need to repair all the electrical panels marked on the <span class="button-p-job">GPS</span>.
-<br>The locations are often different, providing a new experience each time. The route you choose for repairing the electrical panels is decided by you, not the server.
-<br>The shift ends when all necessary electrical panels have been repaired.
+The routes are different: there are 3 routes available for the <span class="button-p-job">Bus Driver</span> and 2 routes for the <span class="button-p-job">Coach Driver</span>.
 
 #### <span class="button-p-job">Note</span>
 
 - If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
-<p align="center"><img src="https://i.imgur.com/MX076mG.gif"/></p>
-<p style="text-align: center">Electrician minigame</p>
+<p align="center"><img src="https://i.imgur.com/xi7aZEr.png"/></p>
+<p style="text-align: center">Bus Driver</p>

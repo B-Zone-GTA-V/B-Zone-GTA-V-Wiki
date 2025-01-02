@@ -28,6 +28,10 @@ Examples of allowed names: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
 Non-compliance or non-cooperation with the server administration to respect any of the above parameters will lead to your account being permanently banned, with the possibility to create another account later.
 
+### <a id="1.4"></a><span style="color: #0088CC">1.4 Player Behavior and Exclusion Policy</span>
+
+The Administrative Team reserves the right to select and, if necessary, permanently remove players from the server. We base our decisions on attitude, behavior, toxicity, and other relevant aspects. Our goal is to maintain a pleasant environment for all users, and individuals who cause issues will be excluded.
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 BASIC RULES</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
@@ -349,7 +353,7 @@ Represents the action through which you want to attract the attention of the pol
 - Drifts and burn-outs in the presence of a police crew.
 - Intentionally and repeatedly driving on the wrong side of the road near the police.
 - Repeatedly passing by a police crew with your face covered.
-- Repeatedly driving in front of the police station without license plates.
+- Driving conspicuously through populated areas without license plates.
 - Baseless 112 calls to bring them to an area just for the purpose of starting a forced roleplay with them.
 
 <span style="color: red">Sanctions:</span>
@@ -715,7 +719,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to stay or leave an
 
 <span style="color: yellow">Exceptions:</span>
 - Medical and Police helicopters can be used during operations
-- You run out of fuel above CNN and land to refuel
+- You run out of fuel above BNN and land to refuel
 - You are starving/thirsty and need to land urgently to buy food or water
 
 #### <a id="5.5.6"></a><span style="color: #0088CC">5.5.6 Boats</span>
@@ -1158,3 +1162,94 @@ Tickets can be opened in the support area on our discord server (<a href="https:
 - Staff complaints
 - Unban requests
 - Other problems
+
+## <a id="9"></a> <span style="color: #0088CC">CAP 9. Activity</span>
+
+### <a id="9.1"></a><span style="color: #0088CC"> 9.1 Houses</span>
+
+Players who own a house must log a minimum of 10 hours within 30 days.
+Those who do not meet the required minimum hours will lose their house, which will then be put up for IC auctions.
+<br><span style="color: red">If you own items</span> in the house at the time of losing it, these will not be returned by the administrative team.
+
+Players permanently banned without the right to appeal will lose their house after a period of 10 days if the "no appeal" status is changed to "with appeal" following a ticket.
+<br>For players temporarily banned for a period longer than 30 days, the minimum requirement of 10 hours will only be considered after the ban expires.
+
+## <a id="10"></a> <span style="color: #0088CC">CAP 10. BNN (B-Zone Network News)</span>
+
+### <a id="10.1"></a><span style="color: #0088CC"> 10.1 Respect for language</span>
+
+Ads that contain offensive words, swearing, racist messages, or any other offensive content will be deleted.
+
+<span style="color: red">Sanctions:</span>
+- First deviation 150 CP
+- The second Warn deviation
+
+### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Mandatory roleplay</span>
+
+Announcements must be written in a manner that complies with the rules of roleplay.
+
+<span style="color: red">Sanctions:</span>
+- First Deviation Warning
+- Second deviation 50 CP
+- Third deviation 150 CP
+
+### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Mandatory Relevant Images</span>
+
+The photo attached to the ad must be relevant to the product or service offered. Images that:
+- It does not represent the goods sold.
+- Have a non-roleplay character.
+- Contain weapons, corpses or other elements inappropriate for roleplay.
+- Features OOC (Out of Character) elements.
+
+<span style="color: red">Sanctions:</span>
+- First Deviation Warning
+- Second deviation 50 hp
+- Third deviation 150 hp
+
+Exception: In the case of the use of controversial, political or sexually pornographic images, the penalties may vary depending on the severity and may also include a permanent ban.
+
+### <a id="10.4"></a><span style="color: #0088CC"> 10.4 Prohibition of the promotion of illegal goods</span>
+
+It is not allowed to promote or sell illegal goods through the ad platform.
+
+<span style="color: red">Sanctions:</span>
+- First Deviation Warning
+- Second deviation 50 CP
+- Third deviation 150 CP 
+
+### <a id="10.5"></a><span style="color: #0088CC"> 10.5 No incitement to hatred or quarrels</span>
+
+Posts that incite hatred, arguments, or unnecessary conflict are not allowed.
+
+<span style="color: red">Sanctions:</span>
+- First deviation 75 CP
+- Second deviation 150 CP 
+- Third Warn Offense
+
+### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Prohibition of inappropriate ads</span>
+
+Examples of prohibited ads:
+- "Sell slave."
+- "I'm buying a woman of easy morals."
+- "I put X to bed on Groove."
+
+<span style="color: red">Sanctions:</span>
+- First deviation 100 CP
+- The second Warn deviation
+
+### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Without promoting other communities</span>
+
+Promoting other servers or communities, including through subtle methods, is strictly prohibited.
+
+<span style="color: red">Sanctions:</span>
+- First offense Ban 7 days
+- Second Permanent Ban Offense
+
+### <a id="10.8"></a><span style="color: #0088CC"> 10.8 Limiting ads related to roleplay actions</span>
+
+It is not allowed to use the platform to announce or preface certain actions or roleplay scenarios.
+
+<span style="color: red">Sanctions:</span>
+- First deviation 150 CP
+- The second Warn deviation 
+- Third offense Ban 3 days

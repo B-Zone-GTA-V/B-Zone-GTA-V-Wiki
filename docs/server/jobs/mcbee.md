@@ -6,45 +6,91 @@ outline: deep
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a putea lucra ca livrator trebuie să vă îndreptați la una din zonele de angajare.
+<table>
+    <tr>
+        <td>Întrebare</td>
+        <td>Răspuns</td>
+    </tr>
+    <tr>
+        <td>De cate ore am nevoie?</td>
+        <td>De minim 25 ore.</td>
+    </tr>
+    <tr>
+        <td>Necesită iteme specifice?</td>
+        <td>Nu.</td>
+    </tr>
+    <tr>
+        <td>Necesită vehicul personal?</td>
+        <td>Nu, il primesti de la angajator</td>
+    </tr>
+    <tr>
+        <td>Necesită permis de conducere?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Necesită un atestat de la primarie?</td>
+        <td>Nu.</td>
+    </tr>
+    <tr>
+        <td>Permite lucrul in echipa?</td>
+        <td>Nu.</td>
+    </tr>
+</table>
 
-Scopul livratorului este acela de a prepara un număr de burgeri, urmând ca mai apoi să îi livreze la locațiile marcate pe GPS. De menționat este că locațiile de livrare sunt adesea diferite.
+Pentru a putea lucra ca <span class="button-p-job">Livrator</span> trebuie să vă îndreptați la zona de angajare din Los Santos.
+<br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> McBeeDelivery</span>.
+<br>Puteți deveni <span class="button-p-job">Livrator</span>  în funcție de experiența dumneavoastră.
+<br>Scopul livratorului este acela de a prepara un număr de burgeri <span class="button-r-job">Maxim 6</span>, urmând ca mai apoi să îi livreze la locațiile marcate pe <span class="button-p-job">GPS</span>. De menționat este că locațiile de livrare sunt adesea diferite.
 
 Prepararea burgerilor este bazată pe un memory game, de fiecare dată o să aveți o rețetă de preparare diferită. Dacă alegeți un ingredient greșit, puteți oricând să vă întoarceți la masa de lucru pentru a vedea rețeta iar. Ingredientele alese corect sunt afișate diferit în interfața care afișează rețeta burgerului. 
 
-În funcție de skill, livratorul poate prepara cât și livra mai mulți burgeri pentru a primi o plată mai mare la tura de job. (se adaugă progresiv câte 1 burger extra pentru fiecare skill) 
+#### <span class="button-p-job"><b>Important</b></span>
 
-- Skill 1 - Livratorul poate prepara un singur burger 
-- Skill 6 - Livratorul poate prepara până la 6 burgeri
-
-NOTĂ: Pentru a lucra la acest loc de muncă, aveți nevoie de un permis de conducere activ. 
-
-NOTĂ 2: Dacă nu conduceti scuterul timp de 5 minute, tura de job se încheie, iar scuterul este despawnat datorită inactivității. 
-
-NOTĂ 3: Plata la locul de muncă se face atunci când decideți să ieșiți din tură (puteți face asta după prima tură sau să continuați să lucrați și să fiți plătiți integral la sfârșit pentru toate turele). 
-
-NOTĂ 4: Acest loc de muncă NU permite lucrul în echipă.
+- Dacă nu conduceti scuterul timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar scuterul este despawnat datorită inactivității. 
 
 ### <span style="color: #0088CC">English</span>
 
-To work as a delivery driver, you need to head to one of the employment zones.
+<table>
+    <tr>
+        <td>Question</td>
+        <td>Answer</td>
+    </tr>
+    <tr>
+        <td>How many hours do I need?</td>
+        <td>At least 25 hours.</td>
+    </tr>
+    <tr>
+        <td>Does it require specific items?</td>
+        <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it require a personal vehicle?</td>
+        <td>No, you receive one from the employer.</td>
+    </tr>
+    <tr>
+        <td>Does it require a driving license?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it require a certificate from the town hall?</td>
+        <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it allow teamwork?</td>
+        <td>No.</td>
+    </tr>
+</table>
 
-The goal of the delivery driver is to prepare a number of burgers and then deliver them to the locations marked on the GPS. It's worth noting that the delivery locations are often different.
+To work as a <span class="button-p-job">Delivery Driver</span>, you need to head to the hiring area in Los Santos.
+<br>You can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> McBeeDelivery</span>.
+<br>You can become a <span class="button-p-job">Delivery Driver</span> based on your experience.
+<br>The delivery driver’s goal is to prepare a number of burgers <span class="button-r-job">maximum 6</span> and then deliver them to the locations marked on the <span class="button-p-job">GPS</span>. Note that the delivery locations often change.
 
-The preparation of the burgers is based on a memory game, each time you will have a different preparation recipe. If you choose the wrong ingredient, you can always return to the workstation to see the recipe again. The correctly chosen ingredients are displayed differently in the interface that shows the burger recipe.
+Preparing the burgers is based on a memory game; each time you will have a different recipe to follow. If you select an incorrect ingredient, you can always return to the work table to check the recipe again. Correctly chosen ingredients are displayed differently in the interface showing the burger recipe.
 
-Depending on the skill level, the delivery driver can prepare and deliver more burgers to receive a higher payment for the job. (progressively adding 1 extra burger for each skill level) 
+#### <span class="button-p-job"><b>Note</b></span>
 
-- Skill 1 - The delivery driver can prepare only one burger. 
-- Skill 6 - The delivery driver can prepare up to 6 burgers
-
-NOTE: To work at this job, you need an active driver's license. 
-
-NOTE 2: If you don't use the scooter truck for 5 minutes, the job shift ends, and the scooter is despawned due to inactivity. 
-
-NOTE 3: Payment at the workplace is made when you decide to end the shift (you can do this after the first shift or continue to work and be paid in full at the end of all shifts). 
-
-NOTE 4: This job does NOT allow teamwork.
+- If you do not ride the scooter for <span class="button-r-job">15 minutes</span>, your shift will end, and the scooter will despawn due to inactivity.
 
 <p align="center"><img src="https://i.imgur.com/UDiJlxm.gif"/></p>
 <p style="text-align: center">MCBeeDelivery system</p>

@@ -5,6 +5,32 @@ outline: deep
 ## B-Taxi
 
 ### <span style="color: #0088CC">Română</span>
+<table>
+    <tr>
+        <td>Întrebare</td>
+        <td>Răspuns</td>
+    </tr>
+    <tr>
+        <td>De cate ore am nevoie?</td>
+        <td>Poti sa il faci la 0 de ore.</td>
+    </tr>
+    <tr>
+        <td>Necesită iteme specifice?</td>
+        <td>Nu.</td>
+    </tr>
+    <tr>
+        <td>Necesită vehicul personal?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Necesită permis de conducere?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Necesită un atestat de la primarie?</td>
+        <td>Da.</td>
+    </tr>
+</table>
 
 B-Taxi este o aplicație folosită pentru a solicita un B-Taxi sau pentru a intra în tură de serviciu și de a prelua curse.
 
@@ -25,6 +51,33 @@ Pasăgerul este nevoit să își adauge locația pe GPS unde dorește să a
 
 
 ### <span style="color: #0088CC">English</span>
+
+<table>
+    <tr>
+        <td>Question</td>
+        <td>Answer</td>
+    </tr>
+    <tr>
+        <td>How many hours do I need?</td>
+        <td>You can do it at 0 hours.</td>
+    </tr>
+    <tr>
+        <td>Does it require specific items?</td>
+        <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it require a personal vehicle?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it require a driving license?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it require a certificate from the town hall?</td>
+        <td>Yes.</td>
+    </tr>
+</table>
 
 B-Taxi is an application used to request a B-Taxi or to go on duty and pick up rides.
 

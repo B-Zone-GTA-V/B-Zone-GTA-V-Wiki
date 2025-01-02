@@ -2,11 +2,13 @@
 outline: deep
 ---
 
-## Haine / CLothing
+# Clothing Store / Magazin de Haine
+
+## Magazin de haine normal
 
 ### <span style="color: #0088CC">Română</span>
 
-Magazinele de haine sunt locuri speciale în joc unde jucătorii își pot schimba vestimentația personajului lor. În prezent avem un număr total de 14 astfel de magazine. În magazin aveți posibilitatea de a vi se afișa caracterul gol pentru a face o vestimentație de la zero mult mai ușor.
+Magazinele de haine sunt locuri speciale în joc unde jucătorii își pot schimba vestimentația personajului lor. În prezent avem un număr total de 5 astfel de magazine. În magazin aveți posibilitatea de a vi se afișa caracterul gol pentru a face o vestimentație de la zero mult mai ușor.
 
 Hainele achiziționate sunt stocate în inventarul jucătorului, de unde pot fi echipate. Un jucător poate deține mai multe haine simultan.
 
@@ -16,7 +18,7 @@ Pentru a cumpăra o haină, jucătorul trebuie să exploreze hainele disponibile
 
 ### <span style="color: #0088CC">English</span>
 
-Clothing stores are special places in the game where players can change their character's wardrobe. Currently, we have a total of 14 such stores. In the store, you have the option to display your character naked to make creating an outfit from scratch much easier.
+Clothing stores are special places in the game where players can change their character's wardrobe. Currently, we have a total of 5 such stores. In the store, you have the option to display your character naked to make creating an outfit from scratch much easier.
 
 Purchased clothes are stored in the player's inventory, from where they can be equipped. A player can own multiple clothes simultaneously.
 
@@ -40,4 +42,21 @@ To buy clothes, the player needs to explore the available clothing items and add
 |Shoes|G = 0.40kg \| $ = 100|
 
 <p align="center"><img src="https://i.imgur.com/rV1ox5a.gif"/></p>
-<p style="text-align: center">Clothing store</p>
+<p style="text-align: center">Clothing Store</p>
+
+## Magazin de haine premium
+
+### <span style="color: #0088CC">Română</span>
+
+Există o singură locație de astfel de haine premium ce o puteți găsi în GPS sau direct din Harta jocului.
+
+Momentan în acest magazin se găsesc genți add-on, urmând pe viitor să fie și alte articole de îmbrăcăminte.
+
+### <span style="color: #0088CC">English</span>
+
+There is only one location of such premium clothes that you can find in GPS or directly from the Game Map.
+
+Add-on bags are currently available in this store, with other clothing items to follow in the future.
+
+<p align="center"><img src="https://i.imgur.com/ubT9l4H.gif"/></p>
+<p style="text-align: center">Premium Clothing Store</p>

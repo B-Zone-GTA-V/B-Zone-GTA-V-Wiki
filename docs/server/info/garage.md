@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Sistemul de garaje / Garage System
+# Sistemul de garaje / Garage System
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -12,6 +14,11 @@ Vehiculul parcat la un garaj o să poată să fie scos doar de la acel garaj, da
 
 Se percepe o taxă de 50$ pentru parcarea vehiculului, iar în cazul în care acesta este daună totală, se va plăti o taxă suplimentară la mecanici pentru a putea scoate vehiculul din garajul acestora.
 
+Sunt 3 tipuri de garaje: 
+- Pentru parcarea mașinilor / motocicletelor personale
+- Pentru parcarea elicopterelor
+- Pentru parcarea bărcilor
+
 ### <span style="color: #0088CC">Engleza</span>
 
 The garage system is designed to allow various vehicles to be positioned throughout the game area.
@@ -19,3 +26,8 @@ The garage system is designed to allow various vehicles to be positioned through
 A vehicle parked in a garage can only be taken out from that specific garage, with engine damage as well as items in the trunk and glove compartment being saved at the moment the vehicle is parked.
 
 A fee of $50 is charged for parking the vehicle, and in case it is totaled, an additional fee will be paid to the mechanics to be able to remove the vehicle from their garage.
+
+There are 3 types of garages:
+- For parking personal cars / motorcycles
+- For parking helicopters
+- For parking boats

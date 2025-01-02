@@ -6,37 +6,95 @@ outline: deep
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a putea lucra ca Trucker trebuie să vă îndreptați la zona de angajare. 
+<table>
+    <tr>
+        <td>Întrebare</td>
+        <td>Răspuns</td>
+    </tr>
+    <tr>
+        <td>De cate ore am nevoie?</td>
+        <td>De minim 0 ore.</td>
+    </tr>
+    <tr>
+        <td>Necesită iteme specifice?</td>
+        <td>Nu.</td>
+    </tr>
+    <tr>
+        <td>Necesită vehicul personal?</td>
+        <td>Nu.</td>
+    </tr>
+    <tr>
+        <td>Necesită permis de conducere?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Necesită un atestat de la primarie?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Permite lucrul in echipa?</td>
+        <td>Nu.</td>
+    </tr>
+</table>
 
-După ce alegeți să începeți munca, trebuie să mergeți la NPC-ul de lângă pentru a vă alege cursa. 
+Pentru a putea lucra ca <span class="button-p-job">Camionagiu</span> trebuie să vă îndreptați la zona de angajare din Los Santos.
+<br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> Camionagiu</span>.
+<br>Puteți deveni <span class="button-p-job">Camionagiu</span> în funcție de experiența dumneavoastră.
+<br>După ce alegeți să începeți munca, trebuie să mergeți la <span class="button-p-job">NPC-ul</span> de lângă pentru a vă alege cursa. 
 
-De îndată ce cursa a fost aleasă (cursele de skill mai mare nu pot fi selectate și sunt afișate cu un efect de blur), este nevoie să luați transportul mergând cu tirul la punctul marcat pe GPS. Pentru a avansa în skill, trebuie să luați cursele ce vă sunt alocate în funcție de skill-ul curent. 
+De îndată ce cursa a fost aleasă (<span style="color: #e9cc54">cursele de skill mai mare nu pot fi selectate și sunt afișate cu un efect de blur</span>), este nevoie să luați transportul mergând cu tirul la punctul marcat pe GPS. Pentru a avansa în <span class="button-p-job">skill</span>, trebuie să luați cursele ce vă sunt alocate în funcție de <span class="button-p-job">skill-ul</span> curent. 
 
-În cazul în care tiristul alege o cursă de skill 1, acesta având skill 2 nu o să primească puncte de avansare în skill, doar bani. În funcție de cursă, încărcătura (remorca) o să vă fie oferită în funcție de livrarea pe care urmează să o faceți.
+În cazul în care tiristul alege o cursă de <span class="button-p-job">skill 1</span>, acesta având <span class="button-p-job">skill 2</span> nu o să primească puncte de avansare în skill, doar bani. În funcție de cursă, încărcătura <span class="button-p-job">remorca</span> o să vă fie oferită în funcție de livrarea pe care urmează să o faceți.
 
-NOTĂ: Pentru a lucra la acest loc de muncă, aveți nevoie de un permis de conducere activ. 
+#### <span class="button-p-job"><b>Important</b></span>
 
-NOTĂ 2: Dacă nu intrați în vehiculul de Truck timp de 5 minute, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
-
-NOTA 3: Plata la locul de muncă se face atunci când decideți să ieșiți din tură (puteți face asta după prima tură sau să continuați să lucrați și să fiți plătiți integral la sfârșit pentru toate turele). 
-
-NOTĂ 4: Acest loc de muncă NU permite lucrul în echipă.
+- Dacă nu intrați în vehiculul de Truck timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
 
 ### <span style="color: #0088CC">English</span>
 
-To work as a Trucker, you need to head to the employment zone. After choosing to start your job, you must go to Alexandru (the NPC nearby) to select your route.
+<table>
+    <tr>
+        <td>Question</td>
+        <td>Answer</td>
+    </tr>
+    <tr>
+        <td>How many hours do I need?</td>
+        <td>At least 0 hours.</td>
+    </tr>
+    <tr>
+        <td>Does it require specific items?</td>
+        <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it require a personal vehicle?</td>
+        <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it require a driving license?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it require a certificate from the town hall?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it allow teamwork?</td>
+        <td>No.</td>
+    </tr>
+</table>
 
-Once the route has been chosen(the higher skill level routes cannot be selected and are displayed with a blur effect), you need to take the transport by driving the truck to the point marked on the GPS. To advance in skill, you need to take the routes assigned to you based on your current skill level.
+To work as a <span class="button-p-job">Truck Driver</span>, you must go to the hiring area in Los Santos.
+<br>You can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> Trucker</span>.
+<br>You can become a <span class="button-p-job">Truck Driver</span> based on your experience.
+<br>After choosing to start the job, you need to go to the nearby <span class="button-p-job">NPC</span> to select your route.
 
-If a trucker chooses a skill 1 route and has skill level 2, they will not receive skill advancement points, only money. Depending on the route, the cargo (trailer) will be offered based on the delivery you are about to make.
+Once the route is chosen (<span style="color: #e9cc54">higher skill routes cannot be selected and are shown with a blur effect</span>), you need to take the transport and head to the marked point on the GPS with the truck. To advance in <span class="button-p-job">skill</span>, you must take the routes assigned based on your current <span class="button-p-job">skill</span>.
 
-NOTE: To work at this job, you need an active driver's license. 
+If the truck driver chooses a route with <span class="button-p-job">skill 1</span> but has <span class="button-p-job">skill 2</span>, they will not receive skill advancement points, only money. Depending on the route, the load <span class="button-p-job">trailer</span> will be provided based on the delivery you are about to make.
 
-NOTE 2: If you don't enter the truck vehicle for 5 minutes, the job shift ends, and the vehicle is despawned due to inactivity. 
+#### <span class="button-p-job"><b>Note</b></span>
 
-NOTE 3: Payment at the workplace is made when you decide to end the shift (you can do this after the first shift or continue to work and be paid in full at the end of all shifts). 
-
-NOTE 4: This job does NOT allow teamwork.
+- If you do not enter the Truck vehicle within <span class="button-r-job">15 minutes</span>, the job shift ends, and the vehicle is despawned due to inactivity.
 
 <p align="center"><img src="https://i.imgur.com/jd0lvDS.gif"/></p>
 <p style="text-align: center">Trucker system</p>

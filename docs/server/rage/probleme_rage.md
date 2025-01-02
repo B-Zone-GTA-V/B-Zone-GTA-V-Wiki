@@ -15,6 +15,10 @@ outline: deep
 
 - Șterge fișierul **'client_packages'** din directorul unde ai instalat RAGE Multiplayer și încearcă să te conectezi din nou.
 
+### ℹ️ Eroarea: Offline Mode
+
+- Eroarea aceasta apare în mod uzual în momentul în care adresa IP este banată pe serverele Rockstar. Schimbarea adresei IP va rezolva problema.
+
 ### ℹ️ Eroarea: "Failed to retrieve the install directory"
 
 - Path-ul către GTA V nu este setat corect. Apasă pe **Ok** și selectează calea unde se află jocul GTA V.

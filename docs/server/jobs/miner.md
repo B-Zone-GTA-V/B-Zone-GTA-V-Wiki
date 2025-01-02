@@ -6,39 +6,92 @@ outline: deep
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a putea lucra ca Miner trebuie să vă îndreptați la una din zonele de angajare.
+<table>
+    <tr>
+        <td>Întrebare</td>
+        <td>Răspuns</td>
+    </tr>
+    <tr>
+        <td>De cate ore am nevoie?</td>
+        <td>De minim 100 ore.</td>
+    </tr>
+    <tr>
+        <td>Necesită iteme specifice?</td>
+        <td>Da, de un Pickaxe.</td>
+    </tr>
+    <tr>
+        <td>Necesită vehicul personal?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Necesită permis de conducere?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Necesită un atestat de la primarie?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Permite lucrul in echipa?</td>
+        <td>Da.</td>
+    </tr>
+</table>
 
-Acest loc de muncă permite lucrul în echipă prin intermediul aplicației "Teams" din telefon. Dacă lucrați în echipă, veți primi cu 2 checkpoint-uri în plus fiecare. Ambele persoane care lucrează în echipă o să primească un punct pentru avansarea în skill.
+Pentru a putea lucra ca <span class="button-p-job">Miner</span> trebuie să vă îndreptați la una din zonele de angajare.
+<br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> Miner Incepator, Miner Avansat Fier etc..</span>.
+<br>Puteți deveni <span class="button-p-job">Miner</span> în funcție de experiența dumneavoastră.
+<br>Acest loc de muncă permite lucrul în echipă prin intermediul aplicației <span class="button-p-job">"Teams"</span> din telefon. Dacă lucrați în echipă, veți primi cu <span class="button-r-job">2 checkpoint-uri</span> în plus fiecare.
 
-Pentru a termina tura complet, trebuie să avansați la cele 10 locații marcate pe GPS pentru a aduna gunoiul (24 dacă lucrați în echipă). De menționat este că locațiile sunt adesea diferite, iar fiecare jucător trebuie să spargă 10/12 bolovani (fiecare trebuie să lucreze egal pentru a termina tura).
+Pentru a termina tura complet, trebuie să avansați la cele 10 locații marcate pe <span class="button-p-job">GPS</span> pentru a aduna minereuri <span class="button-r-job">24 dacă lucrați în echipă</span>. De menționat este că locațiile sunt adesea diferite, iar fiecare jucător trebuie să spargă 10/12 bolovani
 
-După ce spargeți toți bolovanii, trebuie să vă îndreptați spre punctul marcat pe GPS. La fiecare tură de Miner terminată sunteți răsplătit cu materiale ce pot ulterior să fie prelucrate la Topitorie.
+La fiecare tură de <span class="button-p-job">Miner</span> terminată sunteți răsplătit cu materiale ce pot ulterior să fie prelucrate la <span class="button-p-job">Topitorie</span>.
 
-Optiunea de Miner Experimentat este deblocată de la skill 4+ și oferă posibilitatea de a lucra la o nouă mină unde spargerea bolovanilor aduce materiale îmbunătățite ce pot fi folosite în joc (de descoperit IC la ce se folosesc). De menționat este că materialele îmbunătățite o să poată fi găsite doar în mina nouă.
-
-NOTĂ: Pentru a lucra la acest loc de muncă, aveți nevoie de un permis de conducere activ. 
-
-NOTĂ 2: Dacă nu intrați în mașina de Miner timp de 5 minute, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
-
-NOTA 3: Plata la locul de muncă se face atunci când decideți să ieșiți din tură (puteți face asta după prima tură sau să continuați să lucrați și să fiți plătiți integral la sfârșit pentru toate turele). 
+Optiunea de <span class="button-p-job">Miner Avansat Fier</span> sau <span class="button-p-job">Miner Avansat Sulf</span> este deblocată de la <span class="button-r-job">skill 4+</span> și oferă posibilitatea de a lucra la o nouă mină unde spargerea bolovanilor aduce materiale îmbunătățite ce pot fi folosite în joc. De menționat este că materialele îmbunătățite o să poată fi găsite doar în mina nouă.
 
 ### <span style="color: #0088CC">English</span>
 
-To be able to work as a Miner, you need to head to one of the employment zones.
+<table>
+    <tr>
+        <td>Question</td>
+        <td>Answer</td>
+    </tr>
+    <tr>
+        <td>How many hours do I need?</td>
+        <td>At least 100 hours.</td>
+    </tr>
+    <tr>
+        <td>Does it require specific items?</td>
+        <td>Yes, a Pickaxe.</td>
+    </tr>
+    <tr>
+        <td>Does it require a personal vehicle?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it require a driving license?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it require a certificate from the town hall?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it allow teamwork?</td>
+        <td>Yes.</td>
+    </tr>
+</table>
 
-This job allows teamwork through the "Teams" application on your phone. If you work in a team, each of you will get 2 extra checkpoints. Both individuals working in a team will receive a point for skill advancement.
 
-To complete a full shift, you must advance to the 10 locations marked on the GPS to collect garbage (24 if working in a team). It's worth mentioning that each player needs to break 10/12 boulders (each must contribute equally to complete the shift).
+To work as a <span class="button-p-job">Miner</span>, you need to head to one of the hiring areas.
+<br>You can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> Junior Miner, Advanced Iron Miner etc</span>.
+<br>You can become a <span class="button-p-job">Miner</span> based on your experience.
+<br>This job allows teamwork through the <span class="button-p-job">"Teams"</span> app on your phone. If you work in a team, you will receive an additional <span span class="button-r-job">2 checkpoints</span> each.
 
-After breaking all the boulders, you need to head to the point marked on the GPS. At the end of each Miner shift, you are rewarded with materials that can later be processed at the Smelter.
+To complete your shift, you must visit 10 locations marked on the <span class="button-p-job">GPS</span> to collect minerals <span span class="button-r-job">24 if working in a team</span>. It’s important to note that the locations often change, and each player must break 10/12 boulders.
 
-The Experienced Miner option is unlocked from skill level 4+ and provides the opportunity to work in a new mine where breaking boulders yields improved materials that can be used in the game (to be discovered in-character regarding their use). It's worth noting that the enhanced materials can only be found in the new mine.
+For each completed <span class="button-p-job">Miner</span> shift, you will be rewarded with materials that can later be processed at the <span class="button-p-job">Smelter</span>.
 
-NOTE: To work at this job, you need an active driver's license. 
-
-NOTE 2: If you don't enter the garbage truck for 5 minutes, the job shift ends, and the vehicle  is despawned due to inactivity.
-
-NOTE 3: Payment at the workplace is made when you decide to end the shift (you can do this after the first shift or continue to work and be paid in full at the end of all shifts).
+The option for <span class="button-p-job">Advanced Iron Miner</span> or <span class="button-p-job">Advanced Sulfur Miner</span> is unlocked at <span class="button-r-job">skill level 4+</span> and offers the chance to work at a new mine where breaking boulders yields improved materials that can be used in-game. It’s important to note that the enhanced materials can only be found in the new mine.
 
 <p align="center"><img src="https://i.imgur.com/1rd5GYD.gif"/></p>
 <p style="text-align: center">Miner system</p>
@@ -47,12 +100,12 @@ NOTE 3: Payment at the workplace is made when you decide to end the shift (you c
 
 ### <span style="color: #0088CC">Română</span>
 
-Topitorie este locată în orașul Los Santos iar pentru a ajunge mai ușor la ea puteți folosi aplicația de GPS din telefon. 
+<span class="button-p-job"><b>Topitoria</b></span> este situată în orașul Los Santos. Pentru a ajunge la ea, trebuie să aflați locația acesteia în joc.
 
-Topitoria este folosită pentru a prelucra materialele obținute de la Miner. Aceste materiale pot fi folosite pentru a crafta iteme, să fie oferite altor jucători, aruncate pe jos sau pierdute în cazul în care doriți să vă respawnati la spital.
+<span class="button-p-job"><b>Topitoria</b></span> este folosită pentru a prelucra materialele obținute de la Miner. Aceste materiale pot fi folosite pentru a crafta iteme, să fie oferite altor jucători, aruncate pe jos sau pierdute în cazul în care doriți să vă respawnati la spital.
 
 ### <span style="color: #0088CC">English</span>
 
-The Smelter is located in the city of Los Santos, and to reach it more easily, you can use the GPS application on your phone.
+<span class="button-p-job"><b>The Smelter</b></span> is located in Los Santos. To reach it, you need to find its location in-game.
 
-The Smelter is used to process materials obtained from the Miner. These materials can be used for crafting items, can be offered to other players, dropped on the ground, or lost if you choose to respawn at the hospital.
+<span class="button-p-job"><b>The Smelter</b></span> is used to process materials obtained from the Miner. These materials can be used for crafting items, can be offered to other players, dropped on the ground, or lost if you choose to respawn at the hospital.

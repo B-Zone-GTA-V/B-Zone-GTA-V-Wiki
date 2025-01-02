@@ -40,22 +40,46 @@ export default defineConfig({
         text: 'ℹ️ Informatii Generale / General Info',
         items: [
           { text: 'Account & Character Creation', link: '/server/info/account' },
-          { text: 'RolePlay Test', link: '/server/info/rptest' },
-          { text: 'Tutorial', link: '/server/info/tutorial' },
+          // { text: 'RolePlay Test', link: '/server/info/rptest' },
+          // { text: 'Tutorial', link: '/server/info/tutorial' },
           { text: 'Settings & Hotkeys', link: '/server/info/settings' },
           { text: 'Inventory & Backpack', link: '/server/info/inventory' },
-          { text: 'Update your document', link: '/server/info/updatedoc' },
+          { text: 'BNN', link: '/server/info/bnn' },
+          { text: 'Referral', link: '/server/info/referral' },
           { text: 'Garage System', link: '/server/info/garage' },
           { text: 'Animation System', link: '/server/info/animation' },
           { text: 'ATM', link: '/server/info/atm' },
+          { text: 'Update your document', link: '/server/info/updatedoc' },
           { text: 'Vehicle Recycle Center', link: '/server/info/remat' },
           { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
           { text: 'Licenses', link: '/server/info/licenses' },
           { text: 'Paying Fines', link: '/server/info/fines' },
-          { text: 'Job Unlock System', link: '/server/info/jobunlock' },
           { text: 'Search in trash bins', link: '/server/info/trashsearch' },
           { text: 'Phone', link: '/server/info/phone' },
           { text: 'Books', link: '/server/info/books' },
+          { text: 'Gym / Sală', link: '/server/info/gym' },
+        ]
+      },
+      {
+        text: '✒️ Locuri de munca / Jobs',
+        items: [
+          { text: '📝 Job Applications', link: '/server/jobs/applications' },
+          { text: '♻️ Gunoier / Garbageman', link: '/server/jobs/garbageman' },
+          { text: '⛏️ Miner', link: '/server/jobs/miner' },
+          { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
+          { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
+          { text: '🚛 Trucker', link: '/server/jobs/trucker' },
+          { text: '🚌 Șofer De Autobuz / Bus Driver', link: '/server/jobs/bus_driver' },
+          { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
+        ]
+      },
+      {
+        text: '🎣 Hobby',
+        items: [
+          { text: 'Fisherman', link: '/server/hobby/fisherman' },
+          { text: 'B-Taxi', link: '/server/hobby/taxi' },
+          { text: 'Tailoring', link: '/server/hobby/tailor' },
+          { text: 'Lumberjack', link: '/server/hobby/lumberjack'},
         ]
       },
       {
@@ -79,25 +103,6 @@ export default defineConfig({
           { text: 'Los Santos Mechanics', link: '/server/factions/mechanics' },
         ]
       },
-      {
-        text: '✒️ Locuri de munca / Jobs',
-        items: [
-          { text: 'Job Applications', link: '/server/jobs/applications' },
-          { text: 'Gunoier / Garbageman', link: '/server/jobs/garbageman' },
-          { text: 'Miner', link: '/server/jobs/miner' },
-          { text: 'McBeeDelivery', link: '/server/jobs/mcbee' },
-          { text: 'Electrician', link: '/server/jobs/electrician' },
-          { text: 'Trucker', link: '/server/jobs/trucker' },
-        ]
-      },
-      {
-        text: '🎣 Hobby',
-        items: [
-          { text: 'Fisherman', link: '/server/hobby/fisherman' },
-          { text: 'B-Taxi', link: '/server/hobby/taxi' },
-          { text: 'Tailoring', link: '/server/hobby/tailor' },
-        ]
-      }
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://b-zone.ro/rage' },

@@ -1,0 +1,12 @@
+.button-p-hobby {
+    display: inline-block;
+    padding: 0px 8px;
+    background-color: #0088CC; 
+    color: white;              
+    border-radius: 8px;       
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;        
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+    font-size: 14px;
+    letter-spacing: 1px;
+}

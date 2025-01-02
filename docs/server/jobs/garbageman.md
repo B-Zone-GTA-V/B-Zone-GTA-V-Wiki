@@ -6,34 +6,99 @@ outline: deep
 
 ### <span style="color: #0088CC">Română</span>
 
-Pentru a putea lucra ca Gunoier trebuie să vă îndreptați la una din zonele de angajare (Los Santos sau Paleto Bay). 
+<table>
+    <tr>
+        <td>Întrebare</td>
+        <td>Răspuns</td>
+    </tr>
+    <tr>
+        <td>De cate ore am nevoie?</td>
+        <td>De minim 30 ore.</td>
+    </tr>
+    <tr>
+        <td>Necesită iteme specifice?</td>
+        <td>Nu.</td>
+    </tr>
+    <tr>
+        <td>Necesită vehicul personal?</td>
+        <td>Nu, il primesti de la angajator</td>
+    </tr>
+    <tr>
+        <td>Necesită permis de conducere?</td>
+        <td>Da.</td>
+    </tr>
+    <tr>
+        <td>Necesită un atestat de la primarie?</td>
+        <td>Nu.</td>
+    </tr>
+    <tr>
+        <td>Permite lucrul in echipa?</td>
+        <td>Da.</td>
+    </tr>
+</table>
 
-Acest loc de muncă permite lucrul în echipă prin intermediul aplicației "Teams" din telefon. Dacă lucrați în echipă, la sfârșitul turei o să primiți un procentaj bonus la plata salarială drept răsplată pentru lucrul în echipă. Ambele persoane care lucrează în echipă o să primească un punct pentru avansarea în skill.
+Pentru a putea lucra ca <span class="button-p-job">Gunoier</span> trebuie să vă îndreptați la zona de angajare din Los Santos.
+<br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> Gunoier</span>.
+<br>Puteți deveni <span class="button-p-job">Gunoier</span> în funcție de experiența dumneavoastră.
 
-Pentru a termina tura complet, trebuie să avansați la cele 10 locații marcate pe GPS pentru a aduna gunoiul (20 dacă lucrați în echipă). De menționat este că locațiile sunt adesea diferite intre turele de la locul de munca.
+Acest loc de muncă permite lucrul în echipă prin intermediul aplicației <span class="button-p-job">"Teams"</span> din telefon.
+<br>Dacă lucrați în echipă, la sfârșitul turei o să primiți un procentaj <span class="button-p-job">bonus</span> la plata salarială drept răsplată pentru lucrul în echipă.
 
-După ce adunați gunoiul de la toate punctele marcate pe GPS, trebuie să vă îndreptați spre groapa de gunoi pentru a depozita gunoiul colectat. 
+Pentru a termina tura complet, trebuie să avansați la cele 10 locații marcate pe GPS pentru a aduna gunoiul <span class="button-p-job">(20 dacă lucrați în echipă)</span>. De menționat este că locațiile sunt adesea diferite intre turele de la locul de munca.
 
-NOTĂ: Pentru a lucra la acest loc de muncă, aveți nevoie de un permis de conducere activ.
+După ce adunați gunoiul de la toate punctele marcate pe <span class="button-p-job">GPS</span>, trebuie să vă îndreptați spre groapa de gunoi pentru a depozita gunoiul colectat. 
 
-NOTĂ 2: Dacă nu intrați în mașina de gunoi timp de 5 minute, tura de job se încheie, iar mașina este despawnată datorită inactivității.
+#### <span class="button-p-job"><b>Important</b></span>
 
-NOTA 3: Plata la locul de muncă se face atunci când decideți să ieșiți din tură (puteți face asta după prima tură sau să continuați să lucrați și să fiți plătiți integral la sfârșit pentru toate turele). 
+- Dacă nu intrați în mașina de job timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității.
 
 ### <span style="color: #0088CC">English</span>
 
-To work as a Garbage Collector, you need to head to one of the hiring areas (Los Santos or Paleto Bay). 
+<table>
+    <tr>
+        <td>Question</td>
+        <td>Answer</td>
+    </tr>
+    <tr>
+        <td>How many hours do I need?</td>
+        <td>At least 30 hours.</td>
+    </tr>
+    <tr>
+        <td>Does it require specific items?</td>
+        <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it require a personal vehicle?</td>
+        <td>No, you receive one from the employer.</td>
+    </tr>
+    <tr>
+        <td>Does it require a driving license?</td>
+        <td>Yes.</td>
+    </tr>
+    <tr>
+        <td>Does it require a certificate from the town hall?</td>
+        <td>No.</td>
+    </tr>
+    <tr>
+        <td>Does it allow teamwork?</td>
+        <td>Da.</td>
+    </tr>
+</table>
 
-This job allows teamwork through the "Teams" application on your phone. If you work as a team, at the end of the shift, you will receive a percentage bonus on your salary as a reward for teamwork. Both individuals working in the team will receive a point for skill advancement.
+To work as a <span class="button-p-job">Garbage Collector</span>, you need to head to the hiring area in Los Santos.
+<br>You can use your phone <span class="button-p-job">Press L -> GPS -> Jobs -> Garbageman</span>.
+<br>You can become an <span class="button-p-job">Garbageman</span> based on your experience.
 
-To complete a full shift, you must progress to the 10 locations marked on the GPS to collect garbage (20 if you're working in a team). It is worth mentioning that the locations are often different between shifts at the workplace.
-After collecting the garbage from all the marked GPS points, you need to head to the garbage dump to deposit the collected waste. Once the garbage is deposited, you can choose to be paid (bank) or to continue working and be paid at the end.
+This job allows teamwork through the <span class="button-p-job">"Teams"</span> app on your phone.
+<br>If you work as a team, at the end of the shift you will receive a <span class="button-p-job">bonus</span> percentage on your salary as a reward for collaboration.</br>
 
-NOTE: To work at this job, you need an active driver's license.
+To complete the shift, you must visit the 10 locations marked on the GPS to collect the garbage <span class="button-p-job">(20 if working as a team)</span>. Note that the locations are often different between shifts.
 
-NOTE 2: If you do not enter the garbage truck within 5 minutes, the job shift ends, and the garbage truck is de-spawned due to inactivity.
+After collecting garbage from all the points marked on the <span class="button-p-job">GPS</span>, you need to head to the landfill to dispose of the collected garbage.
 
-NOTE 3: Payment at the workplace is made when you decide to end the shift (you can do this after the first shift or continue to work and be paid in full at the end of all shifts).
+#### <span class="button-p-job">Note</span>
+
+- If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
 <p align="center"><img src="https://i.imgur.com/wmy8XTQ.gif"/></p>
 <p style="text-align: center">Garbage functionality</p>

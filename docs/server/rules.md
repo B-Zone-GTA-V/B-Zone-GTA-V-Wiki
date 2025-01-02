@@ -28,6 +28,10 @@ Exemple de nume permise: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
 Neconformarea, respectiv necooperarea cu administrația serverului pentru a respecta orice parametru de mai sus, va duce la banarea contului dumneavoastră permanent, având posibilitatea să vă faceți ulterior alt cont.
 
+### <a id="1.4"></a><span style="color: #0088CC">1.4 Politică de comportament și de excludere a jucătorilor</span>
+
+Echipa Administrativă își rezervă dreptul de a selecta și, dacă este necesar, de a elimina permanent jucătorii de pe server. Ne ghidăm după atitudine, comportament, toxicitate și alte aspecte relevante. Scopul nostru este de a menține un mediu plăcut pentru toți utilizatorii, iar persoanele care generează probleme vor fi excluse.
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 REGULI DE BAZĂ</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
@@ -357,7 +361,7 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
 - Drift-uri si burn-out in prezența unui echipaj de poliție.
 - Conducerea în mod intenționat și repetat pe contra-sens în preajma poliției.
 - Trecerea în mod repetat pe lângă un echipaj de poliție având față acoperită.
-- Conducerea în mod repetat prin față secției de poliție fără numere de înmatriculare.
+- Conducerea in mod evident prin zonele populate (Strazi principale / Sectie de Politie / Magazine / Benzinarii / Spital) fara numere de inmatriculare.
 - Apeluri nefondate la 112 pentru a îi aduce intr-o zonă doar cu scopul de a porni un roleplay forțat cu ei.
 
 <span style="color: red">Sancțiuni:</span>
@@ -721,7 +725,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați
 
 <span style="color: yellow">Exceptii:</span>
 - elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
-- rămâi fără benzină desupra la CNN și aterizezi să alimentezi
+- rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.6 Bărci</span>
@@ -1160,3 +1164,94 @@ Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a
 - Reclamații staff
 - Cereri unban
 - Alte probleme
+
+## <a id="9"></a> <span style="color: #0088CC">CAP 9. Activitate</span>
+
+### <a id="9.1"></a><span style="color: #0088CC"> 9.1 Case</span>
+
+Persoanele ce detin o casa trebuie sa aibe la activ minim 10 ore in 30 de zile.
+<br>Persoanele ce nu indeplinesc minimul de ore solicitat li se va scoate casa de pe cont, iar aceasta ulterior scoasa la licitatii IC.
+<br><span style="Color: red">Daca detineti bunuri</span> in casa in momentul in care o pierdeti, acestea nu vor fi returnate de catre echipa administrativa.
+
+Persoanele banate permanent fara drept de plata li se vor scoate casa dupa o perioada de 10 zile in cazul in care exista situatia unei modificari din "fara drept de plata" in "cu drept de plata" in urma unui ticket.
+<br>Persoanelor banate temporar pentru o perioada mai mare de 30 de zile nu li se va lua in considerare minimul de 10 ore decat dupa expirarea banului.
+
+## <a id="10"></a> <span style="color: #0088CC">CAP 10. BNN (B-Zone Network News)</span>
+
+### <a id="10.1"></a><span style="color: #0088CC"> 10.1 Respectarea limbajului</span>
+
+Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice alt conținut ofensator vor fi șterse.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 150 CP
+- A doua abatere Warn
+
+### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Obligativitatea roleplay-ului</span>
+
+Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay. 
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Avertisment
+- A doua abatere 50 CP
+- A treia abatere 150 CP
+
+### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Obligativitatea imaginilor relevante</span>
+
+Poza atașată anunțului trebuie să fie relevantă pentru produsul sau serviciul oferit. Sunt interzise imaginile care:
+- Nu reprezintă bunul vândut.
+- Au caracter non-roleplay.
+- Conțin arme, cadavre sau alte elemente inadecvate roleplay-ului.
+- Prezintă elemente OOC (Out of Character).
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Avertisment
+- A doua abatere 50 CP
+- A treia abatere 150 CP
+
+Excepție: În cazul utilizării imaginilor controversate, cu conținut politic sau cu tentă sexual-pornografică, sancțiunile pot varia în funcție de gravitate, putând include și Ban permanent.
+
+### <a id="10.4"></a><span style="color: #0088CC"> 10.4 Interzicerea promovării bunurilor ilegale</span>
+
+Nu este permisă promovarea sau vânzarea de bunuri ilegale prin intermediul platformei de anunțuri.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Avertisment
+- A doua abatere 50 CP
+- A treia abatere 150 CP 
+
+### <a id="10.5"></a><span style="color: #0088CC"> 10.5 Fără incitare la ură sau certuri</span>
+
+Postările care instigă la ură, certuri sau conflicte inutile nu sunt permise.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 75CP
+- A doua abatere 150 CP 
+- A treia abatere Warn
+
+### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Interzicerea anunțurilor nepotrivite</span>
+
+Exemple de anunțuri interzise:
+- "Vând sclav."
+- "Cumpăr femeie de moravuri ușoare."
+- "L-am culcat pe X pe Groove."
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 100CP
+- A doua abatere Warn
+
+### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Fără promovarea altor comunități</span>
+
+Promovarea altor servere sau comunități, inclusiv prin metode subtile, este strict interzisă.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere Ban 7 zile
+- A doua abatere Ban Permanent
+
+### <a id="10.8"></a><span style="color: #0088CC"> 10.8 Limitarea anunțurilor legate de acțiuni roleplay</span>
+
+Nu este permisă utilizarea platformei pentru a anunța sau prefața anumite acțiuni sau scenarii roleplay.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere 150CP
+- A doua abatere Warn 
+- A treia abatere Ban 3 zile
