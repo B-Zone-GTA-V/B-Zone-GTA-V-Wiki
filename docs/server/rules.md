@@ -156,7 +156,7 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 <span style="color: yellow">Exemple:</span>
 - Medici - Eșecul de a salva persoane. Situația în care un cadru medical are o interacțiune directă sau indirectă cu un cetățean care are nevoie de asistență medicală. Ignorându-l, se consideră fail roleplay.
 - Polițiști - Eșecul de a aplica Codul Penal Rutier
-Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză.
+Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea intervenii. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate sa plece și să ceară/aștepte întăriri). 
 - Deschiderea OOC în IC
 
 <span style="color: red">Sancțiuni:</span>
@@ -177,6 +177,7 @@ Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat 
 - Faci un accident cu un jucător și refuzi să interacționezi cu acesta fără a avea un motiv întemeiat (de ex: ești urmărit de poliție).
 - Mergi la spital și refuzi să interacționezi cu medicii și mergi la Doctorul Sky.
 - Rolezi că arunci cheia în șanț și nu vrei să descui mașina după ce un alt jucător a găsit cheia.
+- Refuzul de a te oprii la un trafic stop fara a avea un motiv foarte bine intemenat (100% sigur ca acel trafic stop rezulta in arestarea ta - Cod 0 pe tine, mandat de urmarire pe masina ta, etc.). <span style="color: yellowgreen">Exceptie:</span> Momentul în care politistul iți cere să cobori din mașină este clară viitoarea percheziție, lucru ce vă oferă dreptul de a încerca evadarea de acest polițist.
 
 <span style="color: red">Sancțiuni</span>
 

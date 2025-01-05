@@ -152,7 +152,7 @@ Represents the situation where a player does not respect the rules and standards
 
 <span style="color: yellow">Examples:</span>
 - Medics - Failure to save people. The situation where a medical staff has a direct or indirect interaction with a citizen in need of medical assistance. Ignoring them is considered fail roleplay.
-- Policemen - Failure to apply the Road Traffic Code. The situation where a member of the police department observes a person or a group of people violating the penal or traffic code and passes by them without taking action according to the internal protocol of the concerned department.
+- Policemen - Failure to apply the Road Traffic Code. The situation where a member of the police department observes a person or a group of people violating the penal or traffic code and passes by them without taking action according to the internal protocol of the concerned department. <span style="color: yellowgreen">Exception:</span> The moment when the police do not have the necessary capabilities in terms of numbers, equipment, or skills to intervene. (Example: A single police unit arrives at a store robbery and sees that they are significantly outnumbered, 2 vs. 8, at which point the police can leave and request/wait for reinforcements).
 - Opening OOC in IC
 
 <span style="color: red">Sanctions:</span>
@@ -173,6 +173,7 @@ Represents any attempt to hinder roleplay where multiple parties/people are invo
 - Having an accident with a player and refusing to interact with them without a valid reason (e.g., being chased by the police).
 - Going to the hospital and refusing to interact with the doctors and going to Doctor Sky.
 - Roleplaying throwing the key in the ditch and not wanting to unlock the car after another player has found the key.
+- Refusing to stop at a traffic stop without having a very well-grounded reason (100% sure that the traffic stop will result in your arrest - Code 0 on you, an arrest warrant for your vehicle, etc.). <span style="color: yellowgreen">Exception:</span> When the police officer asks you to exit the vehicle, it clearly indicates an impending search, which grants you the right to attempt to escape from this police officer.
 
 <span style="color: red">Sanctions:</span>
 
