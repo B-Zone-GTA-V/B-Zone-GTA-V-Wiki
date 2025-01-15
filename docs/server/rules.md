@@ -177,7 +177,7 @@ Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat 
 - Faci un accident cu un jucător și refuzi să interacționezi cu acesta fără a avea un motiv întemeiat (de ex: ești urmărit de poliție).
 - Mergi la spital și refuzi să interacționezi cu medicii și mergi la Doctorul Sky.
 - Rolezi că arunci cheia în șanț și nu vrei să descui mașina după ce un alt jucător a găsit cheia.
-- Refuzul de a te oprii la un trafic stop fara a avea un motiv foarte bine intemenat (100% sigur ca acel trafic stop rezulta in arestarea ta - Cod 0 pe tine, mandat de urmarire pe masina ta, etc.). <span style="color: yellowgreen">Exceptie:</span> Momentul în care politistul iți cere să cobori din mașină este clară viitoarea percheziție, lucru ce vă oferă dreptul de a încerca evadarea de acest polițist.
+- Refuzul de a te oprii la un trafic stop fara a avea un motiv foarte bine intemenat (100% sigur ca acel trafic stop rezulta in arestarea ta). <span style="color: yellowgreen">Exceptie:</span> Momentul in care politistul ti-a cerut un act de identitate pentru a te identifica aveti dreptul de a incerca o evadare in cazul in care identificarea voastra ar putea rezulta un viitor arest, madant, perchezitie corporala etc.
 
 <span style="color: red">Sancțiuni</span>
 

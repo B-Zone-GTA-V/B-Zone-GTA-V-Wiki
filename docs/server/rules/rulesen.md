@@ -173,7 +173,7 @@ Represents any attempt to hinder roleplay where multiple parties/people are invo
 - Having an accident with a player and refusing to interact with them without a valid reason (e.g., being chased by the police).
 - Going to the hospital and refusing to interact with the doctors and going to Doctor Sky.
 - Roleplaying throwing the key in the ditch and not wanting to unlock the car after another player has found the key.
-- Refusing to stop at a traffic stop without having a very well-grounded reason (100% sure that the traffic stop will result in your arrest - Code 0 on you, an arrest warrant for your vehicle, etc.). <span style="color: yellowgreen">Exception:</span> When the police officer asks you to exit the vehicle, it clearly indicates an impending search, which grants you the right to attempt to escape from this police officer.
+- Refusal to stop at a traffic stop without a very well-founded reason (100% certainty that the traffic stop would result in your arrest). <span style="color: yellowgreen">Exception:</span> When the officer has requested an ID to identify you, you have the right to attempt an escape if your identification could result in a future arrest, warrant, body search, etc.
 
 <span style="color: red">Sanctions:</span>
 
