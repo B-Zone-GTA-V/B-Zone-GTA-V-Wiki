@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-## Joburi / Jobs
+## Joburi & Activități / Jobs & Activities
 
 ### <span style="color: #0088CC">Română</span>
 
