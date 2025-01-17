@@ -714,13 +714,12 @@ Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter
 - perimetrul unui jaf de banca (activ sau ce urmează sa inceapă) atat pe stradă, câmp, clădiri etc
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
-- insula Cayo
+- insula Cayo (cu excepția helipad-urilor)
 - locuri neamenajate
 - case indiferent de zonă
 - blocurile din Los Santos
 - străzi, parcari
 
-Este <span style="color: #ff0000">STRICT INTERZIS</span> să folosiți elicopterul **PERSONAL** la un jaf.<br>
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să faci acțiuni **TERORISTE** cu elicopterul.<br>
 Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați un elicoper abandonat pe un garaj de elicoptere (blocând parcarea).
 
