@@ -14,7 +14,7 @@ Pentru a descărca launcher-ul accesați pagina oficială ([rage.mp](https://rag
 
 Dacă întâmpini probleme la conectare pe server îți recomandăm să consulți [pagina de probleme](/server/rage/probleme_rage).
 
-### Despre Launcher
+## Despre Launcher
 
 Launcher-ul RageMP este construit modern și are o interfață destul de intuitivă. Însă, simțim nevoia să documentăm funcțiile prezente în launcher.
 
