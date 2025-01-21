@@ -1,5 +1,5 @@
-# B-Zone V Wiki
+# Bun venit pe Wiki-ul serverului <a href="https://v.b-zone.ro" target="_blank">B-Zone V</a>!
 
-## Bun venit!
+Comunitatea noastră îți oferă toate informațiile necesare, prezentate clar și accesibil, pentru a înțelege în detaliu cum funcționează fiecare sistem din joc.
 
-Bun venit pe pagina de Wiki! Aici vei găsi informații generale referitoare la cum funcționează server-ul și client-ul de RAGE!
+În cazul în care ai nevoie de alte informații pe care nu le găsești aici, îți sugerăm să folosești sistemul de tickete din joc (/ticket sau ESC - Ticket) sau să accesezi serverul nostru de <a href="https://b-zone.ro/rage" target="_blank">Discord</a>.
