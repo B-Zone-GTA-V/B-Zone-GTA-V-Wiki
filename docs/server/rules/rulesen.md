@@ -155,6 +155,9 @@ Represents the situation where a player does not respect the rules and standards
 - Policemen - Failure to apply the Road Traffic Code. The situation where a member of the police department observes a person or a group of people violating the penal or traffic code and passes by them without taking action according to the internal protocol of the concerned department. <span style="color: yellowgreen">Exception:</span> The moment when the police do not have the necessary capabilities in terms of numbers, equipment, or skills to intervene. (Example: A single police unit arrives at a store robbery and sees that they are significantly outnumbered, 2 vs. 8, at which point the police can leave and request/wait for reinforcements).
 - Opening OOC in IC
 
+<span style="color: yellow">Mentions:</span>
+- You have the right to tow legally parked vehicles only if they are abandoned and under the following conditions. If you find a legally parked vehicle but believe it is abandoned, ask nearby players to check if the vehicle is owned by someone or if it is abandoned. If no one is nearby, you are required to wait at least 5 minutes to confirm whether it is truly abandoned. If a player opens a ticket for a legally parked vehicle’s disappearance, you are required to provide clear evidence showing that you checked whether the vehicle is owned by someone nearby and that you waited the required 5 minutes.
+
 <span style="color: red">Sanctions:</span>
 
 - First offense: 50-100 Checkpoints
@@ -576,6 +579,7 @@ It is forbidden to use the server's systems to create an advantage over other pl
 - Being chased by the police and going to a garage to park your car.
 - Evicting current tenants to obtain items from their storage places.
 - Using different animations to uncuff yourself.
+- Abusive towing of legally parked cars for the purpose of generating money.
 
 <span style="color: red">Sanctions:</span>
 

@@ -159,6 +159,9 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea intervenii. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate sa plece și să ceară/aștepte întăriri). 
 - Deschiderea OOC în IC
 
+<span style="color: yellow">Mențiuni:</span>
+- Aveți dreptul de a tracta vehicule parcate legal doar dacă acestea sunt abandonate și respectând următoarele condiții. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
+
 <span style="color: red">Sancțiuni:</span>
 
 - prima abatare: 50-100 Checkpoint-uri 
@@ -584,6 +587,7 @@ Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea 
 - Ești urmărit de poliție și mergi la un garaj sa îți parchezi mașina.
 - Folosirea de diferite animații pentru a te descătușa.
 - Evacuarea chiriașilor curenți pentru a obține obiectele din locurile lor de depozitare.
+- Tractarea in mod abuziv a masinilor parcate legal cu scopul de a genera bani.
 
 <span style="color: red">Sancțiuni:</span>
 
