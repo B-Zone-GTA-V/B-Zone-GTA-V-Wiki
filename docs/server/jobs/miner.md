@@ -57,7 +57,7 @@ Optiunea de <span class="button-p-job">Miner Avansat Fier</span> sau <span class
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 100 hours.</td>
+        <td>At least 30 hours.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>
