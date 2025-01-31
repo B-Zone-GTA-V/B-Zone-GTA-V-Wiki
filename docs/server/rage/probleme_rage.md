@@ -35,6 +35,7 @@ outline: deep
 
 - Uneori, problema poate fi legată de faptul că conexiunea ta este blocată de serverul RAGE. Încearcă să folosești un **VPN** și reintră în RAGE după ce te-ai conectat la VPN.
 - Software-ul antivirus poate fi, de asemenea, o problemă, blocând conexiunea ta sau ștergând fișierele RAGE, ceea ce împiedică lansarea corectă a acestuia.
+- Rezolvarea este valabilă și pentru cazul în care resursele nu se descarcă.
 
 ### ℹ️ Mouse-ul este blocat în centrul ecranului
 
@@ -55,6 +56,10 @@ outline: deep
 ### ℹ️ Windows Defender vede RAGE:MP ca malware
 
 - Dacă ai descărcat RAGE Multiplayer de pe site-ul oficial, nu ar trebui să ai niciun motiv de îngrijorare, deoarece este doar o detectare falsă datorită fișierelor noi. Poți să adaugi manual exe-ul în whitelist sau să-l trimiți anonim ca utilizator pentru o submisie falsă pozitivă la https://www.microsoft.com/en-us/wdsi/filesubmission (de obicei durează până la 3 ore pentru ca Microsoft să revizuiască și să elimine FP)
+
+### Erori de la moduri
+
+- Dacă întâmpini una din erorile **"ERROR: Your game version is not supported by RAGE Multiplayer."**, **"ERROR: You try to open RAGE Multiplayer with an altered version of Grand Theft Auto V"** sau **"DLC File missing or corrupted in your game"** vă recomandăm să stergeți ultimele moduri instalate.
 
 ### ℹ️ Crash-uri
 
