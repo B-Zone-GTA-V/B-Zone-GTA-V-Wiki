@@ -19,8 +19,8 @@ Aceste animații pot fi accesate din meniul K -> Animații SAU prin:
 
 Pentru o mai rapidă acționare a animațiilor, serverul vă pune la îndemână următoarele abordări:
 - Posibilitatea de a folosii [/e] urmat de numele animației fără a mai accesa unul dintre meniuri, exemplu: [/e mechanic2].
-- Posibilitatea de a folosi comanda [/saveanimation] pentru a adăuga la favorite un număr de maxim 9 animații ce pot să fie acționate din meniul K -> Animații -> Animații rapide (vezi video după variantă în engleză).
-- Animațiile pot să fie întrerupte folosind comanda [/c] în chat."
+- Interfata de animații permite setarea la favorite a unor animații, search-ul mai rapid, dar și salvarea unora pentru a le folosi rapid (ALT + 0-9).
+- Animațiile pot să fie întrerupte folosind comanda [/c] în chat.
 
 ### <span style="color: #0088CC">English</span>
 
@@ -36,8 +36,8 @@ These animations can be accessed from the K menu -> Animations OR through:
 
 For a quicker activation of animations, the server provides you with the following approaches:
 - The ability to use [/e] followed by the animation name without accessing one of the menus, for example: [/e mechanic2].
-- The ability to use the command [/saveanimation] to add up to 9 animations to favorites, which can be triggered from the K menu -> Animations -> Quick Animations (see video for the English version).
+- The animation interface allows users to set animations as favorites, perform faster searches, and save certain animations for quick access (ALT + 0-9).
 - Animations can be interrupted using the command [/c] in the chat.
 
-<p align="center"><img src="https://i.imgur.com/JFA3E5r.gif"/></p>
-<p style="text-align: center">Animation shortcuts</p>
+<p align="center"><img src="https://v.b-zone.ro/images/wiki/animations-interface.png""/></p>
+<p style="text-align: center">Animation interface</p>
