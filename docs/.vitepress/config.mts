@@ -44,51 +44,51 @@ export default defineConfig({
             text: 'Caracter',
             collapsed: false,
             items: [
-              { text: 'Account & Character Creation', link: '/server/info/account' },
-              { text: 'Update your document', link: '/server/info/updatedoc' },
-              { text: 'Inventory & Backpack', link: '/server/info/inventory' },
-              { text: 'Settings & Hotkeys', link: '/server/info/settings' },            
+              { text: 'Cont și Caracter', link: '/server/info/account' },
+              { text: 'Documente', link: '/server/info/updatedoc' },
+              { text: 'Inventar', link: '/server/info/inventory' },
+              { text: 'Setări și Taste rapide', link: '/server/info/settings' },            
             // { text: 'Tutorial', link: '/server/info/tutorial' },
             // { text: 'RolePlay Test', link: '/server/info/rptest' },
             // { text: 'Referral', link: '/server/info/referral' },
             ]
           },
           {
-            text: 'Activitati',
+            text: 'Activități',
             collapsed: true,
             items: [
-              { text: 'Search in trash bins', link: '/server/info/trashsearch' },
-              { text: 'Books', link: '/server/info/books' },
-              { text: 'Paying Fines', link: '/server/info/fines' },
-              { text: 'Gym / Sală', link: '/server/info/gym' },
+              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
+              { text: 'Cărți', link: '/server/info/books' },
+              { text: 'Sală', link: '/server/info/gym' },
+              { text: 'Plătirea amenzilor', link: '/server/info/fines' },
             ]
           },
           {
             text: 'Sisteme',
             collapsed: true,
             items: [
-              { text: 'Garage System', link: '/server/info/garage' },
-              { text: 'Animation System', link: '/server/info/animation' },
+              { text: 'Garaje', link: '/server/info/garage' },
+              { text: 'Animații', link: '/server/info/animation' },
               { text: 'BNN', link: '/server/info/bnn' },
               { text: 'ATM', link: '/server/info/atm' },
-              { text: 'Vehicle Recycle Center', link: '/server/info/remat' },
+              { text: 'Remat de Vehicule', link: '/server/info/remat' },
               { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
-              { text: 'Licenses', link: '/server/info/licenses' },
-              { text: 'Phone', link: '/server/info/phone' },
+              { text: 'Licențe', link: '/server/info/licenses' },
+              { text: 'Telefon', link: '/server/info/phone' },
             ]
           },
           {
             text: 'Magazine',
             collapsed: true,
             items: [
-              { text: 'Dealership', link: '/server/shops/dealership' },
+              { text: 'Dealer Auto', link: '/server/shops/dealership' },
               { text: '24/7', link: '/server/shops/247' },
-              { text: 'Clothing Store', link: '/server/shops/clothing' },
-              { text: 'White Weapon Shop', link: '/server/shops/meleeweapon' },
-              { text: 'Hairstyle Shop', link: '/server/shops/hairstyle' },
-              { text: 'Tattoo Shop', link: '/server/shops/tattoo' },
-              { text: 'Tuning Shop', link: '/server/shops/tuning' },
-              { text: 'Gas Station', link: '/server/shops/gasstation' },
+              { text: 'Tuning', link: '/server/shops/tuning' },
+              { text: 'Frizerii', link: '/server/shops/hairstyle' },
+              { text: 'Benzinării', link: '/server/shops/gasstation' },
+              { text: 'Magazin de Haine', link: '/server/shops/clothing' },
+              { text: 'Magazin de Arme Albe', link: '/server/shops/meleeweapon' },
+              { text: 'Magazin de Tatuaje', link: '/server/shops/tattoo' },
             ]
           }
         ]
@@ -96,16 +96,16 @@ export default defineConfig({
       {
         text: '💸 Economie',
         items: [
-          { text: '📝 Job Applications', link: '/server/jobs/applications' },
+          { text: '📝 Aplicatul la Joburi', link: '/server/jobs/applications' },
           {
             text: '✒️ Locuri de munca / Jobs',
             collapsed: false,
             items: [
-              { text: '♻️ Gunoier / Garbageman', link: '/server/jobs/garbageman' },
+              { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
               { text: '⛏️ Miner', link: '/server/jobs/miner' },
               { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
               { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
-              { text: '🚛 Trucker', link: '/server/jobs/trucker' },
+              { text: '🚛 Camionagiu', link: '/server/jobs/trucker' },
               { text: '🚌 Șofer De Autobuz', link: '/server/jobs/bus_driver' },
               { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
             ]
@@ -117,7 +117,7 @@ export default defineConfig({
               { text: '🐟 Fisherman', link: '/server/hobby/fisherman' },
               { text: '🚕 B-Taxi', link: '/server/hobby/taxi' },
               { text: '🪡 Tailoring', link: '/server/hobby/tailor' },
-              { text: '🪓 Lumberjack', link: '/server/hobby/lumberjack' },
+              { text: '🪓 Tăietor de lemne', link: '/server/hobby/lumberjack' },
               { text: '🧑‍🔧 Mecanic', link: '/server/hobby/mechanic' },
             ]
           }
