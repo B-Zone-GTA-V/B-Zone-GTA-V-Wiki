@@ -39,5 +39,7 @@ For a quicker activation of animations, the server provides you with the followi
 - The animation interface allows users to set animations as favorites, perform faster searches, and save certain animations for quick access (ALT + 0-9).
 - Animations can be interrupted using the command [/c] in the chat.
 
-<p align="center"><img src="https://v.b-zone.ro/images/wiki/animations-interface.png""/></p>
-<p style="text-align: center">Animation interface</p>
+<details>
+  <summary>Animation interface</summary>
+  <img src="https://v.b-zone.ro/images/wiki/animations-interface.jpg">
+</details>
