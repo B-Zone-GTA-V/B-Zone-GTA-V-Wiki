@@ -1,0 +1,24 @@
+.info-box {
+    background-color: #0A1C1E;
+    border-radius: 8px;
+    padding: 15px;
+    border: 1px solid #1A3C3D;
+    color: #6EF38D;
+    font-family: Arial, sans-serif;
+    max-width: 600px; 
+}
+
+.info-box p {
+    margin: 8px 0;
+    color: #56C596; /* Verde mai închis pentru text */
+    line-height: 1.5;
+}
+
+.info-box strong {
+    color: #4CAF50; /* Verde mai intens */
+}
+
+.info-box p:first-child {
+    font-weight: bold;
+    color: #41D17F; /* Verde mai aprins pentru titlu */
+}

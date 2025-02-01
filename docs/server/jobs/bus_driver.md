@@ -13,7 +13,7 @@ outline: deep
     </tr>
     <tr>
         <td>De cate ore am nevoie?</td>
-        <td>De minim 0 la sofer de autobuz si 50 la sofer de autocar.</td>
+        <td>De minim 0 la sofer de autobuz si 20 la sofer de autocar.</td>
     </tr>
     <tr>
         <td>Necesită iteme specifice?</td>

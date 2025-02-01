@@ -6,6 +6,12 @@ outline: deep
 
 ## Probleme RAGEMP
 
+### ℹ️ Erori de la moduri
+
+- Dacă întâmpini una din erorile **"ERROR: Your game version is not supported by RAGE Multiplayer."**, **"ERROR: You try to open RAGE Multiplayer with an altered version of Grand Theft Auto V"** sau **"DLC File missing or corrupted in your game"** vă recomandăm să stergeți ultimele moduri instalate.
+- Dacă ai avut **Network Graphics** și l-ai dezinstalat în continuare ți-au rămas niște fisiere injectate în GTA V. Pentru a le înlătura trebuie să ștergeți ce este în folderul **user_resources** din RAGEMP.
+- Dacă problema persista un reinstall la clientul RAGEMP + Verify game files la GTA V va rezolva problema.
+
 ### ℹ️ Versiunea jocului tău nu este compatibilă cu RAGE Multiplayer
 
 - Dacă ai descărcat o versiune piratată a jocului, nu poți utiliza **RAGE Multiplayer**.
@@ -35,6 +41,7 @@ outline: deep
 
 - Uneori, problema poate fi legată de faptul că conexiunea ta este blocată de serverul RAGE. Încearcă să folosești un **VPN** și reintră în RAGE după ce te-ai conectat la VPN.
 - Software-ul antivirus poate fi, de asemenea, o problemă, blocând conexiunea ta sau ștergând fișierele RAGE, ceea ce împiedică lansarea corectă a acestuia.
+- Rezolvarea este valabilă și pentru cazul în care resursele nu se descarcă.
 
 ### ℹ️ Mouse-ul este blocat în centrul ecranului
 

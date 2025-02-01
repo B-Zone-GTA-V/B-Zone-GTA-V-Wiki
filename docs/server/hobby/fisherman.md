@@ -12,7 +12,7 @@ outline: deep
     </tr>
     <tr>
         <td>De cate ore am nevoie?</td>
-        <td>Poti sa il faci la 70 de ore.</td>
+        <td>Poti sa il faci la 25 de ore.</td>
     </tr>
     <tr>
         <td>Necesită iteme specifice?</td>
