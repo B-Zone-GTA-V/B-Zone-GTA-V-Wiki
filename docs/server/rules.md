@@ -180,7 +180,6 @@ Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat 
 - Faci un accident cu un jucător și refuzi să interacționezi cu acesta fără a avea un motiv întemeiat (de ex: ești urmărit de poliție).
 - Mergi la spital și refuzi să interacționezi cu medicii și mergi la Doctorul Sky.
 - Rolezi că arunci cheia în șanț și nu vrei să descui mașina după ce un alt jucător a găsit cheia.
-- Refuzul de a te oprii la un trafic stop fara a avea un motiv foarte bine intemenat (100% sigur ca acel trafic stop rezulta in arestarea ta). <span style="color: yellowgreen">Exceptie:</span> Momentul in care politistul ti-a cerut un act de identitate pentru a te identifica aveti dreptul de a incerca o evadare in cazul in care identificarea voastra ar putea rezulta un viitor arest, madant, perchezitie corporala etc.
 
 <span style="color: red">Sancțiuni</span>
 
@@ -365,7 +364,6 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
 - Drift-uri si burn-out in prezența unui echipaj de poliție.
 - Conducerea în mod intenționat și repetat pe contra-sens în preajma poliției.
 - Trecerea în mod repetat pe lângă un echipaj de poliție având față acoperită.
-- Conducerea in mod evident prin zonele populate (Strazi principale / Sectie de Politie / Magazine / Benzinarii / Spital) fara numere de inmatriculare.
 - Apeluri nefondate la 112 pentru a îi aduce intr-o zonă doar cu scopul de a porni un roleplay forțat cu ei.
 
 <span style="color: red">Sancțiuni:</span>

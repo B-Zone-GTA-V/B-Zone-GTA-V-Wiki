@@ -176,7 +176,6 @@ Represents any attempt to hinder roleplay where multiple parties/people are invo
 - Having an accident with a player and refusing to interact with them without a valid reason (e.g., being chased by the police).
 - Going to the hospital and refusing to interact with the doctors and going to Doctor Sky.
 - Roleplaying throwing the key in the ditch and not wanting to unlock the car after another player has found the key.
-- Refusal to stop at a traffic stop without a very well-founded reason (100% certainty that the traffic stop would result in your arrest). <span style="color: yellowgreen">Exception:</span> When the officer has requested an ID to identify you, you have the right to attempt an escape if your identification could result in a future arrest, warrant, body search, etc.
 
 <span style="color: red">Sanctions:</span>
 
@@ -357,7 +356,6 @@ Represents the action through which you want to attract the attention of the pol
 - Drifts and burn-outs in the presence of a police crew.
 - Intentionally and repeatedly driving on the wrong side of the road near the police.
 - Repeatedly passing by a police crew with your face covered.
-- Driving conspicuously through populated areas without license plates.
 - Baseless 112 calls to bring them to an area just for the purpose of starting a forced roleplay with them.
 
 <span style="color: red">Sanctions:</span>
