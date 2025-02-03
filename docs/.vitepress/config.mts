@@ -67,6 +67,7 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
+              { text: 'Meniu ESC', link: '/server/info/esc-menu' },
               { text: 'Garaje', link: '/server/info/garage' },
               { text: 'Animații', link: '/server/info/animation' },
               { text: 'BNN', link: '/server/info/bnn' },
