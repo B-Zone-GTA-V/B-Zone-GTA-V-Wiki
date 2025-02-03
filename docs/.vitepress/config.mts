@@ -45,7 +45,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: 'Cont și Caracter', link: '/server/info/account' },
-              { text: 'Documente', link: '/server/info/updatedoc' },
+              { text: 'Documente', link: '/server/info/documents' },
               { text: 'Inventar', link: '/server/info/inventory' },
               { text: 'Setări și Taste rapide', link: '/server/info/settings' },            
             // { text: 'Tutorial', link: '/server/info/tutorial' },
@@ -67,6 +67,7 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
+              { text: 'Meniu ESC', link: '/server/info/esc-menu' },
               { text: 'Garaje', link: '/server/info/garage' },
               { text: 'Animații', link: '/server/info/animation' },
               { text: 'BNN', link: '/server/info/bnn' },
