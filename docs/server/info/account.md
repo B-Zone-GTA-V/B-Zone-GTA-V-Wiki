@@ -50,5 +50,7 @@ Only one character is valid per account, so make sure to invest time in customiz
 
 Features such as freckles / nose size / cheekbones, and so on, cannot be changed after the character has been finalized!
 
-<p align="center"><img src="https://i.imgur.com/LF35Ite.gif"/></p>
-<p style="text-align: center"> Account creation</p>
+<details>
+  <summary>Account Creation</summary>
+  <img src="https://v.b-zone.ro/images/wiki/account-creation.gif" alt="Account Creation">
+</details>

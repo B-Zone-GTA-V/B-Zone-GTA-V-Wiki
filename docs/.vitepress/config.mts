@@ -54,16 +54,6 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Activități',
-            collapsed: true,
-            items: [
-              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
-              { text: 'Cărți', link: '/server/info/books' },
-              { text: 'Sală', link: '/server/info/gym' },
-              { text: 'Plătirea amenzilor', link: '/server/info/fines' },
-            ]
-          },
-          {
             text: 'Sisteme',
             collapsed: true,
             items: [
@@ -76,6 +66,16 @@ export default defineConfig({
               { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
               { text: 'Licențe', link: '/server/info/licenses' },
               { text: 'Telefon', link: '/server/info/phone' },
+            ]
+          },
+          {
+            text: 'Activități',
+            collapsed: true,
+            items: [
+              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
+              { text: 'Cărți', link: '/server/info/books' },
+              { text: 'Sală', link: '/server/info/gym' },
+              { text: 'Plătirea amenzilor', link: '/server/info/fines' },
             ]
           },
           {

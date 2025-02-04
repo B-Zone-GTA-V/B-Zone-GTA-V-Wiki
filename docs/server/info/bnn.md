@@ -22,5 +22,7 @@ The price of publishing an ad for one hour is <span class="money">$500</span>.
 
 The location of publishing an ad can be found on the map or in the GPS application on your phone under the Important Places category.
 
-<p align="center"><img src="https://i.imgur.com/MN3ade2.png"/></p>
-<p style="text-align: center">BNN Interface</p>
+<details>
+  <summary>BNN Interface</summary>
+  <img src="https://v.b-zone.ro/images/wiki/bnn-interface.png" alt="BNN Interface">
+</details>
