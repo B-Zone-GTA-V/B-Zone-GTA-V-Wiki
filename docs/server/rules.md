@@ -1107,9 +1107,9 @@ Se permite deturnarea unui transport de deținuți pe autostradă dacă liderul 
 ### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
 **Gang** - Grupare de maxim 10 persoane care nu este recunoscută de către sindicat.
 
-**Grupare neoficială** - Grupare de maxim 15 persoane care este recunoscută de către sindicat.
+**Grupare neoficială** - Grupare de maxim 19 persoane care este recunoscută de către sindicat.
 
-**Grupare oficială** - Grupare de maxim 21 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
+**Grupare oficială** - Grupare de maxim 25 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
 
 <span style="color: red">Sancțiuni</span> pentru toți membrii care nu respectă acestă regulă. În funcție de gravitatea situației și numărul de abateri se poate sancționa de la 100 Checkpoint-uri pănă la ban 7 zile.
 

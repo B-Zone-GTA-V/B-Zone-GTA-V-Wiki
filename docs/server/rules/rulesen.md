@@ -1101,12 +1101,12 @@ Hijacking a prisoner transport on the highway is allowed if the leader or at lea
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
+### <a id="7.13"></a><span style="color: #0088CC">7.13 Member limits for illegalities</span>
 **Gang** - A group of maximum 10 people not recognized by the syndicate.
 
-**Grupare neoficială** - A group of maximum 15 people recognized by the syndicate.
+**Grupare neoficială** - A group of maximum 19 people recognized by the syndicate.
 
-**Grupare oficială** - A group of maximum 21 people not recognized by the syndicate that has been in business with the syndicate for a longer period of time.
+**Grupare oficială** - A group of maximum 25 people not recognized by the syndicate that has been in business with the syndicate for a longer period of time.
 
 <span style="color: red">Sanctions:</span> For all members that do not obey this rule. Depending on the severity and multiple rule violations, the sanction can range from 100 checkpoints to 7 day ban.
 
