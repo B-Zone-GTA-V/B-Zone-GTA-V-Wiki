@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Frizerii / Hairstyle Shop
+# Frizerii / Barber Shop
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -20,5 +22,7 @@ The price for modifying your appearance at the barber shop is fixed and does not
 
 Barber shops are designed in such a way that you cannot alter the original features of the character created during the account setup, such as freckles, dark circles, wrinkles, or eye color. However, you can change elements such as hair, hair color, lipstick, makeup, and beard.
 
-<p align="center"><img src="https://i.imgur.com/8gyX5ki.gif"/></p>
-<p style="text-align: center">Hairstyle shop</p>
+<details>
+  <summary>Barber Shop</summary>
+  <img src="https://v.b-zone.ro/images/wiki/barber.gif" alt="Barber">
+</details>

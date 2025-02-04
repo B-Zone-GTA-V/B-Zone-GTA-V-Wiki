@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Tatuaje / Tattoo
+# Tatuaje / Tattoo
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -27,5 +29,7 @@ It's worth noting that tattoos can be removed individually according to your pre
 |Hand|$ = 4.800|
 |Leg|$ = 5.000|
 
-<p align="center"><img src="https://i.imgur.com/zbba5Fd.gif"/></p>
-<p style="text-align: center">Tattoo shop</p>
+<details>
+  <summary>Tattoo</summary>
+  <img src="https://v.b-zone.ro/images/wiki/tattoo.gif" alt="Tattoo">
+</details>
