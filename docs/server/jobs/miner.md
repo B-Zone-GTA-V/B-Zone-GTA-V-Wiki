@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Miner
+# Miner
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -93,8 +95,10 @@ For each completed <span class="button-p-job">Miner</span> shift, you will be re
 
 The option for <span class="button-p-job">Advanced Iron Miner</span> or <span class="button-p-job">Advanced Sulfur Miner</span> is unlocked at <span class="button-r-job">skill level 4+</span> and offers the chance to work at a new mine where breaking boulders yields improved materials that can be used in-game. It’s important to note that the enhanced materials can only be found in the new mine.
 
-<p align="center"><img src="https://i.imgur.com/1rd5GYD.gif"/></p>
-<p style="text-align: center">Miner system</p>
+<details>
+  <summary>Miner</summary>
+  <img src="https://v.b-zone.ro/images/wiki/miner.gif" alt="Miner">
+</details>
 
 ## Topitorie / Smelter
 

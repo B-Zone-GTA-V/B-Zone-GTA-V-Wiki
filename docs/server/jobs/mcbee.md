@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## McBeeDelivery
+# McBeeDelivery
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -92,5 +94,7 @@ Preparing the burgers is based on a memory game; each time you will have a diffe
 
 - If you do not ride the scooter for <span class="button-r-job">15 minutes</span>, your shift will end, and the scooter will despawn due to inactivity.
 
-<p align="center"><img src="https://i.imgur.com/UDiJlxm.gif"/></p>
-<p style="text-align: center">MCBeeDelivery system</p>
+<details>
+  <summary>McBeeDelivery</summary>
+  <img src="https://v.b-zone.ro/images/wiki/mcbeede.gif" alt="McBeeDelivery">
+</details>

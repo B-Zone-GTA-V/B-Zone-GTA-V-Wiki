@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Miner
+# Camionagiu / Trucker
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -96,5 +98,7 @@ If the truck driver chooses a route with <span class="button-p-job">skill 1</spa
 
 - If you do not enter the Truck vehicle within <span class="button-r-job">15 minutes</span>, the job shift ends, and the vehicle is despawned due to inactivity.
 
-<p align="center"><img src="https://i.imgur.com/jd0lvDS.gif"/></p>
-<p style="text-align: center">Trucker system</p>
+<details>
+  <summary>Trucker</summary>
+  <img src="https://v.b-zone.ro/images/wiki/trucker.gif" alt="Trucker">
+</details>

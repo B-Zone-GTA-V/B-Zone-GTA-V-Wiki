@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Șofer De Autobuz / Bus Driver
+# Șofer De Autobuz / Bus Driver
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -92,5 +94,7 @@ The routes are different: there are 3 routes available for the <span class="butt
 
 - If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
-<p align="center"><img src="https://i.imgur.com/xi7aZEr.png"/></p>
-<p style="text-align: center">Bus Driver</p>
+<details>
+  <summary>Bus Driver</summary>
+  <img src="https://v.b-zone.ro/images/wiki/bus-driver.png" alt="Trucker">
+</details>
