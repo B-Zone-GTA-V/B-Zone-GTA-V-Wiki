@@ -234,6 +234,7 @@ Represents a roleplay situation where you have supernatural powers or when you d
 - Blocking access to a store robbery
 - Entering a house while running away from a fight, being chased, and closing the door
 - Robbing, killing, or interacting with people who are sleeping in houses
+- The use of a voice changer without an appropriate mask or with a mask that does not have the necessary space to accommodate a voice-changing device is prohibited.
 
 <span style="color: red">Sanctions:</span>
 
