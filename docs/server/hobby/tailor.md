@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Tailoring
+# Tailoring
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -66,4 +68,7 @@ Tailoring is the place where <span class="button-p-hobby">thread</span> can be p
 
 In the future, we aim to add more processing recipes to the tailoring shop.
 
-<p align="center"><img src="https://i.imgur.com/hMTTklE.png"/></p>
+<details>
+  <summary>Tailor</summary>
+  <img src="https://v.b-zone.ro/images/wiki/tailor.png" alt="Tailor">
+</details>

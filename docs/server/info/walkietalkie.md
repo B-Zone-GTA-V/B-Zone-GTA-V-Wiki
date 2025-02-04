@@ -28,8 +28,14 @@ If you wish to leave the frequency you are on, press the button marked below in 
 |101-200| private channels accessible with a password|
 |201-999|public channels that anyone can join|
 
-<p align="center"><img src="https://i.imgur.com/8JGRIiZ.png"/></p>
-<p style="text-align: center">Reset frequency button</p>
+<details>
+  <summary>Reset frequency button</summary>
+  <img src="https://v.b-zone.ro/images/wiki/reset-frequency-button.png" alt="Reset frequency button">
+</details>
 
-<p align="center"><img src="https://i.imgur.com/4yvaht9.gif"/></p>
-<p style="text-align: center">Set frequency</p>
+<br/>
+
+<details>
+  <summary>Set frequency</summary>
+  <img src="https://v.b-zone.ro/images/wiki/set-frequency.gif" alt="Set frequency">
+</details>

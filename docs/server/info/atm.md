@@ -18,5 +18,7 @@ ATMs are used to deposit or withdraw money quickly. They have predefined amounts
 
 From the ATM, it is not possible to withdraw or add amounts that the player does not have valid. (You cannot withdraw more money than you have in the bank/add more than you have in hand).
 
-<p align="center"><img src="https://i.imgur.com/5xu950b.gif"/></p>
-<p style="text-align: center">ATM</p>
+<details>
+  <summary>ATM</summary>
+  <img src="https://v.b-zone.ro/images/wiki/atm.gif" alt="ATM">
+</details>

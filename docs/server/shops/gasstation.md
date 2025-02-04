@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Benzinării / Gas Station
+# Benzinării / Gas Station
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -16,5 +18,7 @@ Gas stations are used to refuel; in this regard, on the server, gasoline caniste
 
 Gasoline canisters occupy a generic space of 2 kg, with a capacity of 20 liters, and the final weight reaches 20 kg.
 
-<p align="center"><img src="https://i.imgur.com/CadXboP.gif"/></p>
-<p style="text-align: center">Gas station</p>
+<details>
+  <summary>Gas Station</summary>
+  <img src="https://v.b-zone.ro/images/wiki/gas-station.gif" alt="Gas">
+</details>

@@ -41,8 +41,10 @@ To buy clothes, the player needs to explore the available clothing items and add
 |Watch|G = 0.20kg \| $ = 100|
 |Shoes|G = 0.40kg \| $ = 100|
 
-<p align="center"><img src="https://i.imgur.com/rV1ox5a.gif"/></p>
-<p style="text-align: center">Clothing Store</p>
+<details>
+  <summary>Clothing Store</summary>
+  <img src="https://v.b-zone.ro/images/wiki/normal-clothing-store.gif" alt="Clothing Store">
+</details>
 
 ## Magazin de haine premium
 
@@ -58,5 +60,7 @@ There is only one location of such premium clothes that you can find in GPS or d
 
 Add-on bags are currently available in this store, with other clothing items to follow in the future.
 
-<p align="center"><img src="https://i.imgur.com/ubT9l4H.gif"/></p>
-<p style="text-align: center">Premium Clothing Store</p>
+<details>
+  <summary>Premium Clothing Store</summary>
+  <img src="https://v.b-zone.ro/images/wiki/premium-clothing-store.png" alt="Premium Clothing Store">
+</details>

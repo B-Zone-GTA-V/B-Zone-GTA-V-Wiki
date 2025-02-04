@@ -27,5 +27,7 @@ It is important to note that two or more individuals cannot engage in searching 
 |nothing|unfavorable|
 |special item |unfavorable|
 
-<p align="center"><img src="https://i.imgur.com/WM6gxn6.gif"/></p>
-<p style="text-align: center">Search in the trash bin</p>
+<details>
+  <summary>Search in the trash bin</summary>
+  <img src="https://v.b-zone.ro/images/wiki/trash-bin-search.gif" alt="Search in the trash bin">
+</details>

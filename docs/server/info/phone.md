@@ -54,5 +54,7 @@ The phone comes with several applications used as follows:
 |Message|Used to send messages to another players|
 |Call|Used to answer / start calls|
 
-<p align="center"><img src="https://i.imgur.com/mKEwItQ.png"/></p>
-<p style="text-align: center">Phone</p>
+<details>
+  <summary>Phone</summary>
+  <img src="https://v.b-zone.ro/images/wiki/phone.png" alt="Phone">
+</details>

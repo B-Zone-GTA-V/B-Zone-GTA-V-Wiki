@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Lumberjack
+# Lumberjack
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -80,5 +82,7 @@ There are 3 types of wood, and you can craft different items from them at the <s
 
 To cut down trees, go to the cutting area shown on the map, approach a tree, and press the <span class="button-p-hobby">E</span> key.
 
-<p align="center"><img src="https://v.b-zone.ro/images/wiki/lumberjack.gif"/></p>
-<p style="text-align: center">Lumber functionality</p>
+<details>
+  <summary>Lumberjack</summary>
+  <img src="https://v.b-zone.ro/images/wiki/lumberjack.gif" alt="Lumberjack">
+</details>
