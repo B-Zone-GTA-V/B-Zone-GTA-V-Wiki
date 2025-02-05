@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Joburi & Activități / Jobs & Activities
+# Joburi & Activități / Jobs & Activities
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -20,8 +22,10 @@ If you CLICK on a legal job you will receive a Waypoint to its location.
 
 For illegal jobs and related activities you will not receive a Waypoint, you will have to discover them IC.
 
-<p align="center"><img src="https://i.imgur.com/M26iBvW.gif"/></p>
-<p style="text-align: center">Jobs Interface</p>
+<details>
+  <summary>Jobs Interface</summary>
+  <img src="https://v.b-zone.ro/images/wiki/jobs-interface.gif" alt="Jobs Interface">
+</details>
 
 ## Job Applications
 
@@ -62,6 +66,7 @@ For each of the jobs mentioned above, you need a valid <span class="button-p-job
 
 Each job displays information about how to work and how you're paid. This information can be viewed before starting your shift by accessing the <span class="button-p-job">top right button -> called "Info"</span>.
 
-
-<p align="center"><img src="https://i.imgur.com/PbdXwlC.gif"/></p>
-<p style="text-align: center">Job Application system</p>
+<details>
+  <summary>Job Application system</summary>
+  <img src="https://v.b-zone.ro/images/wiki/jobs-application.gif" alt="Job Application system">
+</details>

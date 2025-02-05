@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Gunoier / Garbageman
+# Gunoier / Garbageman
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -100,5 +102,7 @@ After collecting garbage from all the points marked on the <span class="button-p
 
 - If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
-<p align="center"><img src="https://i.imgur.com/wmy8XTQ.gif"/></p>
-<p style="text-align: center">Garbage functionality</p>
+<details>
+  <summary>Garbageman</summary>
+  <img src="https://v.b-zone.ro/images/wiki/garbageman.gif" alt="Garbageman">
+</details>

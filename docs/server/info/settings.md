@@ -51,7 +51,8 @@ Each hotkey can be changed by accessing the command [/settings] in the chat, and
 
 | Tasta/key | Description |
 | :---: | --- |
-| 2 | Pornește motorul / Start the engine |
+| TAB | Pornește motorul / Start the engine |
+| Z | Selectare entitate mai rapid / Quick Select Entity |
 | J | Centură / Seatbelt |
 | B | Arată cu degetul / Point with your finger |
 | K | Meniu interacțiuni / Interaction Menu |
@@ -61,11 +62,14 @@ Each hotkey can be changed by accessing the command [/settings] in the chat, and
 | L | Telefon / Phone |
 | ` | Cursor  |
 | N | Voice chat |
+| M | Hartă rapidă / Quick Map |
 | F3 | Închidere/deschidere rapidă a vehiculului /<br> Quick vehicle toggle (lock/unlock)|
 | F4 | Schimbare volum microfon /<br> Change microphone volume|
 | T | Deschide chat / Open Chat |
 | CAPS | Stație / Station|
 | F8 | Captură de ecran / Screenshot|
 
-<p align="center"><img src="https://i.imgur.com/rRN9Vn1.gif"/></p>
-<p style="text-align: center">Settings</p>
+<details>
+  <summary>Settings</summary>
+  <img src="https://v.b-zone.ro/images/wiki/key-bind-settings.png" alt="Inventory">
+</details>

@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Reprezentanță auto / Dealership
+# Reprezentanță auto / Dealership
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -28,5 +30,7 @@ The purchase price of personal vehicles is designed based on their performance, 
 
 Certain vehicles may be more desired, so there is the possibility of adding new cars to stock based on player preferences.
 
-<p align="center"><img src="https://i.imgur.com/js2QYCL.gif"/></p>
-<p style="text-align: center">Dealership system</p>
+<details>
+  <summary>DS</summary>
+  <img src="https://v.b-zone.ro/images/wiki/dealership.gif" alt="DS">
+</details>

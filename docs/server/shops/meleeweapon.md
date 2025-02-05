@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Magazinul de Arme albe / White Weapons Shop
+# Magazinul de Arme albe / White Weapons Shop
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -30,5 +32,7 @@ It is important to note that melee weapons disappear from the inventory when the
 |Switchblade|G = 0.3kg \| \$ = 15.000$|
 |Machette|G = 1kg \| \$ = 10.000$|
 
-<p align="center"><img src="https://i.imgur.com/GCSmCjn.gif"/></p>
-<p style="text-align: center">White Weapon Shop</p>
+<details>
+  <summary>Gunshop</summary>
+  <img src="https://v.b-zone.ro/images/wiki/melee-shop.gif" alt="Gunshop">
+</details>

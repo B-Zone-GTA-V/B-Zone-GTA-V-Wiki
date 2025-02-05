@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Fisherman
+# Fisherman
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 <table>
@@ -291,5 +293,7 @@ Fishing can be done anytime, without commitment. To fish, you need to buy a <spa
 To catch fish, press <span class="button-p-hobby">E</span>, after which you'll hear a sound and have <span class="button-p-hobby">3 seconds</span> to press <span class="button-p-hobby">left-click</span>.
 <br>Fish can be sold near the shop by pressing <span class="button-p-hobby">E</span> or using the <span class="button-p-hobby">/sellfish</span> command.
 
-<p align="center"><img src="https://i.imgur.com/3luV16I.gif"/></p>
-<p style="text-align: center">Fisherman interface & minigame</p>
+<details>
+  <summary>Fisherman</summary>
+  <img src="https://v.b-zone.ro/images/wiki/fisherman.gif" alt="Fisherman">
+</details>

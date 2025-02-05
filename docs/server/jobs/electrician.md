@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## Electrician
+# Electrician
+
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -96,5 +98,7 @@ You can become an <span class="button-p-job">Electrician</span>  based on your e
 
 - If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
-<p align="center"><img src="https://i.imgur.com/MX076mG.gif"/></p>
-<p style="text-align: center">Electrician minigame</p>
+<details>
+  <summary>Electrician</summary>
+  <img src="https://v.b-zone.ro/images/wiki/electrician.gif" alt="Electrician">
+</details>

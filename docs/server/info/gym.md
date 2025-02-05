@@ -34,4 +34,7 @@ NOTE 2: Losing the VIP account will not remove the extra kilograms, but you will
 
 Clarification Max KG: 5kg (pockets) + 40kg (best backpack) + 20kg (gym) + 10kg (VIP Diamond) = 75kg
 
-<p align="center"><img src="https://i.imgur.com/A0LXk0w.png"/></p>
+<details>
+  <summary>Gym</summary>
+  <img src="https://v.b-zone.ro/images/wiki/gym.png" alt="Gym">
+</details>

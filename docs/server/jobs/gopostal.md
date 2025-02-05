@@ -2,7 +2,9 @@
 outline: deep
 ---
 
-## GoPostal
+# GoPostal
+
+ ## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
@@ -107,4 +109,7 @@ Once all packages are delivered, you return to the headquarters where you can ei
 
 - If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
-<p align="center"><img src="https://v.b-zone.ro/images/wiki/gopostal.png"/></p>
+<details>
+  <summary>GoPostal</summary>
+  <img src="https://v.b-zone.ro/images/wiki/go-postal.png" alt="GoPostal">
+</details>
