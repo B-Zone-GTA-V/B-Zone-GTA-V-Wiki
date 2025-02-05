@@ -736,8 +736,48 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Using the vehicle with the intention of hitting another vehicle without a previous roleplay or parking it over a player is prohibited.
 
-<span style="color: yellow">Exceptions:</span>
-- The police battering ram can be used for a Car-Ram on moving vehicles, at which point the action is considered a forced Pit-Stop, only if the hit is not frontal.
+#### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Police / Syndicate Armored Vehicle</span>
+- In the case of the police/syndicate armored vehicle, the Car-Ram rule applies differently compared to other vehicles.
+- The police/syndicate armored vehicle can be used for Car-Ram on vehicles, at which point the action is considered a forced Pit-Stop, only if the hit is not frontal.
+- CR is allowed when the purpose is to clear an access zone or reach a strategic position in the context of a complex action or roleplay situation, or when avoiding impact is inevitable (the armored vehicle is a heavy vehicle that does not steer easily).
+- The purpose of the armored vehicle is to create maneuvering space for S.A.S. teams or to clear blocked areas (snow removal), which would otherwise be inaccessible. The purpose is not to hit cars to cause damage or to put the occupants into a <strong>COMA</strong>.
+
+##### 1. The armored vehicle can be used on <span style="color: yellow">stationary</span> vehicles in the following situations: <br>
+- The vehicle <span style="color: yellowgreen">blocks</span> or <span style="color: yellowgreen">hinders</span> access to a point of interest. <br>
+- The vehicle is located on the <span style="color: red; font-weight: 700">DIRECT</span> path of the armored vehicle, blocking or hindering its advance.
+
+    <span style="color: yellow">Examples:</span><br> 
+
+    <span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
+        -> The vehicle is parked directly in front of the bank entrance to prevent the armored vehicle from parking near the bank door.<br>
+        -> The vehicle blocks the driving lane (direction of travel) of the armored vehicle, making it impossible to avoid without putting the armored vehicle's driver in difficulty.<br>
+        -> The driver intentionally stops in front of the armored vehicle to hinder/block its movement <span style="color: red">(The driver is penalized with NF)</span>.<br>
+        -> One or more vehicles block access to a point of interest for the armored vehicle.<br>
+        -> A car is used as cover in a location that blocks the direct path of the armored vehicle (the person using the car as cover in this position assumes the damage caused by a possible snow removal maneuver).
+
+    <span style="color: red; font-weight: 600">CAR RAM IS FORBIDDEN:</span><br>
+        -> The vehicle does not block the direct access road or the area of interest for the armored vehicle.<br>
+        -> The vehicle can be avoided in time by the armored vehicle, stopping at a reasonable distance without hindering its movement.<br>
+        -> The vehicle moves aside to clear the armored vehicle's path.<br>
+        -> The vehicle is used as cover in a position that does not block the direct access path / direct road to the area of interest for the armored vehicle.<br>
+
+##### 2. The armored vehicle can be used on <span style="color: yellow">moving</span> vehicles in the following situations: <br>
+- The vehicle <span style="color: yellowgreen">blocks</span> or <span style="color: yellowgreen">hinders</span> access to a point of interest through various maneuvers.<br>
+- The vehicle positions itself on the <span style="color: red; font-weight: 700">DIRECT</span> path of the armored vehicle, blocking or hindering its advance.
+
+    <span style="color: yellow">Examples:</span><br> 
+
+    <span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
+        -> The vehicle moves alongside the armored vehicle to block its turn, attempting to change its direction of travel.<br>
+        -> The vehicle moves in front of the armored vehicle and performs a brake check.<br>
+
+<span style="color: red; font-weight: 600">THE FOLLOWING ARE CONSIDERED CAR RAM, REGARDLESS OF VEHICLE MOVEMENT STATE:</span><br>
+    -> When the hit is frontal.<br>
+    -> When the rule regarding the legal pit-stop speed is violated.<br>
+    -> When repeated collisions occur without a specific purpose between the armored vehicle and vehicles in RP, done solely to damage cars (Rocket League-style behavior).<br>
+    -> When the vehicle does not block the road / direction of travel of the armored vehicle to its area of interest.<br>
+    -> When snow removal is done without a strategic purpose but rather for amusement or to gain an advantage by damaging vehicles or players involved in the action.<br>
+
 
 <span style="color: red">Sanctions:</span>
 
