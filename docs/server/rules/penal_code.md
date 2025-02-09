@@ -280,8 +280,6 @@ Efectuarea de servicii fără deținerea de licență sau atestat in domeniul un
 În acest moment urmatoarele licențe pot fi emise de către primăria orașului:
 - De Pescuit
 - De Miner
-- De Transport agabaritic
-- De Taxi
 
 ### <a id="4.8"></a><span style="color: #0088CC">4.8 Descurajarea unui martor sau a unei victime</span>
 
