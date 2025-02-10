@@ -887,7 +887,7 @@ Is permitted, adhering to the following requirements:
 - Three or more offenses: Warn
 
 ### <a id="7.6"></a><span style="color: #0088CC">7.6 Terrorist Actions</span>
-Represent actions through which multiple people will die as a result of the roleplay you want to perform. These actions are allowed with the approval of a senior staff member based on a complex roleplay. 
+Represent actions through which multiple people will die as a result of the roleplay you want to perform. These actions are allowed with the approval of a senior staff member based on a complex roleplay. The failure of such a terrorist action is sanctioned with CK to all members involved in this action.
 
 <span style="color: yellow">Examples:</span>
 

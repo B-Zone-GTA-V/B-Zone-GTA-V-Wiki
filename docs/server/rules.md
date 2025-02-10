@@ -892,7 +892,7 @@ Este permisă, respectând următoarele cerințe:
 - trei sau mai multe abateri: warn
 
 ### <a id="7.6"></a><span style="color: #0088CC">7.6 Acțiunile teroriste</span>
-Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul pe care vreți să-l faceți. Aceste acțiuni sunt permise cu aprobarea unui membru staff senior în baza unui roleplay complex. 
+Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul pe care vreți să-l faceți. Aceste acțiuni sunt permise cu aprobarea unui membru staff senior în baza unui roleplay complex. Eșecul unei astfel de acțiuni teroriste se sancționează cu CK tuturor membrilor implicați în aceasta acțiune.
 
 <span style="color: yellow">Exemple:</span>
 - Intrarea pe terenurile guvernamentale înarmat.
