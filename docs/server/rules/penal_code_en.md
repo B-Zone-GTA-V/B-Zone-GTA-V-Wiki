@@ -257,8 +257,6 @@ Working or giving services without a license or a certificate in the employment 
 At this time, the next licenses can be given by the City Hall:
 - Fishing license
 - Mining license
-- Certificate for Oversized Transports
-- Taxi license
 
 ### <a id="4.8"></a><span style="color: #0088CC">4.8 Deterring a witness or a vitctim</span>
 
