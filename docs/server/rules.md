@@ -324,7 +324,6 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
 
 <span style="color: red">Sancțiuni:</span>
-
 - prima abatere: 75-150 checkpoint-uri
 - a doua abatere: 300 checkpoint-uri
 - trei sau mai multe abateri: warn
@@ -332,6 +331,16 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 <span style="color: green">Mențiuni:</span>
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+#### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
+- In cazul echipajelor S.A.S. regula de No Fear nu se aplică. Singura excepție de la această regulă este atunci când un echipaj de mai putin de 3 SAS sunt în inferiotate numerica de 3 sau mai multe persoane, situație în care S.A.S.-ului i se aplică regula de No Fear în mod normal.
+- De menționat este faptul că această comparație numerică se face în momentul începerii RP-ului și nu se recalculează pe parcursul acestuia. (Ex. Dacă te aflii într-un conflict activ și pici 2 din cei 3 SAS, ultimului SAS nu i se va aplica regula de No Fear, dar dacă acesta ramane singur și ulterior este prins i se va aplica regula.)
+- Situații numerice exemplificate:
+    - 1 SAS vs 3 <strong style="color: red">NU</strong> se aplică NF
+    - 1 SAS vs 4 <strong style="color: green">DA</strong> se aplică NF
+    - 2 SAS vs 4 <strong style="color: red">NU</strong> se aplică NF
+    - 2 SAS vs 5 <strong style="color: green">DA</strong> se aplică NF
+    - 3 SAS vs oricâți <strong style="color: red">NU</strong> se aplică NF
 
 ### <a id="2.19"></a><span style="color: #0088CC">2.19 Cop-Fear (CF)</span>
 

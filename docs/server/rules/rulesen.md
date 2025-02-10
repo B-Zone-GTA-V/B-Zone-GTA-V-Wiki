@@ -319,7 +319,6 @@ Represents the action where you are not realistically afraid that your own life 
 - There is a conflict between mafias or between mafia and police, and you are not afraid to pass through that area.
 
 <span style="color: red">Sanctions:</span>
-
 - First offense: 75-150 Checkpoints
 - Second offense: 300 Checkpoints
 - Three or more offenses: Warn
@@ -327,6 +326,17 @@ Represents the action where you are not realistically afraid that your own life 
 <span style="color: green">Notes:</span>
 - For multiple offenses, sanctioning with a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+
+#### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
+- In the case of S.A.S. crews, the No Fear rule does not apply. The only exception to this rule is when a crew of fewer than 3 SAS members is outnumbered by 3 or more people, in which case the No Fear rule applies to the S.A.S. normally.
+- It is important to note that this numerical comparison is made at the start of the RP and is not recalculated during its course. (Example: If you are in an active conflict and 2 out of 3 SAS members go down, the last remaining SAS member will not have the No Fear rule applied. However, if they are left alone and later captured, the rule will apply.)
+- Exemplified numerical situations:
+    - 1 SAS vs 3 <strong style="color: red">NO</strong>, NF does not apply
+    - 1 SAS vs 4 <strong style="color: green">YES</strong>, NF applies
+    - 2 SAS vs 4 <strong style="color: red">NO</strong>, NF does not apply
+    - 2 SAS vs 5 <strong style="color: green">YES</strong>, NF applies
+    - 3 SAS vs any number <strong style="color: red">NO</strong>, NF does not apply
+
 
 ### <a id="2.19"></a><span style="color: #0088CC">2.19 Cop-Fear (CF)</span>
 
