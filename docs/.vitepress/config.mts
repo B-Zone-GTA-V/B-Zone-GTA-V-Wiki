@@ -31,8 +31,8 @@ export default defineConfig({
       {
         text: '📖 Regulamente',
         items: [
-          { text: 'Regulament (Romana)', link: '/server/rules' },
-          { text: 'Cod Penal (Romana)', link: '/server/rules/penal_code' },
+          { text: 'Regulament (Română)', link: '/server/rules' },
+          { text: 'Cod Penal (Română)', link: '/server/rules/penal_code' },
           { text: 'Rules (English)', link: '/server/rules/rulesen' },
           { text: 'Penal Code (English)', link: '/server/rules/penal_code_en' },
         ]
@@ -47,8 +47,8 @@ export default defineConfig({
               { text: 'Cont și Caracter', link: '/server/info/account' },
               { text: 'Documente', link: '/server/info/documents' },
               { text: 'Inventar', link: '/server/info/inventory' },
-              { text: 'Setări și Taste rapide', link: '/server/info/settings' },
-              { text: 'Referal', link: '/server/info/referal' },       
+              { text: 'Referral', link: '/server/info/referal' }, 
+              { text: 'Setări și Taste rapide', link: '/server/info/settings' }, 
             // { text: 'Tutorial', link: '/server/info/tutorial' },
             // { text: 'RolePlay Test', link: '/server/info/rptest' },
             // { text: 'Referral', link: '/server/info/referral' },
@@ -58,36 +58,36 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
-              { text: 'Meniu ESC', link: '/server/info/esc-menu' },
-              { text: 'Garaje', link: '/server/info/garage' },
-              { text: 'Animații', link: '/server/info/animation' },
               { text: 'BNN', link: '/server/info/bnn' },
               { text: 'ATM', link: '/server/info/atm' },
-              { text: 'Remat de Vehicule', link: '/server/info/remat' },
-              { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
               { text: 'Licențe', link: '/server/info/licenses' },
               { text: 'Telefon', link: '/server/info/phone' },
+              { text: 'Garaje', link: '/server/info/garage' },
+              { text: 'Animații', link: '/server/info/animation' },
+              { text: 'Meniu ESC', link: '/server/info/esc-menu' },
+              { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
+              { text: 'Remat de Vehicule', link: '/server/info/remat' },
             ]
           },
           {
             text: 'Activități',
             collapsed: true,
             items: [
-              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
-              { text: 'Cărți', link: '/server/info/books' },
               { text: 'Sală', link: '/server/info/gym' },
+              { text: 'Cărți', link: '/server/info/books' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
+              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
             ]
           },
           {
             text: 'Magazine',
             collapsed: true,
             items: [
-              { text: 'Dealer Auto', link: '/server/shops/dealership' },
               { text: '24/7', link: '/server/shops/247' },
               { text: 'Tuning', link: '/server/shops/tuning' },
               { text: 'Frizerii', link: '/server/shops/hairstyle' },
               { text: 'Benzinării', link: '/server/shops/gasstation' },
+              { text: 'Dealer Auto', link: '/server/shops/dealership' },
               { text: 'Magazin de Haine', link: '/server/shops/clothing' },
               { text: 'Magazin de Arme Albe', link: '/server/shops/meleeweapon' },
               { text: 'Magazin de Tatuaje', link: '/server/shops/tattoo' },
