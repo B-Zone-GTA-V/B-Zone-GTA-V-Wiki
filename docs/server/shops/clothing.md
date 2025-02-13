@@ -52,13 +52,13 @@ To buy clothes, the player needs to explore the available clothing items and add
 
 Există o singură locație de astfel de haine premium ce o puteți găsi în GPS sau direct din Harta jocului.
 
-Momentan în acest magazin se găsesc genți add-on, urmând pe viitor să fie și alte articole de îmbrăcăminte.
+În acest magazin se găsesc articole de îmbrăcăminte diferite față de cel normal. Acestea pot fi achiziționate atât cu Gold, cât și cu Cash/Card.
 
 ### <span style="color: #0088CC">English</span>
 
 There is only one location of such premium clothes that you can find in GPS or directly from the Game Map.
 
-Add-on bags are currently available in this store, with other clothing items to follow in the future.
+In this store, you will find clothing items that are different from those in a regular store. These can be purchased with both Gold and Cash/Card.
 
 <details>
   <summary>Premium Clothing Store</summary>
