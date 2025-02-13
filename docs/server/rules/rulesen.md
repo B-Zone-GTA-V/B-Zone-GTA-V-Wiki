@@ -32,6 +32,20 @@ Non-compliance or non-cooperation with the server administration to respect any 
 
 The Administrative Team reserves the right to select and, if necessary, permanently remove players from the server. We base our decisions on attitude, behavior, toxicity, and other relevant aspects. Our goal is to maintain a pleasant environment for all users, and individuals who cause issues will be excluded.
 
+### <a id="1.5"></a><span style="color: #0088CC">1.5 Obligation to Record AUDIO-VIDEO Footage</span>  
+
+To ensure fairness and transparency in Roleplay sessions, all players are required to constantly record their gameplay in the form of AUDIO-VIDEO footage.  
+
+<span style="color:yellowgreen">✔ **Specific Rules:** </span>  
+- The recording must include both video and audio to be used as evidence in case of complaints.  
+- Recordings must be kept for a minimum period of **72 hours** from the moment of the game session.  
+- The recording must be of reasonable quality (without excessive lag, clear and intelligible sound).  
+- It is forbidden to modify, cut, or alter the recording in a way that may distort the truth.  
+
+<span style="color:red">⚠ **Sanctions:** </span>  
+- The absence of a valid recording in the event of a complaint may result in **the cancellation of one's own evidence** and **possible sanctions**.  
+- If a player refuses or is unable to provide the recording in a situation where it is requested, they may be sanctioned according to the violated rules. <span style="color:yellowgreen">(Ex. If you are accused of MetaGaming and you do not have the recording to prove otherwise, you will be sanctioned for MG).</span>
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 BASIC RULES</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
@@ -912,25 +926,36 @@ Represent actions through which multiple people will die as a result of the role
 - Second offense: 3-5 day ban depending on the severity
 - Three or more offenses: 7-14 day ban depending on the severity
 
-### <a id="7.7"></a><span style="color: #0088CC">7.8 Alliance Between Mafias/Groups</span>
-An alliance can be made between a maximum of 2 groups recognized by the syndicate(unofficial and official). If a group has not been recognized by the syndicate, they cannot form an alliance with recognized groups. In red zones, more than 2 mafias/groups can ally only if the police intervene in these areas.
+### <a id="7.7"></a><span style="color: #0088CC">7.7 Mafia/Group Alliance</span>
+- An alliance can be made between a maximum of 2 mafias recognized by the syndicate (unofficial or official).  
+- An alliance between 2 mafias recognized by the syndicate against another mafia recognized by the syndicate is <strong style="color: red">STRICTLY FORBIDDEN</strong> without syndicate approval or a declared war.
+- In red zones, more than 2 mafias recognized by the syndicate can ally only if the action started with at least one member from each mafia in case the police intervene in these areas. <span style="color: yellowgreen">(Ex. Mafia A, B, and C each have one member delivering at Grove, the police intervene with a raid in this territory, and members of these 3 mafias can intervene to help their members on the territory. Mafia D (also recognized by the syndicate) <strong style="color: red">CANNOT</strong> intervene in this conflict).</span>
+
+- Groups that are not recognized by the syndicate cannot ally with recognized mafias (unofficial or official).<br><br>
+<strong style="color: red">An alliance with civilians in any form of action involving illegal activities is strictly prohibited.</strong>  
+
+<span style="color: yellowgreen">Exceptions:</span>
+- On Cayo Island, alliances with civilians are allowed.
+- Economic alliances (delivery, business, or truce) can also be made with civilians.
 
 <span style="color: red">Sanctions:</span>
+- Mafias that violate this rule will automatically receive <strong style="color: red">Mafia WARN</strong>.
+- First offense: 150-300 checkpoints.
+- Second offense: Warn.
+- Three or more offenses: Ban 1-7 days, depending on severity.
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
-
-<span style="color: green">Notes:</span>
-
-- For multiple rule violations, sanctioning with a 1-3 day ban is possible.
-- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+<span style="color: green">Mentions:</span>
+- The given sanction can be more severe depending on the gravity of the situation, and the number of offenses may not be followed.
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Zones delimitations</span>
 
 <p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
 
-<div style="text-align: center; width: 100%;">Appendix 7.8 Zones delimitation in the City</div>
+<div style="text-align: center; width: 100%;">Appendix 7.8.1 Zones delimitation in the City (13.02.2025)</div>
+
+<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone_cayo.png"/></p>
+
+<div style="text-align: center; width: 100%;">Appendix 7.8.2 Zones delimitation on Cayo (13.02.2025)</div>
 
 ---
 

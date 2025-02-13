@@ -30,7 +30,22 @@ Neconformarea, respectiv necooperarea cu administrația serverului pentru a resp
 
 ### <a id="1.4"></a><span style="color: #0088CC">1.4 Politică de comportament și de excludere a jucătorilor</span>
 
-Echipa Administrativă își rezervă dreptul de a selecta și, dacă este necesar, de a elimina permanent jucătorii de pe server. Ne ghidăm după atitudine, comportament, toxicitate și alte aspecte relevante. Scopul nostru este de a menține un mediu plăcut pentru toți utilizatorii, iar persoanele care generează probleme vor fi excluse.
+Echipa Administrativă își rezervă dreptul de a selecta și, dacă este necesar, de a elimina permanent jucătorii de pe server. Ne ghidăm după atitudine, comportament, toxicitate și alte aspecte relevante. Scopul nostru este de a menține un mediu plăcut pentru toți utilizatorii, iar persoanele care generează probleme vor fi excluse.### 
+
+### <a id="1.5"></a><span style="color: #0088CC">1.5 Obligativitatea deținerii unei filmări AUDIO-VIDEO</span>  
+
+Pentru a asigura corectitudinea și transparența în cadrul sesiunilor de Roleplay, toți jucătorii au obligația de a înregistra constant gameplay-ul sub formă de filmare AUDIO-VIDEO.  
+
+<span style="color:yellowgreen">✔ **Reguli specifice:** </span> 
+- Filmarea trebuie să includă atât imaginea (video), cât și sunetul (audio) pentru a putea fi utilizată ca dovadă în cazul unor reclamații.  
+- Înregistrările trebuie păstrate pentru o perioadă minimă de **72 de ore** de la momentul sesiunii de joc.  
+- Filmarea trebuie să fie de o calitate rezonabilă (fără lag excesiv, sunet clar și lizibil).  
+- Este interzisă modificarea, tăierea sau alterarea înregistrării într-un mod care poate denatura adevărul.  
+
+<span style="color:red">⚠ **Sancțiuni:** </span> 
+- Lipsa unei filmări valide în cazul unei reclamații poate duce la **anularea dovezilor proprii** și la **posibile sancțiuni**.  
+- Dacă un jucător refuză sau nu poate furniza filmarea într-o situație în care este solicitată, acesta poate fi sancționat conform regulilor încălcate. <span style="color:yellowgreen">(Ex. Dacă ești acuzat de MetaGaming iar tu nu deții filmarea pentru a demonstra contrarul vei fi sancționat pentru MG).</span>
+
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 REGULI DE BAZĂ</span>
 
@@ -916,23 +931,35 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 - trei sau mai multe abateri: ban 7-14 zile în funcție de gravitate
 
 ### <a id="7.7"></a><span style="color: #0088CC">7.7 Alianța între mafii/grupări</span>
-Alianța poate fi făcută între maxim 2 grupări recunoscute de către sindicat(neoficiale și oficiale). Grupările care nu sunt recunoscute de către sindicat nu se pot alia cu grupări recunoscute(neoficiale și oficiale). În zonele roșii se pot alia mai mult de 2 mafii/grupări doar în cazul în care poliția intervine în aceste zone. 
+- Alianța poate fi făcută între maxim 2 mafii recunoscute de către sindicat(neoficiale sau oficiale).  
+- Alianța dintre 2 mafii recunoscute de către sindicat impotriva unei altei mafii recunoscute de către sindicat este <strong style="color: red">STRICT INTERZISĂ</strong> fără aprobarea sindicatului sau declararea unui razboi.
+- În zonele roșii se pot alia mai mult de 2 mafii recunoscute de către sindicat doar în cazul în care acțiunea a inceput cu minim un membru din fiecare mafie în cazul în care poliția intervine în aceste zone. <span style="color: yellowgreen">(Ex. Mafia A, B și C au fiecare câte un membru la livrat pe Grove, poliția intervine cu o razie pe acest teritoriu, membrii ale acestor 3 mafii pot să intervină cu scopul de a-și ajuta membrii de pe teritoriu. Mafia D (tot recunoscută de sindicat) <strong style="color: red">NU</strong> are voie să intervină în acest conflict).</span>
+
+- Grupările care nu sunt recunoscute de către sindicat nu se pot alia cu mafii recunoscute(neoficiale sau oficiale).<br><br>
+<strong style="color: red">Alianța cu civilii în orice formă de acțiune, ce implică ilegalități, este strict interzisă</strong> 
+
+<span style="color: yellowgreen">Exceptii:</span>
+- Pe insula Cayo este permisă alianța și cu civilii
+- Alianțele economice (livrat, afaceri sau armistițiu) se pot face și cu civilii
 
 <span style="color: red">Sancțiuni:</span>
-
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- mafiile ce incalcă această regulă vor primii implicit <strong style="color: red">Mafia WARN</strong>
+- prima abatare: 150-300 checkpoint-uri
+- a doua abatere: Warn
+- trei sau mai multe abateri: Ban 1-7 zile în funcție de gravitate
 
 <span style="color: green">Mențiuni:</span>
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Delimitarea zonelor</span>
 
 <p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
 
-<div style="text-align: center; width: 100%;">Anexa 7.8 Delimitarea zonelor din oraș</div>
+<div style="text-align: center; width: 100%;">Anexa 7.8.1 Delimitarea zonelor din oraș (13.02.2025)</div>
+
+<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone_cayo.png"/></p>
+
+<div style="text-align: center; width: 100%;">Anexa 7.8.2 Delimitarea zonelor de pe Cayo (13.02.2025)</div>
 
 --- 
 
