@@ -69,13 +69,14 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri 
+- prima abatare: 100-150 Checkpoint-uri
+- a doua abatere: 250 Checkpoint-uri 
 - trei sau mai multe abateri: warn
 
 <span style="color: green">Mențiuni:</span> 
 
-- În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație.
+- În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viața sa mafioată.
+- În momentul în care o organizație (oficială sau neoficială) se desfințează se ruleaza PK-ul pentru toti membrii acesteia. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor mafioate. În cazul în care mafia este recunoscută de sindicat aceștia uită totul și despre Sindicat.
 - Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Revenge Kill (RK)</span>

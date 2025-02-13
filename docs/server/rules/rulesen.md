@@ -68,11 +68,14 @@ When you respawn at the hospital, you forget the last action you had, the locati
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints 
-- Second offense: 200 Checkpoints 
+- First offense: 150-200 Checkpoints 
+- Second offense: 250 Checkpoints 
 - Three or more offenses: Warn
 
-<span style="color: green">Note:</span> When a mafia/group leader kills a member, the latter will forget all the information known about that organization.
+<span style="color: green">Note:</span> 
+- When a mafia leader/group leader kills a member, the latter will forget all the information they know about that organization or other organizations they have interacted with—in essence, they forget their mafia life.
+- When an organization (official or unofficial) is disbanded, the PK is executed for all its members. They will forget all the information they know about that organization or other organizations they have interacted with—in essence, they forget their mafia lives. If the mafia is recognized by the Syndicate, they will forget everything about the Syndicate as well.
+- Returning to the area where you initially had the roleplay can be done after 30 minutes.
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Revenge Kill (RK)</span>
 
