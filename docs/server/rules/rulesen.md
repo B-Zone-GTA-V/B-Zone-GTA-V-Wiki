@@ -64,18 +64,21 @@ Represents all actions you make outside of roleplay and absolutely everything sa
 
 When you respawn at the hospital, you forget the last action you had, the location, and the people who participated in that action.
 
-<span style="color: yellow">Example:</span> You are in a roleplay where you were kidnapped. In the location where you are taken, some people appear with masks and others without, but you can identify their cars and license plates. The roleplay evolves, and eventually, those people kill you, you respawn at the hospital and you must forget all the information from the last roleplay.
+<span style="color: yellow">Examples:</span>  
+- You are in a roleplay where you have been kidnapped. At the location where you are taken, some people are masked while others are not, but you can identify their vehicles and license plates. The roleplay progresses, and eventually, these people kill you. You respawn at the hospital, and you must forget all the information from the last roleplay.  
+- Two mafias/groups are in a conflict/beef. When one leader gets PK’d by the other leader, they and all their members forget the conflict, bringing the complex roleplay to an end.  
+
+<span style="color: green">Notes:</span>  
+- When a mafia/group leader kills a member, the latter will forget all the information they know about that organization or any other organizations they have interacted with, essentially forgetting their mafia life.  
+- When an organization (official or unofficial) is disbanded, PK is applied to all its members. They forget all the information they knew about that organization or any other organizations they interacted with, essentially forgetting their mafia lives. If the mafia was recognized by the Syndicate, they will forget everything about the Syndicate as well.  
+- Returning to the area where the initial roleplay took place can be done after 30 minutes.  
+- Phone messages, calls, or information held by others cannot be used to recall details about your death or the RP you forgot due to PK. When such information is presented to you, you are obliged to ignore it or imply that these events probably happened in a dream of the person bringing them up.  
 
 <span style="color: red">Sanctions:</span>
 
 - First offense: 150-200 Checkpoints 
 - Second offense: 250 Checkpoints 
 - Three or more offenses: Warn
-
-<span style="color: green">Note:</span> 
-- When a mafia leader/group leader kills a member, the latter will forget all the information they know about that organization or other organizations they have interacted with—in essence, they forget their mafia life.
-- When an organization (official or unofficial) is disbanded, the PK is executed for all its members. They will forget all the information they know about that organization or other organizations they have interacted with—in essence, they forget their mafia lives. If the mafia is recognized by the Syndicate, they will forget everything about the Syndicate as well.
-- Returning to the area where you initially had the roleplay can be done after 30 minutes.
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Revenge Kill (RK)</span>
 
@@ -209,6 +212,11 @@ Represents the use of OOC (Out Of Character) information for IC (In Character) p
 - Coordination on Discord instead of the in-game voice chat.
 - You heard various information while you were in a coma and use it.
 - Using the hotkey "HOME" without a good reason (serious rule violgation from which a roleplay cannot continue).
+- Identifying a person by their voice, even when they are wearing a mask or inside a vehicle with tinted windows.  
+- Using information obtained through systems that restrict access to certain assets for a limited number of players. For example:  
+    - Knowing that a person is a mafia leader because they have access to a gadget available exclusively to them according to the system.  
+    - Recognizing a group as "The Pigeon Mafia" because the system assigned them customized equipment with mafia symbols and pigeons.  
+
 
 <span style="color: red">Sanctions:</span>
 

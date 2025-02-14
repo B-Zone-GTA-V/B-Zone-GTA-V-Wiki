@@ -65,19 +65,22 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 
 În momentul în care te-ai respawnat la spital uiți ultima acțiune pe care ai avut-o, locația și persoanele care au participat la acțiunea respectivă.
 
-<span style="color: yellow">Exemplu:</span> Te afli într-un roleplay în care ai fost răpit. În locația unde ești dus apar niște persoane cu mască și altele fără, dar poți identifica și mașinile acestora, respectiv numerele de înmatriculare. Roleplay-ul evoluează, iar într-un final persoanele te omoară, te respawnezi la spital iar tu trebuie să uiți toate informațiile din ultimul roleplay.
-
-<span style="color: red">Sancțiuni:</span>
-
-- prima abatare: 100-150 Checkpoint-uri
-- a doua abatere: 250 Checkpoint-uri 
-- trei sau mai multe abateri: warn
+<span style="color: yellow">Exemple:</span> 
+- Te afli într-un roleplay în care ai fost răpit. În locația unde ești dus apar niște persoane cu mască și altele fără, dar poți identifica și mașinile acestora, respectiv numerele de înmatriculare. Roleplay-ul evoluează, iar într-un final persoanele te omoară, te respawnezi la spital iar tu trebuie să uiți toate informațiile din ultimul roleplay.
+- Două mafii/grupari se află într-un conflict/beef in momentul în care liderul își ia PK de la celalalt lider acesta impreună cu toți membrii săi uită conflictul respectiv, acest roleplay complex încheindu-se.
 
 <span style="color: green">Mențiuni:</span> 
 
 - În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viața sa mafioată.
 - În momentul în care o organizație (oficială sau neoficială) se desfințează se ruleaza PK-ul pentru toti membrii acesteia. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor mafioate. În cazul în care mafia este recunoscută de sindicat aceștia uită totul și despre Sindicat.
 - Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
+- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul ce l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai dedatoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
+
+<span style="color: red">Sancțiuni:</span>
+
+- prima abatare: 100-150 Checkpoint-uri
+- a doua abatere: 250 Checkpoint-uri 
+- trei sau mai multe abateri: warn
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Revenge Kill (RK)</span>
 
@@ -212,6 +215,10 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 - Coordonarea pe discord în locul voice chat-ului din joc.
 - Ai auzit diferite informații cât ai fost în comă și te folosești de acestea.
 - Utilizarea tastei Home fără un motiv bine întemeiat(încălcări grave de regulament prin care un roleplay nu poate continua).
+- Identificarea unei persoane după voce, chiar și atunci când aceasta poartă o mască sau se află într-un vehicul cu geamuri fumurii.
+- Utilizarea informațiilor obținute prin sisteme care restricționează accesul la anumite bunuri pentru un număr limitat de jucători. De exemplu: 
+    - Știu că o persoană este lider de mafie deoarece are acces la un gadget disponibil exclusiv pentru el, conform sistemului.
+    - Recunosc o grupare ca fiind „Mafia Porumbeilor” deoarece sistemul le-a atribuit echipamente personalizate cu simboluri ale mafiei și porumbei.
 
 <span style="color: red">Sancțiuni:</span>
 
