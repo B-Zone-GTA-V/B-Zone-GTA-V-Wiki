@@ -596,7 +596,7 @@ Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a dera
 - alte coduri: ban 30 zile
 
 #### <a id="4.3.1"></a><span style="color: #0088CC">4.3.1 Moduri ilegale</span>
-Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a oferii avantaje față de alți jucători.
+Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă oferii avantaje față de alți jucători.
 
 Exemple de moduri ilegale:
 - moduri ce modifica ciclul de zi-noapte al jocului (zi permanenta, etc.)
