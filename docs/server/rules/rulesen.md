@@ -862,11 +862,15 @@ It is permitted to steal a car from outside public areas if you adhere to the <a
 
 You are allowed to steal a police/medic car only in extreme cases as a last resort, and you must abandon it as soon as possible.
 
+<span style="color: green">Mentions:</span>
+
+- The administrative team is not obligated to return your belongings in case they are stolen from your personal vehicles. We recommend parking your vehicles in one of the more than 50 garages on the map.
+
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Illegalities Under 50 Hours</span>
 

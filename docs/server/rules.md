@@ -857,17 +857,21 @@ Folosirea vehiculului cu intenția de a lovi un alt vehicul fără un roleplay a
 ## <a id="7"></a><span style="color: #0088CC">CAP. 7 ACȚIUNI ILEGALE</span>
 
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Furt vehicule</span>
-Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi.
+Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi. 
 
 Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="5.4">#5.4 Ninja-Jack</a>.
 
 Vă este permis să furați o mașină de poliție/medici doar în cazuri extreme ca o ultimă cale de scăpare urmând ca să o abandonați cat mai repede posibil.
 
+<span style="color: green">Mențiuni:</span>
+
+- Echipa administrativă nu este obligată să vă returneze obiectele în cazul în care vă sunt furate din vehiculele personale, vă recomandăm să vă parcați vehiculele în unul din cele peste 50 de garaje de pe hartă.
+
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 50-100 Checkpoint-uri 
-- a doua abatere: 200 Checkpoint-uri 
-- trei sau mai multe abateri: warn
+- prima abatare: 200-300 Checkpoint-uri 
+- a doua abatere: warn
+- trei sau mai multe abateri: ban 3-7 zile în funție de gravitate
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Ilegalități sub 50 de ore</span>
 
