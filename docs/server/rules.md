@@ -595,6 +595,20 @@ Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a dera
 - aimbot/norecoil/silent aim - prima abatere ban permanent, a doua abatere ban permanent fără drept de plată
 - alte coduri: ban 30 zile
 
+#### <a id="4.3.1"></a><span style="color: #0088CC">4.3.1 Moduri ilegale</span>
+Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a oferii avantaje față de alți jucători.
+
+Exemple de moduri ilegale:
+- moduri ce modifica ciclul de zi-noapte al jocului (zi permanenta, etc.)
+- moduri de efecte pe hituri de gloante
+- moduri de tracere pentru gloante
+- moduri ce scot texturi sau elemente de mapping
+
+<span style="color: red">Sancțiuni:</span>
+- prima abatere: warn + eliminarea modurilor
+- a 2-a abatere: ban 30 de zile
+- a 3-a abatere: ban permanent
+
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 AFK (Away From Keyboard)</span>
 Este permis cel mult de 5 minute într-o zonă publică populată (secție poliție, spital, etc) și cel mult de 30 de minute într-o zonă retrasă dacă nu aveți un roleplay activ.
 

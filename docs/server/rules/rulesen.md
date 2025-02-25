@@ -591,6 +591,20 @@ If you are suspected of hacking, you will be taken for testing; these can be ref
 - Aimbot/NoRecoil/Silent Aim - first offense permanent ban, second offense permanent ban without the right to pay
 - other cheats: 30-day ban
 
+#### <a id="4.3.1"></a><span style="color: #0088CC">4.3.1 Illegal Mods</span>
+Refers to the use of mods that alter the game's state to gain an advantage over other players.
+
+Examples of illegal mods:
+- Mods that modify the game's day-night cycle (permanent daytime, etc.)
+- Mods that add effects to bullet hits
+- Bullet tracing mods
+- Mods that remove textures or mapping elements
+
+<span style="color: red">Sanctions:</span>
+- First offense: warning + removal of mods
+- Second offense: 30-day ban
+- Third offense: permanent ban
+
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 AFK (Away From Keyboard)</span>
 It is allowed for a maximum of 5 minutes in a populated public area (police station, hospital, etc.) and for a maximum of 30 minutes in a secluded area if you do not have an active roleplay.
 
