@@ -999,7 +999,7 @@ Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și,
 #### <a id="7.8.2"></a><span style="color:red; font-size: 20px;">7.8.2 ZONE ROSII</span>
 Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara acestuia, unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
 
-Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span> sau <span style="color:yellowgreen">**18:00 - 10:00**</span> pe **Insula Cayo**:
+Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span> pentru **Los Santos** / <span style="color:yellowgreen">**18:00 - 10:00**</span> pentru **Insula Cayo**:
 - Jefuirea persoanelor, a vehiculelor, a plantelor sau orice forma de furt/jaf
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**00:00 - 24:00**</span>:
