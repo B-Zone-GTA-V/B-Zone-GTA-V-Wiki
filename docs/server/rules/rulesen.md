@@ -599,6 +599,7 @@ Examples of illegal mods:
 - Mods that add effects to bullet hits
 - Bullet tracing mods
 - Mods that remove textures or mapping elements
+- Mods that color the crosshair when a ped is in sight
 
 <span style="color: red">Sanctions:</span>
 - First offense: warning + removal of mods
@@ -996,7 +997,7 @@ Green zones and roads are public areas, frequented by many people and usually mo
 #### <a id="7.8.2"></a><span style="color:red; font-size: 20px;">7.8.2 RED ZONES</span>
 Red Zones are notorious areas and dangerous parts of the city or outside the city where many illegal activities can happen, but not near businesses (examples: gas stations, barbershops, stores, workplaces, parking lots, clubs - marked on the map).
 
-The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span>:
+The following are allowed between <span style="color:yellowgreen">**8:00 PM - 8:00 AM**</span> or <span style="color:yellowgreen">**6:00 PM - 10:00 AM**</span> on **Cayo Island**:
 - Robbing people, vehicles, plants or any kind of stealing/robbing
 
 The following are allowed between <span style="color:yellowgreen">**00:00 AM - 24:00 PM**</span>:
