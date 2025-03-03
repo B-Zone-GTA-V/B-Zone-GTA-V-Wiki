@@ -4,26 +4,30 @@ outline: deep
 
 # RAGE Multiplayer
 
+Înainte de a deschide un ticket pe Discord în legătură cu probleme de conectivitate pe joc, îți sugerăm să verifici această secțiune din Wiki.
+
 ## Probleme RAGEMP
 
 ### ℹ️ Erori de la moduri
 
 - Dacă întâmpini una din erorile **"ERROR: Your game version is not supported by RAGE Multiplayer."**, **"ERROR: You try to open RAGE Multiplayer with an altered version of Grand Theft Auto V"** sau **"DLC File missing or corrupted in your game"** vă recomandăm să stergeți ultimele moduri instalate.
-- Dacă ai avut **Network Graphics** și l-ai dezinstalat în continuare ți-au rămas niște fisiere injectate în GTA V. Pentru a le înlătura trebuie să ștergeți ce este în folderul **user_resources** din RAGEMP.
-- Dacă problema persista un reinstall la clientul RAGEMP + Verify game files la GTA V va rezolva problema.
+- Dacă ai avut **Network Graphics** și l-ai dezinstalat în continuare ți-au rămas niște fisiere injectate în **GTA V**. Pentru a le înlătura trebuie să ștergeți ce este în folderul **user_resources** din RAGEMP.
+- Dacă problema persista un reinstall la clientul **RAGEMP** + **Verify game files la GTA V** va rezolva problema.
+
+Luați în considerare următoarea regulă cu privire la moduri [click](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/rules.html#_4-3-1-moduri-ilegale).
 
 ### ℹ️ Versiunea jocului tău nu este compatibilă cu RAGE Multiplayer
 
 - Dacă ai descărcat o versiune piratată a jocului, nu poți utiliza **RAGE Multiplayer**.
-- Dacă ai achiziționat o copie a jocului Grand Theft Auto V, mergi în folderul **GTA V** și șterge fișierul **'GTA5.exe'**, apoi rulează 'PlayGTA5.exe' și lasă jocul să ruleze. După aceea, închide jocul și încearcă să rulezi din nou RAGE.
+- Dacă ai achiziționat o copie a jocului **Grand Theft Auto V**, mergi în folderul **GTA V** și șterge fișierul **'GTA5.exe'**, apoi rulează '**PlayGTA5.exe**' și lasă jocul să ruleze. După aceea, închide jocul și încearcă să rulezi din nou **RAGE**.
 
 ### ℹ️ Eroarea: "Clientside packages checksums mismatch! Trying again..."
 
-- Șterge fișierul **'client_packages'** din directorul unde ai instalat RAGE Multiplayer și încearcă să te conectezi din nou.
+- Șterge fișierul **'client_packages'** din directorul unde ai instalat **RAGE Multiplayer** și încearcă să te conectezi din nou.
 
 ### ℹ️ Eroarea: Offline Mode
 
-- Eroarea aceasta apare în mod uzual în momentul în care adresa IP este banată pe serverele Rockstar. Schimbarea adresei IP va rezolva problema.
+- Eroarea aceasta apare în mod uzual în momentul în care adresa **IP este banată** pe serverele Rockstar. Schimbarea adresei IP va rezolva problema.
 
 ### ℹ️ Eroarea: "Failed to retrieve the install directory"
 
@@ -32,6 +36,11 @@ outline: deep
 ### ℹ️ RAGE Multiplayer se blochează când intru pe server
 
 - RAGE nu poate lansa GTA V, de obicei, acest lucru se întâmplă deoarece jocul tău are actualizări în așteptare pentru descărcare și, prin urmare, nu poate rula. Încearcă să rulezi GTA V în modul single-player și vezi ce se întâmplă. După ce reușești să intri în single player, încearcă să folosești din nou RAGE.
+
+### ℹ️ Interfețe duble
+
+- Asigurați-vă în primă fază că nu aveți opțiunea **Accelerated CEF Rendering** activată.
+- Dezactivează **Radeaon Anti-Lag** / **Radeaon Boost**.
 
 ### ℹ️ Intrare in single-player când intru pe server
 
