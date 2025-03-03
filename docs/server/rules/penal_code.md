@@ -677,7 +677,7 @@ Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 - **Amendă penală: 11.000$**
 - **Sentință: 35 - 55 de luni**
 
-### <a id="7.4"></a><span style="color: #0088CC">7.4 Posesia unei arme de foc de calibru mare</span>
+### <a id="7.4"></a><span style="color: #0088CC">7.4 Posesia unei arme de foc automată</span>
 
 Orice persoană care deține asupra lui o armă de foc automată, precum: **AK47**, **SMG**, **TEC**, **SHOTGUN**, **M4**, etc. sau derivate sau chiar gloanțe pentru aceste arme.
 
