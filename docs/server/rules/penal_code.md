@@ -35,7 +35,7 @@ Orice cetățean care conduce un vehicul, are obligația de a conduce cu viteza 
 
 Conducere imprudentă înseamnă operarea unui vehicul în mod agresiv, neasigurarea în trafic, conducerea cu viteză excesivă sau punerea în pericol a propriei vieți sau a altor persoane.
 
-Conducătorii imprudenți pot fi sancționați cu:'
+Conducătorii imprudenți pot fi sancționați cu:
 
 - **Amendă contravențională: 5.000$**
 - **Puncte penalizare: 3**
@@ -80,9 +80,9 @@ Parcarea ilegală reprezintă o contravenție și va fi sancționată cu:
 - **Amendă contravențională: 2.500$**
 - **Ridicarea autovehiculului**
 
-<div stlye="text-align: center"><img src="https://i.imgur.com/0Dyd4fE.png"/></div>
+<div stlye="display: flex; justify-content: center; width: 100%"><img src="https://i.imgur.com/0Dyd4fE.png"/></div>
 <p style="text-align: center">Parcare neregulamentara</p>
-<div stlye="text-align: center"><img src="https://i.imgur.com/1pJdLBC.png"/></div>
+<div stlye="display: flex; justify-content: center; width: 100%"><img src="https://i.imgur.com/1pJdLBC.png"/></div>
 <p style="text-align: center">Parcare regulamentara</p>
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.8 Traversarea interzisă</span>
@@ -186,7 +186,7 @@ Orice persoană care face orice tip de cursă pe stradă și nu are permisiunea 
 Orice persoană care fuge de la locul unui accident sau al unei crime, fără să se prezinte sau să sune la autorități, înfăptuiește o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 5.500$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 20 - 40 de luni**
 - **Anulare permis de conducere**
 
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Conducerea unui autovehicul neînmatriculat</span>
@@ -194,7 +194,8 @@ Orice persoană care fuge de la locul unui accident sau al unei crime, fără s�
 Orice cetățean care conduce un autovehicul/motocicletă fără a avea o plăcuță de înmatriculat valabilă, înfăptuiește o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 10.000$**
-- **Sentință: 30 - 50 de luni**
+- **Percheziţie persoană**
+- **Percheziţie autovehicul**
 - **Anulare permis de conducere**
 
 ### <a id="2.6"></a><span style="color: #0088CC">2.7 Refuzul prelevării  de probe biologice</span>
@@ -219,7 +220,7 @@ Orice persoană care își acoperă zona facială cu orice fel de obiect / tatua
 Orice persoană care urmăreşte, cu bună ştiinţă, o altă persoană şi o hărţuieşte cu intenţia de a i se face frică pentru propria siguranţă sau pentru siguranţa familiei sale înfăptuiește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 7.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 20 - 40 de luni**
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 Urmărirea unei autospeciale de poliție/medici fără acord</span>
 
@@ -432,7 +433,7 @@ Orice persoană care refuză să se identifice unui ofițer cu un act legal sau 
 - **Amendă penală: 15.000$**
 - **Sentință: 15 - 30 de luni**
 
-### <a id="4.7"></a><span style="color: #0088CC">4.7 Dare/Luare de mită</span>
+### <a id="4.7"></a><span style="color: #0088CC">4.7 Dare de mită</span>
 
 Oricine dă bunuri personale pentru a schimba părerea unui angajat guvernamental sau pentru a-l influența în deciziile sale. reprezintă o infracţiune care se poate pedepsi cu:
 
@@ -494,6 +495,12 @@ Cine falsifică un act public, fie prin copierea semnăturii, fie prin modificar
 - **Amendă penală: 15.000$**
 - **Sentință: 20 - 50 de luni**
 
+### <a id="4.14"></a><span style="color: #0088CC">4.14 Eşecul de plată al amenzilor</span>
+
+Toate amenzile acordate de către Inspectoratul Principal Judiciar Los Santos trebuie achitate în termen de 21 de zile. Eşecul de a efectua plata în acest termen poate fi sancționat cu:
+
+- **Sentință: 20 - 40 de luni**
+
 ## <a id="5"></a><span style="color: #0088CC">CAP. 5 Infracţiuni asupra sănătăţii şi siguranţei publice</span>
 
 ### <a id="5.1"></a><span style="color: #0088CC">5.1 Deţinerea sau producerea de substante ilegale</span>
@@ -513,9 +520,9 @@ Orice persoană care transportă, confecționează sau deține țigări de contr
 
 Această faptă reprezintă o crimă care se poate pedepsi cu reținerea suspectului și amendă, în funcție de cantitatea de țigări pe care o deține:
 
-- **TIP I ( 1 - 10 țigări): sentință 10 - 20 de luni și amendă 10.000$.**
-- **TIP II ( 10 - 50 țigări): sentință 20 - 30 de luni și amendă 15.000$.**
-- **TIP III ( 50 - 100 țigări): sentință 30 - 40 de luni și amendă 20.000$.**
+- **TIP I (1 - 10 țigări): sentință 10 - 20 de luni și amendă 10.000$.**
+- **TIP II (10 - 50 țigări): sentință 20 - 30 de luni și amendă 15.000$.**
+- **TIP III (50 - 100 țigări): sentință 30 - 40 de luni și amendă 20.000$.**
 - **TIP IV (100 + țigări): sentință 40 - 60 de luni și amendă 25.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
@@ -545,7 +552,7 @@ Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
 - **TIP I (1 - 10 plicuri de cocaina): sentință 40 - 50 de luni și amendă 30.000$.**
 - **TIP II (10 - 50 plicuri de cocaina): sentință 50 - 60 de luni și amendă 40.000$.**
-- **TIP III (50 - 100 plicuri de cocaina): sentință 60 - 700 de luni și amendă 50.000$.**
+- **TIP III (50 - 100 plicuri de cocaina): sentință 60 - 70 de luni și amendă 50.000$.**
 - **TIP IV (100+ plicuri de cocaina): sentință 70 - 100 de luni și amendă 60.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
@@ -556,13 +563,16 @@ Orice persoană deține bani nemarcati obtinuti prin diferite mijloace ilegale.
 
 Această faptă reprezintă o crimă care se poate pedepsi cu reținerea suspectului și amendă, în funcție de cantitatea de bani nemarcați pe care o deține:
 
-- **TIP I (10.000 - 100.000 bancnote de bani nemarcati): sentință 40 - 60 de luni și amendă 20.000$.**
-- **TIP II (100.000 - 1.000.000- bancnote de bani nemarcati): sentință 60 - 80 de luni și amendă 30.000$.**
-- **TIP III (1.000.000 - 100.000.000  - bancnote de bani nemarcati): sentință 100 - 120 de luni și amendă 40.000$.**
+- **TIP I (10.000 - 100.000 bancnote de bani nemarcati): sentință 20 - 30 de luni și amendă 20.000$.**
+- **TIP II (100.000 - 1.000.000 bancnote de bani nemarcati): sentință 30 - 40 de luni și amendă 30.000$.**
+- **TIP III (1.000.000 - 100.000.000 bancnote de bani nemarcati): sentință 40 - 50 de luni și amendă 40.000$.**
+- **TIP IV (10.000.000+ bancnote de bani nemarcati): sentință 50 - 60 de luni și amendă 50.000$.**
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Practicarea medicinei fără licenţă</span>
 
-Orice persoană care practică medicina fără un act legal primit de la instituțiile guvernamentale și încearcă să salveze viața unui civil, fără să aibă pregătirea necesară.
+Orice persoană care practică medicina fără un act legal primit de la instituțiile guvernamentale, fără să aibă pregătirea necesară.
+
+Se aplică doar la persoanele care încearcă să injecteze sau să practice intervenții chirurgicale.
 
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
@@ -666,7 +676,7 @@ Arma poate fi considerată în posesia lui chiar dacă se află în casa individ
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 30 - 20 de luni**
+- **Sentință: 30 - 50 de luni**
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Posesia unei arme de foc de calibru mare</span>
 
@@ -686,7 +696,7 @@ Această faptă reprezintă o crimă care se poate pedepsi cu:
 - **Amendă penală: 12.000$**
 - **Sentință: 40 - 60 de luni**
 
-În cazul în care deține și o armă de calibru mic nu se mai cumulează sentința <a href="#7.2">#7.2 Posesia unei arme de foc de calibru mic fără permis PORT-ARMĂ</a> sau <a href="#7.3">#7.3 Posesia unei arme de foc de calibru mare</a>.
+În cazul în care deține și o armă de calibru mic nu se cumulează cu <a href="#7.2">#7.2 Posesia unei arme de foc de calibru mic fără permis PORT-ARMĂ</a> sau <a href="#7.3">#7.3 Posesia unei arme de foc de calibru mare</a>.
 
 ### <a id="7.5"></a><span style="color: #0088CC">7.5 Posesia de explozibil</span>
 
@@ -713,11 +723,11 @@ Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Traficul de armament sau de munitie</span>
 
-Orice persoană care deține mai mult de trei arme de foc sau mai mult de 300 gloanțe fără a deține un permis pentru vânzarea acestora.
+Orice persoană care deține trei sau mai multe arme de foc şi/sau mai mult de 300 gloanțe fără a deține un permis pentru vânzarea acestora.
 
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
-- **Amendă penală: 35.000$**
+- **Amendă penală: 50.000$**
 - **Sentință: 80 - 120 de luni**
 
 De asemenea, toate obiectele folosite pentru a fabrica gloanțe sau arme găsite în zona de fabricație vor fi confiscate.
@@ -754,6 +764,8 @@ Crearea sau apartenența la grupuri organizate care au scopuri de combatere a au
 
 - **Amendă penală: 35.000$**
 - **Sentință: 60 - 90 de luni**
+
+A nu se cumula cu **<a href="#8.3">#8.3 Împiedicarea activităților guvernamentale</a>**
 
 ### <a id="8.5"></a><span style="color: #0088CC">8.5 Acte de incitare la violență împotriva instituțiilor guvernamentale</span>
 
@@ -796,3 +808,16 @@ Iniţierea sau constituirea unui grup infracţional organizat, aderarea sau spri
 Dacă persoana care a săvârşit una dintre faptele prevăzute mai sus, contribuie la aflarea adevărului şi tragerea la răspundere penală a unuia sau mai multor membri ai unui grup infracţional organizat, limitele speciale ale pedepsei se reduc la jumătate.
 
 Aceasta fapta nu se cumuleaza cu alte articole ale codului penal. 
+
+### <a id="8.10"></a><span style="color: #0088CC">8.10 Corupție</span>
+
+Prin corupție se înțelege abuzul de putere în scopul obținerii unor foloase materiale sau avantaje necuvenite, fie prin primirea de mită, favorizarea unor terți sau influențarea unor decizii administrative în detrimentul interesului public. Această faptă subminează integritatea instituțiilor și încrederea comunității, afectând echilibrul și justiția în cadrul serverului.
+
+Infracțiunea se pedepsește cu:
+
+- **Amendă penală: 150.000$ - 300.000$**
+- **Sentință: 120 de luni - închisoare pe viață**
+
+În situațiile în care persoana acuzată a colaborat la aflarea adevărului și la identificarea altor infractori, limitele speciale ale pedepsei se reduc la jumătate.
+
+Această faptă nu se cumulează cu alte articole ale codului penal.
