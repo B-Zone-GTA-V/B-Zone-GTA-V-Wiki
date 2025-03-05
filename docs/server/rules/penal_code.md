@@ -579,6 +579,23 @@ Această faptă reprezintă o crimă care se poate pedepsi cu:
 - **Amendă penală: 20.000$**
 - **Sentință: 60 - 100 de luni**
 
+### <a id="5.7"></a><span style="color: #0088CC">5.7 Obligaţia de identificare adecvată</span>
+
+Toate persoanele sunt obligate să deţină şi să prezinte o identificare corespunzătoare rolului şi activităţilor desfăşurate. În timp ce pietonii sunt sfătuiţi să poarte un act de identitate (recomandat), următoarele sunt obligatorii pentru exercitarea drepturilor şi beneficiilor aferente anumitor licenţe:
+
+- **Şofer:** Obligatoriu să poarte permis de conducere valid.
+- **Miner:** Obligatoriu să deţină licenţă de minerit valabilă.
+- **Şofer de camion:** Obligatoriu să aibă licenţă de transport comercial.
+- **Pescar:** Obligatoriu să deţină licenţă de pescuit.
+- **Operator de remorcare:** Obligatoriu să aibă licenţă pentru remorcare.
+- **Pilot (avion):** Obligatoriu să prezinte licenţă de pilot.
+- **Operator de ambarcaţiuni:** Obligatoriu să deţină licenţă de navigaţie.
+- **Utilizator de arme:** Obligatoriu să aibă licenţă de port-arme atunci când foloseşte arme.
+
+Nerespectarea obligaţiei de a prezenta identificarea cerută de autorităţi sau în cadrul activităţilor reglementate se poate pedepsi cu:
+
+- **Amendă contravențională: 10.000$**
+
 ## <a id="6"></a><span style="color: #0088CC">CAP. 6 Infracţiuni asupra persoanelor</span>
 
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Ameninţări criminale</span>

@@ -570,6 +570,23 @@ This act constitutes a crime that can be punished with:
 - **Criminal fine: $20,000**
 - **Sentence: 60 - 100 months**
 
+### <a id="5.7"></a><span style="color: #0088CC">5.7 Obligation of Proper Identification</span>
+
+All persons are required to possess and present identification appropriate to their role and activities. While pedestrians are advised to carry an identification card (recommended), the following are mandatory for exercising the rights and benefits associated with certain licenses:
+
+- **Driver:** Must carry a valid driver's license.
+- **Miner:** Must hold a valid mining license.
+- **Trucker:** Must have a commercial transport license.
+- **Fisherman:** Must possess a fishing license.
+- **Tow Truck Operator:** Must have a towing license.
+- **Pilot (airplane):** Must present a pilot's license.
+- **Boat Operator:** Must hold a navigation license.
+- **Weapon User:** Must have a weapon permit when using arms.
+
+Failure to present the identification required by authorities or within regulated activities can be punished with:
+
+- **Administrative fine: $10,000**
+
 ## <a id="6"></a><span style="color: #0088CC">CH. 6 Offenses Against Persons</span>
 
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Criminal Threats</span>
