@@ -120,7 +120,6 @@ Mijloacele de avertizare sonoră trebuie folosite de la o distanță de cel puț
 Orice persoană care deține geamuri fumurii la mașină care împiedică recunoașterea conducătorului de către un ofițer va fi sancționat cu:
 
 - **Amendă contravențională: 3.000$**
-- **Perchezitie autovehicul**
 
 <div stlye="text-align: center"><img src="https://i.imgur.com/LTXuq1C.png"/></div>
 <p style="text-align: center">Mașină cu geamuri fumurii</p>
@@ -239,6 +238,7 @@ Orice persoană care îşi expune organele genitale, cu bună ştiinţă, în pu
 ### <a id="3.5"></a><span style="color: #0088CC">3.5 Prostituţie</span>
 
 Prostituţia constă în fapta unei persoane de a-şi procura principalele mijloace de existenţă practicând în acest scop raporturi sexuale cu diferite persoane.
+
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 10.000$**
