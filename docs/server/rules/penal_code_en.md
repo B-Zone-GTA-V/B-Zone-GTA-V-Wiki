@@ -15,7 +15,7 @@ An accomplice to an intentional crime receives the same punishment as the perpet
 ### <a id="1.2"></a><span style="color: #0088CC">Attempt</span>
 
 An attempt is when a person tries to commit a crime, but the action is interrupted or does not have the desired effect. The perpetrator is not punished if, before being discovered, they admit the act or notify the authorities, thus preventing the crime, or they stop the commission of the crime themselves. An attempt is punished with half of the penalty provided for the complete crime.
-## <a id="1"></a><span style="color: #0088CC">CAP. 1 Road Legislation</span>
+## <a id="1"></a><span style="color: #0088CC">CH. 1 Road Legislation</span>
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Speed Limits</span>
 
@@ -138,7 +138,7 @@ Anyone who installs xenons or any other lighting installations on their car besi
 
 - **Contravention fine: $4,500**
 
-## <a id="2"></a><span style="color: #0088CC">CAP. 2 Traffic Felonies</span>
+## <a id="2"></a><span style="color: #0088CC">CH. 2 Traffic Felonies</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Fleeing from an officer in a vehicle</span>
 
@@ -201,7 +201,7 @@ Any person that refuses the sampling of biological matter can be sanctioned with
 - **Sentence: 50 - 60 months**
 - **Revocation of the driving license**
 
-## <a id="3"></a><span style="color: #0088CC">CAP. 3 Offenses against good morals, properties, and public peace</span>
+## <a id="3"></a><span style="color: #0088CC">CH. 3 Offenses against good morals, properties, and public peace</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Covering the face</span>
 
@@ -375,7 +375,7 @@ Telling lies or distorting the truth to obtain an undeserved benefit, if it caus
 - **Sentence: 40 - 60 months**
 - **Return of the goods or their equivalent value**
 
-## <a id="4"></a><span style="color: #0088CC">CHAPTER 4 Offenses Against Justice</span>
+## <a id="4"></a><span style="color: #0088CC">CH. 4 Offenses Against Justice</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstruction of an Officer</span>
 
@@ -492,7 +492,7 @@ Anyone who falsifies a public document, either by copying a signature or by alte
 All fines imposed by the Los Santos Main Judicial Inspectorate must be paid within 21 days. Failure to pay within this period may be sanctioned with:
 
 - **Sentence: 20 - 40 months**
-## <a id="5"></a><span style="color: #0088CC">CHAP. 5 Offenses Against Public Health and Safety</span>
+## <a id="5"></a><span style="color: #0088CC">CH. 5 Offenses Against Public Health and Safety</span>
 
 ### <a id="5.1"></a><span style="color: #0088CC">5.1 Possession or Production of Illegal Substances</span>
 
@@ -570,7 +570,7 @@ This act constitutes a crime that can be punished with:
 - **Criminal fine: $20,000**
 - **Sentence: 60 - 100 months**
 
-## <a id="6"></a><span style="color: #0088CC">CHAP. 6 Offenses Against Persons</span>
+## <a id="6"></a><span style="color: #0088CC">CH. 6 Offenses Against Persons</span>
 
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Criminal Threats</span>
 
@@ -647,7 +647,7 @@ Anyone who hides, sells, destroys, or damages property from a creditor's assets,
 - **Sentence: 100 - 500 months**
 - **Restitution of all property or its equivalent value**
 
-## <a id="7"></a><span style="color: #0088CC">CHAP. 7 Lethal Weapons Control</span>
+## <a id="7"></a><span style="color: #0088CC">CH. 7 Lethal Weapons Control</span>
 
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Possession of a Bladed Weapon</span>
 
@@ -727,7 +727,7 @@ Additionally, all objects used to manufacture ammunition or weapons found in the
 
 **This act is not cumulative with other charges from chapter 7.**
 
-## <a id="8"></a><span style="color: #0088CC">CHAP. 8 Offenses Against National Security</span>
+## <a id="8"></a><span style="color: #0088CC">CH. 8 Offenses Against National Security</span>
 
 ### <a id="8.1"></a><span style="color: #0088CC">8.1 Terrorism</span>
 
