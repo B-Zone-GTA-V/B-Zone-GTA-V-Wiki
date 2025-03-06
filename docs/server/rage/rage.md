@@ -2,6 +2,8 @@
 outline: deep
 ---
 
+<Contributors />
+
 # RAGE Multiplayer
 
 ## Cum te poți juca pe server?

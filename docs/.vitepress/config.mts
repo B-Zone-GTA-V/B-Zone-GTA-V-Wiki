@@ -1,4 +1,9 @@
 import { defineConfig } from 'vitepress'
+import Git from 'simple-git'
+
+const git = Git({
+  maxConcurrentProcesses: 200
+})
 
 export default defineConfig({
   title: "B-Zone V Wiki",
@@ -167,5 +172,38 @@ export default defineConfig({
     footer: {
       copyright: 'Copyright © 2024 B-Zone V'
     }
+  },
+  async transformPageData({ relativePath }) {
+    return { contributors: await getContributorsAt(relativePath) }
   }
 })
+
+async function getContributorsAt(path: string) {
+  try {
+    const list = (
+      await git.raw(['log', '--pretty=format:"%an|%ae"', '--', path])
+    )
+      .split('\n')
+      .map((i) => i.slice(1, -1).split('|') as [string, string])
+    const map: Record<string, { name: string; count: number }> = {}
+
+    list
+      .filter((i) => i[1])
+      .forEach((i) => {
+        if (!map[i[1]]) {
+          map[i[1]] = {
+            name: i[0],
+            count: 0
+          }
+        }
+        map[i[1]].count++
+      })
+
+    return Object.values(map)
+      .sort((a, b) => b.count - a.count)
+      .map((i) => i.name)
+  } catch (e) {
+    console.error(e)
+    return []
+  }
+}
