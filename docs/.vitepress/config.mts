@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import crypto from 'crypto'
 import Git from 'simple-git'
 
 const git = Git({
@@ -173,37 +174,49 @@ export default defineConfig({
       copyright: 'Copyright © 2024 B-Zone V'
     }
   },
-  async transformPageData({ relativePath }) {
-    return { contributors: await getContributorsAt(relativePath) }
+  async transformPageData() {
+    return { contributors: await getContributors() }
   }
 })
 
-async function getContributorsAt(path: string) {
+async function getContributors() {
   try {
-    const list = (
-      await git.raw(['log', '--pretty=format:"%an|%ae"', '--', path])
-    )
+    const logOutput = await git.raw(['log', '--pretty=format:%an|%ae']);
+
+    if (!logOutput.trim()) {
+      console.warn('No commits found in the repository');
+      return [];
+    }
+
+    const list = logOutput
       .split('\n')
-      .map((i) => i.slice(1, -1).split('|') as [string, string])
-    const map: Record<string, { name: string; count: number }> = {}
+      .map((line) => line.split('|') as [string, string]);
 
-    list
-      .filter((i) => i[1])
-      .forEach((i) => {
-        if (!map[i[1]]) {
-          map[i[1]] = {
-            name: i[0],
-            count: 0
-          }
-        }
-        map[i[1]].count++
-      })
+    const contributorsMap: Record<string, { name: string; email: string; commits: number }> = {};
+    const uniqueNames: Set<string> = new Set();
 
-    return Object.values(map)
-      .sort((a, b) => b.count - a.count)
-      .map((i) => i.name)
+    list.forEach(([name, email]) => {
+      if (!email || uniqueNames.has(name)) return;
+
+      if (!contributorsMap[email]) {
+        contributorsMap[email] = { name, email, commits: 0 };
+        uniqueNames.add(name);
+      }
+      contributorsMap[email].commits++;
+    });
+
+    return Object.values(contributorsMap)
+      .sort((a, b) => b.commits - a.commits)
+      .map((contributor) => ({
+        name: contributor.name,
+        commits: contributor.commits,
+        avatar: `https://www.gravatar.com/avatar/${crypto
+          .createHash('md5')
+          .update(contributor.email.trim().toLowerCase())
+          .digest('hex')}?s=100&d=identicon`,
+      }));
   } catch (e) {
-    console.error(e)
-    return []
+    console.error('Error fetching contributors:', e);
+    return [];
   }
 }
