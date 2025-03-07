@@ -61,7 +61,7 @@ Tura la locul de muncă se încheie atunci când toate panourile electrice neces
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 40 hours.</td>
+        <td>At least 10 hours.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>

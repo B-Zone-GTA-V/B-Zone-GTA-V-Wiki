@@ -59,7 +59,7 @@ Prepararea burgerilor este bazată pe un memory game, de fiecare dată o să ave
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 25 hours.</td>
+        <td>At least 5 hours.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>

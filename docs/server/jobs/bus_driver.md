@@ -59,7 +59,7 @@ Rutele sunt diferite: pentru <span class="button-p-job">Șofer de Autobuz</span>
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 0 for bus driver and 50 for coach driver.</td>
+        <td>At least 0 for bus driver and 20 for coach driver.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>

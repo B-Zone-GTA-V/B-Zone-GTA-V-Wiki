@@ -158,7 +158,7 @@ Pentru a prinde pești, apasă pe <span class="button-p-hobby">E</span>, după c
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>You can complete it in 70 hours.</td>
+        <td>You can complete it in 25 hours.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>
