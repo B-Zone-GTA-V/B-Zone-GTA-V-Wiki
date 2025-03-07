@@ -967,6 +967,7 @@ Represent actions through which multiple people will die as a result of the role
 <span style="color: yellowgreen">Exceptions:</span>
 - On Cayo Island, alliances with civilians are allowed.
 - Economic alliances (delivery, business, or truce) can also be made with civilians.
+- The mafia that owns a territory (which is not a territory to be delivered) has the right to intervene on it if the police raid it.
 
 <span style="color: red">Sanctions:</span>
 - Mafias that violate this rule will automatically receive <strong style="color: red">Mafia WARN</strong>.

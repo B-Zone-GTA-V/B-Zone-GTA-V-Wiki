@@ -968,6 +968,7 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 <span style="color: yellowgreen">Exceptii:</span>
 - Pe insula Cayo este permisă alianța și cu civilii
 - Alianțele economice (livrat, afaceri sau armistițiu) se pot face și cu civilii
+- Mafia care detine un teritoriu (ce nu este teritoriu de livrat) are dreptul de intervenii pe acesta în cazul în care poliția face o razie pe el.
 
 <span style="color: red">Sancțiuni:</span>
 - mafiile ce incalcă această regulă vor primii implicit <strong style="color: red">Mafia WARN</strong>
