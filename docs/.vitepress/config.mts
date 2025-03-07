@@ -1,4 +1,10 @@
 import { defineConfig } from 'vitepress'
+import crypto from 'crypto'
+import Git from 'simple-git'
+
+const git = Git({
+  maxConcurrentProcesses: 200
+})
 
 export default defineConfig({
   title: "B-Zone V Wiki",
@@ -167,5 +173,50 @@ export default defineConfig({
     footer: {
       copyright: 'Copyright © 2024 B-Zone V'
     }
+  },
+  async transformPageData() {
+    return { contributors: await getContributors() }
   }
 })
+
+async function getContributors() {
+  try {
+    const logOutput = await git.raw(['log', '--pretty=format:%an|%ae']);
+
+    if (!logOutput.trim()) {
+      console.warn('No commits found in the repository');
+      return [];
+    }
+
+    const list = logOutput
+      .split('\n')
+      .map((line) => line.split('|') as [string, string]);
+
+    const contributorsMap: Record<string, { name: string; email: string; commits: number }> = {};
+    const uniqueNames: Set<string> = new Set();
+
+    list.forEach(([name, email]) => {
+      if (!email || uniqueNames.has(name)) return;
+
+      if (!contributorsMap[email]) {
+        contributorsMap[email] = { name, email, commits: 0 };
+        uniqueNames.add(name);
+      }
+      contributorsMap[email].commits++;
+    });
+
+    return Object.values(contributorsMap)
+      .sort((a, b) => b.commits - a.commits)
+      .map((contributor) => ({
+        name: contributor.name,
+        commits: contributor.commits,
+        avatar: `https://www.gravatar.com/avatar/${crypto
+          .createHash('md5')
+          .update(contributor.email.trim().toLowerCase())
+          .digest('hex')}?s=100&d=identicon`,
+      }));
+  } catch (e) {
+    console.error('Error fetching contributors:', e);
+    return [];
+  }
+}
