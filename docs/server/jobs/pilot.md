@@ -147,3 +147,8 @@ The Los Santos route is more special because, at certain locations, you will nee
 ### <span class="button-p-job"><b>Important</b></span>
 
 If you do not enter the job airplane within <span class="button-r-job">2 minutes</span>, the job session will end, and the airplane will despawn due to inactivity.
+
+<details>
+  <summary>Pilot</summary>
+  <img src="https://v.b-zone.ro/images/wiki/pilot.png" alt="Pilot">
+</details>
