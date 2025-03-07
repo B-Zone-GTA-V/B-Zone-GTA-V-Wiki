@@ -48,7 +48,7 @@ Prepararea burgerilor este bazată pe un memory game, de fiecare dată o să ave
 
 #### <span class="button-p-job"><b>Important</b></span>
 
-- Dacă nu conduceti scuterul timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar scuterul este despawnat datorită inactivității. 
+- Dacă nu conduceti scuterul timp de <span class="button-r-job">30 minute</span>, tura de job se încheie, iar scuterul este despawnat datorită inactivității. 
 
 ### <span style="color: #0088CC">English</span>
 
@@ -92,7 +92,7 @@ Preparing the burgers is based on a memory game; each time you will have a diffe
 
 #### <span class="button-p-job"><b>Note</b></span>
 
-- If you do not ride the scooter for <span class="button-r-job">15 minutes</span>, your shift will end, and the scooter will despawn due to inactivity.
+- If you do not ride the scooter for <span class="button-r-job">30 minutes</span>, your shift will end, and the scooter will despawn due to inactivity.
 
 <details>
   <summary>McBeeDelivery</summary>

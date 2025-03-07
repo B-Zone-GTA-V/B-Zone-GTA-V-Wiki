@@ -116,6 +116,7 @@ export default defineConfig({
               { text: '🚛 Camionagiu', link: '/server/jobs/trucker' },
               { text: '🚌 Șofer De Autobuz', link: '/server/jobs/bus_driver' },
               { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
+              { text: '✈️ Pilot', link: '/server/jobs/pilot' },
             ]
           },
           {
