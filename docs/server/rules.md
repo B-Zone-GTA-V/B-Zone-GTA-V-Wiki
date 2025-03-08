@@ -786,6 +786,28 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 - parcați bărcile pe uscat
 - blocați intrările în porturi sau locuri special amenajate pentru bărci
 
+#### <a id="5.5.7"></a><span style="color: #0088CC">5.5.7 Avioane</span>
+
+<span style="color: limegreen">Reguli generale pentru piloți:</span>
+- Piloții trebuie să respecte toate regulile de trafic aerian și să acționeze într-un mod realist.
+- Decolarea și aterizarea trebuie anunțate în prealabil prin stația radio a aeroportului.
+- Pilotii nu au voie sa astepte jucatorii pe care ii transporta pe cayo mai mult de 2 minute.
+- Piloții trebuie să respecte traseele stabilite pentru job și nu au voie să se abată de la acestea fără un motiv valid RP.
+- Avioanele trebuie parcate doar în zonele special amenajate.
+- Orice accident aviatic trebuie tratat ca un incident serios în cadrul roleplay-ului.
+- Abandonarea aeronavelor în locuri nepermise este sancționată cu **ban 3-7 zile** și **pierderea licenței de aviație**.
+
+<span style="color: yellow">Exemple de motive bine întemeiate pentru abatere de la traseu:</span>
+- Liderul Sindicatului organizează un roleplay în Paleto și are nevoie de transport din Los Santos.
+- Chestorul General organizează un roleplay în zona bazei militare și are nevoie de transport.
+- *Motiv neîntemeiat*: **"M-a chemat X în Paleto să îl iau si sa il duc pe cayo."**.
+
+Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
+- Folosiți avioanele de la job pentru distracție, plimbări personale sau trolling.
+- Comiți crime, jafuri sau pentru a transporta persoane fără un motiv valid roleplay.
+
+⚠️ Acest regulament trebuie respectat de toți piloții! Nerespectarea regulilor va duce la sancțiuni severe!
+
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Folosirea vehiculului cu intenția de a lovi un alt vehicul fără un roleplay anterior sau staționarea cu acesta peste un jucător este interzisă.
 

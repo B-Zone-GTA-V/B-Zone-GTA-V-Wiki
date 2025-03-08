@@ -50,7 +50,7 @@ De îndată ce cursa a fost aleasă (<span style="color: #e9cc54">cursele de ski
 
 #### <span class="button-p-job"><b>Important</b></span>
 
-- Dacă nu intrați în vehiculul de Truck timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
+- Dacă nu intrați în vehiculul de Truck timp de <span class="button-r-job">30 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
 
 ### <span style="color: #0088CC">English</span>
 
@@ -96,7 +96,7 @@ If the truck driver chooses a route with <span class="button-p-job">skill 1</spa
 
 #### <span class="button-p-job"><b>Note</b></span>
 
-- If you do not enter the Truck vehicle within <span class="button-r-job">15 minutes</span>, the job shift ends, and the vehicle is despawned due to inactivity.
+- If you do not enter the Truck vehicle within <span class="button-r-job">30 minutes</span>, the job shift ends, and the vehicle is despawned due to inactivity.
 
 <details>
   <summary>Trucker</summary>

@@ -54,7 +54,7 @@ Pentru a tăia copaci, mergeți în zona de tăiat afișată pe hartă, apropia�
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 100 hours per character.</td>
+        <td>At least 60 hours per character.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>
