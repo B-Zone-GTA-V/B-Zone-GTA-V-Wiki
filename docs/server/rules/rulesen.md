@@ -1055,7 +1055,7 @@ Illegal example: On a plantation, a conflict started between several people. One
 
 - On yellow streets in notorious areas, it is forbidden to rob in that exact perimeter. Robbing should be moved to a notorious area, not the semi-public street. On the yellow roads in the infamous areas, the following are allowed regardless of the time: taking a hostage and opening fire based on a previous roleplay and a very well-founded reason (no traffic-stop).
 
-- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a red, yellow or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the notorious area and you have a good reason. If you are followed by the police while delivering drugs it is considered a good reason and you are allowed to open fire, even in public areas within red or yellow zones.
+- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a red, yellow or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the notorious area and you have a good reason.
 
 <span style="color: green">Examples:</span>
 - An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.

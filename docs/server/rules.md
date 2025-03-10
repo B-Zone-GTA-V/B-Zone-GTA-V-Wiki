@@ -1057,7 +1057,7 @@ Exemplu nepermis: La o plantație a început un conflict între mai mult persoan
 
 - Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică. Pe drumurile galbene din zonele rău famate se permit urmatoarele indiferent de oră: luarea de ostatic și deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat (fără trafic-stop).
 
-- Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă roșie, galbenă sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată și există un motiv bine întemeiat. Dacă ești urmărit de poliție în timp ce livrezi droguri se consideră un motiv bine întemeiat și este permis să deschizi focul chiar și în zonele publice din cadrul zonelor roșii sau galbene.
+- Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă roșie, galbenă sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată și există un motiv bine întemeiat.
 
 <span style="color: green">Exemple:</span>
 - Acțiunea începe în zona rău famată Labirint și se extinde spre Mirror sau autostradă. Aceasta nu va fi considerată ilegalitate în zona publică, deoarece acțiunea a început într-o zonă rău famată și a ajuns într-o zonă publică
