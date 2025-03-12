@@ -1143,7 +1143,7 @@ Represents the action of making someone drop all the items from their inventory 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Stores</span>
 Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people only if all the participants in the robbery have at least 50 hours.
 
-After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
+Civilians present during the robbery cannot be robbed, kidnapped or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
 If a robbery starts with fewer than 8 participants, other people can join up to the maximum number (8). For example: the robbery starts in 2 people, a maximum of 8 more people can be called for reinforcements.
 

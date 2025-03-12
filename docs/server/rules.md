@@ -1145,7 +1145,7 @@ Reprezintă acțiunea de a pune pe cineva sa arunce pe jos toate obiectele din i
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Magazine</span>
 Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore.
 
-După ce alarma se declanșează, proximitatea magazinului devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
+Civilii prezenți în timpul jafului nu pot fi jefuiți, răpiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
 
 În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (8). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 6 persoane.
 
