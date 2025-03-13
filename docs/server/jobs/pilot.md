@@ -59,15 +59,15 @@ Rutele disponibile sunt: <span class="button-p-job">Sandy</span>, <span class="b
     </tr>
     <tr>
         <td>Paleto</td>
-        <td>20 completări cursă Sandy</td>
+        <td>100 completări cursă Sandy</td>
     </tr>
     <tr>
         <td>Baza Militară</td>
-        <td>40 completări cursă Paleto</td>
+        <td>100 completări cursă Paleto</td>
     </tr>
     <tr>
         <td>Los Santos</td>
-        <td>20 completări cursă Baza Militară</td>
+        <td>100 completări cursă Baza Militară</td>
     </tr>
 </table>
 
@@ -130,15 +130,15 @@ The available routes are: <span class="button-p-job">Sandy</span>, <span class="
     </tr>
     <tr>
         <td>Paleto</td>
-        <td>20 Sandy route completions</td>
+        <td>100 Sandy route completions</td>
     </tr>
     <tr>
         <td>Military Base</td>
-        <td>40 Paleto route completions</td>
+        <td>100 Paleto route completions</td>
     </tr>
     <tr>
         <td>Los Santos</td>
-        <td>20 Military Base route completions</td>
+        <td>100 Military Base route completions</td>
     </tr>
 </table>
 
