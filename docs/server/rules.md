@@ -4,11 +4,11 @@ outline: deep
 
 # Regulament (Română)
 
-## <a id="1"></a><span style="color: #0088CC">CAP. 1 INTRODUCERE</span>
+## <a id="1"></a><span style="color: #0088CC">CAP. 1 - INTRODUCERE</span>
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Acord regulament</span>
 
-Vă dați acordul direct cu referire la respectarea regulamentului serverului din momentul în care v-ați conectat pe acesta. Aveți obligația să citiți regulamentul și să vă conformați acestuia, altfel riscați sancțiunile pentru fiecare încălcare de regulament.
+Prin conectarea la server, sunteți direct de acord să respectați regulile serverului. Sunteți obligat să citiți și să respectați regulile, în caz contrar, riscați sancțiuni pentru fiecare încălcare.
 
 ### <a id="1.2"></a><span style="color: #0088CC">1.2 Interpretare regulament</span>
 
@@ -22,32 +22,34 @@ Pentru orice neclaritate pe parte de regulament contactați un membru staff. In 
 - Aveți nevoie de un microfon funcțional pentru a comunica cu restul jucătorilor.
 - Numele Roleplay - Folosirea numelor de persoane celebre, respectiv cu tentă și/sau intenția de a face troll, sunt interzise. Numele pot fi cele reale sau inventate de voi și care pot fi întâlnite în viața de zi cu zi.
 
-Exemple de nume interzise:  Mickael Jackson / Jhon Coa*eLungi / MaJocBine
+Exemple de nume interzise: Mickael Jackson / Jhon Coa*eLungi / MaJocBine
 
 Exemple de nume permise: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
 Neconformarea, respectiv necooperarea cu administrația serverului pentru a respecta orice parametru de mai sus, va duce la banarea contului dumneavoastră permanent, având posibilitatea să vă faceți ulterior alt cont.
 
-### <a id="1.4"></a><span style="color: #0088CC">1.4 Politică de comportament și de excludere a jucătorilor</span>
+### <a id="1.4"></a><span style="color: #0088CC">1.4 Politică de comportament și de excludere a jucătorilor (ZT)</span>
 
-Echipa Administrativă își rezervă dreptul de a selecta și, dacă este necesar, de a elimina permanent jucătorii de pe server. Ne ghidăm după atitudine, comportament, toxicitate și alte aspecte relevante. Scopul nostru este de a menține un mediu plăcut pentru toți utilizatorii, iar persoanele care generează probleme vor fi excluse.### 
+Echipa Administrativă își rezervă dreptul de a elimina permanent jucătorii de pe server care strică experiența de joc pentru alți utilizatori. Acest drept se mai numește Toleranță Zero (ZT). Echipa evaluează atitudinea, comportamentul, toxicitatea și alte aspecte relevante ale jucătorilor. Scopul nostru este de a menține un mediu plăcut pentru toți utilizatorii, iar persoanele care generează probleme vor fi excluse.
+
+Jucătorii care acumulează foarte multe sancțiuni într-o perioadă scurtă de timp, care au un comportament toxic sau care strică experiența de joc pot fi sancționați cu ban permanent fără drept de plată. 
 
 ### <a id="1.5"></a><span style="color: #0088CC">1.5 Obligativitatea deținerii unei filmări AUDIO-VIDEO</span>  
 
 Pentru a asigura corectitudinea și transparența în cadrul sesiunilor de Roleplay, toți jucătorii au obligația de a înregistra constant gameplay-ul sub formă de filmare AUDIO-VIDEO.  
 
 <span style="color:yellowgreen">✔ **Reguli specifice:** </span> 
-- Filmarea trebuie să includă atât imaginea (video), cât și sunetul (audio) pentru a putea fi utilizată ca dovadă în cazul unor reclamații.  
-- Înregistrările trebuie păstrate pentru o perioadă minimă de **72 de ore** de la momentul sesiunii de joc.  
-- Filmarea trebuie să fie de o calitate rezonabilă (fără lag excesiv, sunet clar și lizibil).  
-- Este interzisă modificarea, tăierea sau alterarea înregistrării într-un mod care poate denatura adevărul.  
+- Filmarea trebuie să includă atât imaginea (video), cât și sunetul (audio) pentru a putea fi utilizată ca dovadă în cazul unor reclamații.
+- Înregistrările trebuie păstrate pentru o perioadă minimă de **72 de ore** de la momentul sesiunii de joc.
+- Filmarea trebuie să fie de o calitate rezonabilă (fără lag excesiv, sunet clar și inteligibil).
+- Este interzisă modificarea, tăierea sau alterarea înregistrării într-un mod care poate denatura adevărul.
 
 <span style="color:red">⚠ **Sancțiuni:** </span> 
-- Lipsa unei filmări valide în cazul unei reclamații poate duce la **anularea dovezilor proprii** și la **posibile sancțiuni**.  
-- Dacă un jucător refuză sau nu poate furniza filmarea într-o situație în care este solicitată, acesta poate fi sancționat conform regulilor încălcate. <span style="color:yellowgreen">(Ex. Dacă ești acuzat de MetaGaming iar tu nu deții filmarea pentru a demonstra contrarul vei fi sancționat pentru MG).</span>
+- Lipsa unei filmări valide în cazul unei reclamații poate duce la **anularea dovezilor proprii** și la **posibile sancțiuni**.
+- Dacă un jucător refuză sau nu poate furniza filmarea într-o situație în care este solicitată, acesta nu poate să își susțină nevinovăția și poate fi sancționat. Ex: Dacă ești acuzat de MetaGaming iar tu nu deții filmarea pentru a demonstra contrarul vei fi sancționat pentru MG.
 
 
-## <a id="2"></a><span style="color: #0088CC">CAP. 2 REGULI DE BAZĂ</span>
+## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
 
@@ -71,10 +73,10 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 
 <span style="color: green">Mențiuni:</span> 
 
-- În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viața sa mafioată.
+- În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viața sa mafioată. De asemenea, liderul de mafie și toți oamenii prezenți vor uita informațiile despre cel omorât.
 - În momentul în care o organizație (oficială sau neoficială) se desfințează se ruleaza PK-ul pentru toti membrii acesteia. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor mafioate. În cazul în care mafia este recunoscută de sindicat aceștia uită totul și despre Sindicat.
 - Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
-- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul ce l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai dedatoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
+- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai dedatoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
 
 <span style="color: red">Sancțiuni:</span>
 
@@ -99,6 +101,7 @@ Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, d
 - Când acorzi informații importante despre organizația din care faci parte către o altă organizație sau poliției și ești prins în mod IC făcând aceste lucruri.
 - Când acumulezi prea multe caziere și primești închisoare pe viață.
 - Când te sinucizi și nu mai poți fi salvat.
+- Cănd ești urmărit de către poliție și te înneci în mod intenționat.
 
 În urma unui CK <span style="color: red">se pierd următoarele</span>:
 
@@ -120,7 +123,7 @@ Ce date <span style="color: green">se păstrează</span> dupa un CK:
 <span style="color: green">Mențiuni: </span>
 
 - Prin crearea unui nou caracter nu puteți face roleplay de verișor, frate care să cunoască toata viața caracterului anterior.
-- Transferul de bunuri înainte de a primi CK și recuperarea ulterioară este interzis și se sancționează cu warn și ștergerea respectivelor bunuri.
+- Transferul de bunuri înainte de a primi CK și recuperarea ulterioară este interzis și se sancționează cu <span style="color: red">warn</span> și ștergerea respectivelor bunuri.
 
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Coma</span>
 
@@ -140,7 +143,7 @@ Vă este <span style="color: green">PERMISĂ</span> apelarea medicului prin acț
 
 Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
 
-- când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni. Vezi poza de mai jos.
+- când ești într-o zonă nepopulată (marcată cu maro pe harta de mai jos) în care nu ai putea fi văzut de către alți oameni
 - când ești aruncat în apă într-o zonă nepopulată
 
 <span style="color: red">Sancțiuni</span> pentru apel către medici din zone nepopulate: 
@@ -154,7 +157,7 @@ Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acț
 
 #### <a id="2.6.2"></a><span style="color: #0088CC">2.6.2 Acceptarea morții</span>
 
-Se poate face după ce au trecut primele 5 minute de comă și reprezintă un <a href="#2.3">#2.3 Player-Kill (PK)</a>. În urma acceptării morții se vor pierde banii cash și toate itemele din inventar, mai puțin hainele.
+Se poate face după ce au trecut primele 5 minute de comă și reprezintă un <a href="#2.3">#2.3 Player-Kill (PK)</a>. În urma acceptării morții se vor pierde banii cash și toate itemele din inventar, mai puțin hainele. Deconectarea de pe server după primele 5 minute de comă rezultă într-un PK automatizat.
 
 Această acțiune se poate face chiar dacă medicul a ajuns în apropierea voastră. Puteți să alegeți moartea până la ultima secundă când medicul vă oferă primul ajutor. Dacă acesta nu reușește să vă resusciteze înseamnă ca ați ales moartea. 
 
@@ -174,18 +177,20 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 
 <span style="color: yellow">Exemple:</span>
 - Medici - Eșecul de a salva persoane. Situația în care un cadru medical are o interacțiune directă sau indirectă cu un cetățean care are nevoie de asistență medicală. Ignorându-l, se consideră fail roleplay.
-- Polițiști - Eșecul de a aplica Codul Penal Rutier
-Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea intervenii. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate sa plece și să ceară/aștepte întăriri). 
+- Polițiști - Eșecul de a aplica Codul Penal Rutier. Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea interveni. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate să plece și să ceară/aștepte întăriri). 
 - Deschiderea OOC în IC
-
-<span style="color: yellow">Mențiuni:</span>
-- Aveți dreptul de a tracta vehicule parcate legal doar dacă acestea sunt abandonate și respectând următoarele condiții. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
+- Tractarea de vehicule parcate regulamentar fără să vă asigurați că acestea sunt abandonate. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
+- Jefuirea de oameni în comă indiferent de zona unde se află
 
 <span style="color: red">Sancțiuni:</span>
 
 - prima abatare: 50-100 Checkpoint-uri 
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="2.9"></a><span style="color: #0088CC">2.9 Refuz RP</span>
 
@@ -194,7 +199,7 @@ Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai 
 <span style="color: yellow">Exemple:</span>
 - Ești dus la secția de poliție și refuzi interacțiunea cu aceștia din diferite motive, având ca scuză soluționarea propriilor probleme avute de unul singur.
 - Deplasarea la un service auto unde se află angajații acestuia și îți repari singur mașina fără a interacționa cu ei.
-Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat sau jefuit portbagajul/torpedoul vehiculului.
+- Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat sau jefuit portbagajul/torpedoul vehiculului.
 - Situațiile în care o persoană rolează că vă ia un obiect vestimentar (exemplu: Pălăria) iar voi nu doriți să o dați jos, respectiv să i-o acordați.
 - Faci un accident cu un jucător și refuzi să interacționezi cu acesta fără a avea un motiv întemeiat (de ex: ești urmărit de poliție).
 - Mergi la spital și refuzi să interacționezi cu medicii și mergi la Doctorul Sky.
@@ -205,6 +210,10 @@ Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat 
 - prima abatare: 50-100 Checkpoint-uri 
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
 
@@ -352,18 +361,25 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - trei sau mai multe abateri: warn
 
 <span style="color: green">Mențiuni:</span>
+- Itemele jucătorului care face NO FEAR pot fi confiscate dacă roleplay-ul este anulat în urma unui ticket.
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 #### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
-- In cazul echipajelor S.A.S. regula de No Fear nu se aplică. Singura excepție de la această regulă este atunci când un echipaj de mai putin de 3 SAS sunt în inferiotate numerica de 3 sau mai multe persoane, situație în care S.A.S.-ului i se aplică regula de No Fear în mod normal.
-- De menționat este faptul că această comparație numerică se face în momentul începerii RP-ului și nu se recalculează pe parcursul acestuia. (Ex. Dacă te aflii într-un conflict activ și pici 2 din cei 3 SAS, ultimului SAS nu i se va aplica regula de No Fear, dar dacă acesta ramane singur și ulterior este prins i se va aplica regula.)
-- Situații numerice exemplificate:
-    - 1 SAS vs 3 <strong style="color: red">NU</strong> se aplică NF
-    - 1 SAS vs 4 <strong style="color: green">DA</strong> se aplică NF
-    - 2 SAS vs 4 <strong style="color: red">NU</strong> se aplică NF
-    - 2 SAS vs 5 <strong style="color: green">DA</strong> se aplică NF
-    - 3 SAS vs oricâți <strong style="color: red">NU</strong> se aplică NF
+- Pentru grupurile de mai mult de 3 membri SAS nu se aplică regula de No Fear.
+- Un membru SAS aflat singur va rola frica dacă este prins de cel puțin 4 jucători.
+- Doi membri SAS aflati singuri vor rola frica dacă sunt prinși de cel puțin 5 jucători.
+- De menționat este faptul că această comparație numerică se face în momentul începerii RP-ului și nu se recalculează pe parcursul acestuia. (Ex. Dacă te afli într-un conflict activ și pici 2 din cei 3 SAS, ultimului SAS nu i se va aplica regula de No Fear, dar dacă acesta ramane singur și ulterior este prins i se va aplica regula.)
+
+<span style="color: yellow">Exemple:</span>
+- 1 SAS vs 3, <strong style="color: red">NU</strong>, nu se aplică NF
+- 1 SAS vs 4, <strong style="color: green">DA</strong>, se aplică NF
+- 2 SAS vs 4, <strong style="color: red">NU</strong>, nu se aplică NF
+- 2 SAS vs 5, <strong style="color: green">DA</strong>, se aplică NF
+- 3 SAS vs oricâți, <strong style="color: red">NU</strong>, nu se aplică NF
+
+<span style="color: red">Sancțiuni:</span>
+Se aplică sancțiunile de la regula <a href="#2.18">2.18 No Fear (NF)</a>
 
 ### <a id="2.19"></a><span style="color: #0088CC">2.19 Cop-Fear (CF)</span>
 
@@ -391,7 +407,7 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 
 ### <a id="2.20"></a><span style="color: #0088CC">2.20 Cop-Bait (CB)</span>
 
-Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poliție fără un roleplay anterior, care sa conducă la propriul tău amuzament.
+Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poliție fără un roleplay anterior, care să conducă la propriul tău amuzament.
 
 <span style="color: yellow">Exemple:</span>
 - Drift-uri si burn-out in prezența unui echipaj de poliție.
@@ -429,7 +445,7 @@ Reprezintă deconectarea de pe server în mod intenționat în timpul un rolepla
 - Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
-Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, în **lipsa unui roleplay anterior**.
+Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, **în lipsa unui roleplay anterior**.
 
 <span style="color: yellow">Exemple:</span>
 - Jignirea jucătorilor fără un motiv întemeiat.
@@ -514,7 +530,27 @@ Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și c
 
 <span style="color: red">Sancțiune:</span> mute 10-600 minute și poate ajunge până la ban 7 zile în funcție de gravitate
 
-## <a id="3"></a><span style="color: #0088CC">CAP 3. Comportament OOC</span>
+### <a id="2.28"></a><span style="color: #0088CC">2.28 Low Effort Roleplay (LER)</span>
+Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
+
+<span style="color: yellow">Exemple:</span>
+- Faci un accident grav si scrii un "/me isi revine usor" cu copy-paste după care pleci mai departe.
+- Ceri o pastilă la spital și ti se oferă o injecție rapidă fără explicații.
+- Ceri o reparație la mașină și ti se oferă trusă pentru aceasta fără a face câteva verificări.
+- Ești în comă, ți se dă trusă și continui să tragi cu arma de parcă nimic nu s-ar fi întâmplat.
+
+<span style="color: red">Sancțiune:</span>
+
+- prima abatare: 50-100 Checkpoint-uri
+- a doua abatere: 200 Checkpoint-uri 
+- trei sau mai multe abateri: warn
+
+<span style="color: green">Mențiuni:</span>
+
+- Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
+- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+## <a id="3"></a><span style="color: #0088CC">CAP 3. - Comportament OOC</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Comportamentului neadecvat față de fete</span>
 
@@ -787,7 +823,9 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 - blocați intrările în porturi sau locuri special amenajate pentru bărci
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
-Folosirea vehiculului cu intenția de a lovi un alt vehicul fără un roleplay anterior sau staționarea cu acesta peste un jucător este interzisă.
+Sunt interzise:
+- folosirea vehiculului cu intenția de a lovi un alt vehicul.
+- urcarea cu un vehicul peste un alt vehicul.
 
 #### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Blindata de poliție / sindicat</span>
 - În cazul blindatei de poliție / sindicat, regula de Car-Ram se aplică într-un mod diferit față de restul vehiculelor.
@@ -860,7 +898,7 @@ Folosirea vehiculului cu intenția de a lovi un alt vehicul fără un roleplay a
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Furt vehicule</span>
 Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi. 
 
-Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="5.4">#5.4 Ninja-Jack</a>.
+Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="5.4">#5.4 Ninja-Jack</a> la orice oră.
 
 Vă este permis să furați o mașină de poliție/medici doar în cazuri extreme ca o ultimă cale de scăpare urmând ca să o abandonați cat mai repede posibil.
 
@@ -909,9 +947,11 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - a doua abatere: 200 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-<span style="color: green">Mențiuni:</span>
+<span style="color: green">Mențiuni și excepții:</span>
 - în cazul în care o acțiune începe din <a href="#7.8.2">zonă rău famată</a> și se continuă într-o locație publică (zonă de job/hobby sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere) nu se aplică regula de ilegalități în zonă publică dacă există un motiv bine întemeiat. Exemplu: la o livrare de droguri ești urmărit de echipaje de poliție. Îți este permis să tragi cu arma chiar și în zonele publice care se află pe zone roșii sau galbene
 - zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
+- este permis să pui arma la burtă/cap în mașinile cu geamuri fumurii (full negre) chiar și în zonele publice
+- în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic</span>
 
@@ -1266,7 +1306,7 @@ Nu sunt permise minciuni la ticket. Staff-ul dorește să vă ajute în rezolvar
 - trei sau mai multe abateri: warn
 
 ### <a id="8.4"></a><span style="color: #0088CC">8.4 Tickete pe Discord</span>
-Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) pentru următoarele probleme:
+Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) în termen de 24 ore de la data incidentului pentru următoarele probleme:
 - Reclamații staff
 - Cereri unban
 - Alte probleme
@@ -1289,17 +1329,17 @@ Persoanele banate permanent fara drept de plata li se vor scoate casa dupa o per
 Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice alt conținut ofensator vor fi șterse.
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere 150 CP
-- A doua abatere Warn
+- prima abatere: 150 Checkpoint-uri
+- a doua abatere: warn
 
 ### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Obligativitatea roleplay-ului</span>
 
 Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay. 
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere Avertisment
-- A doua abatere 50 CP
-- A treia abatere 150 CP
+- prima abatere: Avertisment verbal
+- a doua abatere: 50 Checkpoint-uri
+- a treia abatere: 150 Checkpoint-uri
 
 ### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Obligativitatea imaginilor relevante</span>
 
@@ -1310,9 +1350,9 @@ Poza atașată anunțului trebuie să fie relevantă pentru produsul sau servici
 - Prezintă elemente OOC (Out of Character).
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere Avertisment
-- A doua abatere 50 CP
-- A treia abatere 150 CP
+- prima abatere: Avertisment verbal
+- a doua abatere: 50 Checkpoint-uri
+- a treia abatere: 150 Checkpoint-uri
 
 Excepție: În cazul utilizării imaginilor controversate, cu conținut politic sau cu tentă sexual-pornografică, sancțiunile pot varia în funcție de gravitate, putând include și Ban permanent.
 
@@ -1321,18 +1361,18 @@ Excepție: În cazul utilizării imaginilor controversate, cu conținut politic 
 Nu este permisă promovarea sau vânzarea de bunuri ilegale prin intermediul platformei de anunțuri.
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere Avertisment
-- A doua abatere 50 CP
-- A treia abatere 150 CP 
+- prima abatere: Avertisment verbal
+- a doua abatere: 50 Checkpoint-uri
+- a treia abatere: 150 Checkpoint-uri
 
 ### <a id="10.5"></a><span style="color: #0088CC"> 10.5 Fără incitare la ură sau certuri</span>
 
 Postările care instigă la ură, certuri sau conflicte inutile nu sunt permise.
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere 75CP
-- A doua abatere 150 CP 
-- A treia abatere Warn
+- prima abatere: 75 Checkpoint-uri
+- a doua abatere: 150 Checkpoint-uri 
+- a treia abatere: warn
 
 ### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Interzicerea anunțurilor nepotrivite</span>
 
@@ -1342,22 +1382,22 @@ Exemple de anunțuri interzise:
 - "L-am culcat pe X pe Groove."
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere 100CP
-- A doua abatere Warn
+- prima abatere: 100 Checkpoint-uri
+- a doua abatere: warn
 
 ### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Fără promovarea altor comunități</span>
 
 Promovarea altor servere sau comunități, inclusiv prin metode subtile, este strict interzisă.
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere Ban 7 zile
-- A doua abatere Ban Permanent
+- prima abatere: Ban 7 zile
+- a doua abatere: Ban Permanent
 
 ### <a id="10.8"></a><span style="color: #0088CC"> 10.8 Limitarea anunțurilor legate de acțiuni roleplay</span>
 
 Nu este permisă utilizarea platformei pentru a anunța sau prefața anumite acțiuni sau scenarii roleplay.
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere 150CP
-- A doua abatere Warn 
-- A treia abatere Ban 3 zile
+- prima abatere: 150 Checkpoint-uri
+- a doua abatere: warn 
+- a treia abatere: Ban 3 zile
