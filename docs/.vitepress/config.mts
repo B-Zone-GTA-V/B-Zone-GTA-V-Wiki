@@ -111,24 +111,25 @@ export default defineConfig({
             text: '✒️ Locuri de munca / Jobs',
             collapsed: false,
             items: [
-              { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
-              { text: '⛏️ Miner', link: '/server/jobs/miner' },
-              { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
-              { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
               { text: '🚛 Camionagiu', link: '/server/jobs/trucker' },
               { text: '🚌 Șofer De Autobuz', link: '/server/jobs/bus_driver' },
+              { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
               { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
+              { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
+              { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
+              { text: '⛏️ Miner', link: '/server/jobs/miner' },
+              { text: '✈️ Pilot', link: '/server/jobs/pilot' },
             ]
           },
           {
             text: '🎣 Hobby',
             collapsed: false,
             items: [
-              { text: '🐟 Fisherman', link: '/server/hobby/fisherman' },
               { text: '🚕 B-Taxi', link: '/server/hobby/taxi' },
               { text: '🪡 Tailoring', link: '/server/hobby/tailor' },
-              { text: '🪓 Tăietor de lemne', link: '/server/hobby/lumberjack' },
+              { text: '🐟 Fisherman', link: '/server/hobby/fisherman' },
               { text: '🧑‍🔧 Mecanic', link: '/server/hobby/mechanic' },
+              { text: '🪓 Tăietor de lemne', link: '/server/hobby/lumberjack' },
             ]
           }
         ]

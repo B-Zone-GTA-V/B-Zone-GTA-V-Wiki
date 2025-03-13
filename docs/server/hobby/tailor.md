@@ -46,7 +46,7 @@ Croitoria este marcată pe hartă, dar poate să fie găsită in telefon: <span 
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 100 hours.</td>
+        <td>At least 0 hours.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>

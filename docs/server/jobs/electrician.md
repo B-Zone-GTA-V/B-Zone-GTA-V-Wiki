@@ -50,7 +50,7 @@ Tura la locul de muncă se încheie atunci când toate panourile electrice neces
 
 #### <span class="button-p-job"><b>Important</b></span>
 
-- Dacă nu intrați în mașina de job timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității.
+- Dacă nu intrați în mașina de job timp de <span class="button-r-job">30 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității.
 
 
 ### <span style="color: #0088CC">English</span>
@@ -61,7 +61,7 @@ Tura la locul de muncă se încheie atunci când toate panourile electrice neces
     </tr>
     <tr>
         <td>How many hours do I need?</td>
-        <td>At least 40 hours.</td>
+        <td>At least 10 hours.</td>
     </tr>
     <tr>
         <td>Does it require specific items?</td>
@@ -96,7 +96,7 @@ You can become an <span class="button-p-job">Electrician</span>  based on your e
 
 #### <span class="button-p-job">Note</span>
 
-- If you do not enter the job vehicle for <span class="button-r-job">15 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
+- If you do not enter the job vehicle for <span class="button-r-job">30 minutes</span>, your shift will end automatically, and the vehicle will despawn due to inactivity.
 
 <details>
   <summary>Electrician</summary>

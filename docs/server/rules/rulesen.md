@@ -783,6 +783,28 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - park boats on land
 - block entrances to ports or specially designated areas for boats
 
+#### <a id="5.5.7"></a><span style="color: #0088CC">5.5.7 Airplanes</span>
+
+<span style="color: limegreen">Reguli generale pentru piloți:</span>
+- Pilots must comply with all air traffic regulations and act realistically.
+- Takeoff and landing must be announced in advance via the airport radio station.
+- Pilots are not allowed to wait for the players they transport to Cayo for more than 2 minutes.
+- Pilots must follow the designated routes for the job and may not deviate from them without a valid RP reason.
+- Airplanes must be parked only in designated areas.
+- Any aviation accident must be treated as a serious incident within the roleplay.
+- Abandoning aircraft in unauthorized locations is punishable by a 3-7 day ban and loss of the aviation license.
+
+<span style="color: yellow">Examples of well-founded reasons for route deviation:</span>
+- The Syndicate Leader organizes a roleplay in Paleto and needs transportation from Los Santos.
+- The General Commissioner organizes a roleplay near the military base and needs transportation.
+- *Unjustified reason*: **"X called me to Paleto to pick him up and take him to Cayo."**.
+
+
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
+- Use job airplanes for fun, personal trips, or trolling.
+- Commit crimes, robberies, or transport individuals without a valid roleplay reason.
+
+⚠️ All pilots must follow these rules! Failure to comply will result in severe penalties!
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Using the vehicle with the intention of hitting another vehicle without a previous roleplay or parking it over a player is prohibited.

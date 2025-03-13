@@ -17,7 +17,7 @@ Capacitatea inventarului NU se poate crește dacă jucătorul face sală; acest 
  
 De notat este că toate obiectele din inventar sunt șterse atunci când jucătorul își acceptă moartea, cât și banii din mână (cei afișați când aveți inventarul deschis). Singurele obiecte care NU se șterg din inventar sunt cele echipate (piesele de vestimentație), cu excepția armelor echipate.
 
-Există posibilitatea și de sloturi rapide folosind key-urile de la 0, 4, 5, 6, 7, 8, 9. Doar mutați itemul în pătratul aferent și veți putea da Folosire rapidă apăsând key-ul respectiv.
+Există posibilitatea și de sloturi rapide folosind key-urile de la **0**, **4**, **5**, **6**, **7**, **8**, **9**. Doar mutați itemul în pătratul aferent și veți putea da Folosire rapidă apăsând key-ul respectiv.
 
 ### <span style="color: #0088CC">Engleza</span>
 
@@ -30,7 +30,7 @@ The inventory capacity cannot be increased if the player works out; this concept
 
 It is worth noting that all items in the inventory are deleted when the player accepts their death, as well as the money in hand (displayed when the inventory is open). The only items that do NOT get deleted from the inventory are the equipped ones (clothing items), except for equipped weapons.
 
-There is also the option of quick slots using the keys 0, 4, 5, 6, 7, 8, and 9. Simply move the item to the corresponding slot, and you will be able to use it quickly by pressing the respective key.
+There is also the option of quick slots using the keys **0**, **4**, **5**, **6**, **7**, **8** and **9**. Simply move the item to the corresponding slot, and you will be able to use it quickly by pressing the respective key.
 
 <details>
   <summary>Inventory</summary>
