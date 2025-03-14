@@ -718,11 +718,11 @@ Pe comunitatea noastră semafoarele sunt în regim intermitent și se respectă 
 
 ### <a id="5.2"></a><span style="color: #0088CC">5.2 Limitele de viteză</span>
 
-Limita de viteză în oraș este de 70 km/h. 
+Limita de viteză în oraș este de 100 km/h. 
 
-Limita de viteză pe drumurile naționale este de 100 km/h. 
+Limita de viteză pe drumurile naționale este de 150 km/h. 
 
-Limita de viteză pe autostradă este de 150 km/h.
+Limita de viteză pe autostradă este de 250 km/h.
 
 ### <a id="5.3"></a><span style="color: #0088CC">5.3 Pit-Stop</span>
 
@@ -775,9 +775,9 @@ Pentru fiecare categorie de mai jos va fi impusă o limită maximă de viteză �
 
 #### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Oraș</span>
 
-Condusul cu peste 200km/h în oraș se consideră condus NON-RP.
+Condusul cu peste 300km/h în oraș se consideră condus NON-RP.
 
-<span style="color: green">Excepție:</span> În cazul în care viața vă este pusă în pericol puteți depăși limita de 200km/h în oraș. 
+<span style="color: green">Excepție:</span> În cazul în care viața vă este pusă în pericol puteți depăși limita de 300km/h în oraș. 
 
 #### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Off-Road</span>
 
@@ -829,6 +829,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 - Decolarea și aterizarea trebuie anunțate în prealabil prin stația radio a aeroportului.
 - Pilotii nu au voie sa astepte jucatorii pe care ii transporta pe cayo mai mult de 2 minute.
 - Piloții trebuie să respecte traseele stabilite pentru job și nu au voie să se abată de la acestea fără un motiv valid RP.
+- Zborul aproape de sol fără a ateriza avionul pentru a obține un beneficiu este interzis.
 - Avioanele trebuie parcate doar în zonele special amenajate.
 - Orice accident aviatic trebuie tratat ca un incident serios în cadrul roleplay-ului.
 - Abandonarea aeronavelor în locuri nepermise este sancționată cu **ban 3-7 zile** și **pierderea licenței de aviație**.
@@ -844,6 +845,12 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 
 ⚠️ Acest regulament trebuie respectat de toți piloții! Nerespectarea regulilor va duce la sancțiuni severe!
 
+<span style="color: red">Sancțiuni:</span>
+
+- prima abatare: warn + Confiscarea licentei
+- a doua abatere: Ban 1 - 3 zile + Confiscarea licentei
+- trei sau mai multe abateri: Ban 3 - 7 zile + Confiscarea licentei
+
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Sunt interzise:
 - folosirea vehiculului cu intenția de a lovi un alt vehicul.
@@ -855,34 +862,29 @@ Sunt interzise:
 - Este permis CR-ul atunci când scopul este eliberarea unei zone de acces sau accesarea unei poziții strategice în contextul unei acțiuni complexe sau al unei situații de roleplay, sau în momentul în care evitarea impactului este inevitabilă (blindata este un vehicul greu care nu virează foarte ușor).
 - Scopul blindatei este de a genera spațiu de manevră pentru echipajele S.A.S. sau pentru a elibera zone blocate (deszăpezirea), care altfel nu ar putea fi accesibile. Scopul nu este de a lovi mașini pentru a le cauza daune sau de a provoca <strong>COMĂ</strong> persoanelor aflate în vehicule.
 
-##### 1. Blindata se poate folosi pe vehicule <span style="color: yellow">staționare</span> în următoarele situații: <br>
-- Vehiculul <span style="color: yellowgreen">blochează</span> accesul sau <span style="color: yellowgreen">îngreunează</span> accesul spre un punct de interes. <br>
-- Vehiculul se află pe drumul <span style="color: red; font-weight: 700">DIRECT</span> al autospecialei blindate, blocându-i drumul sau îngreunându-i înaintarea.
-
-    <span style="color: yellow">Exemple:</span><br> 
-
-    <span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
-        -> Vehiculul este parcat exact în fața intrării băncii pentru a împiedica parcarea blindatei aproape de ușa băncii.<br>
-        -> Vehiculul blochează banda de mers (direcția de mers) a blindatei, acesta neputând fi evitat într-un mod care să nu pună în dificultate șoferul blindatei.<br>
-        -> Șoferul oprește intenționat în fața blindatei pentru a-i îngreuna/bloca înaintarea <span style="color: red">(Șoferul este sancționat cu NF)</span>.<br>
-        -> Unul sau mai multe vehicule blochează accesul spre o zonă de interes a blindatei.<br>
-        -> Mașina este folosită pe post de cover într-un loc ce blochează drumul direct al blindatei (persoana care folosește mașina pe post de cover în această poziție își asumă daunele cauzate de o posibilă manevră de deszăpezire a căii de acces).
-
-    <span style="color: red; font-weight: 600">CAR RAM ESTE INTERZIS:</span><br>
-        -> Vehiculul nu blochează drumul direct de acces sau zona de interes a blindatei.<br>
-        -> Vehiculul poate fi evitat în timp util de către blindată, oprindu-se la o distanță rezonabilă și neîngreunându-i înaintarea.<br>
-        -> Vehiculul se trage într-o parte pentru a elibera direcția de deplasare a blindatei.<br>
-        -> Vehiculul este folosit pe post de cover într-o poziție care nu blochează calea directă de acces / drumul direct spre zona de interes a blindatei.<br>
-
-##### 2. Blindata se poate folosi pe vehicule <span style="color: yellow">aflate în mișcare</span> în următoarele situații: <br>
 - Vehiculul <span style="color: yellowgreen">blochează</span> accesul sau <span style="color: yellowgreen">îngreunează</span> accesul spre un punct de interes prin diferite manevre.<br>
 - Vehiculul se poziționează pe drumul <span style="color: red; font-weight: 700">DIRECT</span> al autospecialei blindate, blocându-i drumul sau îngreunându-i înaintarea.
 
-    <span style="color: yellow">Exemple:</span><br> 
+<details>
+  <summary>Exemple</summary>
+1. Blindata se poate folosi pe vehicule <span style="color: yellow">staționare</span> în următoarele situații: <br>
+<span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
+    -> Vehiculul este parcat exact în fața intrării băncii pentru a împiedica parcarea blindatei aproape de ușa băncii.<br>
+    -> Vehiculul blochează banda de mers (direcția de mers) a blindatei, acesta neputând fi evitat într-un mod care să nu pună în dificultate șoferul blindatei.<br>
+    -> Șoferul oprește intenționat în fața blindatei pentru a-i îngreuna/bloca înaintarea <span style="color: red">(Șoferul este sancționat cu NF)</span>.<br>
+    -> Unul sau mai multe vehicule blochează accesul spre o zonă de interes a blindatei.<br>
+    -> Mașina este folosită pe post de cover într-un loc ce blochează drumul direct al blindatei (persoana care folosește mașina pe post de cover în această poziție își asumă daunele cauzate de o posibilă manevră de deszăpezire a căii de acces).
 
-    <span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
-        -> Vehiculul se deplasează pe lângă blindată pentru a-i bloca virarea, încercând astfel să-i schimbe direcția de mers.<br>
-        -> Vehiculul se deplasează în fața blindatei și efectuează un brake check.<br>
+<span style="color: red; font-weight: 600">CAR RAM ESTE INTERZIS:</span><br>
+    -> Vehiculul nu blochează drumul direct de acces sau zona de interes a blindatei.<br>
+    -> Vehiculul poate fi evitat în timp util de către blindată, oprindu-se la o distanță rezonabilă și neîngreunându-i înaintarea.<br>
+    -> Vehiculul se trage într-o parte pentru a elibera direcția de deplasare a blindatei.<br>
+    -> Vehiculul este folosit pe post de cover într-o poziție care nu blochează calea directă de acces / drumul direct spre zona de interes a blindatei.<br>
+
+2. Blindata se poate folosi pe vehicule <span style="color: yellow">aflate în mișcare</span> în următoarele situații: <br>
+<span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
+    -> Vehiculul se deplasează pe lângă blindată pentru a-i bloca virarea, încercând astfel să-i schimbe direcția de mers.<br>
+    -> Vehiculul se deplasează în fața blindatei și efectuează un brake check.<br>
 
 <span style="color: red; font-weight: 600">SE CONSIDERĂ CAR RAM URMĂTOARELE, INDIFERENT DE STAREA DE MERS A VEHICULULUI:</span><br>
     -> Când lovitura este una frontală.<br>
@@ -890,6 +892,8 @@ Sunt interzise:
     -> Când se produc tamponări / lovituri repetate fără un scop anume între blindată și vehiculele aflate în RP, lovituri făcute doar pentru a produce daune mașinilor (Rocket League).<br>
     -> Când vehiculul nu blochează drumul / direcția de mers a blindatei spre zona sa de interes.<br>
     -> Când producerea deszăpezirii nu are un scop strategic, ci doar unul de amuzament sau de creare a unui avantaj prin daunele produse vehiculelor sau jucătorilor implicați în acțiune.<br>
+
+</details>
 
 <span style="color: red">Sancțiuni:</span>
 

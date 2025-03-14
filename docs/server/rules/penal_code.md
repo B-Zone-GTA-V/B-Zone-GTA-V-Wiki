@@ -22,9 +22,9 @@ Tentativa se pedepsește cu jumătate din pedeapsa prevăzută pentru infracțiu
 
 Orice cetățean care conduce un vehicul, are obligația de a conduce cu viteza maximă de:
 
-- Oraș - **70km/h**
-- Drum Național - **100km/h**
-- Autostradă - **150km/h** 
+- Oraș - **100km/h**
+- Drum Național - **150km/h**
+- Autostradă - **250km/h** 
 
 Încălcarea limitelor de viteze se sancționează după următoarele cazuri:
 

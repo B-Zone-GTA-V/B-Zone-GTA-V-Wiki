@@ -829,6 +829,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - Takeoff and landing must be announced in advance via the airport radio station.
 - Pilots are not allowed to wait for the players they transport to Cayo for more than 2 minutes.
 - Pilots must follow the designated routes for the job and may not deviate from them without a valid RP reason.
+- Flying close to the ground without landing the plane to gain a benefit is forbidden.
 - Airplanes must be parked only in designated areas.
 - Any aviation accident must be treated as a serious incident within the roleplay.
 - Abandoning aircraft in unauthorized locations is punishable by a 3-7 day ban and loss of the aviation license.
@@ -844,6 +845,13 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - Commit crimes, robberies, or transport individuals without a valid roleplay reason.
 
 ⚠️ All pilots must follow these rules! Failure to comply will result in severe penalties!
+
+<span style="color: red">Sanctions:</span>
+
+- First offense: Warn + Removal of the licenses
+- Second offense: Ban 1 - 3 zile + Removal of the licenses
+- Three or more offenses: Ban 3 - 7 zile + Removal of the licenses
+
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Using the vehicle with the intention of hitting another vehicle without a previous roleplay or parking it over a player is prohibited.
