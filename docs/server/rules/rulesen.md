@@ -8,7 +8,7 @@ outline: deep
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Regulation Agreement</span>
 
-By connecting to the server, you directly agree to comply with the server rules. You are obliged to read and adhere to the rules, otherwise, you risk sanctions for each violation.
+By connecting to the server, you directly agree to comply with the server rules. You are required to read and to comply with the rules, otherwise, you risk sanctions for each violation.
 
 ### <a id="1.2"></a><span style="color: #0088CC">1.2 Regulation Interpretation</span>
 
@@ -22,31 +22,33 @@ For any unclear aspects regarding the rules & regulations, contact a staff membe
 - A functional microphone is required to communicate with other players.
 - Roleplay names - Using names of famous people, or names with the intent of trolling, are prohibited. Names can be real or invented by you and should be found in everyday life.
 
-Examples of prohibited names:  Mickael Jackson / Jhon Coa*eLungi / MaJocBine
+Examples of prohibited names: Mickael Jackson / Jhon Coa*eLungi / MaJocBine
 
 Examples of allowed names: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
 Non-compliance or non-cooperation with the server administration to respect any of the above parameters will lead to your account being permanently banned, with the possibility to create another account later.
 
-### <a id="1.4"></a><span style="color: #0088CC">1.4 Player Behavior and Exclusion Policy</span>
+### <a id="1.4"></a><span style="color: #0088CC">1.4 Player Behavior and Exclusion Policy (ZT)</span>
 
-The Administrative Team reserves the right to select and, if necessary, permanently remove players from the server. We base our decisions on attitude, behavior, toxicity, and other relevant aspects. Our goal is to maintain a pleasant environment for all users, and individuals who cause issues will be excluded.
+The Administration Team reserves the right to permanently remove players from the server who are ruining the game experience for other users. This right is also called Zero Tolerance (ZT). The team evaluates the attitude, behavior, toxicity and other relevant aspects of players. Our goal is to maintain a pleasant environment for all users, and people who cause problems will be excluded.
+
+Players who accumulate a lot of sanctions in a short period of time, who have toxic behavior or who disrupt the game experience may be sanctioned with a permanent ban with no payment option.
 
 ### <a id="1.5"></a><span style="color: #0088CC">1.5 Obligation to Record AUDIO-VIDEO Footage</span>  
 
 To ensure fairness and transparency in Roleplay sessions, all players are required to constantly record their gameplay in the form of AUDIO-VIDEO footage.  
 
 <span style="color:yellowgreen">✔ **Specific Rules:** </span>  
-- The recording must include both video and audio to be used as evidence in case of complaints.  
-- Recordings must be kept for a minimum period of **72 hours** from the moment of the game session.  
-- The recording must be of reasonable quality (without excessive lag, clear and intelligible sound).  
-- It is forbidden to modify, cut, or alter the recording in a way that may distort the truth.  
+- The recording must include both video and audio to be used as evidence in case of complaints.
+- Recordings must be kept for a minimum period of **72 hours** from the moment of the game session.
+- The recording must be of reasonable quality (without excessive lag, clear and intelligible sound).
+- It is forbidden to modify, cut, or alter the recording in a way that may distort the truth.
 
 <span style="color:red">⚠ **Sanctions:** </span>  
-- The absence of a valid recording in the event of a complaint may result in **the cancellation of one's own evidence** and **possible sanctions**.  
-- If a player refuses or is unable to provide the recording in a situation where it is requested, they may be sanctioned according to the violated rules. <span style="color:yellowgreen">(Ex. If you are accused of MetaGaming and you do not have the recording to prove otherwise, you will be sanctioned for MG).</span>
+- The absence of a valid recording in the event of a complaint may result in **the cancellation of one's own evidence** and **possible sanctions**.
+- If a player refuses or cannot provide the footage in a situation where it is requested, he cannot claim his innocence and may be sanctioned. Ex: If you are accused by MetaGaming and you do not have the footage to prove otherwise, you will be sanctioned for MG.
 
-## <a id="2"></a><span style="color: #0088CC">CAP. 2 BASIC RULES</span>
+## <a id="2"></a><span style="color: #0088CC">CAP. 2 - BASIC RULES</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
 
@@ -69,7 +71,7 @@ When you respawn at the hospital, you forget the last action you had, the locati
 - Two mafias/groups are in a conflict/beef. When one leader gets PK’d by the other leader, they and all their members forget the conflict, bringing the complex roleplay to an end.  
 
 <span style="color: green">Notes:</span>  
-- When a mafia/group leader kills a member, the latter will forget all the information they know about that organization or any other organizations they have interacted with, essentially forgetting their mafia life.  
+- When a mafia/group leader kills a member, the latter will forget all the information they know about that organization or any other organizations they have interacted with, essentially forgetting their mafia life. Also, the mafia leader and all the present people will forget all the information about the murdered person.
 - When an organization (official or unofficial) is disbanded, PK is applied to all its members. They forget all the information they knew about that organization or any other organizations they interacted with, essentially forgetting their mafia lives. If the mafia was recognized by the Syndicate, they will forget everything about the Syndicate as well.  
 - Returning to the area where the initial roleplay took place can be done after 30 minutes.  
 - Phone messages, calls, or information held by others cannot be used to recall details about your death or the RP you forgot due to PK. When such information is presented to you, you are obliged to ignore it or imply that these events probably happened in a dream of the person bringing them up.  
@@ -97,6 +99,7 @@ Following a CK, you lose absolutely everything that the player's character owns.
 - When you give important information about the organization you are part of to another organization or the police and you are caught IC doing these things.
 - When you accumulate too many criminal records and receive life imprisonment.
 - When you commit suicide and cannot be saved.
+- When you are being chased by the police and you intentionally drown yourself.
 
 Following a CK, <span style="color: red">the following are lost</span>:
 
@@ -138,7 +141,7 @@ You are <span style="color: green">ALLOWED</span> to call a medic by pressing th
 
 You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing the designated key to be saved in the following cases:
 
-- When you are in an unpopulated area where you could not be seen by other people. See the picture below.
+- When you are in an unpopulated area (marked as brown on the map below) where you could not be seen by other people
 - When you are thrown into the water in an unpopulated area.
 
 <span style="color: red">Sanctions</span> for calling medics from unpopulated areas:
@@ -152,7 +155,7 @@ You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing 
 
 #### <a id="2.6.2"></a><span style="color: #0088CC">2.6.2 Accepting Death</span>
 
-It can be done after the first 5 minutes of coma and represents a <a href="#2.3">#2.3 Player-Kill (PK)</a>. Following the acceptance of death, cash and all items in the inventory will be lost, except for clothes.
+It can be done after the first 5 minutes of coma and represents a <a href="#2.3">#2.3 Player-Kill (PK)</a>. Following the acceptance of death, cash and all items in the inventory will be lost, except for clothes. Disconnecting from the server after the first 5 minutes of coma results in an automated PK.
 
 This action can be taken even if the medic has reached your location. You can choose death until the last second when the medic offers first aid. If the medic fails to resuscitate you, it means you have chosen death.
 
@@ -174,6 +177,8 @@ Represents the situation where a player does not respect the rules and standards
 - Medics - Failure to save people. The situation where a medical staff has a direct or indirect interaction with a citizen in need of medical assistance. Ignoring them is considered fail roleplay.
 - Policemen - Failure to apply the Road Traffic Code. The situation where a member of the police department observes a person or a group of people violating the penal or traffic code and passes by them without taking action according to the internal protocol of the concerned department. <span style="color: yellowgreen">Exception:</span> The moment when the police do not have the necessary capabilities in terms of numbers, equipment, or skills to intervene. (Example: A single police unit arrives at a store robbery and sees that they are significantly outnumbered, 2 vs. 8, at which point the police can leave and request/wait for reinforcements).
 - Opening OOC in IC
+- Towing legally parked vehicles without ensuring that they are abandoned. If you find a legally parked vehicle but believe it is abandoned, ask nearby players to verify if the vehicle is owned by someone or if it is abandoned. If there is no one nearby, you are required to wait at least 5 minutes to confirm if it is indeed abandoned. If a player opens a ticket for a legally parked car missing, you are required to provide clear evidence that you have verified that the car is owned by someone nearby and that you waited the 5 minutes.
+- Robbing people in a coma regardless of the area they are in
 
 <span style="color: yellow">Mentions:</span>
 - You have the right to tow legally parked vehicles only if they are abandoned and under the following conditions. If you find a legally parked vehicle but believe it is abandoned, ask nearby players to check if the vehicle is owned by someone or if it is abandoned. If no one is nearby, you are required to wait at least 5 minutes to confirm whether it is truly abandoned. If a player opens a ticket for a legally parked vehicle’s disappearance, you are required to provide clear evidence showing that you checked whether the vehicle is owned by someone nearby and that you waited the required 5 minutes.
@@ -183,6 +188,10 @@ Represents the situation where a player does not respect the rules and standards
 - First offense: 50-100 Checkpoints
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
+
+<span style="color: green">Notes:</span>
+- For multiple offenses, sanctioning with a 1-3 day ban is possible.
+- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="2.9"></a><span style="color: #0088CC">2.9 Refusing RP</span>
 
@@ -202,6 +211,10 @@ Represents any attempt to hinder roleplay where multiple parties/people are invo
 - First offense: 50-100 Checkpoints
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
+
+<span style="color: green">Notes:</span>
+- For multiple offenses, sanctioning with a 1-3 day ban is possible.
+- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
 
@@ -349,18 +362,25 @@ Represents the action where you are not realistically afraid that your own life 
 - Three or more offenses: Warn
 
 <span style="color: green">Notes:</span>
+- The player's items that do NO FEAR may be confiscated if the roleplay is canceled following a ticket.
 - For multiple offenses, sanctioning with a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 #### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
-- In the case of S.A.S. crews, the No Fear rule does not apply. The only exception to this rule is when a crew of fewer than 3 SAS members is outnumbered by 3 or more people, in which case the No Fear rule applies to the S.A.S. normally.
-- It is important to note that this numerical comparison is made at the start of the RP and is not recalculated during its course. (Example: If you are in an active conflict and 2 out of 3 SAS members go down, the last remaining SAS member will not have the No Fear rule applied. However, if they are left alone and later captured, the rule will apply.)
-- Exemplified numerical situations:
-    - 1 SAS vs 3 <strong style="color: red">NO</strong>, NF does not apply
-    - 1 SAS vs 4 <strong style="color: green">YES</strong>, NF applies
-    - 2 SAS vs 4 <strong style="color: red">NO</strong>, NF does not apply
-    - 2 SAS vs 5 <strong style="color: green">YES</strong>, NF applies
-    - 3 SAS vs any number <strong style="color: red">NO</strong>, NF does not apply
+- For groups of more than 3 SAS members, the No Fear rule does not apply.
+- A single SAS member will roll fear if he is caught by at least 4 players.
+- Two single SAS members will roll fear if they are caught by at least 5 players.
+- It is worth noting that this numerical comparison is made at the start of the RP and is not recalculated during it. (Ex. If you are in an active conflict and you kill 2 of the 3 SAS, the last SAS will not be subject to the No Fear rule, but if he is left alone and is later captured, the rule will apply.)
+
+<span style="color: yellow">Examples:</span>
+- 1 SAS vs 3, <strong style="color: red">NO</strong>, NF does not apply
+- 1 SAS vs 4, <strong style="color: green">YES</strong>, NF applies
+- 2 SAS vs 4, <strong style="color: red">NO</strong>, NF does not apply
+- 2 SAS vs 5, <strong style="color: green">YES</strong>, NF applies
+- 3 SAS vs any number, <strong style="color: red">NO</strong>, NF does not apply
+
+<span style="color: red">Penalties:</span>
+The penalties in rule <a href="#2.18">2.18 No Fear (NF)</a> apply.
 
 
 ### <a id="2.19"></a><span style="color: #0088CC">2.19 Cop-Fear (CF)</span>
@@ -378,8 +398,9 @@ Represents the action by which you are not afraid in the presence of a police bo
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 150-300 Checkpoints
-- Second offense: Warn
+- first violation: 75-150 checkpoints
+- second violation: 300 checkpoints
+- three or more violations: warn
 
 <span style="color: green">Notes:</span>
 - The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
@@ -426,7 +447,7 @@ In situations where the police are involved in a raid action at a location, the 
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bully</span>
-Represents any attitude or behavior of superiority towards other players, repeatedly insulting in the absence of a previous roleplay.
+Represents any attitude or behavior of superiority towards other players, repeatedly insulting **in the absence of a previous roleplay**.
 
 <span style="color: yellow">Examples:</span>
 - Insulting players without a valid reason.
@@ -511,8 +532,26 @@ OOC chat is a way for new players who are not use to the server and to the /tick
 
 <span style="color: red">Sanctions:</span> mute 10-600 minutes and can reach up to 7 days depending on the severity
 
+### <a id="2.28"></a><span style="color: #0088CC">2.28 Low Effort Roleplay (LER)</span>
+It represents when you don't put in a minimum of interest in a roleplay.
 
-## <a id="3"></a><span style="color: #0088CC">CAP 3. OOC BEHAVIOR</span>
+<span style="color: yellow">Examples:</span>
+- You have a serious accident and copy-paste "/me isi vorne osel" and then move on.
+- You ask for a pill at the hospital and are given a quick injection without explanation.
+- You ask for a car repair and are given a kit for it without doing a few checks.
+- You are in a coma, you are given a kit and you continue to shoot your gun as if nothing happened.
+
+<span style="color: red">Penalty:</span>
+
+- first violation: 50-100 Checkpoints
+- second violation: 200 Checkpoints
+- three or more violations: warn
+
+<span style="color: green">Notes:</span>
+- For multiple offences, sanctioning with a warning or a 1-3 day ban is possible.
+- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+
+## <a id="3"></a><span style="color: #0088CC">CAP 3. - OOC BEHAVIOR</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Inappropriate Behavior Towards Girls</span>
 
@@ -881,7 +920,7 @@ When you are at a legal job, you are obliged to respect the following rules:
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Vehicle Theft</span>
 It is not allowed to steal a vehicle from public areas or to rob goods from it, as these areas are under surveillance.
 
-It is permitted to steal a car from outside public areas if you adhere to the <a href="5.4">#5.4 Ninja-Jack</a> rule.
+It is permitted to steal a car from outside public areas if you adhere to the <a href="5.4">#5.4 Ninja-Jack</a> anytime.
 
 You are allowed to steal a police/medic car only in extreme cases as a last resort, and you must abandon it as soon as possible.
 
@@ -929,9 +968,11 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-<span style="color: green">Mențiuni:</span>
+<span style="color: green">Notes and exceptions:</span>
 - if an action starts from a <a href="#7.8.2">Notorious area</a> and continues in a public location (job/hobby area or in the vicinity of a shop, gas station, bank, ATMs, car garages or any other type of business) the illegality in public area rule does not apply if there is a good reason. Example: on a drug delivery you are followed by police crews. You are allowed to fire your gun even in public areas that are on red or yellow zones
 - item crafting areas are not considered public areas, even if they are marked on the map. The regulations of the areas in which they are located apply to them. See rule <a href="#7.8">7.8 Zoning</a>
+- it is allowed to put a gun to your belly/head in cars with tinted windows (full black) even in public areas
+- if a fistfight starts between 2 players/groups based on a previous roleplay and both parties have punched, it is not considered illegal in a public area even if someone ends up in a coma
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage</span>
 
@@ -1288,7 +1329,7 @@ Lies are not allowed in tickets. The staff wants to help you solve your problems
 - Three or more offenses: warn
 
 ### <a id="8.4"></a><span style="color: #0088CC">8.4 Tickets on Discord</span>
-Tickets can be opened in the support area on our discord server (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) for the following issues:
+Tickets can be opened in the support area on our discord server (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) in maximum 24 hours after an incident for the following issues:
 
 - Staff complaints
 - Unban requests
@@ -1312,17 +1353,17 @@ Players permanently banned without the right to appeal will lose their house aft
 Ads that contain offensive words, swearing, racist messages, or any other offensive content will be deleted.
 
 <span style="color: red">Sanctions:</span>
-- First deviation 150 CP
-- The second Warn deviation
+- first offense: 150 checkpoints
+- the second offense: warn
 
 ### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Mandatory roleplay</span>
 
 Announcements must be written in a manner that complies with the rules of roleplay.
 
 <span style="color: red">Sanctions:</span>
-- First Deviation Warning
-- Second deviation 50 CP
-- Third deviation 150 CP
+- first offense: verbal warning
+- second offense: 50 checkpoints
+- third offense: 150 checkpoints
 
 ### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Mandatory Relevant Images</span>
 
@@ -1333,9 +1374,9 @@ The photo attached to the ad must be relevant to the product or service offered.
 - Features OOC (Out of Character) elements.
 
 <span style="color: red">Sanctions:</span>
-- First Deviation Warning
-- Second deviation 50 hp
-- Third deviation 150 hp
+- first offense: verbal warning
+- second offense: 50 checkpoints
+- third offense: 150 checkpoints
 
 Exception: In the case of the use of controversial, political or sexually pornographic images, the penalties may vary depending on the severity and may also include a permanent ban.
 
@@ -1344,18 +1385,18 @@ Exception: In the case of the use of controversial, political or sexually pornog
 It is not allowed to promote or sell illegal goods through the ad platform.
 
 <span style="color: red">Sanctions:</span>
-- First Deviation Warning
-- Second deviation 50 CP
-- Third deviation 150 CP 
+- first offense: verbal warning
+- second offense: 50 checkpoints
+- third offense: 150 checkpoints 
 
 ### <a id="10.5"></a><span style="color: #0088CC"> 10.5 No incitement to hatred or quarrels</span>
 
 Posts that incite hatred, arguments, or unnecessary conflict are not allowed.
 
 <span style="color: red">Sanctions:</span>
-- First deviation 75 CP
-- Second deviation 150 CP 
-- Third Warn Offense
+- first offense: 75 checkpoints
+- second offense: 150 checkpoints 
+- third offense: warn
 
 ### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Prohibition of inappropriate ads</span>
 
@@ -1365,22 +1406,22 @@ Examples of prohibited ads:
 - "I put X to bed on Groove."
 
 <span style="color: red">Sanctions:</span>
-- First deviation 100 CP
-- The second Warn deviation
+- first offense: 100 checkpoints
+- the second offense: Warn
 
 ### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Without promoting other communities</span>
 
 Promoting other servers or communities, including through subtle methods, is strictly prohibited.
 
 <span style="color: red">Sanctions:</span>
-- First offense Ban 7 days
-- Second Permanent Ban Offense
+- first offense: Ban 7 days
+- second offense: Permanent Ban
 
 ### <a id="10.8"></a><span style="color: #0088CC"> 10.8 Limiting ads related to roleplay actions</span>
 
 It is not allowed to use the platform to announce or preface certain actions or roleplay scenarios.
 
 <span style="color: red">Sanctions:</span>
-- First deviation 150 CP
-- The second Warn deviation 
-- Third offense Ban 3 days
+- first offense: 150 checkpoints
+- the second offense: warn 
+- third offense: Ban 3 days
