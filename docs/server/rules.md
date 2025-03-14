@@ -538,6 +538,8 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - Ceri o pastilă la spital și ti se oferă o injecție rapidă fără explicații.
 - Ceri o reparație la mașină și ti se oferă trusă pentru aceasta fără a face câteva verificări.
 - Ești în comă, ți se dă trusă și continui să tragi cu arma de parcă nimic nu s-ar fi întâmplat.
+- Ești oprit la un trafic stop pe Grove (zone roșie), te dai jos să împuști polițistul direct. (știind că finalul acestui RP ar duce în arestarea ta)
+- Dai primul ajutor unui jucător direct fără a rula diferite proceduri medicale. (/me-uri ori înainte ori după revive)
 
 <span style="color: red">Sancțiune:</span>
 
