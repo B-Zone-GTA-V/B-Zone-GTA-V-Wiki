@@ -48,6 +48,22 @@ To ensure fairness and transparency in Roleplay sessions, all players are requir
 - The absence of a valid recording in the event of a complaint may result in **the cancellation of one's own evidence** and **possible sanctions**.
 - If a player refuses or cannot provide the footage in a situation where it is requested, he cannot claim his innocence and may be sanctioned. Ex: If you are accused by MetaGaming and you do not have the footage to prove otherwise, you will be sanctioned for MG.
 
+### <a id="1.6"></a><span style="color: #0088CC">1.6 False Reports and Posthunt</span>
+
+Filing multiple unfounded reports against players, especially when they do not explicitly violate the rules or disrupt the RP experience, is not allowed.
+
+<span style="color: yellow">Examples of posthunt:</span>
+- Persistently seeking the punishment of a player at any cost, even if their actions did not significantly impact the outcome of the RP scenario you were involved in.
+- Creating multiple complaints against a player who is repeatedly found not guilty of breaking any rules.
+
+Before submitting a report or ticket, think carefully. If your complaint is baseless and solely intended to get someone punished, you may be the one penalized for posthunt.
+
+<span style="color: red">Sanctions:</span>
+
+- First offense: 150-200 Checkpoints 
+- Second offense: Warn
+- Three or more offenses: Ban 1-7 zile up to Permanent ban in some cases
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - BASIC RULES</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
@@ -852,58 +868,80 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - Second offense: Ban 1 - 3 zile + Removal of the licenses
 - Three or more offenses: Ban 3 - 7 zile + Removal of the licenses
 
-
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
-Using the vehicle with the intention of hitting another vehicle without a previous roleplay or parking it over a player is prohibited.
+Car-Ramming is prohibited in the following cases:
+- Using a vehicle with the intention of hitting another vehicle or forcing another vehicle to crash into you.
+- Driving a vehicle onto another vehicle.
+
+<span style="color: yellow">Examples:</span>
+- Crashing into a parked car to move it 10 meters away.
+- Seeing an oncoming car and suddenly swerving left at the last moment to guarantee a collision.
+
+<span style="color: red">Penalties:</span>
+- First offense: 100-150 Checkpoints
+- Second offense: 250 Checkpoints
+- Three or more offenses: Warning
 
 #### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Police / Syndicate Armored Vehicle</span>
-- In the case of the police/syndicate armored vehicle, the Car-Ram rule applies differently compared to other vehicles.
-- The police/syndicate armored vehicle can be used for Car-Ram on vehicles, at which point the action is considered a forced Pit-Stop, only if the hit is not frontal.
-- CR is allowed when the purpose is to clear an access zone or reach a strategic position in the context of a complex action or roleplay situation, or when avoiding impact is inevitable (the armored vehicle is a heavy vehicle that does not steer easily).
-- The purpose of the armored vehicle is to create maneuvering space for S.A.S. teams or to clear blocked areas (snow removal), which would otherwise be inaccessible. The purpose is not to hit cars to cause damage or to put the occupants into a <strong>COMA</strong>.
+- For police/syndicate armored vehicles, the Car-Ram rule applies differently than for other vehicles.
+- The police/syndicate armored vehicle may be used for Car-Ram against other vehicles as a forced Pit-Stop, provided the impact is not frontal.
+- Car-Ramming is allowed when the objective is to clear access to a location, reach a strategic position in the context of a complex action or roleplay scenario, or when avoiding impact is unavoidable (as armored vehicles are heavy and do not turn easily).
+- The armored vehicle's purpose is to create maneuvering space for S.A.S. teams or clear blocked areas (snow removal), which would otherwise be inaccessible. It is not meant to damage cars or cause <strong>COMA</strong> to individuals inside vehicles.
 
-##### 1. The armored vehicle can be used on <span style="color: yellow">stationary</span> vehicles in the following situations: <br>
-- The vehicle <span style="color: yellowgreen">blocks</span> or <span style="color: yellowgreen">hinders</span> access to a point of interest. <br>
-- The vehicle is located on the <span style="color: red; font-weight: 700">DIRECT</span> path of the armored vehicle, blocking or hindering its advance.
+- A vehicle <span style="color: yellowgreen">blocks</span> access or <span style="color: yellowgreen">hinders</span> access to a point of interest through various maneuvers.<br>
+- A vehicle positions itself <span style="color: red; font-weight: 700">DIRECTLY</span> in the path of the armored vehicle, obstructing its movement.
 
-    <span style="color: yellow">Examples:</span><br> 
+<details>
+  <summary>Examples 5.6.1 Police Armored Vehicle</summary>
+1. The armored vehicle can be used against <span style="color: yellow">stationary vehicles</span> in the following situations:<br>
+<span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
+    -> A vehicle is parked right in front of a bank entrance to prevent the armored vehicle from parking near the bank door.<br>
+    -> A vehicle blocks the armored vehicle's driving lane, making it impossible to avoid without endangering the driver.<br>
+    -> A driver intentionally stops in front of the armored vehicle to hinder/block its movement <span style="color: red">(The driver is penalized with NF)</span>.<br>
+    -> One or more vehicles block access to an area of interest for the armored vehicle.<br>
+    -> A vehicle is used as cover in a spot that directly blocks the armored vehicle’s path (the person using the car as cover assumes the risk of damage from a possible clearing maneuver).
 
-    <span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
-        -> The vehicle is parked directly in front of the bank entrance to prevent the armored vehicle from parking near the bank door.<br>
-        -> The vehicle blocks the driving lane (direction of travel) of the armored vehicle, making it impossible to avoid without putting the armored vehicle's driver in difficulty.<br>
-        -> The driver intentionally stops in front of the armored vehicle to hinder/block its movement <span style="color: red">(The driver is penalized with NF)</span>.<br>
-        -> One or more vehicles block access to a point of interest for the armored vehicle.<br>
-        -> A car is used as cover in a location that blocks the direct path of the armored vehicle (the person using the car as cover in this position assumes the damage caused by a possible snow removal maneuver).
+<span style="color: red; font-weight: 600">CAR RAM IS FORBIDDEN:</span><br>
+    -> The vehicle does not block direct access or an area of interest for the armored vehicle.<br>
+    -> The vehicle can be avoided in time by the armored vehicle without difficulty.<br>
+    -> The vehicle moves aside to clear the armored vehicle's path.<br>
+    -> The vehicle is used as cover in a position that does not obstruct the armored vehicle’s direct route.
 
-    <span style="color: red; font-weight: 600">CAR RAM IS FORBIDDEN:</span><br>
-        -> The vehicle does not block the direct access road or the area of interest for the armored vehicle.<br>
-        -> The vehicle can be avoided in time by the armored vehicle, stopping at a reasonable distance without hindering its movement.<br>
-        -> The vehicle moves aside to clear the armored vehicle's path.<br>
-        -> The vehicle is used as cover in a position that does not block the direct access path / direct road to the area of interest for the armored vehicle.<br>
+2. The armored vehicle can be used against <span style="color: yellow">moving vehicles</span> in the following situations:<br>
+<span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
+    -> A vehicle drives alongside the armored vehicle to block its turning, attempting to change its direction.<br>
+    -> A vehicle moves in front of the armored vehicle and brake-checks.
 
-##### 2. The armored vehicle can be used on <span style="color: yellow">moving</span> vehicles in the following situations: <br>
-- The vehicle <span style="color: yellowgreen">blocks</span> or <span style="color: yellowgreen">hinders</span> access to a point of interest through various maneuvers.<br>
-- The vehicle positions itself on the <span style="color: red; font-weight: 700">DIRECT</span> path of the armored vehicle, blocking or hindering its advance.
+<span style="color: red; font-weight: 600">THE FOLLOWING ARE CONSIDERED CAR RAMMING, REGARDLESS OF VEHICLE MOVEMENT STATUS:</span><br>
+    -> When the impact is frontal.<br>
+    -> When the legal Pit-Stop speed rule is violated.<br>
+    -> When repeated, purposeless collisions occur between the armored vehicle and other vehicles in RP, only to cause damage (Rocket League-style behavior).<br>
+    -> When a vehicle does not block the armored vehicle’s path or access to an area of interest.<br>
+    -> When snow clearing is not strategic but merely for entertainment or to gain an advantage by damaging vehicles or players in the scenario.<br>
+</details>
 
-    <span style="color: yellow">Examples:</span><br> 
+<span style="color: red">Penalties:</span>
+- First offense: 100-150 Checkpoints
+- Second offense: 250 Checkpoints
+- Three or more offenses: Warning
 
-    <span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
-        -> The vehicle moves alongside the armored vehicle to block its turn, attempting to change its direction of travel.<br>
-        -> The vehicle moves in front of the armored vehicle and performs a brake check.<br>
+#### <a id="5.6.2"></a><span style="color: #0088CC">5.6.2 Roadblocks</span>
+- A roadblock represents the act of intentionally obstructing the movement of a vehicle, player, or access to an area using physical means (vehicles, objects).
 
-<span style="color: red; font-weight: 600">THE FOLLOWING ARE CONSIDERED CAR RAM, REGARDLESS OF VEHICLE MOVEMENT STATE:</span><br>
-    -> When the hit is frontal.<br>
-    -> When the rule regarding the legal pit-stop speed is violated.<br>
-    -> When repeated collisions occur without a specific purpose between the armored vehicle and vehicles in RP, done solely to damage cars (Rocket League-style behavior).<br>
-    -> When the vehicle does not block the road / direction of travel of the armored vehicle to its area of interest.<br>
-    -> When snow removal is done without a strategic purpose but rather for amusement or to gain an advantage by damaging vehicles or players involved in the action.<br>
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span>:
+- Blocking more than one lane using objects.
+- Blocking more than one lane using objects or vehicles <span style="color: yellowgreen">on highways</span>.
+- Sudden roadblocks that guarantee an impact with another vehicle (this can also be sanctioned with <span style="color: red">**NF**</span> in more severe cases).
+- Roadblocks made with <span style="color: yellowgreen">**personal**</span> vehicles from the <span style="color: yellowgreen">**Sport**</span> and <span style="color: yellowgreen">**Super Sport**</span> categories; faction vehicles can be used regardless of category.
 
+<span style="color: green">Notes:</span>
+- Roadblocks must be set up in advance or at sufficiently low speeds to allow those involved in a chase enough time to avoid impact with the roadblock.
 
-<span style="color: red">Sanctions:</span>
+<span style="color: red">Penalties:</span>
+- First offense: 100-150 Checkpoints
+- Second offense: 250 Checkpoints
+- Three or more offenses: Warning
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
 
 ## <a id="6"></a><span style="color: #0088CC">CAP.6 JOBURI ȘI ACTIVITĂȚI LEGALE</span>
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Legal Jobs</span>
@@ -982,13 +1020,29 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 - it is allowed to put a gun to your belly/head in cars with tinted windows (full black) even in public areas
 - if a fistfight starts between 2 players/groups based on a previous roleplay and both parties have punched, it is not considered illegal in a public area even if someone ends up in a coma
 
-### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage</span>
+### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage Situation</span>
 
-Taking hostages can only be done if your life or freedom is under threat, with the goal of escaping these pressures, and money cannot be demanded.
+Taking hostages is the act of capturing and holding a person or a group of people against their will when your freedom or that of your people is in danger, with the aim of escaping these pressures.
 
-Taking a person or a group of people under your threat or your group's threat with the aim of gaining an advantage in a roleplay is allowed, but for no more than 2 hours from the start of taking the hostage(s).
+- A hostage situation can only occur if the <span style="color: yellowgreen">leader</span>, official or unofficial, is in danger or arrested, and only their mafia has the right and capability to demand their release.
+- The mafia leader can take a hostage only when there is no chance of escape and has the right to save only their life and the lives of their people involved in the respective action.
 
-If the player(s) can no longer stay, you are allowed to postpone, and the hostages are obliged to return at the date and time mutually agreed upon.
+It is <span style="color: red">STRICTLY FORBIDDEN</span>:
+- Taking hostages without prior roleplay or a well-founded reason.
+- Holding a person or a group of people under threat from you or your group for more than 2 hours.
+- Demanding money or goods during hostage situation negotiations.
+- Making excessive demands such as forcing a leader or an entire organization to appear at a specific location based on a hostage.
+- Making unreasonable demands from the Police, such as requiring all units to leave, drop their weapons, or demand the release of suspects from custody if they have already been taken from the scene (this also applies to the mafia leader). In principle, excessive exaggerations are not allowed.
+- Taking hostages during robberies, regardless of the type.
+- Taking a police officer/medic hostage once they have fallen into a coma; the police officer/medic taken hostage must be alive.
+
+It is <span style="color: yellow">MANDATORY</span>:
+- That after a hostage agreement/negotiation, you honor your word, and no deception is involved. This applies to both parties involved.
+
+<span style="color: green">Notes:</span>
+- If the player(s) can no longer stay, postponement is allowed, and hostages are required to return at the agreed date and time.
+- If the offer is not accepted, you have the right to execute (PK) the hostage.
+- If you request a vehicle as a means of escape, the Police are <span style="color: yellowgreen">obligated</span> to honor their word and not shoot at the exact moment the hostage is released. The Police should prepare for a chase, not open fire immediately.
 
 <span style="color: red">Sanctions:</span>
 

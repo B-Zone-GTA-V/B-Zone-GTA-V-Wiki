@@ -48,6 +48,21 @@ Pentru a asigura corectitudinea și transparența în cadrul sesiunilor de Rolep
 - Lipsa unei filmări valide în cazul unei reclamații poate duce la **anularea dovezilor proprii** și la **posibile sancțiuni**.
 - Dacă un jucător refuză sau nu poate furniza filmarea într-o situație în care este solicitată, acesta nu poate să își susțină nevinovăția și poate fi sancționat. Ex: Dacă ești acuzat de MetaGaming iar tu nu deții filmarea pentru a demonstra contrarul vei fi sancționat pentru MG.
 
+### <a id="1.6"></a><span style="color: #0088CC">1.6 Reclamatii False și Posthunt</span>
+
+Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special atunci când aceștia nu încalcă în mod explicit regulile sau nu perturbă experiența RP, nu este permisă.
+
+<span style="color: yellow">Exemple de posthunt:</span>
+- Căutarea persistentă a sancționării unui jucător cu orice preț, chiar dacă acțiunile sale nu au influențat semnificativ desfășurarea scenariului RP la care ai luat parte.
+- Crearea de multiple reclamații împotriva unui jucător care este găsit în mod repetat nevinovat de încălcarea vreunei reguli.
+
+Înainte de a trimite o reclamație sau un ticket, gândește-te bine. Dacă plângerea ta este nefondată și urmărește doar sancționarea unei persoane, este posibil să fii chiar tu sancționat pentru posthunt.
+
+<span style="color: red">Sancțiuni:</span>
+
+- Prima abatere: 150-200 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 1-7 zile, până la Ban permanent în unele cazuri
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
@@ -855,8 +870,18 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
 Sunt interzise:
-- folosirea vehiculului cu intenția de a lovi un alt vehicul.
+- folosirea vehiculului cu intenția de a lovi un alt vehicul sau a forța un alt vehicul să intre în tine.
 - urcarea cu un vehicul peste un alt vehicul.
+
+<span style="color: yellow">Exemple:</span>
+- Intrii într-o masina parcată cu scopul de a o muta pe aceasta 10m mai încolo.
+- Vezi o mașină ce vine de pe celălalt sens, tragi stangă în ultimul moment pentru a garanta împactul cu aceasta.
+
+<span style="color: red">Sancțiuni:</span>
+
+- prima abatare: 100-150 Checkpoint-uri
+- a doua abatere: 250 Checkpoint-uri
+- trei sau mai multe abateri: warn
 
 #### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Blindata de poliție / sindicat</span>
 - În cazul blindatei de poliție / sindicat, regula de Car-Ram se aplică într-un mod diferit față de restul vehiculelor.
@@ -868,7 +893,7 @@ Sunt interzise:
 - Vehiculul se poziționează pe drumul <span style="color: red; font-weight: 700">DIRECT</span> al autospecialei blindate, blocându-i drumul sau îngreunându-i înaintarea.
 
 <details>
-  <summary>Exemple</summary>
+  <summary>Exemple 5.6.1 Blindata de poliție</summary>
 1. Blindata se poate folosi pe vehicule <span style="color: yellow">staționare</span> în următoarele situații: <br>
 <span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
     -> Vehiculul este parcat exact în fața intrării băncii pentru a împiedica parcarea blindatei aproape de ușa băncii.<br>
@@ -894,8 +919,25 @@ Sunt interzise:
     -> Când se produc tamponări / lovituri repetate fără un scop anume între blindată și vehiculele aflate în RP, lovituri făcute doar pentru a produce daune mașinilor (Rocket League).<br>
     -> Când vehiculul nu blochează drumul / direcția de mers a blindatei spre zona sa de interes.<br>
     -> Când producerea deszăpezirii nu are un scop strategic, ci doar unul de amuzament sau de creare a unui avantaj prin daunele produse vehiculelor sau jucătorilor implicați în acțiune.<br>
-
 </details>
+
+<span style="color: red">Sancțiuni:</span>
+
+- prima abatare: 100-150 Checkpoint-uri
+- a doua abatere: 250 Checkpoint-uri
+- trei sau mai multe abateri: warn
+
+#### <a id="5.6.2"></a><span style="color: #0088CC">5.6.2 Blocajele</span>
+- Blocajul reprezintă acțiunea de a obstrucționa intenționat deplasarea unui vehicul, jucător sau accesul într-o zonă, folosind mijloace fizice (vehicule, obiecte).
+
+Este <span style="color: #ff0000">STRICT INTERZIS</span>:
+- blocarea a mai mult de o bandă de mers folosind obiecte
+- blocarea a mai mult de o bandă de mers folosind obiecte sau vehicule <span style="color: yellowgreen">în cazul autostrăzilor</span>
+- blocajele făcute din scurt ce garantează împactul cu un alt autovehicul (poate să fie sancționat și cu <span style="color: red">**NF**</span> în cazuri mai grave)
+- blocajele făcute cu vehicule <span style="color: yellowgreen">**personale**</span> din categoria <span style="color: yellowgreen">**Sport**</span> și <span style="color: yellowgreen">**Super Sport**</span>, vehiculele de facțiune pot să fie folosite indiferent de categorie
+
+<span style="color: green">Mențiuni:</span>
+- blocajele trebuie făcute din timp sau la viteze suficient de mici cu scopul de a oferii celor împlicați în urmărire timp suficient pentru a evita impactul cu blocajul
 
 <span style="color: red">Sancțiuni:</span>
 
@@ -983,11 +1025,27 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic</span>
 
-Luarea de ostatic se poate face doar în cazul în care viața sau libertatea vă sunt puse sub amenințare, cu scopul de a scăpa de aceste presiuni și nu se pot cere bani.
+Luarea de ostatic este actul de a captura și reține o persoană sau un grup de persoane împotriva voinței lor, în momentul în care libertatea ta sau a oamenilor tăi este pusă în pericol, cu scopul de a scăpa de aceste presiuni.
 
-Luarea unei persoane sau a unui grup de persoane sub amenințarea ta sau a grupului tău cu scopul de a obține un avantaj într-un roleplay este permisă, dar nu mai mult de 2 ore din momentul în care a început luarea de ostatic(i).
+- Luarea de ostatic poate avea loc doar dacă <span style="color: yellowgreen">liderul</span> oficial sau neoficial este pus în pericol sau arestat, iar doar mafia sa are dreptul și capacitatea de a cere eliberarea lui. 
+- Liderul de mafie poate lua ostatic doar in cazul in care nu mai are sanse de scapare si are dreptul de a-și salva doar viața sa și a oamenilor săi implicați la acțiunea respectivă.
 
-În cazul în care jucătorul/jucătorii nu mai pot sta, vi se permite amânarea, respectiv ostaticii au obligația de a reveni la data și ora stabilită de comun acord.
+Este <span style="color: red">STRICT INTERZIS</span>:
+- Luarea de ostatic fără un roleplay anterior sau un motiv bine întemeiat.
+- Luarea unei persoane sau a unui grup de persoane sub amenințarea ta sau a grupului tău pentru o durata de mai mult de 2 ore.
+- Cererea de bani sau de bunuri în cadrul negocierilor unei situații de ostatic.
+- Să aveți pretenții mari precum pe baza unui ostatic ca un lider sau o întreagă organizație să se prezinte forțat într-o anumită locație.
+- Să aveți pretenții prea mari din partea Poliției, precum să plece toate echipajele, să lase armele sau să cereți eliberarea suspecților din custodie dacă aceștia au fost deja luați de la locul faptei (se aplică și în cazul liderului de mafie). În principiu nu se permit exagerari foarte mari.
+- Luarea de ostatic în cadrul jafurilor, indiferent de ce tip sunt acestea.
+- Luarea unui polițist/medic ostatic odată ce acesta a intrat în coma, polițistul/medicul luat ostatic trebuie să fie în viață.
+
+Este <span style="color: yellow">OBLIGATORIU</span>:
+- Ca după o înțelegere/negociere pe baza ostaticului să vă țineți de cuvânt și să nu fie o înșelăciune la mijloc. Lucru valabil pentru abele părți implicate.
+
+<span style="color: green">Mențiuni:</span>
+- În cazul în care jucătorul/jucătorii nu mai pot sta, vi se permite amânarea, respectiv ostaticii au obligația de a reveni la data și ora stabilită de comun acord.
+- În cazul în care nu se acceptă oferta aveți dreptul de a da PK ostaticului.
+- În cazul în care cereți o mașină ca să puteți fugii sau o cale de scăpare, Poliția este <span style="color: yellowgreen">obligată</span> să se țină de cuvânt și să nu se tragă fix în momentul în care ostaticul este eliberat. Poliția în acel moment se pregatește de o urmărire nu de deschiderea focului.
 
 <span style="color: red">Sancțiuni:</span>
 
