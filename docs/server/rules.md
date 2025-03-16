@@ -252,6 +252,7 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 <span style="color: green">Mențiuni:</span>
 - Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
 - Neprezentarea de dovezi în cazul în care se suspectează un caz de metagaming se sancționează de asemenea.
+- Regula de MG nu se aplică membrilor SAS, DCCO și ai grupărilor mafiote atunci când își recunosc propriii colegi din cadrul organizației lor.
 
 ### <a id="2.11"></a><span style="color: #0088CC">2.11 StreamSnipe</span>
 

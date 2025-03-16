@@ -255,6 +255,7 @@ Represents the use of OOC (Out Of Character) information for IC (In Character) p
 <span style="color: green">Notes:</span>
 - The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
 - Not presenting evidence in the case where metagaming is suspected can also be sanctioned.
+- The MG rule does not apply to SAS, DCCO, and mafia members when recognizing their own colleagues within these groups.
 
 ### <a id="2.11"></a><span style="color: #0088CC">2.11 StreamSnipe</span>
 
