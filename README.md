@@ -1,14 +1,14 @@
 # B-Zone V Wiki
 
-Welcome to the official Wiki page for B-Zone V !
+Welcome to the official Wiki page for [**B-Zone V Roleplay Server**](https://v.b-zone.ro/)!
 
 ## About
 
-This Wiki serves as a central repository for all information related to the B-Zone V Roleplay Server. Here, you can find documentation, guides, FAQs, and more to help you understand and contribute to the project.
+This Wiki serves as a central repository for all information related to the **B-Zone V Roleplay Server**. Here, you can find documentation, guides, FAQs, and more to help you understand and contribute to the project.
 
 ## Live Version
 
-Click here to see the current Wiki B-Zone V page: [Wiki page](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/).
+Click [here](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/) to see the current **Wiki B-Zone V** page.
 
 ## How to Contribute
 
@@ -23,11 +23,14 @@ To contribute to the Wiki, follow these steps:
 git clone https://github.com/[username]/B-Zone-GTA-V-Wiki
 ```
 
-3. **Install VitePress:** Here you can find the documentation: https://vitepress.dev/guide/getting-started
+3. **Install Node modules:** Open terminal and write:
+```bash
+npm install
+```
 
-4. **Make Changes:** Navigate to the cloned repository on your machine and make the necessary changes to the Wiki pages. You can edit existing pages, create new pages, or upload images and files as needed.
+5. **Make Changes:** Navigate to the cloned repository on your machine and make the necessary changes to the Wiki pages. You can edit existing pages, create new pages, or upload images and files as needed.
 
-5. **Commit Changes:** Once you've made your changes, commit them to your forked repository with descriptive commit messages:
+6. **Commit Changes:** Once you've made your changes, commit them to your forked repository with descriptive commit messages:
 ```bash
 git add .
 git commit -m "Add/update [description of changes]"
@@ -47,7 +50,7 @@ git push origin master
 
 If you have any questions or need assistance with contributing to the Wiki, feel free to reach out to us by opening an issue in this repository.
 
-Thank you for contributing to B-Zone V Wiki!
+Thank you for contributing to **B-Zone V Wiki**!
   
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">

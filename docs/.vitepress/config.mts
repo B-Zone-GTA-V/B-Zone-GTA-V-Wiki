@@ -1,4 +1,10 @@
 import { defineConfig } from 'vitepress'
+import crypto from 'crypto'
+import Git from 'simple-git'
+
+const git = Git({
+  maxConcurrentProcesses: 200
+})
 
 export default defineConfig({
   title: "B-Zone V Wiki",
@@ -75,7 +81,9 @@ export default defineConfig({
             items: [
               { text: 'Sală', link: '/server/info/gym' },
               { text: 'Cărți', link: '/server/info/books' },
+              { text: 'Poker', link: '/server/info/poker' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
+              { text: 'Wheel Of Fortune', link: '/server/info/wheel_of_fortune' },
               { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
             ]
           },
@@ -103,24 +111,25 @@ export default defineConfig({
             text: '✒️ Locuri de munca / Jobs',
             collapsed: false,
             items: [
-              { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
-              { text: '⛏️ Miner', link: '/server/jobs/miner' },
-              { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
-              { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
               { text: '🚛 Camionagiu', link: '/server/jobs/trucker' },
               { text: '🚌 Șofer De Autobuz', link: '/server/jobs/bus_driver' },
+              { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
               { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
+              { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
+              { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
+              { text: '⛏️ Miner', link: '/server/jobs/miner' },
+              { text: '✈️ Pilot', link: '/server/jobs/pilot' },
             ]
           },
           {
             text: '🎣 Hobby',
             collapsed: false,
             items: [
-              { text: '🐟 Fisherman', link: '/server/hobby/fisherman' },
               { text: '🚕 B-Taxi', link: '/server/hobby/taxi' },
               { text: '🪡 Tailoring', link: '/server/hobby/tailor' },
-              { text: '🪓 Tăietor de lemne', link: '/server/hobby/lumberjack' },
+              { text: '🐟 Fisherman', link: '/server/hobby/fisherman' },
               { text: '🧑‍🔧 Mecanic', link: '/server/hobby/mechanic' },
+              { text: '🪓 Tăietor de lemne', link: '/server/hobby/lumberjack' },
             ]
           }
         ]
@@ -167,5 +176,50 @@ export default defineConfig({
     footer: {
       copyright: 'Copyright © 2024 B-Zone V'
     }
+  },
+  async transformPageData() {
+    return { contributors: await getContributors() }
   }
 })
+
+async function getContributors() {
+  try {
+    const logOutput = await git.raw(['log', '--pretty=format:%an|%ae']);
+
+    if (!logOutput.trim()) {
+      console.warn('No commits found in the repository');
+      return [];
+    }
+
+    const list = logOutput
+      .split('\n')
+      .map((line) => line.split('|') as [string, string]);
+
+    const contributorsMap: Record<string, { name: string; email: string; commits: number }> = {};
+    const uniqueNames: Set<string> = new Set();
+
+    list.forEach(([name, email]) => {
+      if (!email || uniqueNames.has(name)) return;
+
+      if (!contributorsMap[email]) {
+        contributorsMap[email] = { name, email, commits: 0 };
+        uniqueNames.add(name);
+      }
+      contributorsMap[email].commits++;
+    });
+
+    return Object.values(contributorsMap)
+      .sort((a, b) => b.commits - a.commits)
+      .map((contributor) => ({
+        name: contributor.name,
+        commits: contributor.commits,
+        avatar: `https://www.gravatar.com/avatar/${crypto
+          .createHash('md5')
+          .update(contributor.email.trim().toLowerCase())
+          .digest('hex')}?s=100&d=identicon`,
+      }));
+  } catch (e) {
+    console.error('Error fetching contributors:', e);
+    return [];
+  }
+}

@@ -8,7 +8,7 @@ outline: deep
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Regulation Agreement</span>
 
-By connecting to the server, you directly agree to comply with the server rules. You are obliged to read and adhere to the rules, otherwise, you risk sanctions for each violation.
+By connecting to the server, you directly agree to comply with the server rules. You are required to read and to comply with the rules, otherwise, you risk sanctions for each violation.
 
 ### <a id="1.2"></a><span style="color: #0088CC">1.2 Regulation Interpretation</span>
 
@@ -22,31 +22,49 @@ For any unclear aspects regarding the rules & regulations, contact a staff membe
 - A functional microphone is required to communicate with other players.
 - Roleplay names - Using names of famous people, or names with the intent of trolling, are prohibited. Names can be real or invented by you and should be found in everyday life.
 
-Examples of prohibited names:  Mickael Jackson / Jhon Coa*eLungi / MaJocBine
+Examples of prohibited names: Mickael Jackson / Jhon Coa*eLungi / MaJocBine
 
 Examples of allowed names: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
 Non-compliance or non-cooperation with the server administration to respect any of the above parameters will lead to your account being permanently banned, with the possibility to create another account later.
 
-### <a id="1.4"></a><span style="color: #0088CC">1.4 Player Behavior and Exclusion Policy</span>
+### <a id="1.4"></a><span style="color: #0088CC">1.4 Player Behavior and Exclusion Policy (ZT)</span>
 
-The Administrative Team reserves the right to select and, if necessary, permanently remove players from the server. We base our decisions on attitude, behavior, toxicity, and other relevant aspects. Our goal is to maintain a pleasant environment for all users, and individuals who cause issues will be excluded.
+The Administration Team reserves the right to permanently remove players from the server who are ruining the game experience for other users. This right is also called Zero Tolerance (ZT). The team evaluates the attitude, behavior, toxicity and other relevant aspects of players. Our goal is to maintain a pleasant environment for all users, and people who cause problems will be excluded.
+
+Players who accumulate a lot of sanctions in a short period of time, who have toxic behavior or who disrupt the game experience may be sanctioned with a permanent ban with no payment option.
 
 ### <a id="1.5"></a><span style="color: #0088CC">1.5 Obligation to Record AUDIO-VIDEO Footage</span>  
 
 To ensure fairness and transparency in Roleplay sessions, all players are required to constantly record their gameplay in the form of AUDIO-VIDEO footage.  
 
 <span style="color:yellowgreen">✔ **Specific Rules:** </span>  
-- The recording must include both video and audio to be used as evidence in case of complaints.  
-- Recordings must be kept for a minimum period of **72 hours** from the moment of the game session.  
-- The recording must be of reasonable quality (without excessive lag, clear and intelligible sound).  
-- It is forbidden to modify, cut, or alter the recording in a way that may distort the truth.  
+- The recording must include both video and audio to be used as evidence in case of complaints.
+- Recordings must be kept for a minimum period of **72 hours** from the moment of the game session.
+- The recording must be of reasonable quality (without excessive lag, clear and intelligible sound).
+- It is forbidden to modify, cut, or alter the recording in a way that may distort the truth.
 
 <span style="color:red">⚠ **Sanctions:** </span>  
-- The absence of a valid recording in the event of a complaint may result in **the cancellation of one's own evidence** and **possible sanctions**.  
-- If a player refuses or is unable to provide the recording in a situation where it is requested, they may be sanctioned according to the violated rules. <span style="color:yellowgreen">(Ex. If you are accused of MetaGaming and you do not have the recording to prove otherwise, you will be sanctioned for MG).</span>
+- The absence of a valid recording in the event of a complaint may result in **the cancellation of one's own evidence** and **possible sanctions**.
+- If a player refuses or cannot provide the footage in a situation where it is requested, he cannot claim his innocence and may be sanctioned. Ex: If you are accused by MetaGaming and you do not have the footage to prove otherwise, you will be sanctioned for MG.
 
-## <a id="2"></a><span style="color: #0088CC">CAP. 2 BASIC RULES</span>
+### <a id="1.6"></a><span style="color: #0088CC">1.6 False Reports and Posthunt</span>
+
+Filing multiple unfounded reports against players, especially when they do not explicitly violate the rules or disrupt the RP experience, is not allowed.
+
+<span style="color: yellow">Examples of posthunt:</span>
+- Persistently seeking the punishment of a player at any cost, even if their actions did not significantly impact the outcome of the RP scenario you were involved in.
+- Creating multiple complaints against a player who is repeatedly found not guilty of breaking any rules.
+
+Before submitting a report or ticket, think carefully. If your complaint is baseless and solely intended to get someone punished, you may be the one penalized for posthunt.
+
+<span style="color: red">Sanctions:</span>
+
+- First offense: 150-200 Checkpoints 
+- Second offense: Warn
+- Three or more offenses: Ban 1-7 zile up to Permanent ban in some cases
+
+## <a id="2"></a><span style="color: #0088CC">CAP. 2 - BASIC RULES</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
 
@@ -69,7 +87,7 @@ When you respawn at the hospital, you forget the last action you had, the locati
 - Two mafias/groups are in a conflict/beef. When one leader gets PK’d by the other leader, they and all their members forget the conflict, bringing the complex roleplay to an end.  
 
 <span style="color: green">Notes:</span>  
-- When a mafia/group leader kills a member, the latter will forget all the information they know about that organization or any other organizations they have interacted with, essentially forgetting their mafia life.  
+- When a mafia/group leader kills a member, the latter will forget all the information they know about that organization or any other organizations they have interacted with, essentially forgetting their mafia life. Also, the mafia leader and all the present people will forget all the information about the murdered person.
 - When an organization (official or unofficial) is disbanded, PK is applied to all its members. They forget all the information they knew about that organization or any other organizations they interacted with, essentially forgetting their mafia lives. If the mafia was recognized by the Syndicate, they will forget everything about the Syndicate as well.  
 - Returning to the area where the initial roleplay took place can be done after 30 minutes.  
 - Phone messages, calls, or information held by others cannot be used to recall details about your death or the RP you forgot due to PK. When such information is presented to you, you are obliged to ignore it or imply that these events probably happened in a dream of the person bringing them up.  
@@ -97,6 +115,7 @@ Following a CK, you lose absolutely everything that the player's character owns.
 - When you give important information about the organization you are part of to another organization or the police and you are caught IC doing these things.
 - When you accumulate too many criminal records and receive life imprisonment.
 - When you commit suicide and cannot be saved.
+- When you are being chased by the police and you intentionally drown yourself.
 
 Following a CK, <span style="color: red">the following are lost</span>:
 
@@ -138,7 +157,7 @@ You are <span style="color: green">ALLOWED</span> to call a medic by pressing th
 
 You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing the designated key to be saved in the following cases:
 
-- When you are in an unpopulated area where you could not be seen by other people. See the picture below.
+- When you are in an unpopulated area (marked as brown on the map below) where you could not be seen by other people
 - When you are thrown into the water in an unpopulated area.
 
 <span style="color: red">Sanctions</span> for calling medics from unpopulated areas:
@@ -152,7 +171,7 @@ You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing 
 
 #### <a id="2.6.2"></a><span style="color: #0088CC">2.6.2 Accepting Death</span>
 
-It can be done after the first 5 minutes of coma and represents a <a href="#2.3">#2.3 Player-Kill (PK)</a>. Following the acceptance of death, cash and all items in the inventory will be lost, except for clothes.
+It can be done after the first 5 minutes of coma and represents a <a href="#2.3">#2.3 Player-Kill (PK)</a>. Following the acceptance of death, cash and all items in the inventory will be lost, except for clothes. Disconnecting from the server after the first 5 minutes of coma results in an automated PK.
 
 This action can be taken even if the medic has reached your location. You can choose death until the last second when the medic offers first aid. If the medic fails to resuscitate you, it means you have chosen death.
 
@@ -174,6 +193,8 @@ Represents the situation where a player does not respect the rules and standards
 - Medics - Failure to save people. The situation where a medical staff has a direct or indirect interaction with a citizen in need of medical assistance. Ignoring them is considered fail roleplay.
 - Policemen - Failure to apply the Road Traffic Code. The situation where a member of the police department observes a person or a group of people violating the penal or traffic code and passes by them without taking action according to the internal protocol of the concerned department. <span style="color: yellowgreen">Exception:</span> The moment when the police do not have the necessary capabilities in terms of numbers, equipment, or skills to intervene. (Example: A single police unit arrives at a store robbery and sees that they are significantly outnumbered, 2 vs. 8, at which point the police can leave and request/wait for reinforcements).
 - Opening OOC in IC
+- Towing legally parked vehicles without ensuring that they are abandoned. If you find a legally parked vehicle but believe it is abandoned, ask nearby players to verify if the vehicle is owned by someone or if it is abandoned. If there is no one nearby, you are required to wait at least 5 minutes to confirm if it is indeed abandoned. If a player opens a ticket for a legally parked car missing, you are required to provide clear evidence that you have verified that the car is owned by someone nearby and that you waited the 5 minutes.
+- Robbing people in a coma regardless of the area they are in
 
 <span style="color: yellow">Mentions:</span>
 - You have the right to tow legally parked vehicles only if they are abandoned and under the following conditions. If you find a legally parked vehicle but believe it is abandoned, ask nearby players to check if the vehicle is owned by someone or if it is abandoned. If no one is nearby, you are required to wait at least 5 minutes to confirm whether it is truly abandoned. If a player opens a ticket for a legally parked vehicle’s disappearance, you are required to provide clear evidence showing that you checked whether the vehicle is owned by someone nearby and that you waited the required 5 minutes.
@@ -183,6 +204,10 @@ Represents the situation where a player does not respect the rules and standards
 - First offense: 50-100 Checkpoints
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
+
+<span style="color: green">Notes:</span>
+- For multiple offenses, sanctioning with a 1-3 day ban is possible.
+- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="2.9"></a><span style="color: #0088CC">2.9 Refusing RP</span>
 
@@ -202,6 +227,10 @@ Represents any attempt to hinder roleplay where multiple parties/people are invo
 - First offense: 50-100 Checkpoints
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
+
+<span style="color: green">Notes:</span>
+- For multiple offenses, sanctioning with a 1-3 day ban is possible.
+- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
 
@@ -226,6 +255,7 @@ Represents the use of OOC (Out Of Character) information for IC (In Character) p
 <span style="color: green">Notes:</span>
 - The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
 - Not presenting evidence in the case where metagaming is suspected can also be sanctioned.
+- The MG rule does not apply to SAS, DCCO, and mafia members when recognizing their own colleagues within these groups.
 
 ### <a id="2.11"></a><span style="color: #0088CC">2.11 StreamSnipe</span>
 
@@ -349,18 +379,25 @@ Represents the action where you are not realistically afraid that your own life 
 - Three or more offenses: Warn
 
 <span style="color: green">Notes:</span>
+- The player's items that do NO FEAR may be confiscated if the roleplay is canceled following a ticket.
 - For multiple offenses, sanctioning with a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 #### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
-- In the case of S.A.S. crews, the No Fear rule does not apply. The only exception to this rule is when a crew of fewer than 3 SAS members is outnumbered by 3 or more people, in which case the No Fear rule applies to the S.A.S. normally.
-- It is important to note that this numerical comparison is made at the start of the RP and is not recalculated during its course. (Example: If you are in an active conflict and 2 out of 3 SAS members go down, the last remaining SAS member will not have the No Fear rule applied. However, if they are left alone and later captured, the rule will apply.)
-- Exemplified numerical situations:
-    - 1 SAS vs 3 <strong style="color: red">NO</strong>, NF does not apply
-    - 1 SAS vs 4 <strong style="color: green">YES</strong>, NF applies
-    - 2 SAS vs 4 <strong style="color: red">NO</strong>, NF does not apply
-    - 2 SAS vs 5 <strong style="color: green">YES</strong>, NF applies
-    - 3 SAS vs any number <strong style="color: red">NO</strong>, NF does not apply
+- For groups of more than 3 SAS members, the No Fear rule does not apply.
+- A single SAS member will roll fear if he is caught by at least 4 players.
+- Two single SAS members will roll fear if they are caught by at least 5 players.
+- It is worth noting that this numerical comparison is made at the start of the RP and is not recalculated during it. (Ex. If you are in an active conflict and you kill 2 of the 3 SAS, the last SAS will not be subject to the No Fear rule, but if he is left alone and is later captured, the rule will apply.)
+
+<span style="color: yellow">Examples:</span>
+- 1 SAS vs 3, <strong style="color: red">NO</strong>, NF does not apply
+- 1 SAS vs 4, <strong style="color: green">YES</strong>, NF applies
+- 2 SAS vs 4, <strong style="color: red">NO</strong>, NF does not apply
+- 2 SAS vs 5, <strong style="color: green">YES</strong>, NF applies
+- 3 SAS vs any number, <strong style="color: red">NO</strong>, NF does not apply
+
+<span style="color: red">Penalties:</span>
+The penalties in rule <a href="#2.18">2.18 No Fear (NF)</a> apply.
 
 
 ### <a id="2.19"></a><span style="color: #0088CC">2.19 Cop-Fear (CF)</span>
@@ -378,8 +415,9 @@ Represents the action by which you are not afraid in the presence of a police bo
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 150-300 Checkpoints
-- Second offense: Warn
+- first violation: 75-150 checkpoints
+- second violation: 300 checkpoints
+- three or more violations: warn
 
 <span style="color: green">Notes:</span>
 - The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
@@ -426,7 +464,7 @@ In situations where the police are involved in a raid action at a location, the 
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bully</span>
-Represents any attitude or behavior of superiority towards other players, repeatedly insulting in the absence of a previous roleplay.
+Represents any attitude or behavior of superiority towards other players, repeatedly insulting **in the absence of a previous roleplay**.
 
 <span style="color: yellow">Examples:</span>
 - Insulting players without a valid reason.
@@ -511,8 +549,26 @@ OOC chat is a way for new players who are not use to the server and to the /tick
 
 <span style="color: red">Sanctions:</span> mute 10-600 minutes and can reach up to 7 days depending on the severity
 
+### <a id="2.28"></a><span style="color: #0088CC">2.28 Low Effort Roleplay (LER)</span>
+It represents when you don't put in a minimum of interest in a roleplay.
 
-## <a id="3"></a><span style="color: #0088CC">CAP 3. OOC BEHAVIOR</span>
+<span style="color: yellow">Examples:</span>
+- You have a serious accident and copy-paste "/me isi vorne osel" and then move on.
+- You ask for a pill at the hospital and are given a quick injection without explanation.
+- You ask for a car repair and are given a kit for it without doing a few checks.
+- You are in a coma, you are given a kit and you continue to shoot your gun as if nothing happened.
+
+<span style="color: red">Penalty:</span>
+
+- first violation: 50-100 Checkpoints
+- second violation: 200 Checkpoints
+- three or more violations: warn
+
+<span style="color: green">Notes:</span>
+- For multiple offences, sanctioning with a warning or a 1-3 day ban is possible.
+- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+
+## <a id="3"></a><span style="color: #0088CC">CAP 3. - OOC BEHAVIOR</span>
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Inappropriate Behavior Towards Girls</span>
 
@@ -783,58 +839,110 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - park boats on land
 - block entrances to ports or specially designated areas for boats
 
+#### <a id="5.5.7"></a><span style="color: #0088CC">5.5.7 Airplanes</span>
 
-### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
-Using the vehicle with the intention of hitting another vehicle without a previous roleplay or parking it over a player is prohibited.
+<span style="color: limegreen">Reguli generale pentru piloți:</span>
+- Pilots must comply with all air traffic regulations and act realistically.
+- Takeoff and landing must be announced in advance via the airport radio station.
+- Pilots are not allowed to wait for the players they transport to Cayo for more than 2 minutes.
+- Pilots must follow the designated routes for the job and may not deviate from them without a valid RP reason.
+- Flying close to the ground without landing the plane to gain a benefit is forbidden.
+- Airplanes must be parked only in designated areas.
+- Any aviation accident must be treated as a serious incident within the roleplay.
+- Abandoning aircraft in unauthorized locations is punishable by a 3-7 day ban and loss of the aviation license.
 
-#### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Police / Syndicate Armored Vehicle</span>
-- In the case of the police/syndicate armored vehicle, the Car-Ram rule applies differently compared to other vehicles.
-- The police/syndicate armored vehicle can be used for Car-Ram on vehicles, at which point the action is considered a forced Pit-Stop, only if the hit is not frontal.
-- CR is allowed when the purpose is to clear an access zone or reach a strategic position in the context of a complex action or roleplay situation, or when avoiding impact is inevitable (the armored vehicle is a heavy vehicle that does not steer easily).
-- The purpose of the armored vehicle is to create maneuvering space for S.A.S. teams or to clear blocked areas (snow removal), which would otherwise be inaccessible. The purpose is not to hit cars to cause damage or to put the occupants into a <strong>COMA</strong>.
+<span style="color: yellow">Examples of well-founded reasons for route deviation:</span>
+- The Syndicate Leader organizes a roleplay in Paleto and needs transportation from Los Santos.
+- The General Commissioner organizes a roleplay near the military base and needs transportation.
+- *Unjustified reason*: **"X called me to Paleto to pick him up and take him to Cayo."**.
 
-##### 1. The armored vehicle can be used on <span style="color: yellow">stationary</span> vehicles in the following situations: <br>
-- The vehicle <span style="color: yellowgreen">blocks</span> or <span style="color: yellowgreen">hinders</span> access to a point of interest. <br>
-- The vehicle is located on the <span style="color: red; font-weight: 700">DIRECT</span> path of the armored vehicle, blocking or hindering its advance.
 
-    <span style="color: yellow">Examples:</span><br> 
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
+- Use job airplanes for fun, personal trips, or trolling.
+- Commit crimes, robberies, or transport individuals without a valid roleplay reason.
 
-    <span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
-        -> The vehicle is parked directly in front of the bank entrance to prevent the armored vehicle from parking near the bank door.<br>
-        -> The vehicle blocks the driving lane (direction of travel) of the armored vehicle, making it impossible to avoid without putting the armored vehicle's driver in difficulty.<br>
-        -> The driver intentionally stops in front of the armored vehicle to hinder/block its movement <span style="color: red">(The driver is penalized with NF)</span>.<br>
-        -> One or more vehicles block access to a point of interest for the armored vehicle.<br>
-        -> A car is used as cover in a location that blocks the direct path of the armored vehicle (the person using the car as cover in this position assumes the damage caused by a possible snow removal maneuver).
-
-    <span style="color: red; font-weight: 600">CAR RAM IS FORBIDDEN:</span><br>
-        -> The vehicle does not block the direct access road or the area of interest for the armored vehicle.<br>
-        -> The vehicle can be avoided in time by the armored vehicle, stopping at a reasonable distance without hindering its movement.<br>
-        -> The vehicle moves aside to clear the armored vehicle's path.<br>
-        -> The vehicle is used as cover in a position that does not block the direct access path / direct road to the area of interest for the armored vehicle.<br>
-
-##### 2. The armored vehicle can be used on <span style="color: yellow">moving</span> vehicles in the following situations: <br>
-- The vehicle <span style="color: yellowgreen">blocks</span> or <span style="color: yellowgreen">hinders</span> access to a point of interest through various maneuvers.<br>
-- The vehicle positions itself on the <span style="color: red; font-weight: 700">DIRECT</span> path of the armored vehicle, blocking or hindering its advance.
-
-    <span style="color: yellow">Examples:</span><br> 
-
-    <span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
-        -> The vehicle moves alongside the armored vehicle to block its turn, attempting to change its direction of travel.<br>
-        -> The vehicle moves in front of the armored vehicle and performs a brake check.<br>
-
-<span style="color: red; font-weight: 600">THE FOLLOWING ARE CONSIDERED CAR RAM, REGARDLESS OF VEHICLE MOVEMENT STATE:</span><br>
-    -> When the hit is frontal.<br>
-    -> When the rule regarding the legal pit-stop speed is violated.<br>
-    -> When repeated collisions occur without a specific purpose between the armored vehicle and vehicles in RP, done solely to damage cars (Rocket League-style behavior).<br>
-    -> When the vehicle does not block the road / direction of travel of the armored vehicle to its area of interest.<br>
-    -> When snow removal is done without a strategic purpose but rather for amusement or to gain an advantage by damaging vehicles or players involved in the action.<br>
-
+⚠️ All pilots must follow these rules! Failure to comply will result in severe penalties!
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
+- First offense: Warn + Removal of the licenses
+- Second offense: Ban 1 - 3 zile + Removal of the licenses
+- Three or more offenses: Ban 3 - 7 zile + Removal of the licenses
+
+### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
+Car-Ramming is prohibited in the following cases:
+- Using a vehicle with the intention of hitting another vehicle or forcing another vehicle to crash into you.
+- Driving a vehicle onto another vehicle.
+
+<span style="color: yellow">Examples:</span>
+- Crashing into a parked car to move it 10 meters away.
+- Seeing an oncoming car and suddenly swerving left at the last moment to guarantee a collision.
+
+<span style="color: red">Penalties:</span>
+- First offense: 100-150 Checkpoints
+- Second offense: 250 Checkpoints
+- Three or more offenses: Warning
+
+#### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Police / Syndicate Armored Vehicle</span>
+- For police/syndicate armored vehicles, the Car-Ram rule applies differently than for other vehicles.
+- The police/syndicate armored vehicle may be used for Car-Ram against other vehicles as a forced Pit-Stop, provided the impact is not frontal.
+- Car-Ramming is allowed when the objective is to clear access to a location, reach a strategic position in the context of a complex action or roleplay scenario, or when avoiding impact is unavoidable (as armored vehicles are heavy and do not turn easily).
+- The armored vehicle's purpose is to create maneuvering space for S.A.S. teams or clear blocked areas (snow removal), which would otherwise be inaccessible. It is not meant to damage cars or cause <strong>COMA</strong> to individuals inside vehicles.
+
+- A vehicle <span style="color: yellowgreen">blocks</span> access or <span style="color: yellowgreen">hinders</span> access to a point of interest through various maneuvers.<br>
+- A vehicle positions itself <span style="color: red; font-weight: 700">DIRECTLY</span> in the path of the armored vehicle, obstructing its movement.
+
+<details>
+  <summary>Examples 5.6.1 Police Armored Vehicle</summary>
+1. The armored vehicle can be used against <span style="color: yellow">stationary vehicles</span> in the following situations:<br>
+<span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
+    -> A vehicle is parked right in front of a bank entrance to prevent the armored vehicle from parking near the bank door.<br>
+    -> A vehicle blocks the armored vehicle's driving lane, making it impossible to avoid without endangering the driver.<br>
+    -> A driver intentionally stops in front of the armored vehicle to hinder/block its movement <span style="color: red">(The driver is penalized with NF)</span>.<br>
+    -> One or more vehicles block access to an area of interest for the armored vehicle.<br>
+    -> A vehicle is used as cover in a spot that directly blocks the armored vehicle’s path (the person using the car as cover assumes the risk of damage from a possible clearing maneuver).
+
+<span style="color: red; font-weight: 600">CAR RAM IS FORBIDDEN:</span><br>
+    -> The vehicle does not block direct access or an area of interest for the armored vehicle.<br>
+    -> The vehicle can be avoided in time by the armored vehicle without difficulty.<br>
+    -> The vehicle moves aside to clear the armored vehicle's path.<br>
+    -> The vehicle is used as cover in a position that does not obstruct the armored vehicle’s direct route.
+
+2. The armored vehicle can be used against <span style="color: yellow">moving vehicles</span> in the following situations:<br>
+<span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
+    -> A vehicle drives alongside the armored vehicle to block its turning, attempting to change its direction.<br>
+    -> A vehicle moves in front of the armored vehicle and brake-checks.
+
+<span style="color: red; font-weight: 600">THE FOLLOWING ARE CONSIDERED CAR RAMMING, REGARDLESS OF VEHICLE MOVEMENT STATUS:</span><br>
+    -> When the impact is frontal.<br>
+    -> When the legal Pit-Stop speed rule is violated.<br>
+    -> When repeated, purposeless collisions occur between the armored vehicle and other vehicles in RP, only to cause damage (Rocket League-style behavior).<br>
+    -> When a vehicle does not block the armored vehicle’s path or access to an area of interest.<br>
+    -> When snow clearing is not strategic but merely for entertainment or to gain an advantage by damaging vehicles or players in the scenario.<br>
+</details>
+
+<span style="color: red">Penalties:</span>
+- First offense: 100-150 Checkpoints
+- Second offense: 250 Checkpoints
+- Three or more offenses: Warning
+
+#### <a id="5.6.2"></a><span style="color: #0088CC">5.6.2 Roadblocks</span>
+- A roadblock represents the act of intentionally obstructing the movement of a vehicle, player, or access to an area using physical means (vehicles, objects).
+
+It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span>:
+- Blocking more than one lane using objects.
+- Blocking more than one lane using objects or vehicles <span style="color: yellowgreen">on highways</span>.
+- Sudden roadblocks that guarantee an impact with another vehicle (this can also be sanctioned with <span style="color: red">**NF**</span> in more severe cases).
+- Roadblocks made with <span style="color: yellowgreen">**personal**</span> vehicles from the <span style="color: yellowgreen">**Sport**</span> and <span style="color: yellowgreen">**Super Sport**</span> categories; faction vehicles can be used regardless of category.
+
+<span style="color: green">Notes:</span>
+- Roadblocks must be set up in advance or at sufficiently low speeds to allow those involved in a chase enough time to avoid impact with the roadblock.
+
+<span style="color: red">Penalties:</span>
+- First offense: 100-150 Checkpoints
+- Second offense: 250 Checkpoints
+- Three or more offenses: Warning
+
 
 ## <a id="6"></a><span style="color: #0088CC">CAP.6 JOBURI ȘI ACTIVITĂȚI LEGALE</span>
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Legal Jobs</span>
@@ -859,7 +967,7 @@ When you are at a legal job, you are obliged to respect the following rules:
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Vehicle Theft</span>
 It is not allowed to steal a vehicle from public areas or to rob goods from it, as these areas are under surveillance.
 
-It is permitted to steal a car from outside public areas if you adhere to the <a href="5.4">#5.4 Ninja-Jack</a> rule.
+It is permitted to steal a car from outside public areas if you adhere to the <a href="5.4">#5.4 Ninja-Jack</a> anytime.
 
 You are allowed to steal a police/medic car only in extreme cases as a last resort, and you must abandon it as soon as possible.
 
@@ -907,17 +1015,35 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-<span style="color: green">Mențiuni:</span>
+<span style="color: green">Notes and exceptions:</span>
 - if an action starts from a <a href="#7.8.2">Notorious area</a> and continues in a public location (job/hobby area or in the vicinity of a shop, gas station, bank, ATMs, car garages or any other type of business) the illegality in public area rule does not apply if there is a good reason. Example: on a drug delivery you are followed by police crews. You are allowed to fire your gun even in public areas that are on red or yellow zones
 - item crafting areas are not considered public areas, even if they are marked on the map. The regulations of the areas in which they are located apply to them. See rule <a href="#7.8">7.8 Zoning</a>
+- it is allowed to put a gun to your belly/head in cars with tinted windows (full black) even in public areas
+- if a fistfight starts between 2 players/groups based on a previous roleplay and both parties have punched, it is not considered illegal in a public area even if someone ends up in a coma
 
-### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage</span>
+### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage Situation</span>
 
-Taking hostages can only be done if your life or freedom is under threat, with the goal of escaping these pressures, and money cannot be demanded.
+Taking hostages is the act of capturing and holding a person or a group of people against their will when your freedom or that of your people is in danger, with the aim of escaping these pressures.
 
-Taking a person or a group of people under your threat or your group's threat with the aim of gaining an advantage in a roleplay is allowed, but for no more than 2 hours from the start of taking the hostage(s).
+- A hostage situation can only occur if the <span style="color: yellowgreen">leader</span>, official or unofficial, is in danger or arrested, and only their mafia has the right and capability to demand their release.
+- The mafia leader can take a hostage only when there is no chance of escape and has the right to save only their life and the lives of their people involved in the respective action.
 
-If the player(s) can no longer stay, you are allowed to postpone, and the hostages are obliged to return at the date and time mutually agreed upon.
+It is <span style="color: red">STRICTLY FORBIDDEN</span>:
+- Taking hostages without prior roleplay or a well-founded reason.
+- Holding a person or a group of people under threat from you or your group for more than 2 hours.
+- Demanding money or goods during hostage situation negotiations.
+- Making excessive demands such as forcing a leader or an entire organization to appear at a specific location based on a hostage.
+- Making unreasonable demands from the Police, such as requiring all units to leave, drop their weapons, or demand the release of suspects from custody if they have already been taken from the scene (this also applies to the mafia leader). In principle, excessive exaggerations are not allowed.
+- Taking hostages during robberies, regardless of the type.
+- Taking a police officer/medic hostage once they have fallen into a coma; the police officer/medic taken hostage must be alive.
+
+It is <span style="color: yellow">MANDATORY</span>:
+- That after a hostage agreement/negotiation, you honor your word, and no deception is involved. This applies to both parties involved.
+
+<span style="color: green">Notes:</span>
+- If the player(s) can no longer stay, postponement is allowed, and hostages are required to return at the agreed date and time.
+- If the offer is not accepted, you have the right to execute (PK) the hostage.
+- If you request a vehicle as a means of escape, the Police are <span style="color: yellowgreen">obligated</span> to honor their word and not shoot at the exact moment the hostage is released. The Police should prepare for a chase, not open fire immediately.
 
 <span style="color: red">Sanctions:</span>
 
@@ -967,6 +1093,7 @@ Represent actions through which multiple people will die as a result of the role
 <span style="color: yellowgreen">Exceptions:</span>
 - On Cayo Island, alliances with civilians are allowed.
 - Economic alliances (delivery, business, or truce) can also be made with civilians.
+- The mafia that owns a territory (which is not a territory to be delivered) has the right to intervene on it if the police raid it.
 
 <span style="color: red">Sanctions:</span>
 - Mafias that violate this rule will automatically receive <strong style="color: red">Mafia WARN</strong>.
@@ -1054,7 +1181,7 @@ Illegal example: On a plantation, a conflict started between several people. One
 
 - On yellow streets in notorious areas, it is forbidden to rob in that exact perimeter. Robbing should be moved to a notorious area, not the semi-public street. On the yellow roads in the infamous areas, the following are allowed regardless of the time: taking a hostage and opening fire based on a previous roleplay and a very well-founded reason (no traffic-stop).
 
-- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a red, yellow or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the notorious area and you have a good reason. If you are followed by the police while delivering drugs it is considered a good reason and you are allowed to open fire, even in public areas within red or yellow zones.
+- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a red, yellow or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the notorious area and you have a good reason.
 
 <span style="color: green">Examples:</span>
 - An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.
@@ -1142,7 +1269,7 @@ Represents the action of making someone drop all the items from their inventory 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Stores</span>
 Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people only if all the participants in the robbery have at least 50 hours.
 
-After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
+Civilians present during the robbery cannot be robbed, kidnapped or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
 If a robbery starts with fewer than 8 participants, other people can join up to the maximum number (8). For example: the robbery starts in 2 people, a maximum of 8 more people can be called for reinforcements.
 
@@ -1265,7 +1392,7 @@ Lies are not allowed in tickets. The staff wants to help you solve your problems
 - Three or more offenses: warn
 
 ### <a id="8.4"></a><span style="color: #0088CC">8.4 Tickets on Discord</span>
-Tickets can be opened in the support area on our discord server (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) for the following issues:
+Tickets can be opened in the support area on our discord server (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) in maximum 24 hours after an incident for the following issues:
 
 - Staff complaints
 - Unban requests
@@ -1289,17 +1416,17 @@ Players permanently banned without the right to appeal will lose their house aft
 Ads that contain offensive words, swearing, racist messages, or any other offensive content will be deleted.
 
 <span style="color: red">Sanctions:</span>
-- First deviation 150 CP
-- The second Warn deviation
+- first offense: 150 checkpoints
+- the second offense: warn
 
 ### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Mandatory roleplay</span>
 
 Announcements must be written in a manner that complies with the rules of roleplay.
 
 <span style="color: red">Sanctions:</span>
-- First Deviation Warning
-- Second deviation 50 CP
-- Third deviation 150 CP
+- first offense: verbal warning
+- second offense: 50 checkpoints
+- third offense: 150 checkpoints
 
 ### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Mandatory Relevant Images</span>
 
@@ -1310,9 +1437,9 @@ The photo attached to the ad must be relevant to the product or service offered.
 - Features OOC (Out of Character) elements.
 
 <span style="color: red">Sanctions:</span>
-- First Deviation Warning
-- Second deviation 50 hp
-- Third deviation 150 hp
+- first offense: verbal warning
+- second offense: 50 checkpoints
+- third offense: 150 checkpoints
 
 Exception: In the case of the use of controversial, political or sexually pornographic images, the penalties may vary depending on the severity and may also include a permanent ban.
 
@@ -1321,18 +1448,18 @@ Exception: In the case of the use of controversial, political or sexually pornog
 It is not allowed to promote or sell illegal goods through the ad platform.
 
 <span style="color: red">Sanctions:</span>
-- First Deviation Warning
-- Second deviation 50 CP
-- Third deviation 150 CP 
+- first offense: verbal warning
+- second offense: 50 checkpoints
+- third offense: 150 checkpoints 
 
 ### <a id="10.5"></a><span style="color: #0088CC"> 10.5 No incitement to hatred or quarrels</span>
 
 Posts that incite hatred, arguments, or unnecessary conflict are not allowed.
 
 <span style="color: red">Sanctions:</span>
-- First deviation 75 CP
-- Second deviation 150 CP 
-- Third Warn Offense
+- first offense: 75 checkpoints
+- second offense: 150 checkpoints 
+- third offense: warn
 
 ### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Prohibition of inappropriate ads</span>
 
@@ -1342,22 +1469,22 @@ Examples of prohibited ads:
 - "I put X to bed on Groove."
 
 <span style="color: red">Sanctions:</span>
-- First deviation 100 CP
-- The second Warn deviation
+- first offense: 100 checkpoints
+- the second offense: Warn
 
 ### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Without promoting other communities</span>
 
 Promoting other servers or communities, including through subtle methods, is strictly prohibited.
 
 <span style="color: red">Sanctions:</span>
-- First offense Ban 7 days
-- Second Permanent Ban Offense
+- first offense: Ban 7 days
+- second offense: Permanent Ban
 
 ### <a id="10.8"></a><span style="color: #0088CC"> 10.8 Limiting ads related to roleplay actions</span>
 
 It is not allowed to use the platform to announce or preface certain actions or roleplay scenarios.
 
 <span style="color: red">Sanctions:</span>
-- First deviation 150 CP
-- The second Warn deviation 
-- Third offense Ban 3 days
+- first offense: 150 checkpoints
+- the second offense: warn 
+- third offense: Ban 3 days

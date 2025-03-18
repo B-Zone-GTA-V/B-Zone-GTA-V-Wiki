@@ -21,9 +21,9 @@ An attempt is when a person tries to commit a crime, but the action is interrupt
 
 Any citizen who drives a vehicle is required to drive with a maximum speed of:
 
-- City - **70 km/h**
-- National Road - **100 km/h**
-- Highway - **150 km/h**
+- City - **100 km/h**
+- National Road - **150 km/h**
+- Highway - **250 km/h**
 
 Speed limit violations are sanctioned as follows:
 

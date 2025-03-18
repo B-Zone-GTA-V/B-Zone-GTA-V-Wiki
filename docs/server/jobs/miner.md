@@ -15,7 +15,7 @@ outline: deep
     </tr>
     <tr>
         <td>De cate ore am nevoie?</td>
-        <td>De minim 100 ore.</td>
+        <td>De minim 30 ore.</td>
     </tr>
     <tr>
         <td>Necesită iteme specifice?</td>
