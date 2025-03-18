@@ -138,6 +138,18 @@ Anyone who installs xenons or any other lighting installations on their car besi
 
 - **Contravention fine: $4,500**
 
+### <a id="1.16"></a><span style="color: #0088CC">1.16 Disregarding Traffic Light Signals</span>
+
+Any driver/person who does not comply with the traffic light signals for road traffic or pedestrian crossings may be penalized with:
+
+- **Administrative Fine: $8,000**
+- **Driver's License Revocation**
+
+Exceptions:
+
+- Vehicles making a right turn will benefit from a flashing green signal and will be required to yield to vehicles and pedestrians with the right of way.
+- Flashing green signal schedule: This will be active between 00:00 - 12:00, allowing traffic flow to be optimized during this time interval.
+
 ## <a id="2"></a><span style="color: #0088CC">CH. 2 Traffic Felonies</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Fleeing from an officer in a vehicle</span>
