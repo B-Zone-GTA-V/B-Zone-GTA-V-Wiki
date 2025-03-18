@@ -142,6 +142,18 @@ Orice persoană care are montate xenoane pe autovehicul sau instalații de ilumi
 
 - **Amendă contravențională: 4.500$**
 
+### <a id="1.16"></a><span style="color: #0088CC">1.16 Nerespectarea culorii a semaforului</span>
+
+Orice conducator / persoana care nu respecta culoarea semaforului de circulatie rutiera cat si traversare pietonala poate fi sanctionat cu:
+
+- **Amendă contravențională: 8.000$**
+- **Anulare permis de conducere**
+
+Excepții:
+
+- Vehiculele care efectuează virajul la dreapta vor beneficia de un semnal verde intermitent și vor avea obligația de a acorda prioritate vehiculelor și pietonilor care au drept de trecere.
+- Program semnal verde intermitent: Acesta va fi activ între orele 00:00 - 12:00, permițând fluidizarea traficului în acest interval orar.
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 Infracțiuni în Trafic</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Evadarea de un ofiţer cu un autovehicul</span>
