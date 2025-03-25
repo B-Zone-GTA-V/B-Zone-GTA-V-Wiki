@@ -664,6 +664,13 @@ Exemple de moduri ilegale:
 - a 2-a abatere: ban 30 de zile
 - a 3-a abatere: ban permanent
 
+#### <a id="4.3.2"></a><span style="color: #0088CC">4.3.2 Afiliere comunitate cheats</span>
+Se consideră afiliere, promovare sau colaborare orice asociere cu o comunitate, website, server de Discord sau grup care distribuie, vinde sau promovează programe de tip cheat, hack ori orice alt software ce oferă un avantaj în joc.
+
+<span style="color: red">Sancțiuni:</span>
+- First offense: ban 30 de zile
+- Second offense: ban permanent fără drept de plată
+
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 AFK (Away From Keyboard)</span>
 Este permis cel mult de 5 minute într-o zonă publică populată (secție poliție, spital, etc) și cel mult de 30 de minute într-o zonă retrasă dacă nu aveți un roleplay activ.
 

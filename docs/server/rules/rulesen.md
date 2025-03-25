@@ -662,6 +662,13 @@ Examples of illegal mods:
 - Second offense: 30-day ban
 - Third offense: permanent ban
 
+#### <a id="4.3.2"></a><span style="color: #0088CC">4.3.2 Affiliation with Cheat Communities</span>
+Any association with a community, website, Discord server, or group that distributes, sells, or promotes cheat programs, hacks, or any other software that provides an in-game advantage is considered affiliation, promotion, or collaboration.
+
+<span style="color: red">Sanctions:</span>
+- First offense: 30-day ban
+- Second offense: permanent ban without payment right
+
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 AFK (Away From Keyboard)</span>
 It is allowed for a maximum of 5 minutes in a populated public area (police station, hospital, etc.) and for a maximum of 30 minutes in a secluded area if you do not have an active roleplay.
 
