@@ -668,8 +668,8 @@ Exemple de moduri ilegale:
 Se consideră afiliere, promovare sau colaborare orice asociere cu o comunitate, website, server de Discord sau grup care distribuie, vinde sau promovează programe de tip cheat, hack ori orice alt software ce oferă un avantaj în joc.
 
 <span style="color: red">Sancțiuni:</span>
-- First offense: ban 30 de zile
-- Second offense: ban permanent fără drept de plată
+- prima abatere: ban 30 de zile
+- a 2-a abatere: ban permanent fără drept de plată
 
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 AFK (Away From Keyboard)</span>
 Este permis cel mult de 5 minute într-o zonă publică populată (secție poliție, spital, etc) și cel mult de 30 de minute într-o zonă retrasă dacă nu aveți un roleplay activ.
@@ -1231,14 +1231,18 @@ Este <span style="color: red">interzis</span>:
 - Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
-#### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill / Kill & Rob</span>
-Rob & Kill reprezintă acțiunea de a jefui, ulterior omorî o persoană. Este interzisă omorârea unei persoane după ce ați jefuit-o.<br>
-Kill & Rob reprezintă acțiunea de a omorî, ulterior jefuind persoană. Este interzisă jefuirea unei persoane după ce ați omorât-o.
+#### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill | Kill & Rob | Drop & Kill</span>
+- Rob & Kill reprezintă acțiunea de a jefui, ulterior omorî o persoană (PK). Este interzisă omorârea unei persoane (PK) după ce ați jefuit-o.<br>
+- Kill & Rob reprezintă acțiunea de a omorî (Comă), ulterior jefuind persoană cât ea este în comă. Este interzisă jefuirea unei persoane după ce ați omorât-o (Comă).<br>
+- Drop & Kill reprezintă acțiunea de a pune pe cineva sa arunce pe jos / ofere obiectele din inventar ca mai apoi să-l omori (PK).
+
+In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, acesta nu poate să fie privat de acest drept. Orice acțiune ce asigură PK-ul jucătorului în urma jefuirii nu este permisă.
 
 <span style="color: yellow">Exemple:</span>
 
 - Ai răpit o persoană, o duci într-un loc ferit, o omori și o jefuiești.
 - Jefuiești o persoană și chemi pe altcineva să-l omoare având un plan stabilit anterior.
+- Te-ai hotărât să oprești pe cineva și îl forțezi, folosindu-te de intimidare, să arunce tot ce are in inventar. Mai apoi, te gândești să-l omori, acest lucru este interzis.
 
 <span style="color: green">Excepții de la regulă:</span>
 - Ai voie să omori o persoană doar atunci când tu pleci din acel loc unde ai jefuit-o, iar aceasta te urmărește singură sau se întâlnește cu alte persoane pentru a te doborî/recupera lucrurile furate. 
@@ -1247,21 +1251,6 @@ Kill & Rob reprezintă acțiunea de a omorî, ulterior jefuind persoană. Este i
 - În momentul în care primiți o țeapă IC cu obiecte ilegale
 
 Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
-
-<span style="color: red">Sancțiuni:</span>
-
-- prima abatere: 75-150 checkpoint-uri
-- a doua abatere: 300 checkpoint-uri
-- trei sau mai multe abateri: warn
-
-<span style="color: green">Mențiuni:</span>
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
-
-#### <a id="7.9.3"></a><span style="color: #0088CC">7.9.2 Drop & Kill</span>
-Reprezintă acțiunea de a pune pe cineva sa arunce pe jos toate obiectele din inventar ca mai apoi să-l omori.
-
-<span style="color: yellow">Exemplu:</span> Te-ai hotărât să oprești pe cineva și îl forțezi, folosindu-te de intimidare, să arunce tot ce are in inventar. Mai apoi, te gândești să-l omori, acest lucru este interzis.
 
 <span style="color: red">Sancțiuni:</span>
 

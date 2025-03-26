@@ -1229,13 +1229,17 @@ It is <span style="color: red">prohibited</span>:
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill</span>
-Rob & Kill represents the action of robbing and subsequently killing a person. It is prohibited to kill a person after you have robbed them.<br>
-Kill & Rob represents the action of killing and subsequently robbing a person. It is prohibited to rob a person after killing them.
+- Rob & Kill represents the act of robbing and then killing a person (PK). It is forbidden to kill a person (PK) after you have robbed them.<br>
+- Kill & Rob represents the act of killing someone (passed out), then robbing them while they are in a coma. It is forbidden to rob a person after you have killed them (passed out).<br>
+- Drop & Kill represents the act of forcing someone to drop or give items from their inventory and then killing them (PK).
+
+In principle, the robbed player must remember that they were robbed; they cannot be deprived of this right. Any action that results in the player being PK’ed after the robbery is not allowed.
 
 <span style="color: yellow">Examples:</span>
 
 - You kidnap a person, take them to a secluded place, kill them and rob them.
 - You rob a person and call someone else to kill them having a pre-established plan.
+- You decide to stop someone and intimidate them into dropping everything they have in their inventory. Then, you think to kill them, this action is prohibited.
 
 <span style="color: green">Rule exceptions:</span>
 - You are allowed to kill a person only when you leave the place where you robbed them, and they follow you alone or meet with other people to take you down/recover the stolen items.
@@ -1250,21 +1254,6 @@ All these exceptions can be made adhering to the rule <a href="#7.3">#7.3 Illega
 - First offense: 75-150 checkpoints
 - Second offense: 300 checkpoints
 - Three or more offenses: warn
-
-<span style="color: green">Notes:</span>
-- For multiple rule violations, sanctioning with a 1-3 day ban is possible.
-- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
-
-#### <a id="7.9.3"></a><span style="color: #0088CC">7.9.3 Drop & Kill</span>
-Represents the action of making someone drop all the items from their inventory and then killing them.
-
-<span style="color: yellow">Example:</span> You decide to stop someone and intimidate them into dropping everything they have in their inventory. Then, you think to kill them, this action is prohibited.
-
-<span style="color: red">Sanctions:</span>
-
-- First offense: 75-150 checkpoints
-- Second offense: 300 checkpoints
-- Three or more offenses: Warn
 
 <span style="color: green">Notes:</span>
 - For multiple rule violations, sanctioning with a 1-3 day ban is possible.
