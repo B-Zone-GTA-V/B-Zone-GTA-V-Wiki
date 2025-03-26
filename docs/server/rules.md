@@ -445,7 +445,8 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
 
 Reprezintă deconectarea de pe server în mod intenționat în timpul un roleplay pentru a-ți crea un avantaj. Aveți obligația să anunțați persoanele implicate în roleplay că reveniți (discord pe canalul general) și să reveniți pe server în maxim 5 minute. În cazul în care rămâneți fără curent sau internet puteți să anunțați de pe telefon pe discordul nostru.
 
-În situațiile în care este implicată poliția într-o acțiune de tip razie la o locație, jucătorul care s-a deconectat de la server și care nu revine, va pierde itemele pe care le are in inventar și mașină. 
+În cazul în care un jucător se deconectează de pe server pentru a evita consecințele unui roleplay (cum ar fi pierderea itemelor), iar acesta nu revine într-un timp rezonabil, va pierde toate itemele din inventar, precum și din vehiculul deținut.
+Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat offline.
 
 <span style="color: yellow">Exemple:</span>
 - Ești la o locație de ilegale și îți dai disconnect când vine o razie din partea poliției sau când vine altă mafie.

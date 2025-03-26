@@ -446,7 +446,8 @@ Represents the action through which you want to attract the attention of the pol
 
 Represents intentionally disconnecting from the server during a roleplay to create an advantage for yourself. You are required to notify the people involved in the roleplay that you will return (discord on the general channel) and to return to the server within a maximum of 5 minutes. In case you run out of electricity or internet, you can notify on our discord from your phone.
 
-In situations where the police are involved in a raid action at a location, the player who disconnected from the server and does not return will lose the items they have in their inventory and car.
+If a player disconnects from the server to avoid the consequences of a roleplay scenario (such as losing items), and does not return within a reasonable amount of time, they will lose all items from their inventory as well as from their vehicle.
+If the disconnection was intended to avoid a possible CK (Character Kill), the CK will be applied offline.
 
 <span style="color: yellow">Examples:</span>
 - You are at an illegal location and disconnect when a raid by the police comes or when another mafia comes.
