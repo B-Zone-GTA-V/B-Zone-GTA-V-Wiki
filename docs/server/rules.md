@@ -1234,10 +1234,12 @@ Este <span style="color: red">interzis</span>:
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill | Kill & Rob | Drop & Kill</span>
 - Rob & Kill reprezintă acțiunea de a jefui, ulterior omorî o persoană (PK). Este interzisă omorârea unei persoane (PK) după ce ați jefuit-o.<br>
-- Kill & Rob reprezintă acțiunea de a omorî (Comă), ulterior jefuind persoană cât ea este în comă. Este interzisă jefuirea unei persoane după ce ați omorât-o (Comă).<br>
+- Kill & Rob reprezintă acțiunea de a omorî (Comă), ulterior jefuind persoană cât ea este în comă.<br>
 - Drop & Kill reprezintă acțiunea de a pune pe cineva sa arunce pe jos / ofere obiectele din inventar ca mai apoi să-l omori (PK).
 
 In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, acesta nu poate să fie privat de acest drept. Orice acțiune ce asigură PK-ul jucătorului în urma jefuirii nu este permisă.
+
+<span style="color: red">Este strict interzisă folosirea truselor de prim ajutor pe cineva în Comă cu scopul de a-l jefui ulterior. Dacă vreți să jefuiți pe cineva picat el trebuie să fie dus la un spital ilegal, roleplay-ul de jefuit continuându-se de acolo.</span>
 
 <span style="color: yellow">Exemple:</span>
 

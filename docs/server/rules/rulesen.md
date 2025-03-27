@@ -1231,10 +1231,12 @@ It is <span style="color: red">prohibited</span>:
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill</span>
 - Rob & Kill represents the act of robbing and then killing a person (PK). It is forbidden to kill a person (PK) after you have robbed them.<br>
-- Kill & Rob represents the act of killing someone (passed out), then robbing them while they are in a coma. It is forbidden to rob a person after you have killed them (passed out).<br>
+- Kill & Rob represents the act of killing someone (passed out), then robbing them while they are in a coma.<br>
 - Drop & Kill represents the act of forcing someone to drop or give items from their inventory and then killing them (PK).
 
 In principle, the robbed player must remember that they were robbed; they cannot be deprived of this right. Any action that results in the player being PK’ed after the robbery is not allowed.
+
+<span style="color: red">It is strictly forbidden to use first aid kits on someone in a coma with the purpose of robbing them afterward. If you want to rob someone who has fallen unconscious, they must be taken to an illegal hospital, and the robbery roleplay should continue from there.</span>
 
 <span style="color: yellow">Examples:</span>
 
