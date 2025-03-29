@@ -194,7 +194,7 @@ Represents the situation where a player does not respect the rules and standards
 - Policemen - Failure to apply the Road Traffic Code. The situation where a member of the police department observes a person or a group of people violating the penal or traffic code and passes by them without taking action according to the internal protocol of the concerned department. <span style="color: yellowgreen">Exception:</span> The moment when the police do not have the necessary capabilities in terms of numbers, equipment, or skills to intervene. (Example: A single police unit arrives at a store robbery and sees that they are significantly outnumbered, 2 vs. 8, at which point the police can leave and request/wait for reinforcements).
 - Opening OOC in IC
 - Towing legally parked vehicles without ensuring that they are abandoned. If you find a legally parked vehicle but believe it is abandoned, ask nearby players to verify if the vehicle is owned by someone or if it is abandoned. If there is no one nearby, you are required to wait at least 5 minutes to confirm if it is indeed abandoned. If a player opens a ticket for a legally parked car missing, you are required to provide clear evidence that you have verified that the car is owned by someone nearby and that you waited the 5 minutes.
-- Robbing people in a coma regardless of the area they are in
+- Robbing people in a coma regardless of the area they are in (Ex. You find someone in a coma and rob them, whether you revive them in any way or rob them on the spot while they’re still down)
 
 <span style="color: yellow">Mentions:</span>
 - You have the right to tow legally parked vehicles only if they are abandoned and under the following conditions. If you find a legally parked vehicle but believe it is abandoned, ask nearby players to check if the vehicle is owned by someone or if it is abandoned. If no one is nearby, you are required to wait at least 5 minutes to confirm whether it is truly abandoned. If a player opens a ticket for a legally parked vehicle’s disappearance, you are required to provide clear evidence showing that you checked whether the vehicle is owned by someone nearby and that you waited the required 5 minutes.
@@ -446,7 +446,8 @@ Represents the action through which you want to attract the attention of the pol
 
 Represents intentionally disconnecting from the server during a roleplay to create an advantage for yourself. You are required to notify the people involved in the roleplay that you will return (discord on the general channel) and to return to the server within a maximum of 5 minutes. In case you run out of electricity or internet, you can notify on our discord from your phone.
 
-In situations where the police are involved in a raid action at a location, the player who disconnected from the server and does not return will lose the items they have in their inventory and car.
+If a player disconnects from the server to avoid the consequences of a roleplay scenario (such as losing items), and does not return within a reasonable amount of time, they will lose all items from their inventory as well as from their vehicle.
+If the disconnection was intended to avoid a possible CK (Character Kill), the CK will be applied offline.
 
 <span style="color: yellow">Examples:</span>
 - You are at an illegal location and disconnect when a raid by the police comes or when another mafia comes.
@@ -661,6 +662,13 @@ Examples of illegal mods:
 - First offense: warning + removal of mods
 - Second offense: 30-day ban
 - Third offense: permanent ban
+
+#### <a id="4.3.2"></a><span style="color: #0088CC">4.3.2 Affiliation with Cheat Communities</span>
+Any association with a community, website, Discord server, or group that distributes, sells, or promotes cheat programs, hacks, or any other software that provides an in-game advantage is considered affiliation, promotion, or collaboration.
+
+<span style="color: red">Sanctions:</span>
+- First offense: 30-day ban
+- Second offense: permanent ban without payment right
 
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 AFK (Away From Keyboard)</span>
 It is allowed for a maximum of 5 minutes in a populated public area (police station, hospital, etc.) and for a maximum of 30 minutes in a secluded area if you do not have an active roleplay.
@@ -1222,13 +1230,19 @@ It is <span style="color: red">prohibited</span>:
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill</span>
-Rob & Kill represents the action of robbing and subsequently killing a person. It is prohibited to kill a person after you have robbed them.<br>
-Kill & Rob represents the action of killing and subsequently robbing a person. It is prohibited to rob a person after killing them.
+- Rob & Kill represents the act of robbing and then killing a person (PK). It is forbidden to kill a person (PK) after you have robbed them.<br>
+- Kill & Rob represents the act of killing someone (passed out), then robbing them while they are in a coma.<br>
+- Drop & Kill represents the act of forcing someone to drop or give items from their inventory and then killing them (PK).
+
+In principle, the robbed player must remember that they were robbed; they cannot be deprived of this right. Any action that results in the player being PK’ed after the robbery is not allowed.
+
+<span style="color: red">It is strictly forbidden to use first aid kits on someone in a coma with the purpose of robbing them afterward. If you want to rob someone who has fallen unconscious, they must be taken to an illegal hospital, and the robbery roleplay should continue from there.</span>
 
 <span style="color: yellow">Examples:</span>
 
 - You kidnap a person, take them to a secluded place, kill them and rob them.
 - You rob a person and call someone else to kill them having a pre-established plan.
+- You decide to stop someone and intimidate them into dropping everything they have in their inventory. Then, you think to kill them, this action is prohibited.
 
 <span style="color: green">Rule exceptions:</span>
 - You are allowed to kill a person only when you leave the place where you robbed them, and they follow you alone or meet with other people to take you down/recover the stolen items.
@@ -1243,21 +1257,6 @@ All these exceptions can be made adhering to the rule <a href="#7.3">#7.3 Illega
 - First offense: 75-150 checkpoints
 - Second offense: 300 checkpoints
 - Three or more offenses: warn
-
-<span style="color: green">Notes:</span>
-- For multiple rule violations, sanctioning with a 1-3 day ban is possible.
-- The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
-
-#### <a id="7.9.3"></a><span style="color: #0088CC">7.9.3 Drop & Kill</span>
-Represents the action of making someone drop all the items from their inventory and then killing them.
-
-<span style="color: yellow">Example:</span> You decide to stop someone and intimidate them into dropping everything they have in their inventory. Then, you think to kill them, this action is prohibited.
-
-<span style="color: red">Sanctions:</span>
-
-- First offense: 75-150 checkpoints
-- Second offense: 300 checkpoints
-- Three or more offenses: Warn
 
 <span style="color: green">Notes:</span>
 - For multiple rule violations, sanctioning with a 1-3 day ban is possible.
