@@ -20,13 +20,13 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 |Pescar|312|104|
 |Cautator de comori|1080|360|
 |Tirist|48|16|
-|Artizan arme|1200|400|
+|Artizan arme|900|300|
 |Forjor|480|160|
 |Croitor|150|50|
 |Fermier|1050|350|
-|Rulor de țigări|393|131|
+|Rulor de țigări|300|100|
 |Craft general|150|50|
-|Chimist|240|80|
+|Chimist|300|100|
 
 ### <span style="color: #0088CC">English</span>
 
@@ -42,13 +42,13 @@ To write a book, you need a notebook that can be bought in any 24/7 store.
 |Fisherman|312|104|
 |Scavanger|1080|360|
 |Trucker|48|16|
-|Weapon Smith|300|100|
-|Forgery|1200|400|
+|Weapon Smith|900|300|
+|Forgery|480|160|
 |Tailor|150|50|
 |Farmer|1050|350|
-|Smoke crafts|393|131|
+|Smoke crafts|300|100|
 |General Craft|150|50|
-|Chemist|240|80|
+|Chemist|300|100|
 
 <details>
   <summary>Write Book</summary>
