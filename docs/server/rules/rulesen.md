@@ -1178,23 +1178,25 @@ The following are allowed outside the city areas between <span style="color:yell
 
 ---
 
-<span style="color: green">Notes and Exceptions:</span>
-- There is no abuse of the green zone. Once an action starts in a red area, gray, or red roads, you have the right to continue it in the green or yellow zone. It should be noted that in green zones, the only illegal action allowed is kidnapping outside government institutions (City Hall, Police Station, Hospital, etc.). In this case, kidnapping in the green zones is not allowed to last more than 5 minutes; otherwise, the rule of <a href="#7.6">#7.6 Terrorist Actions</a> will apply. Kidnapping from the green zone can only take place if no more than 10 minutes have passed since the last interaction between the parties involved, which started in a notorious area.
+<span style="color: green">Mentions and Exceptions:</span>
+- There is no abuse of the green zone. Once an action begins in a red, grey, or red road area, you are allowed to continue it in a green or yellow zone. It’s important to note that the only illegal action permitted in green zones is **KIDNAPPING**, and only outside government institutions (City Hall, Police Station, Hospital, etc.). In this case, kidnapping in green zones must not exceed 5 minutes. Otherwise, it falls under the <a href="#7.6">#7.6 Terrorist Actions</a> rule. Kidnapping in a green zone can only occur if no more than 10 minutes have passed since the last interaction between the involved parties, and the action must have started in a high-crime area.
 
-Allowed example: A conflict between several people started in the Grove area. One of the people manages to escape into the green area, being pursued. The escaped person can be kidnapped from the green zone quickly (the kidnapping action can last a maximum of 5 minutes).
+- Between green zones, there are certain secluded areas (e.g., Rockford area – between buildings, behind buildings). If you manage to lure another player there, you may kidnap, rob, or kill them. Between the buildings in green zones, the alleys apply grey zone rules.
 
-Illegal example: On a plantation, a conflict started between several people. One of the people leaves and is identified a few hours later in a green area. You are unable to kidnap from green zone because more than 10 minutes have passed in which green zone kidnapping is allowed.
+- On yellow streets in high-crime zones, robbery is prohibited in that exact perimeter. The robbery must be moved to the high-crime zone itself, not on the semi-public road. On yellow roads in high-crime areas, the following are allowed regardless of time: hostage-taking and opening fire based on prior roleplay and a well-founded reason (no traffic stops).
 
-- Between the green zones, there are certain secluded areas (e.g., the Rockford area - between blocks, behind buildings). If you manage to lure another player there, you can kidnap, rob, or kill them. Essentially, the Gray Zone rule applies.
+- The rule of illegality in public areas (for businesses: gas stations, garages, salons, ATMs, etc.) applies regardless of whether it’s a red, yellow, or grey zone. You still can’t rob someone at a gas station even if it's located in Grove. The only exception is when the action started in a high-crime area and there is a valid reason.
 
-- On yellow streets in notorious areas, it is forbidden to rob in that exact perimeter. Robbing should be moved to a notorious area, not the semi-public street. On the yellow roads in the infamous areas, the following are allowed regardless of the time: taking a hostage and opening fire based on a previous roleplay and a very well-founded reason (no traffic-stop).
+- If a conflict action (fight between two groups using lethal weapons) starts in a red, grey, or red road area, you may continue it on highways outside the city, **except** for areas around borders (from the border, toward the border, or with a border between the fighting camps).
 
-- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a red, yellow or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the notorious area and you have a good reason.
+- In general, you must be cautious in the areas where you commit illegal actions: they should not be trafficked by people or vehicles, should not have surveillance cameras, and should not be near police stations. Practically, illegal actions are allowed in secluded and hidden areas. Note: you are not allowed to kidnap someone in a green zone and then take them between buildings for robbery or murder—try to lure them into such zones instead.
 
-<span style="color: green">Examples:</span>
-- An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.
+<span style="color: green">Examples:</span><br>
+<span style="color: yellowgreen">Allowed:</span> 
+- A conflict starts in the Grove area between multiple individuals. One of them escapes into a green zone and is followed. The escaping person can be quickly kidnapped from the green zone (kidnapping can last up to 5 minutes).
 
-- In general, you must be careful in the areas where you commit illegal activities, ensuring they are not frequented by people or vehicles, do not have surveillance cameras, and are not near a police station. Practically, illegal activities are permitted in secluded and hidden areas. Attention, you are not allowed to kidnap from the green zone and take between buildings for robbery or murder; try to lure people into these areas.
+<span style="color: red">Not Allowed:</span> 
+- A conflict starts at a plantation between multiple people. One of them leaves and is identified hours later in a green zone. Kidnapping is not allowed from the green zone because more than 10 minutes have passed since the last interaction.
 
 Violation of the above time intervals and the failure of following the rules will be <span style="color: red">sanctioned</span> with:
 - first offense: 50-100 Checkpoints

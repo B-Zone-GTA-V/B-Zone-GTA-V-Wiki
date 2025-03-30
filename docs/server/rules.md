@@ -1182,11 +1182,7 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 ---
 
 <span style="color: green">Mențiuni și Exceptii:</span>
-- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați în zona verde sau galbenă. De precizat este faptul că pe zonele verzi singura acțiune ilegală admisă este răpirea în afara instituțiilor guvernamentale (Primărie, Secție de poliție, Spital etc.). În acest caz, răpirea din zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>. Răpirea din zona verde poate avea loc doar dacă nu au trecut mai mult de 10 minute de la ultima înteracțiune dintre părțile implicate, acțiune ce a început într-o zonă rău famată. 
-
-Exemplu permis: Pe zona Grove a început un conflict între mai multe persoane. Una dintre persoane reușește să scape în zonă verde, aceasta fiind urmărită. Persoana care a scăpat poate fi răpită din zona verde rapid (acțiunea de răpire poate dura maxim 5 minute).
-
-Exemplu nepermis: La o plantație a început un conflict între mai mult persoane. Una dintre persoane pleacă și este identificată câteva ore mai tărziu într-o zonă verde. Nu se poate răpi din zonă verde pentru că au trecut mai mult de 10 minute în care se permite răpirea din zonă verde.
+- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați în zona verde sau galbenă. De precizat este faptul că pe zonele verzi singura acțiune ilegală admisă este **RĂPIREA** în afara instituțiilor guvernamentale (Primărie, Secție de poliție, Spital etc.). În acest caz, răpirea din zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>. Răpirea din zona verde poate avea loc doar dacă nu au trecut mai mult de 10 minute de la ultima înteracțiune dintre părțile implicate, acțiune ce a început într-o zonă rău famată. 
 
 - Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. Între blocurile din zonă verde, pe aleele dintre blocuri se aplică regula de Zone Gri.
 
@@ -1194,10 +1190,16 @@ Exemplu nepermis: La o plantație a început un conflict între mai mult persoan
 
 - Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă roșie, galbenă sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată și există un motiv bine întemeiat.
 
-<span style="color: green">Exemple:</span>
-- Acțiunea începe în zona rău famată Labirint și se extinde spre Mirror sau autostradă. Aceasta nu va fi considerată ilegalitate în zona publică, deoarece acțiunea a început într-o zonă rău famată și a ajuns într-o zonă publică
+- În cazul în care o acțiune de tip conflic (bătaie între 2 grupari de oameni cu arme letale) începe pe o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați pe autostrăzile din afara orașului, cu excepția zonelor din jurul vămilor (din vamă, spre vamă și cu vamă între taberele de bătaie). 
 
 - În general, trebuie să fiți atenți în zonele în care comiteți ilegalități, să nu fie tranzitate de oameni sau mașini, să nu aibă camere de supraveghere sau să nu fie aproape de o secție de poliție. Practic, ilegalitățile sunt permise în zonele ferite și ascunse. Atenție, nu aveți voie să răpiți din zona verde și să duceți între blocuri pentru jefuire sau omor, încercați să atrageți persoanele în aceste zone.
+
+<span style="color: green">Exemple:</span><br>
+<span style="color: yellowgreen">Permis:</span> 
+- Pe zona Grove a început un conflict între mai multe persoane. Una dintre persoane reușește să scape în zonă verde, aceasta fiind urmărită. Persoana care a scăpat poate fi răpită din zona verde rapid (acțiunea de răpire poate dura maxim 5 minute).
+
+<span style="color: red">Nepermis:</span> 
+- La o plantație a început un conflict între mai mult persoane. Una dintre persoane pleacă și este identificată câteva ore mai tărziu într-o zonă verde. Nu se poate răpi din zonă verde pentru că au trecut mai mult de 10 minute în care se permite răpirea din zonă verde.
 
 Încălcarea întervalelor orare de mai sus și nerespectarea indicațiilor se <span style="color: red">sancționează</span> cu:
 - prima abatare: 50-100 Checkpoint-uri
