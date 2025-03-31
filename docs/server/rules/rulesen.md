@@ -87,6 +87,7 @@ When you respawn at the hospital, you forget the last action you had, the locati
 - Two mafias/groups are in a conflict/beef. When one leader gets PK’d by the other leader, they and all their members forget the conflict, bringing the complex roleplay to an end.  
 
 <span style="color: green">Notes:</span>  
+- When you leave any government organization (Police or Medical) or their respective departments, you are required to forget all the specific details related to those organizations/departments (information about their members, actions, or any information acquired during your time of service within them). The only thing you are allowed to remember is the fact that you were once part of that organization/department.
 - When a mafia/group leader kills a member, the latter will forget all the information they know about that organization or any other organizations they have interacted with, essentially forgetting their mafia life. Also, the mafia leader and all the present people will forget all the information about the murdered person.
 - When an organization (official or unofficial) is disbanded, PK is applied to all its members. They forget all the information they knew about that organization or any other organizations they interacted with, essentially forgetting their mafia lives. If the mafia was recognized by the Syndicate, they will forget everything about the Syndicate as well.  
 - Returning to the area where the initial roleplay took place can be done after 30 minutes.  
