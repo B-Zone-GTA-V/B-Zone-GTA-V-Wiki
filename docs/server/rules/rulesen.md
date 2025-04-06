@@ -541,6 +541,8 @@ OOC corruption is any method of corruption done on communication channels other 
 - Any act by which you offer goods acquired in government factions
 - Providing information that you acquire in the faction you belong to (example: information from the police when an illegal location is raided) through OOC communication channels (discord, whatsapp, etc.)
 - Storage of faction equipment in personal vehicles or houses
+- Releasing a detainee (regardless of whether they possess illegal items or not) from police custody without a strong and well-established IC reason or any prior roleplay that justifies the action.  
+(The release must not be based on OOC information or OOC friendships.) - If you are suspected of such an act of corruption and cannot prove a valid IC relationship or reason between you and the detainee, you will be sanctioned accordingly.
 
 <span style="color: red">Sanctions:</span> ban 3-7 days depending on severity without the right to pay for unban + 20 Fanction Punish (you will not be able to enter another faction or gang for 20 days) + faction blacklist
 
@@ -559,6 +561,10 @@ It represents when you don't put in a minimum of interest in a roleplay.
 - You ask for a pill at the hospital and are given a quick injection without explanation.
 - You ask for a car repair and are given a kit for it without doing a few checks.
 - You are in a coma, you are given a kit and you continue to shoot your gun as if nothing happened.
+- You are stopped at a traffic control in Grove (red zone), and without any clear context or RP reason, you get out of the car and shoot the police officer — knowing full well that this situation would lead to your arrest.
+- You provide first aid to a player without performing any kind of medical roleplay (no /me commands before or after the revive).
+- You are a police officer and notice an individual in a vehicle that is not confirmed to be Code 1 (armed or extremely dangerous), yet you choose to open fire at the tires and even at the driver, with the intention of neutralizing him or his vehicle.
+
 
 <span style="color: red">Penalty:</span>
 
@@ -569,6 +575,22 @@ It represents when you don't put in a minimum of interest in a roleplay.
 <span style="color: green">Notes:</span>
 - For multiple offences, sanctioning with a warning or a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+
+### <a id="2.29"></a><span style="color: #0088CC">2.29 Scamming (Fraudulent Deals)</span>
+
+- It is strictly forbidden to scam other players, both IC (in-character) and OOC (out-of-character), in transactions involving **LEGAL GOODS**.
+- In the event of a scam, all goods will be returned to the victim.
+
+<span style="color: red">Sanctions:</span>
+
+- First offense: 7-day ban  
+- Second offense: 14-day ban  
+- Third and subsequent offenses: 30-day ban
+
+<span style="color: green">Notes:</span>
+
+- Lending items is done at your own risk and is not punishable, as long as it stays within reasonable boundaries.
+- Being an accomplice to a scam is punished equally to the main offender.
 
 ## <a id="3"></a><span style="color: #0088CC">CAP 3. - OOC BEHAVIOR</span>
 

@@ -538,6 +538,8 @@ Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de 
 - Orice act prin care oferiți bunuri dobândite în facțiunile guvernamentale
 - Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală) prin canale de comunicare OOC (discord, whatsapp, etc)
 - Depozitarea de echipamente de facțiune in vehicule personale sau case
+- Eliberarea unui deținut (indiferent dacă are sau nu obiecte ilegale asupra sa) din custodia poliției fără un motiv solid și justificat IC sau fără un roleplay anterior care să susțină acțiunea.  
+(Motivul eliberării nu trebuie să se bazeze pe informații OOC sau relații de prietenie OOC.) - Dacă sunteți suspectat de un astfel de act de corupție și nu puteți demonstra o relație sau un motiv valid IC între voi și deținut, veți fi sancționați corespunzător.
 
 <span style="color: red">Sancțiune:</span> ban 3-7 zile în funcție de gravitate fără drept de plată + 20 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 20 zile) + blacklist în facțiune
 
@@ -558,6 +560,7 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - Ești în comă, ți se dă trusă și continui să tragi cu arma de parcă nimic nu s-ar fi întâmplat.
 - Ești oprit la un trafic stop pe Grove (zone roșie), te dai jos să împuști polițistul direct. (știind că finalul acestui RP ar duce în arestarea ta)
 - Dai primul ajutor unui jucător direct fără a rula diferite proceduri medicale. (/me-uri ori înainte ori după revive)
+- Ești polițist și observi un individ într-un vehicul care nu este confirmat ca fiind cu Cod 1 (înarmat sau extrem de periculos), însă alegi să deschizi focul asupra roților și chiar asupra șoferului, cu scopul de a-l neutraliza pe el sau vehiculul acestuia.
 
 <span style="color: red">Sancțiune:</span>
 
@@ -569,6 +572,22 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 
 - Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
+
+- Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului), în tranzacții care implică **BUNURI LEGALE**.
+- În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
+
+<span style="color: red">Sancțiuni:</span>
+
+- Prima abatere: Ban 7 zile  
+- A doua abatere: Ban 14 zile  
+- A treia abatere și următoarele: Ban 30 zile
+
+<span style="color: green">Mențiuni:</span>
+
+- Împrumuturile de bunuri se fac pe propria răspundere și nu sunt sancționabile, atâta timp cât se respectă limitele bunului simț.
+- Complicitatea la înșelătorie este sancționată în aceeași măsură ca fapta în sine.
 
 ## <a id="3"></a><span style="color: #0088CC">CAP 3. - Comportament OOC</span>
 
