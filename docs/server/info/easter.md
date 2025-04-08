@@ -7,7 +7,7 @@ outline: deep
 </center>
 <br />
 
-# Eveniment Paște 2025
+# <p align="center"> Eveniment Paște 2025 </p>
 
 ## Introducere
 
@@ -33,6 +33,10 @@ Mult succes la căutat și pictat ouă!
     <tr>
         <td>Cât costă ticketul de BattlePass?</td>
         <td>3.000 Gold</td>
+    </tr>
+    <tr>
+        <td>Pot cumpăra mașini sau haine și după eveniment?</td>
+        <td>Nu, le poți achiziționa doar pe perioada evenimentului.</td>
     </tr>
 </table>
 
@@ -87,7 +91,7 @@ Acestea vă vor apărea pe radar doar dacă sunteți suficient de aproape de ele
 
 <details>
   <summary>Găsește Oul</summary>
-  <img src="https://v.b-zone.ro/images/wiki/bp-egg.jpg" alt="BP">
+  <img src="https://v.b-zone.ro/images/wiki/bp-egg.jpeg" alt="BP">
 </details>
 
 ### Pictează Ouăle
@@ -109,6 +113,8 @@ Pe durata evenimentului shop-ul de Paște va fi disponibil.
 
 Veți putea achiziționa mașini exclusive și haine unice valabile pe shop doar în perioada evenimentului.
 
+Pentru a testa mașinile trebuie să te duci la Dealership, iar acolo vei avea o categorie specială cu mașinile de la eveniment.
+
 <details>
   <summary>Shop</summary>
   <img src="https://v.b-zone.ro/images/wiki/bp-shop.png" alt="BP">
@@ -126,4 +132,6 @@ Când dați pe utilizează veți putea primi următoarele efecte:
 
 ## Final
 
-Acesta este evenimentul de anul acesta, echipa *B-Zone V* vă urează un Paște fericit alături de cei dragi!
+Dacă aveți nelămuriri puteți deschide un ticket pe discord sau direct în joc cu comanda **[/ticket]**.
+
+Echipa *B-Zone V* vă urează un Paște fericit alături de cei dragi!
