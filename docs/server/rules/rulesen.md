@@ -72,6 +72,8 @@ Before submitting a report or ticket, think carefully. If your complaint is base
 - Syndicate-organized actions are not limited by other general rules in the server regulations, as long as their purpose is maintaining order, preventing abuse, or investigating suspicious factions.
 - The Syndicate does not use OOC-acquired information to intervene in conflicts between mafias, but solely to maintain a healthy roleplay order throughout the city.
 - Players are not allowed to request OOC information from the Syndicate.
+- OOC information refers to recordings taken by various participants in those RP scenarios, not information obtained from admin tools.
+- OOC information can only be used with the approval of the Syndicate Leader or an Admin level 6 or higher.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - BASIC RULES</span>
 

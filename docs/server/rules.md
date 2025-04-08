@@ -71,7 +71,9 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 - În cazul în care o mafie oficială sau neoficială abuzează de sistemele de deghizare pentru a efectua jafuri nepermise, Sindicatul poate folosi informații OOC pentru a-și valida suspiciunile.
 - Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor este menținerea ordinii, generarea de content pentru jucători, combaterea abuzurilor sau investigarea facțiunilor suspecte.
 - Sindicatul nu folosește informațiile dobândite OOC pentru a intervenii în conflicte între mafii ci doar pentru a menține o ordine sănătoasă de Roleplay pe întregul oraș.
-- Sindicatului nu i se pot cere informații OOC de către jucatori
+- Sindicatului nu i se pot cere informații OOC de către jucatori.
+- Prin informatii OOC se intelege filmari preluate de la diversi participati la respectivele RP-uri, nu informatii preluate din admin.
+- Informațiile OOC pot sa fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
