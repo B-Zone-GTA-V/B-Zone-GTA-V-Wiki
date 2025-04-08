@@ -64,6 +64,15 @@ Before submitting a report or ticket, think carefully. If your complaint is base
 - Second offense: Warn
 - Three or more offenses: Ban 1-7 zile up to Permanent ban in some cases
 
+### <a id="1.7"></a><span style="color: #0088CC">1.7 The Syndicate</span>
+- The Syndicate is not subject to sanctions related to the use of OOC information or metagaming for investigation and order maintenance purposes.
+- The Syndicate has access to surveillance cameras and drones (with facial recognition) covering the entire island of Los Santos.
+- The Syndicate has the right to use OOC information/evidence to initiate RP scenarios, investigations, or interventions.
+- If an official or unofficial mafia abuses disguise systems to carry out unauthorized robberies, the Syndicate may use OOC information to validate its suspicions.
+- Syndicate-organized actions are not limited by other general rules in the server regulations, as long as their purpose is maintaining order, preventing abuse, or investigating suspicious factions.
+- The Syndicate does not use OOC-acquired information to intervene in conflicts between mafias, but solely to maintain a healthy roleplay order throughout the city.
+- Players are not allowed to request OOC information from the Syndicate.
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - BASIC RULES</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
@@ -543,8 +552,11 @@ OOC corruption is any method of corruption done on communication channels other 
 - Storage of faction equipment in personal vehicles or houses
 - Releasing a detainee (regardless of whether they possess illegal items or not) from police custody without a strong and well-established IC reason or any prior roleplay that justifies the action.  
 (The release must not be based on OOC information or OOC friendships.) - If you are suspected of such an act of corruption and cannot prove a valid IC relationship or reason between you and the detainee, you will be sanctioned accordingly.
+- Actions that violate the roleplay logic of a government faction: theft, fraud, murder, use of illegal weapons, transactions involving illegal items, etc.
 
 <span style="color: red">Sanctions:</span> ban 3-7 days depending on severity without the right to pay for unban + 20 Fanction Punish (you will not be able to enter another faction or gang for 20 days) + faction blacklist
+
+<span style="color: yellow">Exception:</span> Leadership ranks within factions (Chief Commissioner+ and Director) are not punishable under Rule 2.26 - Corruption.
 
 ### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
 Freechat is the use of OOC chat in the game, sending messages that are not for the common interest, hate messages, or frustrations.
@@ -1113,27 +1125,27 @@ Represent actions through which multiple people will die as a result of the role
 - Second offense: 3-5 day ban depending on the severity
 - Three or more offenses: 7-14 day ban depending on the severity
 
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Mafia/Group Alliance</span>
-- An alliance can be made between a maximum of 2 mafias recognized by the syndicate (unofficial or official).  
-- An alliance between 2 mafias recognized by the syndicate against another mafia recognized by the syndicate is <strong style="color: red">STRICTLY FORBIDDEN</strong> without syndicate approval or a declared war.
-- In red zones, if the police intervene in these areas, mafias that do not have an alliance can join the fight with the police **ONLY** if a member of **THEIR** group is put in direct danger. **IT IS NOT** allowed to save fallen members of other mafias outside of your **own** mafia or the one you are in **alliance** with, as this is considered forming an alliance. Obviously, it is possible that police intervention in an area may trigger a conflict involving more than two groups against the police, which is completely allowed as long as the previously mentioned conditions are respected.
+### <a id="7.7"></a><span style="color: #0088CC">7.7 Alliance Between Mafias/Groups</span>
+- An alliance between 2 or more syndicate-recognized mafias **against** another syndicate-recognized mafia is <strong style="color: red">STRICTLY FORBIDDEN</strong> without syndicate approval or a declared war.
+- It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act on behalf of another mafia/civilians in actions involving the police, unless all parties are directly involved from the start.
+- It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act as a mafioso for a civilian if that civilian works for you and is caught by the police. This is <strong style="color: green">ALLOWED</strong> only if you are in the same vehicle.
+- It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act as a civilian/mafioso for another civilian in police interactions unless everyone is in the same vehicle.
 
-- Groups that are not recognized by the syndicate cannot ally with recognized mafias (unofficial or official).<br><br>
-<strong style="color: red">An alliance with civilians in any form of action involving illegal activities is strictly prohibited.</strong>  
+- A mafia member with rank is <strong style="color: green">ALLOWED</strong> to intervene **only** for another member of their **own** mafia during police actions, but not by involving other civilians.
+- It is <strong style="color: green">ALLOWED</strong> to act as a civilian/mafioso for another civilian/mafioso during robber-related actions.
+- It is <strong style="color: green">ALLOWED</strong> to give medkits only to members of your **own** mafia.
 
 <span style="color: yellowgreen">Exceptions:</span>
-- On Cayo Island, alliances with civilians are allowed.
-- Economic alliances (delivery, business, or truce) can also be made with civilians.
-- The mafia that owns a territory (which is not a territory to be delivered) has the right to intervene on it if the police raid it.
+- Rule 7.7 does **not** apply on Cayo Island.
+- A mafia that owns a territory (not a delivery territory) has the right to intervene if police conduct a raid on it.
 
 <span style="color: red">Sanctions:</span>
-- Mafias that violate this rule will automatically receive <strong style="color: red">Mafia WARN</strong>.
-- First offense: 150-300 checkpoints.
-- Second offense: Warn.
-- Three or more offenses: Ban 1-7 days, depending on severity.
-
-<span style="color: green">Mentions:</span>
-- The given sanction can be more severe depending on the gravity of the situation, and the number of offenses may not be followed.
+- Mafias breaking this rule will automatically receive a <strong style="color: red">Mafia WARN</strong>
+- First offense: 150-300 checkpoints
+- Second offense: Warn
+- Three or more offenses: 1–30 day ban, depending on severity  
+<br>
+<span style="color: yellowgreen">The penalty may be more severe depending on the situation, and the number of offenses may not be followed strictly.</span>
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Zones delimitations</span>
 
@@ -1329,18 +1341,22 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 - Second offense: 200 checkpoints
 - Three or more offenses: Warn
 
-### <a id="7.11"></a><span style="color: #0088CC">7.11 Illegalities in Houses and Around Houses</span>
-The following are <span style="color: green">permitted</span> between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Taking a kidnapped citizen to a house
-- Robbing a citizen in a house
+### <a id="7.11"></a><span style="color: #0088CC">7.11 Illegal Activities in and Around Houses</span>
+The following are <span style="color: green">allowed</span> **ONLY** between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+- taking a kidnapped citizen to your own house or a house where you are renting
+- robbing a citizen inside the robber’s house or a house where the robber is renting
 
-The following are <span style="color: red">prohibited</span>:
-- Forcing a player to take out items from personal safes
-- Locking the door when being chased by other people/police
-- Illegal actions near houses that are not in <a href="#7.8">#7.8 Notorious Areas</a>
-- It is strictly forbidden to wait outside a player's house with the intention of robbing or killing them as they exit. <br>
-*Example: I saw you in Grove and watched you enter your house. I did not interact with you until then and waited outside to rob you when you came out. If you interact with them and try to rob them, and they run into their house and lock the door, you are not allowed to camp outside. At that moment, they have violated the rule of locking a door during a chase. If you know that someone lives in a house in a notorious area, you have the right to wait on the nearby streets or other relatively close areas to try and rob them, but not immediately outside their house.*
+The following are <span style="color: red">forbidden</span>:
+- kidnapping a player from their own house without prior RP with them
+- forcing a player to take items out of their personal safes
+- locking the door when being chased by others/police
+- illegal actions near houses that are not in <a href="#7.8">7.8 Notorious Zones</a>
+- It is strictly forbidden to wait for a player to exit their house, in the immediate vicinity of their home, with the purpose of robbing or killing them.  
+*Example: I saw you in Grove, I saw you enter a house, I didn’t interact with you until then, and I wait outside your house to rob you when you exit. Even if you interact and try to rob them, and they run inside and lock the door, you are not allowed to camp them. In that moment, they broke the rule of locking the door during a chase. If you know someone lives in a house in a notorious zone, you are allowed to wait on nearby streets or other relatively close areas to try to rob them — but not right at the entrance of their house.*
 
+<span style="color: green">Notes:</span>
+- A house is considered any form of interior with teleport or openable doors
+- Mafia HQs or places where a group mainly operates are also considered houses
 
 <span style="color: red">Sanctions:</span>
 

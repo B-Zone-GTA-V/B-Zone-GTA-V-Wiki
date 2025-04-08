@@ -64,6 +64,15 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 - A doua abatere: Warn
 - Trei sau mai multe abateri: Ban 1-7 zile, până la Ban permanent în unele cazuri
 
+### <a id="1.7"></a><span style="color: #0088CC">1.7 Sindicatul</span>
+- Sindicatul nu este subiectibil la sancțiuni legate de folosirea informațiilor OOC sau metagaming în scopuri de investigație și menținere a ordinii.
+- Sindicatul beneficiază de acces la camere și drone de supraveghere (cu recunoaștere facială) care acoperă întreaga insulă Los Santos.
+- Sindicatul are dreptul să folosească informații/dovezi OOC pentru a începe RP-uri, investigații sau intervenții.
+- În cazul în care o mafie oficială sau neoficială abuzează de sistemele de deghizare pentru a efectua jafuri nepermise, Sindicatul poate folosi informații OOC pentru a-și valida suspiciunile.
+- Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor este menținerea ordinii, generarea de content pentru jucători, combaterea abuzurilor sau investigarea facțiunilor suspecte.
+- Sindicatul nu folosește informațiile dobândite OOC pentru a intervenii în conflicte între mafii ci doar pentru a menține o ordine sănătoasă de Roleplay pe întregul oraș.
+- Sindicatului nu i se pot cere informații OOC de către jucatori
+
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 In Character (IC)</span>
@@ -540,8 +549,11 @@ Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de 
 - Depozitarea de echipamente de facțiune in vehicule personale sau case
 - Eliberarea unui deținut (indiferent dacă are sau nu obiecte ilegale asupra sa) din custodia poliției fără un motiv solid și justificat IC sau fără un roleplay anterior care să susțină acțiunea.  
 (Motivul eliberării nu trebuie să se bazeze pe informații OOC sau relații de prietenie OOC.) - Dacă sunteți suspectat de un astfel de act de corupție și nu puteți demonstra o relație sau un motiv valid IC între voi și deținut, veți fi sancționați corespunzător.
+- Acțiuni ce încalcă logica de Roleplay al unei facțiuni guvernamentale: furtul, înșelătoria, omorul, utilizarea de arme ilegale, tranzacții cu obiecte ilegale etc.
 
 <span style="color: red">Sancțiune:</span> ban 3-7 zile în funcție de gravitate fără drept de plată + 20 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 20 zile) + blacklist în facțiune
+
+<span style="color: yellow">Exceptie:</span> Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi sancționate în baza regulii 2.26 - Corupție.
 
 ### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
 Freechat reprezintă folosirea chatului OOC din joc, transmițând mesaje care nu sunt de interes comun, a mesajelor de ură sau a frustrărilor.
@@ -1113,26 +1125,25 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 - trei sau mai multe abateri: ban 7-14 zile în funcție de gravitate
 
 ### <a id="7.7"></a><span style="color: #0088CC">7.7 Alianța între mafii/grupări</span>
-- Alianța poate fi făcută între maxim 2 mafii recunoscute de către sindicat(neoficiale sau oficiale).  
-- Alianța dintre 2 mafii recunoscute de către sindicat impotriva unei altei mafii recunoscute de către sindicat este <strong style="color: red">STRICT INTERZISĂ</strong> fără aprobarea sindicatului sau declararea unui razboi.
-- În zonele roșii, în cazul în care poliția intervine în aceste zone, mafiile ce nu au alianță pot să se alăture bătăii cu poliția **DOAR** în cazul în care un membru al grupării **LOR** este pus în pericol direct. **NU** este permisă salvarea oamenilor picați din alte grupări față de mafia **proprie** sau a celei cu care sunteți în **alianță**, acest lucru încalcând regula de 7.7. Evident este posibil ca prin intervenția poliției pe o zonă să se pornească un conflict între mai mult de 2 grupari cu poliția, lucru total permis, dacă respectă cele precizate anterior.
+- Alianța dintre 2 sau mai multe mafii recunoscute de către sindicat impotriva unei altei mafii recunoscute de către sindicat este <strong style="color: red">STRICT INTERZISĂ</strong> fără aprobarea sindicatului sau declararea unui razboi.
+- Este <strong style="color: red">STRICT INTERZISĂ</strong> acționarea pentru o altă mafie/civili, în acțiunile cu poliția, daca nu sunteți toți direct implicați de la începutul acțiunii.
+- Este <strong style="color: red">STRICT INTERZIS</strong> să acționați mafiot pentru civil, dacă acesta lucreaza pentru dumneavoastră și este prins de către poliție. Este <strong style="color: green">PERMIS</strong> doar dacă sunteți în același vehicul.
+- Este <strong style="color: red">STRICT INTERZIS</strong> să acționați civil/mafiot pentru civil, în acțiunile cu poliția, dacă nu sunteți toți în același vehicul.
 
-- Grupările care nu sunt recunoscute de către sindicat nu se pot alia cu mafii recunoscute(neoficiale sau oficiale).<br><br>
-<strong style="color: red">Alianța cu civilii în orice formă de acțiune, ce implică ilegalități, este strict interzisă</strong> 
+- Este <strong style="color: green">PERMIS</strong> unui membru al unei mafii cu grad să intervină doar pentru un alt membru din <strong style="color: green">propria</strong> mafie, în acțiunile cu poliția, dar nu prin implicarea altor civili.
+- Este <strong style="color: green">PERMIS</strong> să acționati civil/mafiot pentru civil/mafiot în acțiunile cu jefuitorii.
+- Este <strong style="color: green">PERMIS</strong> să dați trusă doar membrilor din <strong style="color: green">propria</strong> mafie.
 
 <span style="color: yellowgreen">Exceptii:</span>
-- Pe insula Cayo este permisă alianța și cu civilii
-- Alianțele economice (livrat, afaceri sau armistițiu) se pot face și cu civilii
+- Pe insula Cayo nu se aplică regula 7.7 Alianța între mafii/grupări.
 - Mafia care detine un teritoriu (ce nu este teritoriu de livrat) are dreptul de intervenii pe acesta în cazul în care poliția face o razie pe el.
 
 <span style="color: red">Sancțiuni:</span>
 - mafiile ce incalcă această regulă vor primii implicit <strong style="color: red">Mafia WARN</strong>
 - prima abatare: 150-300 checkpoint-uri
 - a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-7 zile în funcție de gravitate
-
-<span style="color: green">Mențiuni:</span>
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- trei sau mai multe abateri: Ban 1-30 zile în funcție de gravitate<br>
+<span style="color: yellowgreen">Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.</span>
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Delimitarea zonelor</span>
 
@@ -1329,16 +1340,21 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 - trei sau mai multe abateri: warn
 
 ### <a id="7.11"></a><span style="color: #0088CC">7.11 Ilegalități în case și în jurul caselor</span>
-Sunt <span style="color: green">permise</span> următoarele în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- ducerea unui cetățean răpit în casă
-- jefuirea unui cetățean în casă
+Sunt <span style="color: green">permise</span> următoarele **DOAR** în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+- ducerea unui cetățean răpit în propria casă sau casă unde aveți chirie
+- jefuirea unui cetățean în casă jefuitorului sau casă unde jefuitorul are chirie
 
 Sunt <span style="color: red">interzise</span> următoarele:
+- răpirea unui jucător din propria casă fără un RP anterior cu acesta
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.8">7.8 Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br>
 *Exemplu: Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
+
+<span style="color: green">Mențiuni:</span>
+- Se consideră casă orice forma de interior cu teleport sau cu uși deschise
+- Se consideră casă HQ-urile de mafii sau locul unde o grupare își desfășoara preponderent activitatea
 
 <span style="color: red">Sancțiuni:</span>
 
