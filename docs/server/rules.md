@@ -66,13 +66,12 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 
 ### <a id="1.7"></a><span style="color: #0088CC">1.7 Sindicatul</span>
 - Sindicatul nu este subiectibil la sancțiuni legate de folosirea informațiilor OOC sau metagaming în scopuri de investigație și menținere a ordinii.
-- Sindicatul beneficiază de acces la camere și drone de supraveghere (cu recunoaștere facială) care acoperă întreaga insulă Los Santos.
+- Sindicatul beneficiază de acces la camere și drone de supraveghere (cu recunoaștere facială) care acoperă toate locațiile deținute de Sindicat.
 - Sindicatul are dreptul să folosească informații/dovezi OOC pentru a începe RP-uri, investigații sau intervenții.
-- În cazul în care o mafie oficială sau neoficială abuzează de sistemele de deghizare pentru a efectua jafuri nepermise, Sindicatul poate folosi informații OOC pentru a-și valida suspiciunile.
-- Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor este menținerea ordinii, generarea de content pentru jucători, combaterea abuzurilor sau investigarea facțiunilor suspecte.
+- Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor nu este unul exagerat și strică experiența normală de Roleplay.
 - Sindicatul nu folosește informațiile dobândite OOC pentru a intervenii în conflicte între mafii ci doar pentru a menține o ordine sănătoasă de Roleplay pe întregul oraș.
 - Sindicatului nu i se pot cere informații OOC de către jucatori.
-- Prin informatii OOC se intelege filmari preluate de la diversi participati la respectivele RP-uri, nu informatii preluate din admin.
+- Prin informatii OOC se intelege filmari preluate de la diversi participati la respectivele RP-uri, nu informatii preluate din admin, dupa voce, etc.
 - Informațiile OOC pot sa fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>

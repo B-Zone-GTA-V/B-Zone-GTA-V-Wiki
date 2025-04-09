@@ -65,15 +65,14 @@ Before submitting a report or ticket, think carefully. If your complaint is base
 - Three or more offenses: Ban 1-7 zile up to Permanent ban in some cases
 
 ### <a id="1.7"></a><span style="color: #0088CC">1.7 The Syndicate</span>
-- The Syndicate is not subject to sanctions related to the use of OOC information or metagaming for investigation and order maintenance purposes.
-- The Syndicate has access to surveillance cameras and drones (with facial recognition) covering the entire island of Los Santos.
-- The Syndicate has the right to use OOC information/evidence to initiate RP scenarios, investigations, or interventions.
-- If an official or unofficial mafia abuses disguise systems to carry out unauthorized robberies, the Syndicate may use OOC information to validate its suspicions.
-- Syndicate-organized actions are not limited by other general rules in the server regulations, as long as their purpose is maintaining order, preventing abuse, or investigating suspicious factions.
-- The Syndicate does not use OOC-acquired information to intervene in conflicts between mafias, but solely to maintain a healthy roleplay order throughout the city.
-- Players are not allowed to request OOC information from the Syndicate.
-- OOC information refers to recordings taken by various participants in those RP scenarios, not information obtained from admin tools.
-- OOC information can only be used with the approval of the Syndicate Leader or an Admin level 6 or higher.
+- The Syndicate is not subject to sanctions related to the use of OOC (Out of Character) information or metagaming for investigative and order-maintenance purposes.
+- The Syndicate has access to surveillance cameras and drones (with facial recognition) that cover all Syndicate-owned locations.
+- The Syndicate has the right to use OOC information/evidence to initiate RP (Roleplay) scenarios, investigations, or interventions.
+- Syndicate-organized actions are not limited by other general rules of the server as long as their purpose is not excessive or disruptive to the normal Roleplay experience.
+- The Syndicate does not use OOC-acquired information to interfere in conflicts between mafias, but only to maintain healthy Roleplay order throughout the city.
+- Players cannot request OOC information from the Syndicate.
+- OOC information refers to recordings taken by various participants in the RP scenarios, not information obtained from admin tools, voice recognition, etc.
+- OOC information can only be used with the approval of the Syndicate Leader or an Admin ranked 6+.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - BASIC RULES</span>
 
