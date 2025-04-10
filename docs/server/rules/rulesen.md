@@ -1346,7 +1346,7 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 The following are <span style="color: green">allowed</span> **ONLY** between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - taking a kidnapped citizen to your own house or a house where you are renting
 - robbing a citizen inside the robber’s house or a house where the robber is renting
-- entering the yard or interior of a house with an MLO (interior) without the owner's/tenant's approval (it is roleplayed that these doors/gates are closed)
+- entering the yard or interior of a house with an MLO (interior) without the owner's/tenant's approval or a complex roleplay of breaking the lock (it is roleplayed that these doors/gates are closed)
 
 The following are <span style="color: red">forbidden</span>:
 - kidnapping a player from their own house without prior RP with them
