@@ -46,6 +46,7 @@ export default defineConfig({
       {
         text: 'ℹ️ General',
         items: [
+          { text: '🐇Eveniment Paște', link: '/server/info/easter' },
           { 
             text: 'Caracter',
             collapsed: false,
