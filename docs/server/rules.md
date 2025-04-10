@@ -1344,6 +1344,7 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 Sunt <span style="color: green">permise</span> următoarele **DOAR** în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - ducerea unui cetățean răpit în propria casă sau casă unde aveți chirie
 - jefuirea unui cetățean în casă jefuitorului sau casă unde jefuitorul are chirie
+- intratul în curtea sau interiorul unei case cu MLO (interior) fără aprobarea proprietarului/chiriașului (se rolează că aceste uși/porți sunt închise)
 
 Sunt <span style="color: red">interzise</span> următoarele:
 - răpirea unui jucător din propria casă fără un RP anterior cu acesta
