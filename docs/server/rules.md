@@ -1344,12 +1344,12 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 Sunt <span style="color: green">permise</span> următoarele **DOAR** în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - ducerea unui cetățean răpit în propria casă sau casă unde aveți chirie
 - jefuirea unui cetățean în casă jefuitorului sau casă unde jefuitorul are chirie
-- intratul în curtea sau interiorul unei case cu MLO (interior) fără aprobarea proprietarului/chiriașului sau un roleplay complex de spargere a lacătului (se rolează că aceste uși/porți sunt închise)
 
 Sunt <span style="color: red">interzise</span> următoarele:
 - răpirea unui jucător din propria casă fără un RP anterior cu acesta
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
+- intratul în curtea sau interiorul unei case cu MLO (interior) fără aprobarea proprietarului/chiriașului sau un roleplay complex de spargere a lacătului (se rolează că aceste uși/porți sunt închise)
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.8">7.8 Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br>
 *Exemplu: Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*

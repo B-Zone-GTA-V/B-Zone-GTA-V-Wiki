@@ -1346,12 +1346,12 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 The following are <span style="color: green">allowed</span> **ONLY** between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - taking a kidnapped citizen to your own house or a house where you are renting
 - robbing a citizen inside the robber’s house or a house where the robber is renting
-- entering the yard or interior of a house with an MLO (interior) without the owner's/tenant's approval or a complex roleplay of breaking the lock (it is roleplayed that these doors/gates are closed)
 
 The following are <span style="color: red">forbidden</span>:
 - kidnapping a player from their own house without prior RP with them
 - forcing a player to take items out of their personal safes
 - locking the door when being chased by others/police
+- entering the yard or interior of a house with an MLO (interior) without the owner's/tenant's approval or a complex roleplay of breaking the lock (it is roleplayed that these doors/gates are closed)
 - illegal actions near houses that are not in <a href="#7.8">7.8 Notorious Zones</a>
 - It is strictly forbidden to wait for a player to exit their house, in the immediate vicinity of their home, with the purpose of robbing or killing them.  
 *Example: I saw you in Grove, I saw you enter a house, I didn’t interact with you until then, and I wait outside your house to rob you when you exit. Even if you interact and try to rob them, and they run inside and lock the door, you are not allowed to camp them. In that moment, they broke the rule of locking the door during a chase. If you know someone lives in a house in a notorious zone, you are allowed to wait on nearby streets or other relatively close areas to try to rob them — but not right at the entrance of their house.*
