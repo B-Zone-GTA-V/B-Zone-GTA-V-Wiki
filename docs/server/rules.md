@@ -59,10 +59,7 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 Înainte de a trimite o reclamație sau un ticket, gândește-te bine. Dacă plângerea ta este nefondată și urmărește doar sancționarea unei persoane, este posibil să fii chiar tu sancționat pentru posthunt.
 
 <span style="color: red">Sancțiuni:</span>
-
-- Prima abatere: 150-200 Checkpoint-uri
-- A doua abatere: Warn
-- Trei sau mai multe abateri: Ban 1-7 zile, până la Ban permanent în unele cazuri
+Ban 1-7 zile, până la Ban permanent în unele cazuri
 
 ### <a id="1.7"></a><span style="color: #0088CC">1.7 Sindicatul</span>
 - Sindicatul nu este subiectibil la sancțiuni legate de folosirea informațiilor OOC sau metagaming în scopuri de investigație și menținere a ordinii.

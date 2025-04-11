@@ -59,10 +59,7 @@ Filing multiple unfounded reports against players, especially when they do not e
 Before submitting a report or ticket, think carefully. If your complaint is baseless and solely intended to get someone punished, you may be the one penalized for posthunt.
 
 <span style="color: red">Sanctions:</span>
-
-- First offense: 150-200 Checkpoints 
-- Second offense: Warn
-- Three or more offenses: Ban 1-7 zile up to Permanent ban in some cases
+Ban 1-7 zile up to Permanent ban in some cases
 
 ### <a id="1.7"></a><span style="color: #0088CC">1.7 The Syndicate</span>
 - The Syndicate is not subject to sanctions related to the use of OOC (Out of Character) information or metagaming for investigative and order-maintenance purposes.
