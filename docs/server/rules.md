@@ -1061,7 +1061,7 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 
 <span style="color: green">Mențiuni și excepții:</span>
 - zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
-- este permis să pui arma la burtă/cap în mașinile cu geamuri fumurii (full negre) chiar și în zonele publice (acțiunea de jefuit în continuare trebuie făcută într-o zonă roșie sau gri)
+- este permis să pui arma la burtă/cap în mașini chiar și în zonele publice (acțiunea de jefuit în continuare trebuie făcută într-o zonă roșie sau gri)
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic</span>

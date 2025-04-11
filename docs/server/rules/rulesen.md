@@ -1062,7 +1062,7 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 
 <span style="color: green">Notes and exceptions:</span>
 - item crafting areas are not considered public areas, even if they are marked on the map. The regulations of the areas in which they are located apply to them. See rule <a href="#7.8">7.8 Zoning</a>
-- it is allowed to put a gun to your belly/head in cars with tinted windows (full black) even in public areas (the continued robbery must take place in a red or grey zone)
+- it is allowed to put a gun to your belly/head in cars even in public areas (the continued robbery must take place in a red or grey zone)
 - if a fistfight starts between 2 players/groups based on a previous roleplay and both parties have punched, it is not considered illegal in a public area even if someone ends up in a coma
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage Situation</span>
