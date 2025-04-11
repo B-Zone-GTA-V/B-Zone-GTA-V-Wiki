@@ -1216,13 +1216,11 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 
 - Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
 
-- Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea.
+- Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie.
 
 - Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri.
 
 - Există zone retrase în interiorul zonelor verzi (ex: zona Rockford – între blocuri, în spatele clădirilor). Dacă atrageți un jucător în astfel de locuri, îl puteți răpi, jefui sau omorî. În aleile dintre blocuri din zona verde, se aplică regulile Zonei Gri.
-
-- Toți jucătorii, inclusiv Poliția, trebuie să respecte regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>. Zonele verzi sunt foarte populate, iar folosirea armelor este extrem de periculoasă și poate duce la victime colaterale. Excepția este dacă deja s-au tras focuri de armă în respectiva zonă publică iar scopul este neutralizarea individului înarmat și periculos.
 
 - ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
   - să interzic provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)

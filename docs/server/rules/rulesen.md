@@ -1218,13 +1218,11 @@ The following are allowed outside the city areas between <span style="color:yell
 
 - Kidnapping from green zones is only allowed with approval from the <strong style="color: yellowgreen">SYNDICATE</strong>. The request must be made by the leader or co-leader of an official or unofficial mafia. The kidnapping must be carried out as quickly as possible and preferably without gunfire. These details are also discussed IC (in character), but the penalties for using firearms in public areas are very severe.
 
-- Highways outside the city (except for areas around customs zones – toward, from, or between camps) are considered **red roads**, where <strong style="color: red">ROBBERY IS NOT</strong> allowed.
+- Highways outside the city (except for areas around customs zones – toward, from, or between camps) are considered **red roads**, where <strong style="color: red">ROBBERY IS NOT</strong> allowed. It is forbidden to use border crossings to gain an advantage in combat; it is strictly prohibited to shoot from the border, towards the border, or with the border between the fighting sides.
 
 - The rule <a href="#7.3">#7.3 Illegal Actions in Public Areas</a> applies to all businesses (gas stations, garages, salons, ATMs, etc.), regardless of whether they are located in red, yellow, or grey zones.
 
 - There are secluded areas within green zones (e.g., Rockford area – between buildings or behind them). If you manage to lure another player into such areas, you are allowed to kidnap, rob, or kill them. The alleys between apartment blocks in green zones are considered Grey Zones.
-
-- All players, including the Police, must follow the <a href="#7.3">#7.3 Illegal Actions in Public Areas</a> rule. Green zones are heavily populated, and discharging a firearm is extremely dangerous and can cause many collateral victims. The only exception is if shots have already been fired due to a previously approved action, and the objective is to neutralize an armed and dangerous individual.
 
 - ⚠️ If a player is being chased by armed individuals and chooses to take refuge in a safe zone (e.g., a green zone), they must:
   - avoid provoking, insulting, or escalating the conflict (Sanction: Provoking + removal from the green zone)
