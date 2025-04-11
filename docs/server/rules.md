@@ -1225,8 +1225,8 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 - Toți jucătorii, inclusiv Poliția, trebuie să respecte regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>. Zonele verzi sunt foarte populate, iar folosirea armelor este extrem de periculoasă și poate duce la victime colaterale. Excepția este dacă deja s-au tras focuri de armă în respectiva zonă publică iar scopul este neutralizarea individului înarmat și periculos.
 
 - ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
-  - să evite provocările, jignirile și orice acțiuni care pot escalada conflictul;
-  - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc.
+  - să interzic provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)
+  - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc. (Sancțiune: No-Fear + scoaterea acestuia din zona verde)
 
   <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiuni între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
 

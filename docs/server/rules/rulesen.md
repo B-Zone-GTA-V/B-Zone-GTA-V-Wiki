@@ -1227,8 +1227,8 @@ The following are allowed outside the city areas between <span style="color:yell
 - All players, including the Police, must follow the <a href="#7.3">#7.3 Illegal Actions in Public Areas</a> rule. Green zones are heavily populated, and discharging a firearm is extremely dangerous and can cause many collateral victims. The only exception is if shots have already been fired due to a previously approved action, and the objective is to neutralize an armed and dangerous individual.
 
 - ⚠️ If a player is being chased by armed individuals and chooses to take refuge in a safe zone (e.g., a green zone), they must:
-  - avoid provoking, insulting, or escalating the conflict;
-  - adopt a cautious attitude and seek reasonable ways to exit the risky situation.
+  - avoid provoking, insulting, or escalating the conflict (Sanction: Provoking + removal from the green zone)
+  - adopt a cautious attitude and seek reasonable ways to exit the risky situation. (Sanction: No-Fear + removal from the green zone)
 
   <span style="color: lightpink"> _If the player remains in the green zone for more than 30 minutes solely to stall, they may be punished with a ban of 1–7 days and complete inventory wipe._</span>
 
