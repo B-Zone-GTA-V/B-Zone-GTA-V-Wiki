@@ -423,6 +423,7 @@ Represents the action by which you are not afraid in the presence of a police bo
 - Refusal to cooperate or attempt to flee from police officers who have their weapons pointed at the individual.
 - Picking up downed police officers.
 - Giving medical kits to police officers by gang members.
+- Hitting a police officer inside the penitentiary
 
 <span style="color: red">Sanctions:</span>
 
@@ -521,7 +522,7 @@ Robbing, killing, and interacting with people who are on sleep is prohibited and
 
 ### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitentiary</span>
 
-Inside the penitentiary yard, the "Law of the Jungle" applies.
+Inside the penitentiary and its yard, the "Law of the Jungle" applies.
 
 You are in an area where there are only criminals, and the rules of  <a href="#2.15">#2.15 Random Death Match (RDM)</a> and  <a href="#2.22">#2.22 Bombardier</a> do not apply.
 
@@ -1060,9 +1061,8 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 - Three or more offenses: Warn
 
 <span style="color: green">Notes and exceptions:</span>
-- if an action starts from a <a href="#7.8.2">Notorious area</a> and continues in a public location (job/hobby area or in the vicinity of a shop, gas station, bank, ATMs, car garages or any other type of business) the illegality in public area rule does not apply if there is a good reason. Example: on a drug delivery you are followed by police crews. You are allowed to fire your gun even in public areas that are on red or yellow zones
 - item crafting areas are not considered public areas, even if they are marked on the map. The regulations of the areas in which they are located apply to them. See rule <a href="#7.8">7.8 Zoning</a>
-- it is allowed to put a gun to your belly/head in cars with tinted windows (full black) even in public areas
+- it is allowed to put a gun to your belly/head in cars with tinted windows (full black) even in public areas (the continued robbery must take place in a red or grey zone)
 - if a fistfight starts between 2 players/groups based on a previous roleplay and both parties have punched, it is not considered illegal in a public area even if someone ends up in a coma
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage Situation</span>
@@ -1214,30 +1214,30 @@ The following are allowed outside the city areas between <span style="color:yell
 
 ---
 
-<span style="color: green">Mentions and Exceptions:</span>
-- There is no abuse of the green zone. Once an action begins in a red, grey, or red road area, you are allowed to continue it in a green or yellow zone. It’s important to note that the only illegal action permitted in green zones is **KIDNAPPING**, and only outside government institutions (City Hall, Police Station, Hospital, etc.). In this case, kidnapping in green zones must not exceed 5 minutes. Otherwise, it falls under the <a href="#7.6">#7.6 Terrorist Actions</a> rule. Kidnapping in a green zone can only occur if no more than 10 minutes have passed since the last interaction between the involved parties, and the action must have started in a high-crime area.
+<span style="color: green">Notes and Exceptions:</span>
 
-- Between green zones, there are certain secluded areas (e.g., Rockford area – between buildings, behind buildings). If you manage to lure another player there, you may kidnap, rob, or kill them. Between the buildings in green zones, the alleys apply grey zone rules.
+- Kidnapping from green zones is only allowed with approval from the <strong style="color: yellowgreen">SYNDICATE</strong>. The request must be made by the leader or co-leader of an official or unofficial mafia. The kidnapping must be carried out as quickly as possible and preferably without gunfire. These details are also discussed IC (in character), but the penalties for using firearms in public areas are very severe.
 
-- On yellow streets in high-crime zones, robbery is prohibited in that exact perimeter. The robbery must be moved to the high-crime zone itself, not on the semi-public road. On yellow roads in high-crime areas, the following are allowed regardless of time: hostage-taking and opening fire based on prior roleplay and a well-founded reason (no traffic stops).
+- Highways outside the city (except for areas around customs zones – toward, from, or between camps) are considered **red roads**, where <strong style="color: red">ROBBERY IS NOT</strong> allowed.
 
-- The rule of illegality in public areas (for businesses: gas stations, garages, salons, ATMs, etc.) applies regardless of whether it’s a red, yellow, or grey zone. You still can’t rob someone at a gas station even if it's located in Grove. The only exception is when the action started in a high-crime area and there is a valid reason.
+- The rule <a href="#7.3">#7.3 Illegal Actions in Public Areas</a> applies to all businesses (gas stations, garages, salons, ATMs, etc.), regardless of whether they are located in red, yellow, or grey zones.
 
-- If a conflict action (fight between two groups using lethal weapons) starts in a red, grey, or red road area, you may continue it on highways outside the city, **except** for areas around borders (from the border, toward the border, or with a border between the fighting camps).
+- There are secluded areas within green zones (e.g., Rockford area – between buildings or behind them). If you manage to lure another player into such areas, you are allowed to kidnap, rob, or kill them. The alleys between apartment blocks in green zones are considered Grey Zones.
 
-- In general, you must be cautious in the areas where you commit illegal actions: they should not be trafficked by people or vehicles, should not have surveillance cameras, and should not be near police stations. Practically, illegal actions are allowed in secluded and hidden areas. Note: you are not allowed to kidnap someone in a green zone and then take them between buildings for robbery or murder—try to lure them into such zones instead.
+- All players, including the Police, must follow the <a href="#7.3">#7.3 Illegal Actions in Public Areas</a> rule. Green zones are heavily populated, and discharging a firearm is extremely dangerous and can cause many collateral victims. The only exception is if shots have already been fired due to a previously approved action, and the objective is to neutralize an armed and dangerous individual.
 
-<span style="color: green">Examples:</span><br>
-<span style="color: yellowgreen">Allowed:</span> 
-- A conflict starts in the Grove area between multiple individuals. One of them escapes into a green zone and is followed. The escaping person can be quickly kidnapped from the green zone (kidnapping can last up to 5 minutes).
+- ⚠️ If a player is being chased by armed individuals and chooses to take refuge in a safe zone (e.g., a green zone), they must:
+  - avoid provoking, insulting, or escalating the conflict;
+  - adopt a cautious attitude and seek reasonable ways to exit the risky situation.
 
-<span style="color: red">Not Allowed:</span> 
-- A conflict starts at a plantation between multiple people. One of them leaves and is identified hours later in a green zone. Kidnapping is not allowed from the green zone because more than 10 minutes have passed since the last interaction.
+  <span style="color: lightpink"> _If the player remains in the green zone for more than 30 minutes solely to stall, they may be punished with a ban of 1–7 days and complete inventory wipe._</span>
 
-Violation of the above time intervals and the failure of following the rules will be <span style="color: red">sanctioned</span> with:
-- first offense: 50-100 Checkpoints
-- second offense: 200 Checkpoints
-- three or more offenses: warning
+_Important:_ Avoid committing illegal acts in crowded, trafficked, monitored areas or near police stations. Illegal actions should only be committed in secluded and hidden locations. **You are not allowed to kidnap someone from a green zone and then take them between buildings for robbery or murder.** Instead, try to lure the person into those areas.
+
+<span style="color: red">Penalties:</span>
+- First offense: 200 Checkpoints
+- Second offense: Warning + Checkpoints
+- Three or more offenses: Ban of 3–7 days, depending on severity
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Player Robberies</span>
 
@@ -1274,7 +1274,8 @@ It is <span style="color: red">prohibited</span>:
 
 In principle, the robbed player must remember that they were robbed; they cannot be deprived of this right. Any action that results in the player being PK’ed after the robbery is not allowed.
 
-<span style="color: red">It is strictly forbidden to use first aid kits on someone in a coma with the purpose of robbing them afterward. If you want to rob someone who has fallen unconscious, they must be taken to an illegal hospital, and the robbery roleplay should continue from there.</span>
+- It is strictly <span style="color: red">FORBIDDEN</span> to use first aid kits on someone in a coma with the purpose of robbing them afterward. If you want to rob someone who is down, they must be taken to an illegal hospital, and the robbery roleplay should continue from there.  
+- It is strictly <span style="color: red">FORBIDDEN</span> to kill a person after seeing their items and not liking them (in the context of a robbery action).
 
 <span style="color: yellow">Examples:</span>
 

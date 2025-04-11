@@ -420,6 +420,7 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 - Refuzul de a coopera sau încercarea de a fugi din fața polițiștilor care au armele îndreptate spre individ
 - Ridicarea polițiștilor doborâți
 - Oferirea de trusă medicală polițiștilor de către mafioți
+- Bați un polițist în penitenciar
 
 <span style="color: red">Sancțiuni:</span>
 
@@ -518,14 +519,13 @@ Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este in
 
 ### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitenciar</span>
 
-În interiorul curții penitenciarului se aplica “Legea Junglei”.
+În interiorul și în curtea penitenciarului se aplica “Legea Junglei”.
 
 Sunteți într-o zonă în care există numai infractori, iar regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> nu se aplică.
 
 Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci cand sunt prezenți membri din cadrul departamentului de poliție.
 
 ### <a id="2.26"></a><span style="color: #0088CC">2.26 Corupția</span>
-<br>
 
 #### <a id="2.26.1"></a><span style="color: #0088CC">2.26.1 IC</span>
 
@@ -1060,9 +1060,8 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - trei sau mai multe abateri: warn
 
 <span style="color: green">Mențiuni și excepții:</span>
-- în cazul în care o acțiune începe din <a href="#7.8.2">zonă rău famată</a> și se continuă într-o locație publică (zonă de job/hobby sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere) nu se aplică regula de ilegalități în zonă publică dacă există un motiv bine întemeiat. Exemplu: la o livrare de droguri ești urmărit de echipaje de poliție. Îți este permis să tragi cu arma chiar și în zonele publice care se află pe zone roșii sau galbene
 - zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
-- este permis să pui arma la burtă/cap în mașinile cu geamuri fumurii (full negre) chiar și în zonele publice
+- este permis să pui arma la burtă/cap în mașinile cu geamuri fumurii (full negre) chiar și în zonele publice (acțiunea de jefuit în continuare trebuie făcută într-o zonă roșie sau gri)
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic</span>
@@ -1213,30 +1212,30 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 
 ---
 
-<span style="color: green">Mențiuni și Exceptii:</span>
-- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați în zona verde sau galbenă. De precizat este faptul că pe zonele verzi singura acțiune ilegală admisă este **RĂPIREA** în afara instituțiilor guvernamentale (Primărie, Secție de poliție, Spital etc.). În acest caz, răpirea din zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>. Răpirea din zona verde poate avea loc doar dacă nu au trecut mai mult de 10 minute de la ultima înteracțiune dintre părțile implicate, acțiune ce a început într-o zonă rău famată. 
+<span style="color: green">Mențiuni și Excepții:</span>
 
-- Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. Între blocurile din zonă verde, pe aleele dintre blocuri se aplică regula de Zone Gri.
+- Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
 
-- Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică. Pe drumurile galbene din zonele rău famate se permit urmatoarele indiferent de oră: luarea de ostatic și deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat (fără trafic-stop).
+- Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea.
 
-- Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă roșie, galbenă sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată și există un motiv bine întemeiat.
+- Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri.
 
-- În cazul în care o acțiune de tip conflic (bătaie între 2 grupari de oameni cu arme letale) începe pe o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați pe autostrăzile din afara orașului, cu excepția zonelor din jurul vămilor (din vamă, spre vamă și cu vamă între taberele de bătaie). 
+- Există zone retrase în interiorul zonelor verzi (ex: zona Rockford – între blocuri, în spatele clădirilor). Dacă atrageți un jucător în astfel de locuri, îl puteți răpi, jefui sau omorî. În aleile dintre blocuri din zona verde, se aplică regulile Zonei Gri.
 
-- În general, trebuie să fiți atenți în zonele în care comiteți ilegalități, să nu fie tranzitate de oameni sau mașini, să nu aibă camere de supraveghere sau să nu fie aproape de o secție de poliție. Practic, ilegalitățile sunt permise în zonele ferite și ascunse. Atenție, nu aveți voie să răpiți din zona verde și să duceți între blocuri pentru jefuire sau omor, încercați să atrageți persoanele în aceste zone.
+- Toți jucătorii, inclusiv Poliția, trebuie să respecte regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>. Zonele verzi sunt foarte populate, iar folosirea armelor este extrem de periculoasă și poate duce la victime colaterale. Excepția este dacă deja s-au tras focuri de armă în respectiva zonă publică iar scopul este neutralizarea individului înarmat și periculos.
 
-<span style="color: green">Exemple:</span><br>
-<span style="color: yellowgreen">Permis:</span> 
-- Pe zona Grove a început un conflict între mai multe persoane. Una dintre persoane reușește să scape în zonă verde, aceasta fiind urmărită. Persoana care a scăpat poate fi răpită din zona verde rapid (acțiunea de răpire poate dura maxim 5 minute).
+- ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
+  - să evite provocările, jignirile și orice acțiuni care pot escalada conflictul;
+  - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc.
 
-<span style="color: red">Nepermis:</span> 
-- La o plantație a început un conflict între mai mult persoane. Una dintre persoane pleacă și este identificată câteva ore mai tărziu într-o zonă verde. Nu se poate răpi din zonă verde pentru că au trecut mai mult de 10 minute în care se permite răpirea din zonă verde.
+  <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiuni între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
 
-Încălcarea întervalelor orare de mai sus și nerespectarea indicațiilor se <span style="color: red">sancționează</span> cu:
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+_Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
+
+<span style="color: red">Sancțiuni:</span>
+- Prima abatere: 200 Checkpoint-uri
+- A doua abatere: Warn + Checkpoint-uri
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Jafuri jucători</span>
 
@@ -1273,7 +1272,8 @@ Este <span style="color: red">interzis</span>:
 
 In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, acesta nu poate să fie privat de acest drept. Orice acțiune ce asigură PK-ul jucătorului în urma jefuirii nu este permisă.
 
-<span style="color: red">Este strict interzisă folosirea truselor de prim ajutor pe cineva în Comă cu scopul de a-l jefui ulterior. Dacă vreți să jefuiți pe cineva picat el trebuie să fie dus la un spital ilegal, roleplay-ul de jefuit continuându-se de acolo.</span>
+- Este strict <span style="color: red">INTERZISĂ</span> folosirea truselor de prim ajutor pe cineva în Comă cu scopul de a-l jefui ulterior. Dacă vreți să jefuiți pe cineva picat el trebuie să fie dus la un spital ilegal, roleplay-ul de jefuit continuându-se de acolo.
+- Este strict <span style="color: red">INTERZIS</span> să omori o persoană după ce i-ai vazut itemele și nu iți convin (în contextul unui acțiuni de jefuit).
 
 <span style="color: yellow">Exemple:</span>
 
