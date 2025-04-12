@@ -1023,7 +1023,7 @@ Vă este permis să furați o mașină de poliție/medici doar în cazuri extrem
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Ilegalități sub 50 de ore</span>
 
-în cazul în care nu aveți 50 de ore pe cont, este interzisă orice tip de ilegalitate. Nu vă este permis să ajutați, indirect prin acordarea de informații sau alte mijloace care să ajute persoanele implicate, într-o acțiune ilegală dacă nu aveți peste 50 de ore. Toată lumea trebuie să îndeplinească acest criteriu.
+în cazul în care nu aveți 50 de ore pe <strong style="color: red">CARACTER</strong>, este interzisă orice tip de ilegalitate. Nu vă este permis să ajutați, indirect prin acordarea de informații sau alte mijloace care să ajute persoanele implicate, într-o acțiune ilegală dacă nu aveți peste 50 de ore pe <strong style="color: red">CARACTER</strong>. Toată lumea trebuie să îndeplinească acest criteriu.
 
 Acțiunile ilegale cuprind:
 - Jefuirea persoanelor/proprietăților sau participarea la o acțiune de acest tip.
@@ -1243,7 +1243,7 @@ Jefuirea jucătorilor se poate face doar în <a href="#7.8">#7.8 Zonele rău fam
 Puteți să jefuiți o persoană doar de banii și obiectele care se află asupra sa și de obiectele care se află în vehiculul pe care îl conducea în momentul în care a fost jefuit.
 
 Este <span style="color: red">interzis</span>:
-- să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe server. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
+- să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe <strong style="color: red">CARACTER</strong>. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
@@ -1279,7 +1279,7 @@ In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, ac
 <span style="color: green">Excepții de la regulă:</span>
 - Ai voie să omori o persoană doar atunci când tu pleci din acel loc unde ai jefuit-o, iar aceasta te urmărește singură sau se întâlnește cu alte persoane pentru a te doborî/recupera lucrurile furate. 
 - Persoanele care sunt guralive, nu au frică și care nu se conformează jefuitorului pot fi omorâte. De asemenea, persoanele care folosesc telefonul sau stația în timp ce sunt amenințate cu arma pot fi omorâte.
-- Persoana jefuită, dacă întâlnește jefuitorul, îl poate jefui pe acesta de tot ce are în inventar și de a-l omorî ulterior doar pe jefuitorul inițial, fără a avea 50 de ore jucate
+- Persoana jefuită, dacă întâlnește jefuitorul, îl poate jefui pe acesta de tot ce are în inventar și de a-l omorî ulterior doar pe jefuitorul inițial, fără a avea 50 de ore jucate pe <strong style="color: red">CARACTER</strong>
 - În momentul în care primiți o țeapă IC cu obiecte ilegale
 
 Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
@@ -1298,7 +1298,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 <br>
 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Magazine</span>
-Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore.
+Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>.
 
 Civilii prezenți în timpul jafului nu pot fi jefuiți, răpiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
 
@@ -1311,7 +1311,7 @@ Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuir
 Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banci</span>
-Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6, maxim 15 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de 15 oameni.
+Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6, maxim 15 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de 15 oameni.
 
 După ce alarma se declanșează, proximitatea băncii devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi banca pot fi omorâți.
 

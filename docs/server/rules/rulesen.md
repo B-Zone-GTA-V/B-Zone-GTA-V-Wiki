@@ -1025,7 +1025,7 @@ You are allowed to steal a police/medic car only in extreme cases as a last reso
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Illegalities Under 50 Hours</span>
 
-If you do not have 50 hours on your account, any type of illegality is prohibited. You are not allowed to assist, indirectly by providing information or other means to aid those involved in an illegal action if you do not have over 50 hours. Everyone must meet this requirement.
+If you do not have 50 hours on your <strong style="color: red">CHARACTER</strong>, any type of illegality is prohibited. You are not allowed to assist, indirectly by providing information or other means to aid those involved in an illegal action if you do not have over 50 hours on your <strong style="color: red">CHARACTER</strong>. Everyone must meet this requirement.
 
 Illegal actions include:
 - Robbing people/properties or participating in such an action.
@@ -1245,7 +1245,7 @@ Robbing players can only be done in <a href="#7.8">#7.8 Notorious Areas</a> and 
 You can only rob a person of the money and items they have on them and the items in the vehicle they were driving at the moment they were robbed.
 
 It is <span style="color: red">prohibited</span>:
-- to rob a player if you do not have at least 50 hours played on the server. This rule applies to all persons who rob or provide support/information for the robbery. See rule <a href="#7.2">#7.2 Illegalities Under 50 Hours</a>
+- to rob a player if you do not have at least 50 hours played on your <strong style="color: red">CHARACTER</strong>. This rule applies to all persons who rob or provide support/information for the robbery. See rule <a href="#7.2">#7.2 Illegalities Under 50 Hours</a>
 - to rob people in public places. See rule <a href="#7.3">#7.3 Illegalities in Public Area</a>
 - to rob a medic or a policeman who is on duty or people who are at legal workplaces if they are in uniform.
 - to rob a player who is working at a legal job. See <a href="#6.1">#6.1 Legal Jobs</a>
@@ -1281,7 +1281,7 @@ In principle, the robbed player must remember that they were robbed; they cannot
 <span style="color: green">Rule exceptions:</span>
 - You are allowed to kill a person only when you leave the place where you robbed them, and they follow you alone or meet with other people to take you down/recover the stolen items.
 - People who are talkative, do not show fear, and do not comply with the robber can be killed. Likewise, people who use a phone or radio while being threatened with a weapon can be killed.
-- The robbed person, if they encounter the robber, can rob them of everything in the inventory and subsequently kill only the initial robber, without having 50 hours played
+- The robbed person, if they encounter the robber, can rob them of everything in the inventory and subsequently kill only the initial robber, without having 50 hours played on your <strong style="color: red">CHARACTER</strong>
 - When you receive an IC scam with illegal items
 
 All these exceptions can be made adhering to the rule <a href="#7.3">#7.3 Illegalities in Public Area</a>
@@ -1300,7 +1300,7 @@ All these exceptions can be made adhering to the rule <a href="#7.3">#7.3 Illega
 <br>
 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Stores</span>
-Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people only if all the participants in the robbery have at least 50 hours.
+Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>.
 
 Civilians present during the robbery cannot be robbed, kidnapped or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
@@ -1314,7 +1314,7 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banks</span>
 
-Bank robberies can be done at any time, in a group of minimum 6, maximum 15 people only if all the participants in the robbery have at least 50 hours. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of 15 people.
+Bank robberies can be done at any time, in a group of minimum 6, maximum 15 people only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of 15 people.
 
 After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
