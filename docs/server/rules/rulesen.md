@@ -165,7 +165,7 @@ You are <span style="color: green">ALLOWED</span> to call a medic by pressing th
 
 You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing the designated key to be saved in the following cases:
 
-- When you are in an unpopulated area (marked as brown on the map below) where you could not be seen by other people
+- When you are in an unpopulated area where you could not be seen by other people
 - When you are thrown into the water in an unpopulated area.
 
 <span style="color: red">Sanctions</span> for calling medics from unpopulated areas:
@@ -838,7 +838,7 @@ Driving over 200km/h in the city is considered NON-RP driving.
 
 #### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Off-Road</span>
 
-To drive a high-guard vehicle on off-road roads (roads marked brown on the radar), you are obliged not to exceed the maximum speed of 100 km/h. You cannot drive Super and Super Sport category cars on OFF-ROAD roads.
+To drive a high-guard vehicle on off-road roads, you are obliged not to exceed the maximum speed of 100 km/h. You cannot drive Super and Super Sport category cars on OFF-ROAD roads.
 
 #### <a id="5.5.3"></a><span style="color: #0088CC">5.5.3 Extreme Off-Road</span>
 Driving a vehicle on road portions not marked on the map can be done respecting the following aspects:
@@ -850,7 +850,7 @@ Driving a vehicle on road portions not marked on the map can be done respecting 
 
 #### <a id="5.5.4"></a><span style="color: #0088CC">5.5.4 Motorcycles</span>
 - Speed motorcycles - are intended to be used only on paved roads without a speed limit outside the city.
-- Cross motorcycles - Are allowed to be used both on paved roads and on forest roads (marked brown on the radar) with a maximum speed of 100 km/h, but also on unmarked roads with a maximum speed of 70 km/h.
+- Cross motorcycles - Are allowed to be used both on paved roads and on forest roads with a maximum speed of 100 km/h, but also on unmarked roads with a maximum speed of 70 km/h.
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Helicopters</span>
 It is <span style="color: limegreen">PERMITTED</span> to land a helicopter on:

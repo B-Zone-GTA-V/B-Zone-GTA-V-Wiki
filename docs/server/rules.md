@@ -166,7 +166,7 @@ Vă este <span style="color: green">PERMISĂ</span> apelarea medicului prin acț
 
 Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
 
-- când ești într-o zonă nepopulată (marcată cu maro pe harta de mai jos) în care nu ai putea fi văzut de către alți oameni
+- când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni
 - când ești aruncat în apă într-o zonă nepopulată
 
 <span style="color: red">Sancțiuni</span> pentru apel către medici din zone nepopulate: 
@@ -834,7 +834,7 @@ Condusul cu peste 300km/h în oraș se consideră condus NON-RP.
 
 #### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Off-Road</span>
 
-Pentru a conduce un vehicul cu garda înaltă pe drumurile off-road (drumurile marcate cu maro pe radar) aveți obligația sa nu depășiți viteza maxima de 100 km/h. Nu puteți conduce mașini din categoriile Super si Super Sport pe drumurile OFF-ROAD.
+Pentru a conduce un vehicul cu garda înaltă pe drumurile off-road aveți obligația sa nu depășiți viteza maxima de 100 km/h. Nu puteți conduce mașini din categoriile Super si Super Sport pe drumurile OFF-ROAD.
 
 #### <a id="5.5.3"></a><span style="color: #0088CC">5.5.3 Extreme Off-Road</span>
 Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poate face respectând următoarele aspecte:
@@ -844,7 +844,7 @@ Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poa
 
 #### <a id="5.5.4"></a><span style="color: #0088CC">5.5.4 Motociclete</span>
 - Motociclete de viteză - sunt destinate a fi folosite doar pe drumurile asfaltate fără limită de viteza în afara orașului.
-- Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere (marcate cu maro pe radar) cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
+- Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Elicoptere</span>
 Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
