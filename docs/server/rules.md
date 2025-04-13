@@ -254,11 +254,11 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatere: 150-300 checkpoint-uri
-- doua sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 <span style="color: green">Mențiuni:</span>
-- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
 - Neprezentarea de dovezi în cazul în care se suspectează un caz de metagaming se sancționează de asemenea.
 - Regula de MG nu se aplică membrilor SAS, DCCO și ai grupărilor mafiote atunci când își recunosc propriii colegi din cadrul organizației lor.
 
@@ -380,9 +380,9 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatere: 75-150 checkpoint-uri
-- a doua abatere: 300 checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 <span style="color: green">Mențiuni:</span>
 - Itemele jucătorului care face NO FEAR pot fi confiscate dacă roleplay-ul este anulat în urma unui ticket.
@@ -463,12 +463,9 @@ Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat
 - Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
 
 <span style="color: red">Sancțiuni:</span>
-
-- prima abatere: 150-300 checkpoint-uri
-- două sau mai multe abateri: warn
-
-<span style="color: green">Mențiuni:</span>
-- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
 Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, **în lipsa unui roleplay anterior**.
@@ -1017,9 +1014,9 @@ Vă este permis să furați o mașină de poliție/medici doar în cazuri extrem
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 200-300 Checkpoint-uri 
-- a doua abatere: warn
-- trei sau mai multe abateri: ban 3-7 zile în funție de gravitate
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Ilegalități sub 50 de ore</span>
 
@@ -1032,9 +1029,9 @@ Acțiunile ilegale cuprind:
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zonă publică</span>
 Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="#7.8.1">7.8.1 Zone Verzi</a>.
@@ -1051,10 +1048,9 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - aruncarea unui cetățean în comă într-o zonă publică
 
 <span style="color: red">Sancțiuni:</span>
-
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 <span style="color: green">Mențiuni și excepții:</span>
 - zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
@@ -1213,7 +1209,7 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 
 - Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
 
-- Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie.
+- Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie. Se va sancționa conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>
 
 - Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri.
 
@@ -1226,11 +1222,6 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
   <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiuni între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
 
 _Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
-
-<span style="color: red">Sancțiuni:</span>
-- Prima abatere: 200 Checkpoint-uri
-- A doua abatere: Warn + Checkpoint-uri
-- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Jafuri jucători</span>
 
@@ -1331,9 +1322,9 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.11"></a><span style="color: #0088CC">7.11 Ilegalități în case și în jurul caselor</span>
 Sunt <span style="color: green">permise</span> următoarele **DOAR** în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:

@@ -257,11 +257,11 @@ Represents the use of OOC (Out Of Character) information for IC (In Character) p
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 150-300 Checkpoints
+- First offense: 200-300 Checkpoints
 - Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 <span style="color: green">Notes:</span>
-- The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
 - Not presenting evidence in the case where metagaming is suspected can also be sanctioned.
 - The MG rule does not apply to SAS, DCCO, and mafia members when recognizing their own colleagues within these groups.
 
@@ -382,9 +382,9 @@ Represents the action where you are not realistically afraid that your own life 
 - There is a conflict between mafias or between mafia and police, and you are not afraid to pass through that area.
 
 <span style="color: red">Sanctions:</span>
-- First offense: 75-150 Checkpoints
-- Second offense: 300 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 <span style="color: green">Notes:</span>
 - The player's items that do NO FEAR may be confiscated if the roleplay is canceled following a ticket.
@@ -465,9 +465,9 @@ If the disconnection was intended to avoid a possible CK (Character Kill), the C
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 75-150 Checkpoints
-- Second offense: 300 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 <span style="color: green">Notes:</span>
 - For multiple offenses, sanctioning with a 1-3 day ban is possible.
@@ -1034,9 +1034,9 @@ Illegal actions include:
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Illegalities in Public Area</span>
 An action is considered illegal in a public area when a person or a group of people commit a crime in a densely populated area, a job/hobby zone, on a highway, or near a shop, gas station, banks, ATMs, car garages, or any other type of business, including their interiors. Public Zones are defined as green zones in rule <a href="#7.8.1">#7.8.1 Green Zones</a>.
@@ -1053,9 +1053,9 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 <span style="color: green">Notes and exceptions:</span>
 - item crafting areas are not considered public areas, even if they are marked on the map. The regulations of the areas in which they are located apply to them. See rule <a href="#7.8">7.8 Zoning</a>
@@ -1229,11 +1229,6 @@ The following are allowed outside the city areas between <span style="color:yell
 
 _Important:_ Avoid committing illegal acts in crowded, trafficked, monitored areas or near police stations. Illegal actions should only be committed in secluded and hidden locations. **You are not allowed to kidnap someone from a green zone and then take them between buildings for robbery or murder.** Instead, try to lure the person into those areas.
 
-<span style="color: red">Penalties:</span>
-- First offense: 200 Checkpoints
-- Second offense: Warning + Checkpoints
-- Three or more offenses: Ban of 3–7 days, depending on severity
-
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Player Robberies</span>
 
 The time interval in which you can rob a player is <span style="color:yellowgreen">**20:00 - 08:00**</span>.
@@ -1334,9 +1329,9 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 checkpoints
-- Second offense: 200 checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 ### <a id="7.11"></a><span style="color: #0088CC">7.11 Illegal Activities in and Around Houses</span>
 The following are <span style="color: green">allowed</span> **ONLY** between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
