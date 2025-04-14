@@ -1216,10 +1216,10 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 - Există zone retrase în interiorul zonelor verzi (ex: zona Rockford – între blocuri, în spatele clădirilor). Dacă atrageți un jucător în astfel de locuri, îl puteți răpi, jefui sau omorî. În aleile dintre blocuri din zona verde, se aplică regulile Zonei Gri.
 
 - ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
-  - să interzic provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)
+  - să evite provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)
   - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc. (Sancțiune: No-Fear + scoaterea acestuia din zona verde)
 
-  <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiuni între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
+  <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiune între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
 
 _Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
 
