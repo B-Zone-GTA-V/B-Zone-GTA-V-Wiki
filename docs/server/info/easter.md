@@ -11,7 +11,7 @@ outline: deep
 
 ## Introducere
 
-Pe server a fost adăugat un eveniment simbolic. În perioada **XX Aprilie** - **31 Mai** evenimentul de paște va fi activ pe server!
+Pe server a fost adăugat un eveniment simbolic. Începând cu luna aprilie **Aprilie** și până pe **31 Mai** evenimentul de paște va fi activ pe server!
 
 Mult succes la căutat și pictat ouă!
 
@@ -24,7 +24,7 @@ Mult succes la căutat și pictat ouă!
     </tr>
     <tr>
         <td>Cât ține evenimentul?</td>
-        <td>XX Aprilie - 31 Mai</td>
+        <td>Începând cu luna Aprilie și până pe 31 Mai</td>
     </tr>
     <tr>
         <td>Ce fac cu trandafirii de la evenimentul trecut?</td>
@@ -33,6 +33,10 @@ Mult succes la căutat și pictat ouă!
     <tr>
         <td>Cât costă ticketul de BattlePass?</td>
         <td>3.000 Gold</td>
+    </tr>
+      <tr>
+        <td>Ce avantaje am cu ticketul de BattlePass?</td>
+        <td>Vei putea colecționa premiile de la secțiunea Premium din cadrul BattlePass-ului curent</td>
     </tr>
     <tr>
         <td>Pot cumpăra mașini sau haine și după eveniment?</td>
@@ -59,7 +63,7 @@ A fost adăugat battlepass sezonul 5, easter edition. De această dată acesta v
 
 De acum ca să colectați premiile de pe rândul de **Premium** veți avea nevoie de un **BattlePass Ticket**.
 
-**BattlePass Ticket** îl puteți achiziționa din *[/shop]*, de la alți jucători cu bani IC sau să vă încercați norocul la **Wheel of Fortune**.
+**BattlePass Ticket** îl puteți achiziționa din *[/shop]* sau de la alți jucători.
 
 De precizat că acest Item nu poate fi furat de pe voi, iar în caz de PlayerKill nu îl veți pierde!
 
@@ -83,14 +87,14 @@ Metodele de procurat aceste **Ouă** sunt următoarele: **Din BattlePass**, **Qu
 
 ## Questuri
 
-### Găsește Oul
+### Găsește Coșul cu Ouă
 
-La un interval orar anume se vor spawna 10 Ouă în poziții aleatorii pe hartă.
+La un interval orar anume se vor spawna 10 Coșulețe cu Ouă în poziții aleatorii pe hartă.
 
 Acestea vă vor apărea pe radar doar dacă sunteți suficient de aproape de ele.
 
 <details>
-  <summary>Găsește Oul</summary>
+  <summary>Găsește Coșul cu ouă</summary>
   <img src="https://v.b-zone.ro/images/wiki/bp-egg.jpeg" alt="BP">
 </details>
 
@@ -122,9 +126,7 @@ Pentru a testa mașinile trebuie să te duci la Dealership, iar acolo vei avea o
 
 ## Iteme Speciale
 
-Au fost adăugate ouăle de ciocolată care au un efect aleatoriu la folosință.
-
-Când dați pe utilizează veți putea primi următoarele efecte:
+Unele ouă sunt de ciocolată, iar atunci când le consumi îți oferă unul din următoarele efecte:
 - Poate seta armura la **100%** sau la **0**.
 - Poate seta viața la **100%** sau la **10%**.
 - Poate seta **sațietatea mâncării** la o valoare aleatorie între **0-100**.
