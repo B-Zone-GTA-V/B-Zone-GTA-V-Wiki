@@ -464,10 +464,7 @@ If the disconnection was intended to avoid a possible CK (Character Kill), the C
 - Disconnect immediately after robbing a person or a group of people.
 
 <span style="color: red">Sanctions:</span>
-
-- First offense: 200-300 Checkpoints
-- Second offense: Warn
-- Three or more offenses: 3-7 day ban depending on the severity
+Ban 3 - 14 day (without payment right) depending on the severity
 
 <span style="color: green">Notes:</span>
 - For multiple offenses, sanctioning with a 1-3 day ban is possible.

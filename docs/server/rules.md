@@ -463,9 +463,7 @@ Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat
 - Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
 
 <span style="color: red">Sancțiuni:</span>
-- Prima abatere: 200-300 Checkpoint-uri
-- A doua abatere: Warn
-- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
+Ban 3 – 14 zile (fără drept de plată) în funcție de gravitate
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
 Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, **în lipsa unui roleplay anterior**.
