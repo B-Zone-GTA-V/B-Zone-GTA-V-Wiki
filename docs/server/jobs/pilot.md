@@ -113,7 +113,7 @@ Cursa din Los Santos este mai specială deoarece la anumite locații va trebui s
 To work as a <span class="button-p-job">Pilot</span>, you need to go to the hiring area in Los Santos.
 <br>-> You can use your phone by selecting <span class="button-p-job">Press L -> GPS -> Jobs -> Pilot</span>.
 
-### Skill Advancement
+#### Skill Advancement
 
 At the Los Santos Hangar location, you can apply for the job and select your desired Route.
 <br>
@@ -144,7 +144,7 @@ The available routes are: <span class="button-p-job">Sandy</span>, <span class="
 
 The Los Santos route is more special because, at certain locations, you will need to come to a complete stop and wait for potential passengers to board before proceeding to the next destination.
 
-### <span class="button-p-job"><b>Important</b></span>
+#### <span class="button-p-job"><b>Important</b></span>
 
 If you do not enter the job airplane within <span class="button-r-job">2 minutes</span>, the job session will end, and the airplane will despawn due to inactivity.
 

@@ -59,10 +59,17 @@ Filing multiple unfounded reports against players, especially when they do not e
 Before submitting a report or ticket, think carefully. If your complaint is baseless and solely intended to get someone punished, you may be the one penalized for posthunt.
 
 <span style="color: red">Sanctions:</span>
+Ban 1-7 zile up to Permanent ban in some cases
 
-- First offense: 150-200 Checkpoints 
-- Second offense: Warn
-- Three or more offenses: Ban 1-7 zile up to Permanent ban in some cases
+### <a id="1.7"></a><span style="color: #0088CC">1.7 The Syndicate</span>
+- The Syndicate is not subject to sanctions related to the use of OOC (Out of Character) information or metagaming for investigative and order-maintenance purposes.
+- The Syndicate has access to surveillance cameras and drones (with facial recognition) that cover all Syndicate-owned locations.
+- The Syndicate has the right to use OOC information/evidence to initiate RP (Roleplay) scenarios, investigations, or interventions.
+- Syndicate-organized actions are not limited by other general rules of the server as long as their purpose is not excessive or disruptive to the normal Roleplay experience.
+- The Syndicate does not use OOC-acquired information to interfere in conflicts between mafias, but only to maintain healthy Roleplay order throughout the city.
+- Players cannot request OOC information from the Syndicate.
+- OOC information refers to recordings taken by various participants in the RP scenarios, not information obtained from admin tools, voice recognition, etc.
+- OOC information can only be used with the approval of the Syndicate Leader or an Admin ranked 6+.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - BASIC RULES</span>
 
@@ -87,6 +94,7 @@ When you respawn at the hospital, you forget the last action you had, the locati
 - Two mafias/groups are in a conflict/beef. When one leader gets PK’d by the other leader, they and all their members forget the conflict, bringing the complex roleplay to an end.  
 
 <span style="color: green">Notes:</span>  
+- When you leave any government organization (Police or Medical) or their respective departments, you are required to forget all the specific details related to those organizations/departments (information about their members, actions, or any information acquired during your time of service within them). The only thing you are allowed to remember is the fact that you were once part of that organization/department.
 - When a mafia/group leader kills a member, the latter will forget all the information they know about that organization or any other organizations they have interacted with, essentially forgetting their mafia life. Also, the mafia leader and all the present people will forget all the information about the murdered person.
 - When an organization (official or unofficial) is disbanded, PK is applied to all its members. They forget all the information they knew about that organization or any other organizations they interacted with, essentially forgetting their mafia lives. If the mafia was recognized by the Syndicate, they will forget everything about the Syndicate as well.  
 - Returning to the area where the initial roleplay took place can be done after 30 minutes.  
@@ -157,7 +165,7 @@ You are <span style="color: green">ALLOWED</span> to call a medic by pressing th
 
 You are <span style="color: red">NOT ALLOWED</span> to call a medic by pressing the designated key to be saved in the following cases:
 
-- When you are in an unpopulated area (marked as brown on the map below) where you could not be seen by other people
+- When you are in an unpopulated area where you could not be seen by other people
 - When you are thrown into the water in an unpopulated area.
 
 <span style="color: red">Sanctions</span> for calling medics from unpopulated areas:
@@ -249,11 +257,11 @@ Represents the use of OOC (Out Of Character) information for IC (In Character) p
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 150-300 Checkpoints
+- First offense: 200-300 Checkpoints
 - Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 <span style="color: green">Notes:</span>
-- The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
 - Not presenting evidence in the case where metagaming is suspected can also be sanctioned.
 - The MG rule does not apply to SAS, DCCO, and mafia members when recognizing their own colleagues within these groups.
 
@@ -374,9 +382,9 @@ Represents the action where you are not realistically afraid that your own life 
 - There is a conflict between mafias or between mafia and police, and you are not afraid to pass through that area.
 
 <span style="color: red">Sanctions:</span>
-- First offense: 75-150 Checkpoints
-- Second offense: 300 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 <span style="color: green">Notes:</span>
 - The player's items that do NO FEAR may be confiscated if the roleplay is canceled following a ticket.
@@ -412,6 +420,7 @@ Represents the action by which you are not afraid in the presence of a police bo
 - Refusal to cooperate or attempt to flee from police officers who have their weapons pointed at the individual.
 - Picking up downed police officers.
 - Giving medical kits to police officers by gang members.
+- Hitting a police officer inside the penitentiary
 
 <span style="color: red">Sanctions:</span>
 
@@ -455,10 +464,7 @@ If the disconnection was intended to avoid a possible CK (Character Kill), the C
 - Disconnect immediately after robbing a person or a group of people.
 
 <span style="color: red">Sanctions:</span>
-
-- First offense: 75-150 Checkpoints
-- Second offense: 300 Checkpoints
-- Three or more offenses: Warn
+Ban 3 - 14 day (without payment right) depending on the severity
 
 <span style="color: green">Notes:</span>
 - For multiple offenses, sanctioning with a 1-3 day ban is possible.
@@ -510,7 +516,7 @@ Robbing, killing, and interacting with people who are on sleep is prohibited and
 
 ### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitentiary</span>
 
-Inside the penitentiary yard, the "Law of the Jungle" applies.
+Inside the penitentiary and its yard, the "Law of the Jungle" applies.
 
 You are in an area where there are only criminals, and the rules of  <a href="#2.15">#2.15 Random Death Match (RDM)</a> and  <a href="#2.22">#2.22 Bombardier</a> do not apply.
 
@@ -540,8 +546,13 @@ OOC corruption is any method of corruption done on communication channels other 
 - Any act by which you offer goods acquired in government factions
 - Providing information that you acquire in the faction you belong to (example: information from the police when an illegal location is raided) through OOC communication channels (discord, whatsapp, etc.)
 - Storage of faction equipment in personal vehicles or houses
+- Releasing a detainee (regardless of whether they possess illegal items or not) from police custody without a strong and well-established IC reason or any prior roleplay that justifies the action.  
+(The release must not be based on OOC information or OOC friendships.) - If you are suspected of such an act of corruption and cannot prove a valid IC relationship or reason between you and the detainee, you will be sanctioned accordingly.
+- Actions that violate the roleplay logic of a government faction: theft, fraud, murder, use of illegal weapons, transactions involving illegal items, etc.
 
 <span style="color: red">Sanctions:</span> ban 3-7 days depending on severity without the right to pay for unban + 20 Fanction Punish (you will not be able to enter another faction or gang for 20 days) + faction blacklist
+
+<span style="color: yellow">Exception:</span> Leadership ranks within factions (Chief Commissioner+ and Director) are not punishable under Rule 2.26 - Corruption.
 
 ### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
 Freechat is the use of OOC chat in the game, sending messages that are not for the common interest, hate messages, or frustrations.
@@ -558,6 +569,10 @@ It represents when you don't put in a minimum of interest in a roleplay.
 - You ask for a pill at the hospital and are given a quick injection without explanation.
 - You ask for a car repair and are given a kit for it without doing a few checks.
 - You are in a coma, you are given a kit and you continue to shoot your gun as if nothing happened.
+- You are stopped at a traffic control in Grove (red zone), and without any clear context or RP reason, you get out of the car and shoot the police officer — knowing full well that this situation would lead to your arrest.
+- You provide first aid to a player without performing any kind of medical roleplay (no /me commands before or after the revive).
+- You are a police officer and notice an individual in a vehicle that is not confirmed to be Code 1 (armed or extremely dangerous), yet you choose to open fire at the tires and even at the driver, with the intention of neutralizing him or his vehicle.
+
 
 <span style="color: red">Penalty:</span>
 
@@ -568,6 +583,22 @@ It represents when you don't put in a minimum of interest in a roleplay.
 <span style="color: green">Notes:</span>
 - For multiple offences, sanctioning with a warning or a 1-3 day ban is possible.
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
+
+### <a id="2.29"></a><span style="color: #0088CC">2.29 Scamming (Fraudulent Deals)</span>
+
+- It is strictly forbidden to scam other players, both IC (in-character) and OOC (out-of-character), in transactions involving **LEGAL GOODS**.
+- In the event of a scam, all goods will be returned to the victim.
+
+<span style="color: red">Sanctions:</span>
+
+- First offense: 7-day ban  
+- Second offense: 14-day ban  
+- Third and subsequent offenses: 30-day ban
+
+<span style="color: green">Notes:</span>
+
+- Lending items is done at your own risk and is not punishable, as long as it stays within reasonable boundaries.
+- Being an accomplice to a scam is punished equally to the main offender.
 
 ## <a id="3"></a><span style="color: #0088CC">CAP 3. - OOC BEHAVIOR</span>
 
@@ -804,7 +835,7 @@ Driving over 200km/h in the city is considered NON-RP driving.
 
 #### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Off-Road</span>
 
-To drive a high-guard vehicle on off-road roads (roads marked brown on the radar), you are obliged not to exceed the maximum speed of 100 km/h. You cannot drive Super and Super Sport category cars on OFF-ROAD roads.
+To drive a high-guard vehicle on off-road roads, you are obliged not to exceed the maximum speed of 100 km/h. You cannot drive Super and Super Sport category cars on OFF-ROAD roads.
 
 #### <a id="5.5.3"></a><span style="color: #0088CC">5.5.3 Extreme Off-Road</span>
 Driving a vehicle on road portions not marked on the map can be done respecting the following aspects:
@@ -816,7 +847,7 @@ Driving a vehicle on road portions not marked on the map can be done respecting 
 
 #### <a id="5.5.4"></a><span style="color: #0088CC">5.5.4 Motorcycles</span>
 - Speed motorcycles - are intended to be used only on paved roads without a speed limit outside the city.
-- Cross motorcycles - Are allowed to be used both on paved roads and on forest roads (marked brown on the radar) with a maximum speed of 100 km/h, but also on unmarked roads with a maximum speed of 70 km/h.
+- Cross motorcycles - Are allowed to be used both on paved roads and on forest roads with a maximum speed of 100 km/h, but also on unmarked roads with a maximum speed of 70 km/h.
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Helicopters</span>
 It is <span style="color: limegreen">PERMITTED</span> to land a helicopter on:
@@ -825,7 +856,7 @@ It is <span style="color: limegreen">PERMITTED</span> to land a helicopter on:
 - the perimeter of a bank robbery (active or about to begin), whether on the street, field, buildings, etc.
 
 It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to land a helicopter on:
-- Cayo Island (except helipads)
+- Cayo Island (except the helipad at the airport)
 - undesignated areas
 - houses, regardless of the area
 - buildings in Los Santos
@@ -842,6 +873,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to stay or leave an
 #### <a id="5.5.6"></a><span style="color: #0088CC">5.5.6 Boats</span>
 
 It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
+- dock the boat on Cayo Island (except for the boat garage at the airport).
 - intentionally drive the boat onto shores to reach land faster
 - intentionally hit parked boats or boats with other people in them
 - park boats on land
@@ -991,7 +1023,7 @@ You are allowed to steal a police/medic car only in extreme cases as a last reso
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Illegalities Under 50 Hours</span>
 
-If you do not have 50 hours on your account, any type of illegality is prohibited. You are not allowed to assist, indirectly by providing information or other means to aid those involved in an illegal action if you do not have over 50 hours. Everyone must meet this requirement.
+If you do not have 50 hours on your <strong style="color: red">CHARACTER</strong>, any type of illegality is prohibited. You are not allowed to assist, indirectly by providing information or other means to aid those involved in an illegal action if you do not have over 50 hours on your <strong style="color: red">CHARACTER</strong>. Everyone must meet this requirement.
 
 Illegal actions include:
 - Robbing people/properties or participating in such an action.
@@ -1000,9 +1032,9 @@ Illegal actions include:
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Illegalities in Public Area</span>
 An action is considered illegal in a public area when a person or a group of people commit a crime in a densely populated area, a job/hobby zone, on a highway, or near a shop, gas station, banks, ATMs, car garages, or any other type of business, including their interiors. Public Zones are defined as green zones in rule <a href="#7.8.1">#7.8.1 Green Zones</a>.
@@ -1019,14 +1051,13 @@ Additionally, it is prohibited to carry out illegal activities near a hospital o
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
 <span style="color: green">Notes and exceptions:</span>
-- if an action starts from a <a href="#7.8.2">Notorious area</a> and continues in a public location (job/hobby area or in the vicinity of a shop, gas station, bank, ATMs, car garages or any other type of business) the illegality in public area rule does not apply if there is a good reason. Example: on a drug delivery you are followed by police crews. You are allowed to fire your gun even in public areas that are on red or yellow zones
 - item crafting areas are not considered public areas, even if they are marked on the map. The regulations of the areas in which they are located apply to them. See rule <a href="#7.8">7.8 Zoning</a>
-- it is allowed to put a gun to your belly/head in cars with tinted windows (full black) even in public areas
+- it is allowed to put a gun to your belly/head in cars even in public areas (the continued robbery must take place in a red or grey zone)
 - if a fistfight starts between 2 players/groups based on a previous roleplay and both parties have punched, it is not considered illegal in a public area even if someone ends up in a coma
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Hostage Situation</span>
@@ -1090,27 +1121,27 @@ Represent actions through which multiple people will die as a result of the role
 - Second offense: 3-5 day ban depending on the severity
 - Three or more offenses: 7-14 day ban depending on the severity
 
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Mafia/Group Alliance</span>
-- An alliance can be made between a maximum of 2 mafias recognized by the syndicate (unofficial or official).  
-- An alliance between 2 mafias recognized by the syndicate against another mafia recognized by the syndicate is <strong style="color: red">STRICTLY FORBIDDEN</strong> without syndicate approval or a declared war.
-- In red zones, if the police intervene in these areas, mafias that do not have an alliance can join the fight with the police **ONLY** if a member of **THEIR** group is put in direct danger. **IT IS NOT** allowed to save fallen members of other mafias outside of your **own** mafia or the one you are in **alliance** with, as this is considered forming an alliance. Obviously, it is possible that police intervention in an area may trigger a conflict involving more than two groups against the police, which is completely allowed as long as the previously mentioned conditions are respected.
+### <a id="7.7"></a><span style="color: #0088CC">7.7 Alliance Between Mafias/Groups</span>
+- An alliance between 2 or more syndicate-recognized mafias **against** another syndicate-recognized mafia is <strong style="color: red">STRICTLY FORBIDDEN</strong> without syndicate approval or a declared war.
+- It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act on behalf of another mafia/civilians in actions involving the police, unless all parties are directly involved from the start.
+- It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act as a mafioso for a civilian if that civilian works for you and is caught by the police. This is <strong style="color: green">ALLOWED</strong> only if you are in the same vehicle.
+- It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act as a civilian/mafioso for another civilian in police interactions unless everyone is in the same vehicle.
 
-- Groups that are not recognized by the syndicate cannot ally with recognized mafias (unofficial or official).<br><br>
-<strong style="color: red">An alliance with civilians in any form of action involving illegal activities is strictly prohibited.</strong>  
+- A mafia member with rank is <strong style="color: green">ALLOWED</strong> to intervene **only** for another member of their **own** mafia during police actions, but not by involving other civilians.
+- It is <strong style="color: green">ALLOWED</strong> to act as a civilian/mafioso for another civilian/mafioso during robber-related actions.
+- It is <strong style="color: green">ALLOWED</strong> to give medkits only to members of your **own** mafia.
 
 <span style="color: yellowgreen">Exceptions:</span>
-- On Cayo Island, alliances with civilians are allowed.
-- Economic alliances (delivery, business, or truce) can also be made with civilians.
-- The mafia that owns a territory (which is not a territory to be delivered) has the right to intervene on it if the police raid it.
+- Rule 7.7 does **not** apply on Cayo Island.
+- A mafia that owns a territory (not a delivery territory) has the right to intervene if police conduct a raid on it.
 
 <span style="color: red">Sanctions:</span>
-- Mafias that violate this rule will automatically receive <strong style="color: red">Mafia WARN</strong>.
-- First offense: 150-300 checkpoints.
-- Second offense: Warn.
-- Three or more offenses: Ban 1-7 days, depending on severity.
-
-<span style="color: green">Mentions:</span>
-- The given sanction can be more severe depending on the gravity of the situation, and the number of offenses may not be followed.
+- Mafias breaking this rule will automatically receive a <strong style="color: red">Mafia WARN</strong>
+- First offense: 150-300 checkpoints
+- Second offense: Warn
+- Three or more offenses: 1–30 day ban, depending on severity  
+<br>
+<span style="color: yellowgreen">The penalty may be more severe depending on the situation, and the number of offenses may not be followed strictly.</span>
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Zones delimitations</span>
 
@@ -1179,27 +1210,22 @@ The following are allowed outside the city areas between <span style="color:yell
 ---
 
 <span style="color: green">Notes and Exceptions:</span>
-- There is no abuse of the green zone. Once an action starts in a red area, gray, or red roads, you have the right to continue it in the green or yellow zone. It should be noted that in green zones, the only illegal action allowed is kidnapping outside government institutions (City Hall, Police Station, Hospital, etc.). In this case, kidnapping in the green zones is not allowed to last more than 5 minutes; otherwise, the rule of <a href="#7.6">#7.6 Terrorist Actions</a> will apply. Kidnapping from the green zone can only take place if no more than 10 minutes have passed since the last interaction between the parties involved, which started in a notorious area.
 
-Allowed example: A conflict between several people started in the Grove area. One of the people manages to escape into the green area, being pursued. The escaped person can be kidnapped from the green zone quickly (the kidnapping action can last a maximum of 5 minutes).
+- Kidnapping from green zones is only allowed with approval from the <strong style="color: yellowgreen">SYNDICATE</strong>. The request must be made by the leader or co-leader of an official or unofficial mafia. The kidnapping must be carried out as quickly as possible and preferably without gunfire. These details are also discussed IC (in character), but the penalties for using firearms in public areas are very severe.
 
-Illegal example: On a plantation, a conflict started between several people. One of the people leaves and is identified a few hours later in a green area. You are unable to kidnap from green zone because more than 10 minutes have passed in which green zone kidnapping is allowed.
+- Highways outside the city (except for areas around customs zones – toward, from, or between camps) are considered **red roads**, where <strong style="color: red">ROBBERY IS NOT</strong> allowed. It is forbidden to use border crossings to gain an advantage in combat; it is strictly prohibited to shoot from the border, towards the border, or with the border between the fighting sides.
 
-- Between the green zones, there are certain secluded areas (e.g., the Rockford area - between blocks, behind buildings). If you manage to lure another player there, you can kidnap, rob, or kill them. Essentially, the Gray Zone rule applies.
+- The rule <a href="#7.3">#7.3 Illegal Actions in Public Areas</a> applies to all businesses (gas stations, garages, salons, ATMs, etc.), regardless of whether they are located in red, yellow, or grey zones.
 
-- On yellow streets in notorious areas, it is forbidden to rob in that exact perimeter. Robbing should be moved to a notorious area, not the semi-public street. On the yellow roads in the infamous areas, the following are allowed regardless of the time: taking a hostage and opening fire based on a previous roleplay and a very well-founded reason (no traffic-stop).
+- There are secluded areas within green zones (e.g., Rockford area – between buildings or behind them). If you manage to lure another player into such areas, you are allowed to kidnap, rob, or kill them. The alleys between apartment blocks in green zones are considered Grey Zones.
 
-- The rule of illegality in a public area (for businesses: gas stations, garages, salons, ATMs and others) applies regardless of whether it is a red, yellow or gray area. You still can't rob someone at the gas station even if it's in the Grove. The only exception is when the action started from the notorious area and you have a good reason.
+- ⚠️ If a player is being chased by armed individuals and chooses to take refuge in a safe zone (e.g., a green zone), they must:
+  - avoid provoking, insulting, or escalating the conflict (Sanction: Provoking + removal from the green zone)
+  - adopt a cautious attitude and seek reasonable ways to exit the risky situation. (Sanction: No-Fear + removal from the green zone)
 
-<span style="color: green">Examples:</span>
-- An action starts in the notorious Labirint area and extends towards Mirror or the highway. This will not be considered an illegal activity in the public area, as the action started in a notorious area and moved to a public area.
+  <span style="color: lightpink"> _If the player remains in the green zone for more than 30 minutes solely to stall, they may be punished with a ban of 1–7 days and complete inventory wipe._</span>
 
-- In general, you must be careful in the areas where you commit illegal activities, ensuring they are not frequented by people or vehicles, do not have surveillance cameras, and are not near a police station. Practically, illegal activities are permitted in secluded and hidden areas. Attention, you are not allowed to kidnap from the green zone and take between buildings for robbery or murder; try to lure people into these areas.
-
-Violation of the above time intervals and the failure of following the rules will be <span style="color: red">sanctioned</span> with:
-- first offense: 50-100 Checkpoints
-- second offense: 200 Checkpoints
-- three or more offenses: warning
+_Important:_ Avoid committing illegal acts in crowded, trafficked, monitored areas or near police stations. Illegal actions should only be committed in secluded and hidden locations. **You are not allowed to kidnap someone from a green zone and then take them between buildings for robbery or murder.** Instead, try to lure the person into those areas.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Player Robberies</span>
 
@@ -1212,7 +1238,7 @@ Robbing players can only be done in <a href="#7.8">#7.8 Notorious Areas</a> and 
 You can only rob a person of the money and items they have on them and the items in the vehicle they were driving at the moment they were robbed.
 
 It is <span style="color: red">prohibited</span>:
-- to rob a player if you do not have at least 50 hours played on the server. This rule applies to all persons who rob or provide support/information for the robbery. See rule <a href="#7.2">#7.2 Illegalities Under 50 Hours</a>
+- to rob a player if you do not have at least 50 hours played on your <strong style="color: red">CHARACTER</strong>. This rule applies to all persons who rob or provide support/information for the robbery. See rule <a href="#7.2">#7.2 Illegalities Under 50 Hours</a>
 - to rob people in public places. See rule <a href="#7.3">#7.3 Illegalities in Public Area</a>
 - to rob a medic or a policeman who is on duty or people who are at legal workplaces if they are in uniform.
 - to rob a player who is working at a legal job. See <a href="#6.1">#6.1 Legal Jobs</a>
@@ -1236,7 +1262,8 @@ It is <span style="color: red">prohibited</span>:
 
 In principle, the robbed player must remember that they were robbed; they cannot be deprived of this right. Any action that results in the player being PK’ed after the robbery is not allowed.
 
-<span style="color: red">It is strictly forbidden to use first aid kits on someone in a coma with the purpose of robbing them afterward. If you want to rob someone who has fallen unconscious, they must be taken to an illegal hospital, and the robbery roleplay should continue from there.</span>
+- It is strictly <span style="color: red">FORBIDDEN</span> to use first aid kits on someone in a coma with the purpose of robbing them afterward. If you want to rob someone who is down, they must be taken to an illegal hospital, and the robbery roleplay should continue from there.  
+- It is strictly <span style="color: red">FORBIDDEN</span> to kill a person after seeing their items and not liking them (in the context of a robbery action).
 
 <span style="color: yellow">Examples:</span>
 
@@ -1247,7 +1274,7 @@ In principle, the robbed player must remember that they were robbed; they cannot
 <span style="color: green">Rule exceptions:</span>
 - You are allowed to kill a person only when you leave the place where you robbed them, and they follow you alone or meet with other people to take you down/recover the stolen items.
 - People who are talkative, do not show fear, and do not comply with the robber can be killed. Likewise, people who use a phone or radio while being threatened with a weapon can be killed.
-- The robbed person, if they encounter the robber, can rob them of everything in the inventory and subsequently kill only the initial robber, without having 50 hours played
+- The robbed person, if they encounter the robber, can rob them of everything in the inventory and subsequently kill only the initial robber, without having 50 hours played on your <strong style="color: red">CHARACTER</strong>
 - When you receive an IC scam with illegal items
 
 All these exceptions can be made adhering to the rule <a href="#7.3">#7.3 Illegalities in Public Area</a>
@@ -1266,7 +1293,7 @@ All these exceptions can be made adhering to the rule <a href="#7.3">#7.3 Illega
 <br>
 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Stores</span>
-Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people only if all the participants in the robbery have at least 50 hours.
+Robbing stores can be done with at least one firearm, at any time, in a group of at least 2, maximum 8 people only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>.
 
 Civilians present during the robbery cannot be robbed, kidnapped or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
@@ -1280,7 +1307,7 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banks</span>
 
-Bank robberies can be done at any time, in a group of minimum 6, maximum 15 people only if all the participants in the robbery have at least 50 hours. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of 15 people.
+Bank robberies can be done at any time, in a group of minimum 6, maximum 15 people only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of 15 people.
 
 After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
@@ -1300,22 +1327,27 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 checkpoints
-- Second offense: 200 checkpoints
-- Three or more offenses: Warn
+- First offense: 200-300 Checkpoints
+- Second offense: Warn
+- Three or more offenses: 3-7 day ban depending on the severity
 
-### <a id="7.11"></a><span style="color: #0088CC">7.11 Illegalities in Houses and Around Houses</span>
-The following are <span style="color: green">permitted</span> between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Taking a kidnapped citizen to a house
-- Robbing a citizen in a house
+### <a id="7.11"></a><span style="color: #0088CC">7.11 Illegal Activities in and Around Houses</span>
+The following are <span style="color: green">allowed</span> **ONLY** between <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+- taking a kidnapped citizen to your own house or a house where you are renting
+- robbing a citizen inside the robber’s house or a house where the robber is renting
 
-The following are <span style="color: red">prohibited</span>:
-- Forcing a player to take out items from personal safes
-- Locking the door when being chased by other people/police
-- Illegal actions near houses that are not in <a href="#7.8">#7.8 Notorious Areas</a>
-- It is strictly forbidden to wait outside a player's house with the intention of robbing or killing them as they exit. <br>
-*Example: I saw you in Grove and watched you enter your house. I did not interact with you until then and waited outside to rob you when you came out. If you interact with them and try to rob them, and they run into their house and lock the door, you are not allowed to camp outside. At that moment, they have violated the rule of locking a door during a chase. If you know that someone lives in a house in a notorious area, you have the right to wait on the nearby streets or other relatively close areas to try and rob them, but not immediately outside their house.*
+The following are <span style="color: red">forbidden</span>:
+- kidnapping a player from their own house without prior RP with them
+- forcing a player to take items out of their personal safes
+- locking the door when being chased by others/police
+- entering the yard or interior of a house with an MLO (interior) without the owner's/tenant's approval or a complex roleplay of breaking the lock (it is roleplayed that these doors/gates are closed)
+- illegal actions near houses that are not in <a href="#7.8">7.8 Notorious Zones</a>
+- It is strictly forbidden to wait for a player to exit their house, in the immediate vicinity of their home, with the purpose of robbing or killing them.  
+*Example: I saw you in Grove, I saw you enter a house, I didn’t interact with you until then, and I wait outside your house to rob you when you exit. Even if you interact and try to rob them, and they run inside and lock the door, you are not allowed to camp them. In that moment, they broke the rule of locking the door during a chase. If you know someone lives in a house in a notorious zone, you are allowed to wait on nearby streets or other relatively close areas to try to rob them — but not right at the entrance of their house.*
 
+<span style="color: green">Notes:</span>
+- A house is considered any form of interior with teleport or openable doors
+- Mafia HQs or places where a group mainly operates are also considered houses
 
 <span style="color: red">Sanctions:</span>
 

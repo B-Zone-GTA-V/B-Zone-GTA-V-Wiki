@@ -59,10 +59,17 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 Înainte de a trimite o reclamație sau un ticket, gândește-te bine. Dacă plângerea ta este nefondată și urmărește doar sancționarea unei persoane, este posibil să fii chiar tu sancționat pentru posthunt.
 
 <span style="color: red">Sancțiuni:</span>
+Ban 1-7 zile, până la Ban permanent în unele cazuri
 
-- Prima abatere: 150-200 Checkpoint-uri
-- A doua abatere: Warn
-- Trei sau mai multe abateri: Ban 1-7 zile, până la Ban permanent în unele cazuri
+### <a id="1.7"></a><span style="color: #0088CC">1.7 Sindicatul</span>
+- Sindicatul nu este subiectibil la sancțiuni legate de folosirea informațiilor OOC sau metagaming în scopuri de investigație și menținere a ordinii.
+- Sindicatul beneficiază de acces la camere și drone de supraveghere (cu recunoaștere facială) care acoperă toate locațiile deținute de Sindicat.
+- Sindicatul are dreptul să folosească informații/dovezi OOC pentru a începe RP-uri, investigații sau intervenții.
+- Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor nu este unul exagerat și strică experiența normală de Roleplay.
+- Sindicatul nu folosește informațiile dobândite OOC pentru a intervenii în conflicte între mafii ci doar pentru a menține o ordine sănătoasă de Roleplay pe întregul oraș.
+- Sindicatului nu i se pot cere informații OOC de către jucatori.
+- Prin informatii OOC se intelege filmari preluate de la diversi participati la respectivele RP-uri, nu informatii preluate din admin, dupa voce, etc.
+- Informațiile OOC pot sa fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
@@ -88,10 +95,11 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 
 <span style="color: green">Mențiuni:</span> 
 
+- În momentul în care parasiți orice organizație guvernamentală (Poliție sau Medici) sau departament al acestora sunteți obligați să uitați toate particularitățile acestor organizații / departamente (informații despre membrii acestora, acțiuni sau informații dobandite pe timpul activării în cadrul lor). Singurul lucru ce puteți să îl rețineți este faptul că ați făcut parte din acea organizație / departament.
 - În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viața sa mafioată. De asemenea, liderul de mafie și toți oamenii prezenți vor uita informațiile despre cel omorât.
 - În momentul în care o organizație (oficială sau neoficială) se desfințează se ruleaza PK-ul pentru toti membrii acesteia. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor mafioate. În cazul în care mafia este recunoscută de sindicat aceștia uită totul și despre Sindicat.
 - Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
-- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai dedatoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
+- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai de datoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
 
 <span style="color: red">Sancțiuni:</span>
 
@@ -158,7 +166,7 @@ Vă este <span style="color: green">PERMISĂ</span> apelarea medicului prin acț
 
 Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
 
-- când ești într-o zonă nepopulată (marcată cu maro pe harta de mai jos) în care nu ai putea fi văzut de către alți oameni
+- când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni
 - când ești aruncat în apă într-o zonă nepopulată
 
 <span style="color: red">Sancțiuni</span> pentru apel către medici din zone nepopulate: 
@@ -246,11 +254,11 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatere: 150-300 checkpoint-uri
-- doua sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 <span style="color: green">Mențiuni:</span>
-- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
 - Neprezentarea de dovezi în cazul în care se suspectează un caz de metagaming se sancționează de asemenea.
 - Regula de MG nu se aplică membrilor SAS, DCCO și ai grupărilor mafiote atunci când își recunosc propriii colegi din cadrul organizației lor.
 
@@ -372,9 +380,9 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatere: 75-150 checkpoint-uri
-- a doua abatere: 300 checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 <span style="color: green">Mențiuni:</span>
 - Itemele jucătorului care face NO FEAR pot fi confiscate dacă roleplay-ul este anulat în urma unui ticket.
@@ -409,6 +417,7 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 - Refuzul de a coopera sau încercarea de a fugi din fața polițiștilor care au armele îndreptate spre individ
 - Ridicarea polițiștilor doborâți
 - Oferirea de trusă medicală polițiștilor de către mafioți
+- Bați un polițist în penitenciar
 
 <span style="color: red">Sancțiuni:</span>
 
@@ -454,12 +463,7 @@ Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat
 - Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
 
 <span style="color: red">Sancțiuni:</span>
-
-- prima abatere: 150-300 checkpoint-uri
-- două sau mai multe abateri: warn
-
-<span style="color: green">Mențiuni:</span>
-- Sancțiunea oferită poate fi mai drastică, ban 1-7 zile, în funcție de gravitatea situației și nu se respectă numărul de abateri.
+Ban 3 – 14 zile (fără drept de plată) în funcție de gravitate
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
 Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, **în lipsa unui roleplay anterior**.
@@ -507,14 +511,13 @@ Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este in
 
 ### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitenciar</span>
 
-În interiorul curții penitenciarului se aplica “Legea Junglei”.
+În interiorul și în curtea penitenciarului se aplica “Legea Junglei”.
 
 Sunteți într-o zonă în care există numai infractori, iar regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> nu se aplică.
 
 Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci cand sunt prezenți membri din cadrul departamentului de poliție.
 
 ### <a id="2.26"></a><span style="color: #0088CC">2.26 Corupția</span>
-<br>
 
 #### <a id="2.26.1"></a><span style="color: #0088CC">2.26.1 IC</span>
 
@@ -537,8 +540,13 @@ Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de 
 - Orice act prin care oferiți bunuri dobândite în facțiunile guvernamentale
 - Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală) prin canale de comunicare OOC (discord, whatsapp, etc)
 - Depozitarea de echipamente de facțiune in vehicule personale sau case
+- Eliberarea unui deținut (indiferent dacă are sau nu obiecte ilegale asupra sa) din custodia poliției fără un motiv solid și justificat IC sau fără un roleplay anterior care să susțină acțiunea.  
+(Motivul eliberării nu trebuie să se bazeze pe informații OOC sau relații de prietenie OOC.) - Dacă sunteți suspectat de un astfel de act de corupție și nu puteți demonstra o relație sau un motiv valid IC între voi și deținut, veți fi sancționați corespunzător.
+- Acțiuni ce încalcă logica de Roleplay al unei facțiuni guvernamentale: furtul, înșelătoria, omorul, utilizarea de arme ilegale, tranzacții cu obiecte ilegale etc.
 
 <span style="color: red">Sancțiune:</span> ban 3-7 zile în funcție de gravitate fără drept de plată + 20 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 20 zile) + blacklist în facțiune
+
+<span style="color: yellow">Exceptie:</span> Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi sancționate în baza regulii 2.26 - Corupție.
 
 ### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
 Freechat reprezintă folosirea chatului OOC din joc, transmițând mesaje care nu sunt de interes comun, a mesajelor de ură sau a frustrărilor.
@@ -557,6 +565,7 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - Ești în comă, ți se dă trusă și continui să tragi cu arma de parcă nimic nu s-ar fi întâmplat.
 - Ești oprit la un trafic stop pe Grove (zone roșie), te dai jos să împuști polițistul direct. (știind că finalul acestui RP ar duce în arestarea ta)
 - Dai primul ajutor unui jucător direct fără a rula diferite proceduri medicale. (/me-uri ori înainte ori după revive)
+- Ești polițist și observi un individ într-un vehicul care nu este confirmat ca fiind cu Cod 1 (înarmat sau extrem de periculos), însă alegi să deschizi focul asupra roților și chiar asupra șoferului, cu scopul de a-l neutraliza pe el sau vehiculul acestuia.
 
 <span style="color: red">Sancțiune:</span>
 
@@ -568,6 +577,22 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 
 - Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+
+### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
+
+- Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului), în tranzacții care implică **BUNURI LEGALE**.
+- În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
+
+<span style="color: red">Sancțiuni:</span>
+
+- Prima abatere: Ban 7 zile  
+- A doua abatere: Ban 14 zile  
+- A treia abatere și următoarele: Ban 30 zile
+
+<span style="color: green">Mențiuni:</span>
+
+- Împrumuturile de bunuri se fac pe propria răspundere și nu sunt sancționabile, atâta timp cât se respectă limitele bunului simț.
+- Complicitatea la înșelătorie este sancționată în aceeași măsură ca fapta în sine.
 
 ## <a id="3"></a><span style="color: #0088CC">CAP 3. - Comportament OOC</span>
 
@@ -807,7 +832,7 @@ Condusul cu peste 300km/h în oraș se consideră condus NON-RP.
 
 #### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Off-Road</span>
 
-Pentru a conduce un vehicul cu garda înaltă pe drumurile off-road (drumurile marcate cu maro pe radar) aveți obligația sa nu depășiți viteza maxima de 100 km/h. Nu puteți conduce mașini din categoriile Super si Super Sport pe drumurile OFF-ROAD.
+Pentru a conduce un vehicul cu garda înaltă pe drumurile off-road aveți obligația sa nu depășiți viteza maxima de 100 km/h. Nu puteți conduce mașini din categoriile Super si Super Sport pe drumurile OFF-ROAD.
 
 #### <a id="5.5.3"></a><span style="color: #0088CC">5.5.3 Extreme Off-Road</span>
 Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poate face respectând următoarele aspecte:
@@ -817,7 +842,7 @@ Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poa
 
 #### <a id="5.5.4"></a><span style="color: #0088CC">5.5.4 Motociclete</span>
 - Motociclete de viteză - sunt destinate a fi folosite doar pe drumurile asfaltate fără limită de viteza în afara orașului.
-- Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere (marcate cu maro pe radar) cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
+- Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
 
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Elicoptere</span>
 Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
@@ -826,7 +851,7 @@ Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter
 - perimetrul unui jaf de banca (activ sau ce urmează sa inceapă) atat pe stradă, câmp, clădiri etc
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
-- insula Cayo (cu excepția helipad-urilor)
+- insula Cayo (cu excepția helipad-ului de pe aeroport)
 - locuri neamenajate
 - case indiferent de zonă
 - blocurile din Los Santos
@@ -843,6 +868,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați
 #### <a id="5.5.5"></a><span style="color: #0088CC">5.5.6 Bărci</span>
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
+- acostați barca pe insula Cayo (cu excepția garajului de barci de la aeroport)
 - intrați intenționat cu barca în maluri pentru a ajunge mai rapid pe uscat
 - loviți intenționat bărcile parcate sau bărcile care au alte persoane în ele
 - parcați bărcile pe uscat
@@ -987,13 +1013,13 @@ Vă este permis să furați o mașină de poliție/medici doar în cazuri extrem
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 200-300 Checkpoint-uri 
-- a doua abatere: warn
-- trei sau mai multe abateri: ban 3-7 zile în funție de gravitate
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Ilegalități sub 50 de ore</span>
 
-în cazul în care nu aveți 50 de ore pe cont, este interzisă orice tip de ilegalitate. Nu vă este permis să ajutați, indirect prin acordarea de informații sau alte mijloace care să ajute persoanele implicate, într-o acțiune ilegală dacă nu aveți peste 50 de ore. Toată lumea trebuie să îndeplinească acest criteriu.
+în cazul în care nu aveți 50 de ore pe <strong style="color: red">CARACTER</strong>, este interzisă orice tip de ilegalitate. Nu vă este permis să ajutați, indirect prin acordarea de informații sau alte mijloace care să ajute persoanele implicate, într-o acțiune ilegală dacă nu aveți peste 50 de ore pe <strong style="color: red">CARACTER</strong>. Toată lumea trebuie să îndeplinească acest criteriu.
 
 Acțiunile ilegale cuprind:
 - Jefuirea persoanelor/proprietăților sau participarea la o acțiune de acest tip.
@@ -1002,9 +1028,9 @@ Acțiunile ilegale cuprind:
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zonă publică</span>
 Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="#7.8.1">7.8.1 Zone Verzi</a>.
@@ -1021,15 +1047,13 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - aruncarea unui cetățean în comă într-o zonă publică
 
 <span style="color: red">Sancțiuni:</span>
-
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 <span style="color: green">Mențiuni și excepții:</span>
-- în cazul în care o acțiune începe din <a href="#7.8.2">zonă rău famată</a> și se continuă într-o locație publică (zonă de job/hobby sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere) nu se aplică regula de ilegalități în zonă publică dacă există un motiv bine întemeiat. Exemplu: la o livrare de droguri ești urmărit de echipaje de poliție. Îți este permis să tragi cu arma chiar și în zonele publice care se află pe zone roșii sau galbene
 - zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
-- este permis să pui arma la burtă/cap în mașinile cu geamuri fumurii (full negre) chiar și în zonele publice
+- este permis să pui arma la burtă/cap în mașini chiar și în zonele publice (acțiunea de jefuit în continuare trebuie făcută într-o zonă roșie sau gri)
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic</span>
@@ -1093,26 +1117,25 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 - trei sau mai multe abateri: ban 7-14 zile în funcție de gravitate
 
 ### <a id="7.7"></a><span style="color: #0088CC">7.7 Alianța între mafii/grupări</span>
-- Alianța poate fi făcută între maxim 2 mafii recunoscute de către sindicat(neoficiale sau oficiale).  
-- Alianța dintre 2 mafii recunoscute de către sindicat impotriva unei altei mafii recunoscute de către sindicat este <strong style="color: red">STRICT INTERZISĂ</strong> fără aprobarea sindicatului sau declararea unui razboi.
-- În zonele roșii, în cazul în care poliția intervine în aceste zone, mafiile ce nu au alianță pot să se alăture bătăii cu poliția **DOAR** în cazul în care un membru al grupării **LOR** este pus în pericol direct. **NU** este permisă salvarea oamenilor picați din alte grupări față de mafia **proprie** sau a celei cu care sunteți în **alianță**, acest lucru încalcând regula de 7.7. Evident este posibil ca prin intervenția poliției pe o zonă să se pornească un conflict între mai mult de 2 grupari cu poliția, lucru total permis, dacă respectă cele precizate anterior.
+- Alianța dintre 2 sau mai multe mafii recunoscute de către sindicat impotriva unei altei mafii recunoscute de către sindicat este <strong style="color: red">STRICT INTERZISĂ</strong> fără aprobarea sindicatului sau declararea unui razboi.
+- Este <strong style="color: red">STRICT INTERZISĂ</strong> acționarea pentru o altă mafie/civili, în acțiunile cu poliția, daca nu sunteți toți direct implicați de la începutul acțiunii.
+- Este <strong style="color: red">STRICT INTERZIS</strong> să acționați mafiot pentru civil, dacă acesta lucreaza pentru dumneavoastră și este prins de către poliție. Este <strong style="color: green">PERMIS</strong> doar dacă sunteți în același vehicul.
+- Este <strong style="color: red">STRICT INTERZIS</strong> să acționați civil/mafiot pentru civil, în acțiunile cu poliția, dacă nu sunteți toți în același vehicul.
 
-- Grupările care nu sunt recunoscute de către sindicat nu se pot alia cu mafii recunoscute(neoficiale sau oficiale).<br><br>
-<strong style="color: red">Alianța cu civilii în orice formă de acțiune, ce implică ilegalități, este strict interzisă</strong> 
+- Este <strong style="color: green">PERMIS</strong> unui membru al unei mafii cu grad să intervină doar pentru un alt membru din <strong style="color: green">propria</strong> mafie, în acțiunile cu poliția, dar nu prin implicarea altor civili.
+- Este <strong style="color: green">PERMIS</strong> să acționati civil/mafiot pentru civil/mafiot în acțiunile cu jefuitorii.
+- Este <strong style="color: green">PERMIS</strong> să dați trusă doar membrilor din <strong style="color: green">propria</strong> mafie.
 
 <span style="color: yellowgreen">Exceptii:</span>
-- Pe insula Cayo este permisă alianța și cu civilii
-- Alianțele economice (livrat, afaceri sau armistițiu) se pot face și cu civilii
+- Pe insula Cayo nu se aplică regula 7.7 Alianța între mafii/grupări.
 - Mafia care detine un teritoriu (ce nu este teritoriu de livrat) are dreptul de intervenii pe acesta în cazul în care poliția face o razie pe el.
 
 <span style="color: red">Sancțiuni:</span>
 - mafiile ce incalcă această regulă vor primii implicit <strong style="color: red">Mafia WARN</strong>
 - prima abatare: 150-300 checkpoint-uri
 - a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-7 zile în funcție de gravitate
-
-<span style="color: green">Mențiuni:</span>
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
+- trei sau mai multe abateri: Ban 1-30 zile în funcție de gravitate<br>
+<span style="color: yellowgreen">Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.</span>
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Delimitarea zonelor</span>
 
@@ -1181,28 +1204,23 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 
 ---
 
-<span style="color: green">Mențiuni și Exceptii:</span>
-- Nu există abuz de zonă verde. Odată ce o acțiune începe într-o zonă roșie, gri sau drumuri roșii, aveți dreptul să o continuați în zona verde sau galbenă. De precizat este faptul că pe zonele verzi singura acțiune ilegală admisă este răpirea în afara instituțiilor guvernamentale (Primărie, Secție de poliție, Spital etc.). În acest caz, răpirea din zonele verzi nu are voie să dureze mai mult de 5 minute, în caz contrar se va aplica regula de <a href="#7.6">#7.6 Acțiuni teroriste</a>. Răpirea din zona verde poate avea loc doar dacă nu au trecut mai mult de 10 minute de la ultima înteracțiune dintre părțile implicate, acțiune ce a început într-o zonă rău famată. 
+<span style="color: green">Mențiuni și Excepții:</span>
 
-Exemplu permis: Pe zona Grove a început un conflict între mai multe persoane. Una dintre persoane reușește să scape în zonă verde, aceasta fiind urmărită. Persoana care a scăpat poate fi răpită din zona verde rapid (acțiunea de răpire poate dura maxim 5 minute).
+- Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
 
-Exemplu nepermis: La o plantație a început un conflict între mai mult persoane. Una dintre persoane pleacă și este identificată câteva ore mai tărziu într-o zonă verde. Nu se poate răpi din zonă verde pentru că au trecut mai mult de 10 minute în care se permite răpirea din zonă verde.
+- Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie. Se va sancționa conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>
 
-- Între zonele verzi sunt anumite zone retrase (de exemplu, zona Rockford - între blocuri, în spatele clădirilor). Dacă reușiți să atrageți un alt jucător acolo, puteți să-l răpiți, să-l jefuiți sau să-l omorâți. Între blocurile din zonă verde, pe aleele dintre blocuri se aplică regula de Zone Gri.
+- Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri.
 
-- Pe străzile galbene din zonele rău famate, este interzis să jefuiți exact în acel perimetru. Jefuirea trebuie mutată într-o zonă rău famată, nu pe strada semipublică. Pe drumurile galbene din zonele rău famate se permit urmatoarele indiferent de oră: luarea de ostatic și deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat (fără trafic-stop).
+- Există zone retrase în interiorul zonelor verzi (ex: zona Rockford – între blocuri, în spatele clădirilor). Dacă atrageți un jucător în astfel de locuri, îl puteți răpi, jefui sau omorî. În aleile dintre blocuri din zona verde, se aplică regulile Zonei Gri.
 
-- Regula de ilegalitate în zonă publică (pentru afaceri: benzinării, garaje, saloane, ATM-uri și altele) se aplică indiferent dacă e zonă roșie, galbenă sau gri. În continuare nu puteți să jefuiți pe cineva în benzinărie chiar daca aceasta este in Grove. Singura excepție este atunci când acțiunea a început din zonă rău famată și există un motiv bine întemeiat.
+- ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
+  - să evite provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)
+  - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc. (Sancțiune: No-Fear + scoaterea acestuia din zona verde)
 
-<span style="color: green">Exemple:</span>
-- Acțiunea începe în zona rău famată Labirint și se extinde spre Mirror sau autostradă. Aceasta nu va fi considerată ilegalitate în zona publică, deoarece acțiunea a început într-o zonă rău famată și a ajuns într-o zonă publică
+  <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiune între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
 
-- În general, trebuie să fiți atenți în zonele în care comiteți ilegalități, să nu fie tranzitate de oameni sau mașini, să nu aibă camere de supraveghere sau să nu fie aproape de o secție de poliție. Practic, ilegalitățile sunt permise în zonele ferite și ascunse. Atenție, nu aveți voie să răpiți din zona verde și să duceți între blocuri pentru jefuire sau omor, încercați să atrageți persoanele în aceste zone.
-
-Încălcarea întervalelor orare de mai sus și nerespectarea indicațiilor se <span style="color: red">sancționează</span> cu:
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+_Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Jafuri jucători</span>
 
@@ -1215,7 +1233,7 @@ Jefuirea jucătorilor se poate face doar în <a href="#7.8">#7.8 Zonele rău fam
 Puteți să jefuiți o persoană doar de banii și obiectele care se află asupra sa și de obiectele care se află în vehiculul pe care îl conducea în momentul în care a fost jefuit.
 
 Este <span style="color: red">interzis</span>:
-- să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe server. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
+- să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe <strong style="color: red">CARACTER</strong>. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
@@ -1239,7 +1257,8 @@ Este <span style="color: red">interzis</span>:
 
 In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, acesta nu poate să fie privat de acest drept. Orice acțiune ce asigură PK-ul jucătorului în urma jefuirii nu este permisă.
 
-<span style="color: red">Este strict interzisă folosirea truselor de prim ajutor pe cineva în Comă cu scopul de a-l jefui ulterior. Dacă vreți să jefuiți pe cineva picat el trebuie să fie dus la un spital ilegal, roleplay-ul de jefuit continuându-se de acolo.</span>
+- Este strict <span style="color: red">INTERZISĂ</span> folosirea truselor de prim ajutor pe cineva în Comă cu scopul de a-l jefui ulterior. Dacă vreți să jefuiți pe cineva picat el trebuie să fie dus la un spital ilegal, roleplay-ul de jefuit continuându-se de acolo.
+- Este strict <span style="color: red">INTERZIS</span> să omori o persoană după ce i-ai vazut itemele și nu iți convin (în contextul unui acțiuni de jefuit).
 
 <span style="color: yellow">Exemple:</span>
 
@@ -1250,7 +1269,7 @@ In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, ac
 <span style="color: green">Excepții de la regulă:</span>
 - Ai voie să omori o persoană doar atunci când tu pleci din acel loc unde ai jefuit-o, iar aceasta te urmărește singură sau se întâlnește cu alte persoane pentru a te doborî/recupera lucrurile furate. 
 - Persoanele care sunt guralive, nu au frică și care nu se conformează jefuitorului pot fi omorâte. De asemenea, persoanele care folosesc telefonul sau stația în timp ce sunt amenințate cu arma pot fi omorâte.
-- Persoana jefuită, dacă întâlnește jefuitorul, îl poate jefui pe acesta de tot ce are în inventar și de a-l omorî ulterior doar pe jefuitorul inițial, fără a avea 50 de ore jucate
+- Persoana jefuită, dacă întâlnește jefuitorul, îl poate jefui pe acesta de tot ce are în inventar și de a-l omorî ulterior doar pe jefuitorul inițial, fără a avea 50 de ore jucate pe <strong style="color: red">CARACTER</strong>
 - În momentul în care primiți o țeapă IC cu obiecte ilegale
 
 Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
@@ -1269,7 +1288,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 <br>
 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Magazine</span>
-Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore.
+Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>.
 
 Civilii prezenți în timpul jafului nu pot fi jefuiți, răpiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
 
@@ -1282,7 +1301,7 @@ Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuir
 Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banci</span>
-Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6, maxim 15 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de 15 oameni.
+Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6, maxim 15 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de 15 oameni.
 
 După ce alarma se declanșează, proximitatea băncii devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi banca pot fi omorâți.
 
@@ -1302,21 +1321,27 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- Prima abatere: 200-300 Checkpoint-uri
+- A doua abatere: Warn
+- Trei sau mai multe abateri: Ban 3 – 7 zile, în funcție de gravitate
 
 ### <a id="7.11"></a><span style="color: #0088CC">7.11 Ilegalități în case și în jurul caselor</span>
-Sunt <span style="color: green">permise</span> următoarele în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- ducerea unui cetățean răpit în casă
-- jefuirea unui cetățean în casă
+Sunt <span style="color: green">permise</span> următoarele **DOAR** în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
+- ducerea unui cetățean răpit în propria casă sau casă unde aveți chirie
+- jefuirea unui cetățean în casă jefuitorului sau casă unde jefuitorul are chirie
 
 Sunt <span style="color: red">interzise</span> următoarele:
+- răpirea unui jucător din propria casă fără un RP anterior cu acesta
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
+- intratul în curtea sau interiorul unei case cu MLO (interior) fără aprobarea proprietarului/chiriașului sau un roleplay complex de spargere a lacătului (se rolează că aceste uși/porți sunt închise)
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.8">7.8 Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br>
 *Exemplu: Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
+
+<span style="color: green">Mențiuni:</span>
+- Se consideră casă orice forma de interior cu teleport sau cu uși deschise
+- Se consideră casă HQ-urile de mafii sau locul unde o grupare își desfășoara preponderent activitatea
 
 <span style="color: red">Sancțiuni:</span>
 
