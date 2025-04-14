@@ -856,7 +856,7 @@ It is <span style="color: limegreen">PERMITTED</span> to land a helicopter on:
 - the perimeter of a bank robbery (active or about to begin), whether on the street, field, buildings, etc.
 
 It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to land a helicopter on:
-- Cayo Island (except helipads)
+- Cayo Island (except the helipad at the airport)
 - undesignated areas
 - houses, regardless of the area
 - buildings in Los Santos
@@ -873,6 +873,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to stay or leave an
 #### <a id="5.5.6"></a><span style="color: #0088CC">5.5.6 Boats</span>
 
 It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
+- dock the boat on Cayo Island (except for the boat garage at the airport).
 - intentionally drive the boat onto shores to reach land faster
 - intentionally hit parked boats or boats with other people in them
 - park boats on land
