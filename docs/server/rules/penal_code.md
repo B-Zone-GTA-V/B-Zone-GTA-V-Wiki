@@ -3,18 +3,24 @@ outline: deep
 ---
 
 # Cod penal (Română)
-## <a id="1"></a><span style="color: #0088CC">Definiții Generale</span>
+## <a id="0"></a><span style="color: #0088CC">Definiții Generale</span>
 
-### <a id="1.1"></a><span style="color: #0088CC">Complicitatea</span>
+### <a id="0.1"></a><span style="color: #0088CC">Complicitatea</span>
 
 Complice este persoana care ajută intenționat la comiterea unei infracțiuni sau care instigă la aceasta. De asemenea, este complice și persoana care promite, înainte sau în timpul comiterii faptei, să păstreze bunuri obținute ilegal sau să ajute făptuitorul, chiar dacă promisiunea nu se îndeplinește.
 
 Complicele la o infracțiune cu intenție primește aceeași pedeapsă ca autorul, în funcție de rolul său în săvârșirea faptei. 
-### <a id="1.1"></a><span style="color: #0088CC">Tentativa</span>
+### <a id="0.2"></a><span style="color: #0088CC">Tentativa</span>
 
 Tentativa este atunci când o persoană încearcă să comită o infracțiune, dar acțiunea este întreruptă sau nu are efectul dorit. 
 Nu se pedepsește autorul care, înainte de a fi descoperit, recunoaște fapta sau anunță autoritățile, astfel încât infracțiunea să fie împiedicată sau oprește el însuși comiterea acesteia. 
 Tentativa se pedepsește cu jumătate din pedeapsa prevăzută pentru infracțiunea completă.
+
+### <a id="0.3"></a><span style="color: #0088CC">Încălcarea repetată a codului penal</span>
+
+Orice persoană cu 5 sau mai multe dosare penale o să fie pusă în lista de **"Most Wanted"** a departamentului de poliție. Se iau în considerare doar dosarele active. Există posibilitatea de clasare a dosarelor, achitând o taxă la ghișeul de informații și documente din secția de poliție.
+
+Persoanele de pe lista de **"Most Wanted"** care sunt găsite să încalce din nou codul penal (la crearea dosarului penal Nr. 6) o să fie sancționate cu **inchisoare pe viață**.
 
 ## <a id="1"></a><span style="color: #0088CC">CAP. 1 Legislație Rutieră</span>
 

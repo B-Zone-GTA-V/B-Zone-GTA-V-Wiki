@@ -4,17 +4,24 @@ lastUpdated: true
 ---
 
 # Criminal Code (English)
-## <a id="1"></a><span style="color: #0088CC">General Definitions</span>
+## <a id="0"></a><span style="color: #0088CC">General Definitions</span>
 
-### <a id="1.1"></a><span style="color: #0088CC">Complicity</span>
+### <a id="0.1"></a><span style="color: #0088CC">Complicity</span>
 
 An accomplice is a person who intentionally helps in committing a crime or instigates it. Additionally, an accomplice is also someone who promises, before or during the commission of the act, to keep illegally obtained goods or to help the perpetrator, even if the promise is not fulfilled.
 
 An accomplice to an intentional crime receives the same punishment as the perpetrator, depending on their role in the commission of the act.
 
-### <a id="1.2"></a><span style="color: #0088CC">Attempt</span>
+### <a id="0.2"></a><span style="color: #0088CC">Attempt</span>
 
 An attempt is when a person tries to commit a crime, but the action is interrupted or does not have the desired effect. The perpetrator is not punished if, before being discovered, they admit the act or notify the authorities, thus preventing the crime, or they stop the commission of the crime themselves. An attempt is punished with half of the penalty provided for the complete crime.
+
+### <a id="0.3"></a><span style="color: #0088CC">Repeated violation of the penal code</span>
+
+Any person with 5 or more criminal files will be placed on the police department's **"Most Wanted"** list. Only active files are taken into consideration. There is the possibility of closing the files by paying a fee at the information and documents counter in the police station.
+
+Persons on the **"Most Wanted"** list who are found to violate the penal code again (upon the creation of criminal file No. 6) will be sanctioned with **life detention of the suspect**.
+
 ## <a id="1"></a><span style="color: #0088CC">CH. 1 Road Legislation</span>
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Speed Limits</span>

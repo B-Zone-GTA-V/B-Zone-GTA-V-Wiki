@@ -27,7 +27,10 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 |Rulor de țigări|300|100|
 |Craft general|150|50|
 |Chimist|300|100|
+<<<<<<< HEAD
+=======
 |Mecanic|600|200|
+>>>>>>> 9e782edaf77768be24d66aab03a7faaa9d40327f
 
 ### <span style="color: #0088CC">English</span>
 
@@ -50,7 +53,10 @@ To write a book, you need a notebook that can be bought in any 24/7 store.
 |Smoke crafts|300|100|
 |General Craft|150|50|
 |Chemist|300|100|
+<<<<<<< HEAD
+=======
 |Mechanic|600|200|
+>>>>>>> 9e782edaf77768be24d66aab03a7faaa9d40327f
 
 <details>
   <summary>Write Book</summary>
