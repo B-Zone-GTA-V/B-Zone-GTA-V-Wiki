@@ -31,6 +31,10 @@ Mult succes la căutat și pictat ouă!
         <td>Îi poți vinde la NPC-ul din locația de eveniment</td>
     </tr>
     <tr>
+        <td>Pot pierde Ouăle de Paște?</td>
+        <td>Nu, Ouăle de Paște colectate din activități nu se pot fura / pierde la PK.</td>
+    </tr>
+    <tr>
         <td>Cât costă ticketul de BattlePass?</td>
         <td>3.000 Gold</td>
     </tr>
