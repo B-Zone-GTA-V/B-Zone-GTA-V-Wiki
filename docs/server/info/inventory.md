@@ -19,6 +19,14 @@ De notat este că toate obiectele din inventar sunt șterse atunci când jucăto
 
 Există posibilitatea și de sloturi rapide folosind key-urile de la **0**, **4**, **5**, **6**, **7**, **8**, **9**. Doar mutați itemul în pătratul aferent și veți putea da Folosire rapidă apăsând key-ul respectiv.
 
+#### <span style="color: #0088CC">Tipuri de obiecte</span>
+
+- Obiecte **PROTEJATE**, aceste obiecte nu pot sa fie **furate** și nu pot să fie **pierdute la respawn**. Aceste obiecte pot fi deosebite prin marginea <span style="color: #009DFF">**Albastru deschisa**</span> a obiectului. Aceste obiecte pot sa fie mutate sau date altor jucatori, daca sunt in masini ele **POT** sa fie furate!
+  <img src="https://v.b-zone.ro/images/wiki/item_protected.png" alt="Inventory">
+
+- Obiecte **SOUL-BOUND**, aceste obiecte nu pot să vă părăsească inventarul în nici un fel (furt, drop, depozitare etc.) și nu pot să fie pierdute la respawn. Aceste obiecte pot fi deosebite prin marginea <span style="color: red">**ROȘIE**</span> a obiectului.
+  <img src="https://v.b-zone.ro/images/wiki/item_soul_bound.png" alt="Inventory">
+
 ### <span style="color: #0088CC">Engleza</span>
 
 The inventory is the basic element of our server. In the inventory, you can store food, clothing items, objects obtained from jobs, and more. 
@@ -31,6 +39,15 @@ The inventory capacity cannot be increased if the player works out; this concept
 It is worth noting that all items in the inventory are deleted when the player accepts their death, as well as the money in hand (displayed when the inventory is open). The only items that do NOT get deleted from the inventory are the equipped ones (clothing items), except for equipped weapons.
 
 There is also the option of quick slots using the keys **0**, **4**, **5**, **6**, **7**, **8** and **9**. Simply move the item to the corresponding slot, and you will be able to use it quickly by pressing the respective key.
+
+#### <span style="color: #0088CC">Types of Items</span>
+
+- **PROTECTED** items cannot be **stolen** and cannot be **lost on respawn**. These items can be identified by the <span style="color: #009DFF">**Light Blue**</span> border around them. These items can be moved or given to other players, and if they are inside vehicles, they **CAN** be stolen!
+  <img src="https://v.b-zone.ro/images/wiki/item_protected.png" alt="Inventory">
+
+- **SOUL-BOUND** items can never leave your inventory in any way (theft, drop, storage, etc.) and cannot be lost on respawn. These items can be identified by the <span style="color: red">**RED**</span> border around them.
+  <img src="https://v.b-zone.ro/images/wiki/item_soul_bound.png" alt="Inventory">
+
 
 <details>
   <summary>Inventory</summary>
