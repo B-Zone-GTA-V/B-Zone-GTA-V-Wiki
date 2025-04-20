@@ -464,7 +464,7 @@ If the disconnection was intended to avoid a possible CK (Character Kill), the C
 - Disconnect immediately after robbing a person or a group of people.
 
 <span style="color: red">Sanctions:</span>
-Ban 3 - 14 day (without payment right) depending on the severity
+Ban 7 – 30 days (without payment right) depending on the severity. In exceptional cases where the RP was not very affected or had just started, the sanction may be reduced to 3 days.
 
 <span style="color: green">Notes:</span>
 - For multiple offenses, sanctioning with a 1-3 day ban is possible.

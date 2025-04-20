@@ -463,7 +463,7 @@ Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat
 - Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
 
 <span style="color: red">Sancțiuni:</span>
-Ban 3 – 14 zile (fără drept de plată) în funcție de gravitate
+Ban 7 – 30 zile (fără drept de plată) în funcție de gravitate. În cazuri exceptionale în care RP-ul nu era foarte afectat sau deabea începuse sancțiunea poate sa fie scăzută până la 3 zile.
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
 Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, **în lipsa unui roleplay anterior**.
