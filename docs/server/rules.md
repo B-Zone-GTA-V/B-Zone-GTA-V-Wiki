@@ -626,20 +626,22 @@ Echipa administrativă nu va interveni în cazul jignirilor transmise prin căil
 - Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 Suferințele OOC</span>
-Reprezintă instigarea la ceartă a unei persoane sau a unui grup de persoane în urma unui roleplay sau revenirea la o acțiune anterioară cu scopul de a îi enerva.
+Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire care are scopul de a umili, provoca sau denigra un alt jucător sau a unui grup de persoane în urma unui roleplay sau revenirea la o acțiune anterioară cu scopul de a enerva.
 
-<span style="color: yellow">Exemple (chat in game/voice chat/discord):</span>
-- Ce ai facut baiatule?
-- Poftim un servetel!
-- Te-ai lovit?
-- Câți polițiști mai vin?
-- Ce slabă este poliția
-- Injurii/jigniri repetate aduse unui jucător în comă
-- Utilizarea de animații în scopul de enerva un jucător în comă
+<span style="color: yellow">Astfel, se interzice în mod strict:</span>
+- Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> pe chat-ul din joc.
+- Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> repetitiv pe canalele vocale din joc a persoanelor în comă.
+- Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> pe Discord, fie în mesaje private, fie pe serverul comunității sau pe alte servere.
+- Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jigni</span> pe transmisiuni live (chaturi live).
+
+<span style="color: yellow">Exemple interzise:</span>
+- „Polițiștilor, cum vă descurcați acolo pe jos, tot picați?”
+- „Mafioților, ar fi bine să învățați să țintiți corect.”
+- „Iată cum arată un roleplay de calitate, nu ce faceți voi.”
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatere: mute 60-90 minute sau 150-300 checkpoint-uri
+- prima abatere: 150-300 checkpoint-uri
 - doua abatere sau mai multe abateri: warn
 
 <span style="color: green">Mențiuni:</span>

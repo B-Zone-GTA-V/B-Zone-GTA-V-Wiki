@@ -631,21 +631,23 @@ The administrative team will not intervene in the case of insults transmitted th
 - The given sanction may be more severe depending on the seriousness of the situation and does not adhere to the number of offenses.
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 OOC Suffering</span>
-Represents instigating a fight with a person or a group of people following a roleplay or returning to a previous action with the purpose of annoying them.
+Any form of hostile verbal expression, intimidation, or insult intended to humiliate, provoke, or denigrate another player or group of people as a result of roleplay or revisiting a previous action with the intent to annoy is prohibited.
 
-<span style="color: yellow">Examples (in-game chat/voice chat/discord):</span>
-- What did you do, boy?
-- Here's a napkin for you!
-- Did you get hurt?
-- How many policemen are coming?
-- How weak is the police
-- Repeated insults/offenses directed at a player in a coma
-- Using animations with the aim of pissing off a player in a coma
+<span style="color: yellow">Thus, the following are strictly prohibited:</span>
+- Expressions intended to <span style="color: yellowgreen">humiliate / insult</span> in the in-game chat.
+- Repeated expressions intended to <span style="color: yellowgreen">humiliate / insult</span> people in a coma over in-game voice channels.
+- Expressions intended to <span style="color: yellowgreen">humiliate / insult</span> on Discord, whether in private messages, the community server, or other servers.
+- Expressions intended to <span style="color: yellowgreen">humiliate / insult</span> during live streams (live chats).
+
+<span style="color: yellow">Prohibited Examples:</span>
+- “Hey cops, how’s it going down there on the ground, still falling over?”
+- “Mafiosos, you might want to learn how to aim properly.”
+- “Now *this* is what quality roleplay looks like, not what you all are doing.”
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: mute 60-90 minutes or 150-300 checkpoints
-- Second offense: warn
+- First offense: 150-300 checkpoints
+- Second or multiple offenses: warn
 
 <span style="color: green">Notes:</span>
 - The given sanction may be more severe, ban 1-7 days, depending on the seriousness of the situation and does not adhere to the number of offenses.
