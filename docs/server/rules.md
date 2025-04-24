@@ -1352,13 +1352,12 @@ Sunt <span style="color: red">interzise</span> următoarele:
 - trei sau mai multe abateri: warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Deturnarea unui transport</span>
-Se permite deturnarea unui transport de deținuți pe autostradă dacă liderul sau cel puțin 2 membri din gruparea voastră se află în aceste transporturi. Se permite alianța dintre 2 grupări/mafii pentru a deturna un transport.
+Se permite deturnarea unui transport de deținuți, oriunde în afara orașului, dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
 
 <span style="color: red">Sancțiuni:</span>
 
-- prima abatare: 50-100 Checkpoint-uri
-- a doua abatere: 200 Checkpoint-uri
-- trei sau mai multe abateri: warn
+- prima abatare: warn
+- a doua abatere: Ban 3 zile
 
 ### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
 **Gang** - Grupare de maxim 10 persoane care nu este recunoscută de către sindicat.

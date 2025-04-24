@@ -1358,13 +1358,12 @@ The following are <span style="color: red">forbidden</span>:
 - Three or more offenses: Warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Hijacking a Transport</span>
-Hijacking a prisoner transport on the highway is allowed if the leader or at least 2 members of your group are in these transports. An alliance between 2 groups/mafias to hijack a transport is allowed.
+Hijacking a prisoner transport is allowed anywhere outside the city if the leader or at least 2 members of your group are in the transport. An alliance between 2 mafias (official/unofficial) is allowed in order to hijack a transport. The minimum number of people required to perform a hijacking is 3.
 
 <span style="color: red">Sanctions:</span>
 
-- First offense: 50-100 Checkpoints
-- Second offense: 200 Checkpoints
-- Three or more offenses: Warn
+- First offense: warn  
+- Second offense: 3-day ban
 
 ### <a id="7.13"></a><span style="color: #0088CC">7.13 Member limits for illegalities</span>
 **Gang** - A group of maximum 10 people not recognized by the syndicate.
