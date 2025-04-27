@@ -72,7 +72,7 @@ Lista comenzilor disponibile în joc poate fi vizualizată utilizând comanda /a
 
 Nu acceptăm ca un membru al echipei staff să dețină o funcție administrativă pe un alt server FiveM/RAGE:MP, considerând acest lucru un conflict de interese. Implicarea simultană în mai multe comunități poate afecta obiectivitatea, loialitatea și eficiența în gestionarea serverului nostru.
 
-Pentru a deține o funcție administrativă pe serverul B-Zone, este necesar să renunțați la orice poziție de conducere sau administrare pe alte comunități. Prioritatea trebuie să fie dedicarea totală pentru dezvoltarea și buna funcționare a serverului nostru.
+Pentru a deține o funcție administrativă pe serverul B-Zone, este necesar să renunțați la orice poziție de conducere sau administrare pe alte comunități, de asemenea vă este interzis să vă jucați pe alte cominități odată ce dețineți o funcție administrativă aici. Prioritatea trebuie să fie dedicarea totală pentru dezvoltarea și buna funcționare a serverului nostru.
 
 ### <span style="color: #0088CC">1.6 Gradele administrative</span>
 Mai jos aveți cerințele minime pentru a fi eligibil pentru un **UP** la un anumit grad administrativ:  
