@@ -1356,7 +1356,7 @@ The following are <span style="color: red">forbidden</span>:
 - Three or more offenses: Warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Hijacking a Transport</span>
-Hijacking a prisoner transport is allowed anywhere outside the city if the leader or at least 2 members of your group are in the transport. An alliance between 2 mafias (official/unofficial) is allowed in order to hijack a transport. The minimum number of people required to perform a hijacking is 3.
+Hijacking a prisoner transport is allowed anywhere outside the city (except for areas around customs zones – toward, from, or between camps) if the leader or at least 2 members of your group are in the transport. An alliance between 2 mafias (official/unofficial) is allowed in order to hijack a transport. The minimum number of people required to perform a hijacking is 3.
 
 <span style="color: red">Sanctions:</span>
 

@@ -1350,7 +1350,7 @@ Sunt <span style="color: red">interzise</span> următoarele:
 - trei sau mai multe abateri: warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Deturnarea unui transport</span>
-Se permite deturnarea unui transport de deținuți, oriunde în afara orașului, dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
+Se permite deturnarea unui transport de deținuți, oriunde în afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) , dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
 
 <span style="color: red">Sancțiuni:</span>
 
