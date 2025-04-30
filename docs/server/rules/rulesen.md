@@ -1305,11 +1305,9 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banks</span>
 
-Bank robberies can be done at any time, in a group of minimum 6, maximum 15 people only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of 15 people.
+Bank robberies can be done at any time, in a group of minimum 6,(the maximum is determined by the type of groups involved) only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of the maximum number of people admitted by any of the groups (neo + ofi -> max 15, ofi + ofi -> max 25).
 
 After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
-
-If a robbery starts with fewer than 15 participants, other people can join up to the maximum number (15). For example: the robbery starts in 6 people, a maximum of 9 more people can be called for reinforcements.
 
 A person who has accepted death cannot be replaced by another colleague in the robbery.
 
@@ -1354,7 +1352,7 @@ The following are <span style="color: red">forbidden</span>:
 - Three or more offenses: Warn
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Hijacking a Transport</span>
-Hijacking a prisoner transport is allowed anywhere outside the city if the leader or at least 2 members of your group are in the transport. An alliance between 2 mafias (official/unofficial) is allowed in order to hijack a transport. The minimum number of people required to perform a hijacking is 3.
+Hijacking a prisoner transport is allowed anywhere outside the city (except for areas around customs zones – toward, from, or between camps) if the leader or at least 2 members of your group are in the transport. An alliance between 2 mafias (official/unofficial) is allowed in order to hijack a transport. The minimum number of people required to perform a hijacking is 3.
 
 <span style="color: red">Sanctions:</span>
 
