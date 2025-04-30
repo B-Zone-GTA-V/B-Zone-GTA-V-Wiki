@@ -765,11 +765,7 @@ Orice încălcare a acestei reguli va atrage sancțiuni, inclusiv banarea perman
 
 ## <a id="5"></a><span style="color: #0088CC">CAP 5. REGULI DE CONDUS / ACȚIUNI CU VEHICULUL</span>
 
-### <a id="5.1"></a><span style="color: #0088CC">5.1 Semafoare</span>
-
-Pe comunitatea noastră semafoarele sunt în regim intermitent și se respectă regula de a acorda prioritate de dreapta.
-
-### <a id="5.2"></a><span style="color: #0088CC">5.2 Limitele de viteză</span>
+### <a id="5.1"></a><span style="color: #0088CC">5.1 Limitele de viteză</span>
 
 Limita de viteză în oraș este de 100 km/h. 
 
@@ -777,7 +773,7 @@ Limita de viteză pe drumurile naționale este de 150 km/h.
 
 Limita de viteză pe autostradă este de 250 km/h.
 
-### <a id="5.3"></a><span style="color: #0088CC">5.3 Pit-Stop</span>
+### <a id="5.2"></a><span style="color: #0088CC">5.2 Pit-Stop</span>
 
 Este interzisă folosirea manevrei pit-stop la o viteza de peste 150 km/h. 
 
@@ -793,7 +789,7 @@ De asemenea, o mașină joasă nu poate face pitstop unei mașini cu gardă îna
 - a doua abatere: 200 Checkpoint-uri 
 - trei sau mai multe abateri: warn
 
-### <a id="5.4"></a><span style="color: #0088CC">5.4 Ninja-Jack</span>
+### <a id="5.3"></a><span style="color: #0088CC">5.3 Ninja-Jack</span>
 Reprezintă acțiunea prin care te urci într-un vehicul imediat după ce un jucător a părăsit-o și pleci cu ea imediat fără a verifica dacă în contact se regăsesc cheile. 
 
 Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit. 
@@ -810,7 +806,7 @@ Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit.
 - a doua abatere: 200 Checkpoint-uri 
 - trei sau mai multe abateri: warn
 
-### <a id="5.5"></a><span style="color: #0088CC">5.5 Condus NON-RP</span>
+### <a id="5.4"></a><span style="color: #0088CC">5.4 Condus NON-RP</span>
 Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră în care în realitate nu ai putea. 
 
 <span style="color: yellow">Exemple:</span>
@@ -826,27 +822,27 @@ Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră î
 
 Pentru fiecare categorie de mai jos va fi impusă o limită maximă de viteză în funcție de gardă, respectiv suspensiile pe care le are.
 
-#### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Oraș</span>
+#### <a id="5.4.1"></a><span style="color: #0088CC">5.4.1 Oraș</span>
 
 Condusul cu peste 300km/h în oraș se consideră condus NON-RP.
 
 <span style="color: green">Excepție:</span> În cazul în care viața vă este pusă în pericol puteți depăși limita de 300km/h în oraș. 
 
-#### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Off-Road</span>
+#### <a id="5.4.2"></a><span style="color: #0088CC">5.4.2 Off-Road</span>
 
 Pentru a conduce un vehicul cu garda înaltă pe drumurile off-road aveți obligația sa nu depășiți viteza maxima de 100 km/h. Nu puteți conduce mașini din categoriile Super si Super Sport pe drumurile OFF-ROAD.
 
-#### <a id="5.5.3"></a><span style="color: #0088CC">5.5.3 Extreme Off-Road</span>
+#### <a id="5.4.3"></a><span style="color: #0088CC">5.4.3 Extreme Off-Road</span>
 Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poate face respectând următoarele aspecte:
 - Mașina sa fie echipata cu roti de tip OFF-ROAD.
 - Mașina sa fie de tip SUV cu gardă înaltă.
 - Viteza să nu fie mai mare de 50 km/h. 
 
-#### <a id="5.5.4"></a><span style="color: #0088CC">5.5.4 Motociclete</span>
+#### <a id="5.4.4"></a><span style="color: #0088CC">5.4.4 Motociclete</span>
 - Motociclete de viteză - sunt destinate a fi folosite doar pe drumurile asfaltate fără limită de viteza în afara orașului.
 - Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
 
-#### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Elicoptere</span>
+#### <a id="5.4.5"></a><span style="color: #0088CC">5.4.5 Elicoptere</span>
 Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
 - locuri special amenajate (helipad)
 - helipaduri special amenajate de pe case
@@ -867,7 +863,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați
 - rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
 
-#### <a id="5.5.5"></a><span style="color: #0088CC">5.5.6 Bărci</span>
+#### <a id="5.4.5"></a><span style="color: #0088CC">5.4.6 Bărci</span>
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 - acostați barca pe insula Cayo (cu excepția garajului de barci de la aeroport)
@@ -876,7 +872,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 - parcați bărcile pe uscat
 - blocați intrările în porturi sau locuri special amenajate pentru bărci
 
-#### <a id="5.5.7"></a><span style="color: #0088CC">5.5.7 Avioane</span>
+#### <a id="5.4.7"></a><span style="color: #0088CC">5.4.7 Avioane</span>
 
 <span style="color: limegreen">Reguli generale pentru piloți:</span>
 - Piloții trebuie să respecte toate regulile de trafic aerian și să acționeze într-un mod realist.
@@ -905,7 +901,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 - a doua abatere: Ban 1 - 3 zile + Confiscarea licentei
 - trei sau mai multe abateri: Ban 3 - 7 zile + Confiscarea licentei
 
-### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
+### <a id="5.5"></a><span style="color: #0088CC">5.5 Car-Ram (CR)</span>
 Sunt interzise:
 - folosirea vehiculului cu intenția de a lovi un alt vehicul sau a forța un alt vehicul să intre în tine.
 - urcarea cu un vehicul peste un alt vehicul.
@@ -920,7 +916,7 @@ Sunt interzise:
 - a doua abatere: 250 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-#### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Blindata de poliție / sindicat</span>
+#### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Blindata de poliție / sindicat</span>
 - În cazul blindatei de poliție / sindicat, regula de Car-Ram se aplică într-un mod diferit față de restul vehiculelor.
 - Blindata de poliție / sindicat poate fi folosită pentru Car-Ram asupra vehiculelor, moment în care acțiunea este considerată Pit-Stop forțat, doar dacă lovitura nu este una frontală.
 - Este permis CR-ul atunci când scopul este eliberarea unei zone de acces sau accesarea unei poziții strategice în contextul unei acțiuni complexe sau al unei situații de roleplay, sau în momentul în care evitarea impactului este inevitabilă (blindata este un vehicul greu care nu virează foarte ușor).
@@ -930,7 +926,7 @@ Sunt interzise:
 - Vehiculul se poziționează pe drumul <span style="color: red; font-weight: 700">DIRECT</span> al autospecialei blindate, blocându-i drumul sau îngreunându-i înaintarea.
 
 <details>
-  <summary>Exemple 5.6.1 Blindata de poliție</summary>
+  <summary>Exemple 5.5.1 Blindata de poliție</summary>
 1. Blindata se poate folosi pe vehicule <span style="color: yellow">staționare</span> în următoarele situații: <br>
 <span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
     -> Vehiculul este parcat exact în fața intrării băncii pentru a împiedica parcarea blindatei aproape de ușa băncii.<br>
@@ -964,7 +960,7 @@ Sunt interzise:
 - a doua abatere: 250 Checkpoint-uri
 - trei sau mai multe abateri: warn
 
-#### <a id="5.6.2"></a><span style="color: #0088CC">5.6.2 Blocajele</span>
+#### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Blocajele</span>
 - Blocajul reprezintă acțiunea de a obstrucționa intenționat deplasarea unui vehicul, jucător sau accesul într-o zonă, folosind mijloace fizice (vehicule, obiecte).
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span>:

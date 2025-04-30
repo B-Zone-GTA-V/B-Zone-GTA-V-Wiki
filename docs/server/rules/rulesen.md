@@ -768,11 +768,7 @@ Any violation of this rule will attract penalties, including permanent banning o
 
 ## <a id="5"></a><span style="color: #0088CC">CAP 5. DRIVING RULES / ACTIONS WITH THE VEHICLE</span>
 
-### <a id="5.1"></a><span style="color: #0088CC">5.1 Traffic Lights</span>
-
-On our community, traffic lights are in flashing mode, and the rule of giving priority to the right is respected.
-
-### <a id="5.2"></a><span style="color: #0088CC">5.2 Speed Limits</span>
+### <a id="5.1"></a><span style="color: #0088CC">5.1 Speed Limits</span>
 
 The speed limit in the city is 70 km/h.
 
@@ -780,7 +776,7 @@ The speed limit on national roads is 100 km/h.
 
 The speed limit on the highway is 150 km/h.
 
-### <a id="5.3"></a><span style="color: #0088CC">5.3 Pit-Stop</span>
+### <a id="5.2"></a><span style="color: #0088CC">5.2 Pit-Stop</span>
 
 The use of the pit-stop maneuver at a speed over 150 km/h is prohibited.
 
@@ -796,7 +792,7 @@ Also, a low car cannot perform a pitstop on a high-guard car.
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-### <a id="5.4"></a><span style="color: #0088CC">5.4 Ninja-Jack</span>
+### <a id="5.3"></a><span style="color: #0088CC">5.3 Ninja-Jack</span>
 Represents the action by which you get into a vehicle immediately after a player has left it and immediately leave with it without checking if the keys are in the ignition.
 
 It is not considered ninja-jack if the vehicle is unlocked and the engine is running. 
@@ -813,7 +809,7 @@ In the case where a car is unlocked, you can roleplay that you tie the wires tog
 - Second offense: 200 Checkpoints
 - Three or more offenses: Warn
 
-### <a id="5.5"></a><span style="color: #0088CC">5.5 NON-RP Driving</span>
+### <a id="5.4"></a><span style="color: #0088CC">5.4 NON-RP Driving</span>
 Represents the action by which you use a vehicle in such a manner in which you could not in reality.
 
 <span style="color: yellow">Examples:</span>
@@ -829,17 +825,17 @@ Represents the action by which you use a vehicle in such a manner in which you c
 
 For each category below, a maximum speed limit will be imposed depending on the guard, respectively, the suspensions it has.
 
-#### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 City</span>
+#### <a id="5.4.1"></a><span style="color: #0088CC">5.4.1 City</span>
 
 Driving over 200km/h in the city is considered NON-RP driving.
 
 <span style="color: green">Exception:</span> In case your life is in danger, you can exceed the 200km/h limit in the city.
 
-#### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Off-Road</span>
+#### <a id="5.4.2"></a><span style="color: #0088CC">5.4.2 Off-Road</span>
 
 To drive a high-guard vehicle on off-road roads, you are obliged not to exceed the maximum speed of 100 km/h. You cannot drive Super and Super Sport category cars on OFF-ROAD roads.
 
-#### <a id="5.5.3"></a><span style="color: #0088CC">5.5.3 Extreme Off-Road</span>
+#### <a id="5.4.3"></a><span style="color: #0088CC">5.4.3 Extreme Off-Road</span>
 Driving a vehicle on road portions not marked on the map can be done respecting the following aspects:
 
 - The car must be equipped with OFF-ROAD tires.
@@ -847,11 +843,11 @@ Driving a vehicle on road portions not marked on the map can be done respecting 
 - The speed must not be greater than 50 km/h.
 
 
-#### <a id="5.5.4"></a><span style="color: #0088CC">5.5.4 Motorcycles</span>
+#### <a id="5.4.4"></a><span style="color: #0088CC">5.4.4 Motorcycles</span>
 - Speed motorcycles - are intended to be used only on paved roads without a speed limit outside the city.
 - Cross motorcycles - Are allowed to be used both on paved roads and on forest roads with a maximum speed of 100 km/h, but also on unmarked roads with a maximum speed of 70 km/h.
 
-#### <a id="5.5.5"></a><span style="color: #0088CC">5.5.5 Helicopters</span>
+#### <a id="5.4.5"></a><span style="color: #0088CC">5.4.5 Helicopters</span>
 It is <span style="color: limegreen">PERMITTED</span> to land a helicopter on:
 - specially designated areas (helipad)
 - specially designated helipads on houses
@@ -872,7 +868,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to stay or leave an
 - You run out of fuel above BNN and land to refuel
 - You are starving/thirsty and need to land urgently to buy food or water
 
-#### <a id="5.5.6"></a><span style="color: #0088CC">5.5.6 Boats</span>
+#### <a id="5.4.6"></a><span style="color: #0088CC">5.4.6 Boats</span>
 
 It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - dock the boat on Cayo Island (except for the boat garage at the airport).
@@ -881,7 +877,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - park boats on land
 - block entrances to ports or specially designated areas for boats
 
-#### <a id="5.5.7"></a><span style="color: #0088CC">5.5.7 Airplanes</span>
+#### <a id="5.4.7"></a><span style="color: #0088CC">5.4.7 Airplanes</span>
 
 <span style="color: limegreen">Reguli generale pentru piloți:</span>
 - Pilots must comply with all air traffic regulations and act realistically.
@@ -911,7 +907,7 @@ It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span> to:
 - Second offense: Ban 1 - 3 zile + Removal of the licenses
 - Three or more offenses: Ban 3 - 7 zile + Removal of the licenses
 
-### <a id="5.6"></a><span style="color: #0088CC">5.6 Car-Ram (CR)</span>
+### <a id="5.5"></a><span style="color: #0088CC">5.5 Car-Ram (CR)</span>
 Car-Ramming is prohibited in the following cases:
 - Using a vehicle with the intention of hitting another vehicle or forcing another vehicle to crash into you.
 - Driving a vehicle onto another vehicle.
@@ -925,7 +921,7 @@ Car-Ramming is prohibited in the following cases:
 - Second offense: 250 Checkpoints
 - Three or more offenses: Warning
 
-#### <a id="5.6.1"></a><span style="color: #0088CC">5.6.1 Police / Syndicate Armored Vehicle</span>
+#### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Police / Syndicate Armored Vehicle</span>
 - For police/syndicate armored vehicles, the Car-Ram rule applies differently than for other vehicles.
 - The police/syndicate armored vehicle may be used for Car-Ram against other vehicles as a forced Pit-Stop, provided the impact is not frontal.
 - Car-Ramming is allowed when the objective is to clear access to a location, reach a strategic position in the context of a complex action or roleplay scenario, or when avoiding impact is unavoidable (as armored vehicles are heavy and do not turn easily).
@@ -935,7 +931,7 @@ Car-Ramming is prohibited in the following cases:
 - A vehicle positions itself <span style="color: red; font-weight: 700">DIRECTLY</span> in the path of the armored vehicle, obstructing its movement.
 
 <details>
-  <summary>Examples 5.6.1 Police Armored Vehicle</summary>
+  <summary>Examples 5.5.1 Police Armored Vehicle</summary>
 1. The armored vehicle can be used against <span style="color: yellow">stationary vehicles</span> in the following situations:<br>
 <span style="color: yellowgreen; font-weight: 600">CAR RAM IS ALLOWED:</span><br>
     -> A vehicle is parked right in front of a bank entrance to prevent the armored vehicle from parking near the bank door.<br>
@@ -968,7 +964,7 @@ Car-Ramming is prohibited in the following cases:
 - Second offense: 250 Checkpoints
 - Three or more offenses: Warning
 
-#### <a id="5.6.2"></a><span style="color: #0088CC">5.6.2 Roadblocks</span>
+#### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Roadblocks</span>
 - A roadblock represents the act of intentionally obstructing the movement of a vehicle, player, or access to an area using physical means (vehicles, objects).
 
 It is <span style="color: #ff0000">STRICTLY FORBIDDEN</span>:
