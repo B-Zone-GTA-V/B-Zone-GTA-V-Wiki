@@ -1305,7 +1305,7 @@ The store doors cannot be blocked with vehicles, both by robbers and policemen. 
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banks</span>
 
-Bank robberies can be done at any time, in a group of minimum 6,(the maximum is determined by the type of groups involved) only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of the maximum number of people admitted by any of the groups (neo + ofi -> max 15, ofi + ofi -> max 25).
+Bank robberies can be done at any time, in a group of minimum 6,(the maximum is determined by the type of groups involved) only if all the participants in the robbery have at least 50 hours on your <strong style="color: red">CHARACTER</strong>. Each member participating in the robbery must have a firearm. Group alliances are allowed, but without exceeding the limit of the maximum number of people admitted by any of the groups (neo + ofi -> max 19, ofi + ofi -> max 25).
 
 After the alarm is triggered, the store's vicinity becomes a red zone until the action is concluded and the police leave. Civilians present during the robbery cannot be robbed or killed, but must be forced to leave the area. Civilians who do not comply with the directives to leave the store can be killed.
 
