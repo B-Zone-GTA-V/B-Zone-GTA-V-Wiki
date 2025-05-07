@@ -1114,7 +1114,7 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 - a doua abatere: ban 3-5 zile în funcție de gravitate
 - trei sau mai multe abateri: ban 7-14 zile în funcție de gravitate
 
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Alianța între mafii/grupări</span>
+### <a id="7.7"></a><span style="color: #0088CC">7.7 Intervenții civil/mafiot pentru civil/mafiot</span>
 - Alianța dintre 2 sau mai multe mafii recunoscute de către sindicat impotriva unei altei mafii recunoscute de către sindicat este <strong style="color: red">STRICT INTERZISĂ</strong> fără aprobarea sindicatului sau declararea unui razboi.
 - Este <strong style="color: red">STRICT INTERZISĂ</strong> acționarea pentru o altă mafie/civili, în acțiunile cu poliția, daca nu sunteți toți direct implicați de la începutul acțiunii.
 - Este <strong style="color: red">STRICT INTERZIS</strong> să acționați mafiot pentru civil, dacă acesta lucreaza pentru dumneavoastră și este prins de către poliție. Este <strong style="color: green">PERMIS</strong> doar dacă sunteți în același vehicul.
@@ -1125,7 +1125,7 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 - Este <strong style="color: green">PERMIS</strong> să dați trusă doar membrilor din <strong style="color: green">propria</strong> mafie.
 
 <span style="color: yellowgreen">Exceptii:</span>
-- Pe insula Cayo nu se aplică regula 7.7 Alianța între mafii/grupări.
+- Pe insula Cayo nu se aplică regula 7.7 Intervenții civil/mafiot pentru civil/mafiot.
 - Mafia care detine un teritoriu (ce nu este teritoriu de livrat) are dreptul de intervenii pe acesta în cazul în care poliția face o razie pe el.
 
 <span style="color: red">Sancțiuni:</span>

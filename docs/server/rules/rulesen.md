@@ -1119,7 +1119,7 @@ Represent actions through which multiple people will die as a result of the role
 - Second offense: 3-5 day ban depending on the severity
 - Three or more offenses: 7-14 day ban depending on the severity
 
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Alliance Between Mafias/Groups</span>
+### <a id="7.7"></a><span style="color: #0088CC">7.7 Civilian/mafia interventions for civilian/mafia</span>
 - An alliance between 2 or more syndicate-recognized mafias **against** another syndicate-recognized mafia is <strong style="color: red">STRICTLY FORBIDDEN</strong> without syndicate approval or a declared war.
 - It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act on behalf of another mafia/civilians in actions involving the police, unless all parties are directly involved from the start.
 - It is <strong style="color: red">STRICTLY FORBIDDEN</strong> to act as a mafioso for a civilian if that civilian works for you and is caught by the police. This is <strong style="color: green">ALLOWED</strong> only if you are in the same vehicle.
