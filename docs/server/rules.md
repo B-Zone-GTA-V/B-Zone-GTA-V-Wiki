@@ -401,10 +401,6 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
 - prima abatare: 150-250 Checkpoint-uri
 - două sau mai multe abateri: Ban 3-14 zile în functie de gravitate 
 
-<span style="color: green">Mențiuni:</span>
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
-
 ### <a id="2.21"></a><span style="color: #0088CC">2.21 Disconnect în RolePlay</span>
 
 Reprezintă deconectarea de pe server în mod intenționat în timpul un roleplay pentru a-ți crea un avantaj. Aveți obligația să anunțați persoanele implicate în roleplay că reveniți (discord pe canalul general) și să reveniți pe server în maxim 5 minute. În cazul în care rămâneți fără curent sau internet puteți să anunțați de pe telefon pe discordul nostru.
