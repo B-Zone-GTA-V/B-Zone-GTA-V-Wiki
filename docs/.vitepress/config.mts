@@ -39,7 +39,6 @@ export default defineConfig({
         items: [
           { text: 'Regulament (Română)', link: '/server/rules' },
           { text: 'Cod Penal (Română)', link: '/server/rules/penal_code' },
-          { text: 'Rules (English)', link: '/server/rules/rulesen' },
           { text: 'Penal Code (English)', link: '/server/rules/penal_code_en' },
         ]
       },
