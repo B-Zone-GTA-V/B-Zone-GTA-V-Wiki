@@ -238,6 +238,7 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 - Prietenul tău îți scrie pe chat să te duci sa îl iei dintr-o locație pentru că nu mai are mașină, iar tu te duci. 
 - Coordonarea pe discord în locul voice chat-ului din joc.
 - Ai auzit diferite informații cât ai fost în comă și te folosești de acestea.
+- Identificarea unei grupari dupa texte sau culoarea de pe hainele custom de pe acestia fără un RP anterior prin care acea uniforma a fost compromisa.
 - Utilizarea tastei Home fără un motiv bine întemeiat(încălcări grave de regulament prin care un roleplay nu poate continua).
 - Identificarea unei persoane după voce, chiar și atunci când aceasta poartă o mască sau se află într-un vehicul cu geamuri fumurii.
 - Utilizarea informațiilor obținute prin sisteme care restricționează accesul la anumite bunuri pentru un număr limitat de jucători. De exemplu: 
