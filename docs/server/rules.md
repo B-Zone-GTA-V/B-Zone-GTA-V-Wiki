@@ -893,7 +893,6 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span>:
 - blocarea a mai mult de o bandă de mers folosind obiecte
 - blocarea a mai mult de o bandă de mers folosind obiecte sau vehicule <span style="color: yellowgreen">în cazul autostrăzilor</span>
 - blocajele făcute din scurt ce garantează împactul cu un alt autovehicul (poate să fie sancționat și cu <span style="color: red">**NF**</span> în cazuri mai grave)
-- blocajele făcute cu vehicule <span style="color: yellowgreen">**personale**</span> din categoria <span style="color: yellowgreen">**Sport**</span> și <span style="color: yellowgreen">**Super Sport**</span>, vehiculele de facțiune pot să fie folosite indiferent de categorie
 
 <span style="color: green">Mențiuni:</span>
 - blocajele trebuie făcute din timp sau la viteze suficient de mici cu scopul de a oferii celor împlicați în urmărire timp suficient pentru a evita impactul cu blocajul
