@@ -846,41 +846,10 @@ Sunt interzise:
 
 #### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Blindata de poliție / sindicat</span>
 - În cazul blindatei de poliție / sindicat, regula de Car-Ram se aplică într-un mod diferit față de restul vehiculelor.
-- Blindata de poliție / sindicat poate fi folosită pentru Car-Ram asupra vehiculelor, moment în care acțiunea este considerată Pit-Stop forțat, doar dacă lovitura nu este una frontală.
-- Este permis CR-ul atunci când scopul este eliberarea unei zone de acces sau accesarea unei poziții strategice în contextul unei acțiuni complexe sau al unei situații de roleplay, sau în momentul în care evitarea impactului este inevitabilă (blindata este un vehicul greu care nu virează foarte ușor).
-- Scopul blindatei este de a genera spațiu de manevră pentru echipajele S.A.S. sau pentru a elibera zone blocate (deszăpezirea), care altfel nu ar putea fi accesibile. Scopul nu este de a lovi mașini pentru a le cauza daune sau de a provoca <strong>COMĂ</strong> persoanelor aflate în vehicule.
-
-- Vehiculul <span style="color: yellowgreen">blochează</span> accesul sau <span style="color: yellowgreen">îngreunează</span> accesul spre un punct de interes prin diferite manevre.<br>
-- Vehiculul se poziționează pe drumul <span style="color: red; font-weight: 700">DIRECT</span> al autospecialei blindate, blocându-i drumul sau îngreunându-i înaintarea.
-
-<details>
-  <summary>Exemple 5.5.1 Blindata de poliție</summary>
-1. Blindata se poate folosi pe vehicule <span style="color: yellow">staționare</span> în următoarele situații: <br>
-<span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
-    -> Vehiculul este parcat exact în fața intrării băncii pentru a împiedica parcarea blindatei aproape de ușa băncii.<br>
-    -> Vehiculul blochează banda de mers (direcția de mers) a blindatei, acesta neputând fi evitat într-un mod care să nu pună în dificultate șoferul blindatei.<br>
-    -> Șoferul oprește intenționat în fața blindatei pentru a-i îngreuna/bloca înaintarea <span style="color: red">(Șoferul este sancționat cu NF)</span>.<br>
-    -> Unul sau mai multe vehicule blochează accesul spre o zonă de interes a blindatei.<br>
-    -> Mașina este folosită pe post de cover într-un loc ce blochează drumul direct al blindatei (persoana care folosește mașina pe post de cover în această poziție își asumă daunele cauzate de o posibilă manevră de deszăpezire a căii de acces).
-
-<span style="color: red; font-weight: 600">CAR RAM ESTE INTERZIS:</span><br>
-    -> Vehiculul nu blochează drumul direct de acces sau zona de interes a blindatei.<br>
-    -> Vehiculul poate fi evitat în timp util de către blindată, oprindu-se la o distanță rezonabilă și neîngreunându-i înaintarea.<br>
-    -> Vehiculul se trage într-o parte pentru a elibera direcția de deplasare a blindatei.<br>
-    -> Vehiculul este folosit pe post de cover într-o poziție care nu blochează calea directă de acces / drumul direct spre zona de interes a blindatei.<br>
-
-2. Blindata se poate folosi pe vehicule <span style="color: yellow">aflate în mișcare</span> în următoarele situații: <br>
-<span style="color: yellowgreen; font-weight: 600">SE PERMITE CAR RAM:</span><br>
-    -> Vehiculul se deplasează pe lângă blindată pentru a-i bloca virarea, încercând astfel să-i schimbe direcția de mers.<br>
-    -> Vehiculul se deplasează în fața blindatei și efectuează un brake check.<br>
-
-<span style="color: red; font-weight: 600">SE CONSIDERĂ CAR RAM URMĂTOARELE, INDIFERENT DE STAREA DE MERS A VEHICULULUI:</span><br>
-    -> Când lovitura este una frontală.<br>
-    -> Când se încalcă regula privind viteza legală de pit-stop.<br>
-    -> Când se produc tamponări / lovituri repetate fără un scop anume între blindată și vehiculele aflate în RP, lovituri făcute doar pentru a produce daune mașinilor (Rocket League).<br>
-    -> Când vehiculul nu blochează drumul / direcția de mers a blindatei spre zona sa de interes.<br>
-    -> Când producerea deszăpezirii nu are un scop strategic, ci doar unul de amuzament sau de creare a unui avantaj prin daunele produse vehiculelor sau jucătorilor implicați în acțiune.<br>
-</details>
+- Blindata de poliție / sindicat poate fi folosită pentru Car-Ram asupra vehiculelor, moment în care acțiunea este considerată Pit-Stop forțat, doar în următoarele situații:
+    - mașina lovită este folosită pe post de cover
+    - șoferul mașinii are cod 1 pe el (acesta trebuie neutralizat prin orice mijloace) 
+    - lovitura **NU** este una frontală
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatere: Ban 1-3 zile în functie de gravitate
