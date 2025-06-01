@@ -844,18 +844,7 @@ Sunt interzise:
 - prima abatare: 200 Checkpoint-uri
 - două sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
-#### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Blindata de poliție / sindicat</span>
-- În cazul blindatei de poliție / sindicat, regula de Car-Ram se aplică într-un mod diferit față de restul vehiculelor.
-- Blindata de poliție / sindicat poate fi folosită pentru Car-Ram asupra vehiculelor, moment în care acțiunea este considerată Pit-Stop forțat, doar în următoarele situații:
-    - mașina lovită este folosită pe post de cover
-    - șoferul mașinii are cod 1 pe el (acesta trebuie neutralizat prin orice mijloace) 
-    - lovitura **NU** este una frontală
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 1-3 zile în functie de gravitate
-- două sau mai multe abateri: Ban 3-7 zile în functie de gravitate
-
-#### <a id="5.5.2"></a><span style="color: #0088CC">5.5.2 Blocajele</span>
+#### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Blocajele</span>
 - Blocajul reprezintă acțiunea de a obstrucționa intenționat deplasarea unui vehicul, jucător sau accesul într-o zonă, folosind mijloace fizice (vehicule, obiecte).
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span>:
