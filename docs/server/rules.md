@@ -1158,11 +1158,11 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 <br>
 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Magazine</span>
-Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>.
+Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 4 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>.
 
 Civilii prezenți în timpul jafului nu pot fi jefuiți, răpiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
 
-În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (8). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 6 persoane.
+În cazul în care un jaf începe cu un număr mai mic decât 4 participanți, se pot alătura alte persoane până la numărul maxim (4). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 2 persoane.
 
 O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf.
 
@@ -1171,7 +1171,7 @@ Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuir
 Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banci</span>
-Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6, (maximul e determinat de tipul de grupari implicate) cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de maximul de oameni oameni admisi de oricare dintre grupari (neo + ofi -> max 21, ofi + ofi -> max 31).
+Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6 și maxim 25 cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de maximul de oameni 25.
 
 După ce alarma se declanșează, proximitatea băncii devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi banca pot fi omorâți.
 
@@ -1221,9 +1221,9 @@ Ban 3-7 zile în functie de gravitate
 ### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
 **Gang** - Grupare de maxim 10 persoane care nu este recunoscută de către sindicat.
 
-**Grupare neoficială** - Grupare de maxim 19 persoane care este recunoscută de către sindicat.
+**Grupare neoficială** - Grupare de maxim 21 persoane care este recunoscută de către sindicat.
 
-**Grupare oficială** - Grupare de maxim 25 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
+**Grupare oficială** - Grupare de maxim 31 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
 
 <span style="color: red">Sancțiuni</span> pentru toți membrii care nu respectă acestă regulă. În funcție de gravitatea situației și numărul de abateri se poate sancționa de la 100 Checkpoint-uri pănă la ban 7 zile.
 
