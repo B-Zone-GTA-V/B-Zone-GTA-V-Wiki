@@ -205,10 +205,6 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 - prima abatare: 100 Checkpoint-uri
 - două sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
-<span style="color: green">Mențiuni:</span>
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
-
 ### <a id="2.9"></a><span style="color: #0088CC">2.9 Refuz RP</span>
 
 Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai multe părți/persoane sau refuzul de a interacționa cu jucătorii fără motive întemeiate. De asemenea, refuz RP se consideră atunci când un alt jucător rolează o acțiune și nu vă conformați.
@@ -225,10 +221,6 @@ Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai 
 <span style="color: red">Sancțiuni</span>
 - prima abatare: 50-100 Checkpoint-uri
 - două sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
-
-<span style="color: green">Mențiuni:</span>
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
 
@@ -346,8 +338,6 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 
 <span style="color: green">Mențiuni:</span>
 - Itemele jucătorului care face NO FEAR pot fi confiscate dacă roleplay-ul este anulat în urma unui ticket.
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 #### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
 - Pentru grupurile de mai mult de 3 membri SAS nu se aplică regula de No Fear.
@@ -378,20 +368,11 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 - Ridicarea polițiștilor doborâți
 - Oferirea de trusă medicală polițiștilor de către mafioți
 - Bați un polițist în penitenciar
-- Condusul fără numere de înmatriculare în afara contextului unei acțiuni ilegale, acțiunile ilegale fiind:
-  - jaf la magazin
-  - jaf bancar
-  - livrari de droguri
-  - patrule rau famate în intervalul 20:00-08:00
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: 150-250 Checkpoint-uri
 - două sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
-<span style="color: green">Mențiuni:</span>
-
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="2.20"></a><span style="color: #0088CC">2.20 Cop-Bait (CB)</span>
 
@@ -402,6 +383,11 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
 - Conducerea în mod intenționat și repetat pe contra-sens în preajma poliției.
 - Trecerea în mod repetat pe lângă un echipaj de poliție având față acoperită.
 - Apeluri nefondate la 112 pentru a îi aduce intr-o zonă doar cu scopul de a porni un roleplay forțat cu ei.
+- Condusul fără numere de înmatriculare în afara contextului unei acțiuni ilegale, acțiunile ilegale fiind:
+  - jaf la magazin
+  - jaf bancar
+  - livrari de droguri
+  - patrule rau famate în intervalul 20:00-08:00
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: 150-250 Checkpoint-uri
@@ -523,11 +509,6 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - a doua abatere: 200 Checkpoint-uri 
 - trei sau mai multe abateri: Ban 3-7 zile in functie de gravitate
 
-<span style="color: green">Mențiuni:</span>
-
-- Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
-
 ### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
 
 - Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului), în tranzacții care implică **BUNURI LEGALE**.
@@ -569,10 +550,6 @@ Echipa administrativă nu va interveni în cazul jignirilor transmise prin căil
 - prima abatere: Ban 1-3 zile în functie de gravitate
 - două sau mai multe abateri: Ban 7 zile - Permanent în functie de gravitate
 
-<span style="color: green">Mențiuni:</span>
-
-- Pentru multiple abateri de la regulă se poate sancționa cu warn sau ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 Suferințele OOC</span>
 Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire care are scopul de a umili, provoca sau denigra un alt jucător sau a unui grup de persoane în urma unui roleplay sau revenirea la o acțiune anterioară cu scopul de a enerva.
@@ -1126,10 +1103,6 @@ Este <span style="color: red">interzis</span>:
 <span style="color: red">Sancțiuni:</span>
 Ban 3-14 zile în functie de gravitate
 
-<span style="color: green">Mențiuni:</span>
-
-- Pentru multiple abateri de la regulă se poate sancționa cu ban 1-3 zile.
-- Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill | Kill & Rob | Drop & Kill</span>
 - Rob & Kill reprezintă acțiunea de a jefui, ulterior omorî o persoană (PK). Este interzisă omorârea unei persoane (PK) după ce ați jefuit-o.<br>
