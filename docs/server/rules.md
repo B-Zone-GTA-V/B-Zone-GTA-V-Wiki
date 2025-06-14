@@ -378,6 +378,11 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 - Ridicarea polițiștilor doborâți
 - Oferirea de trusă medicală polițiștilor de către mafioți
 - Bați un polițist în penitenciar
+- Condusul fără numere de înmatriculare în afara contextului unei acțiuni ilegale, acțiunile ilegale fiind:
+  - jaf la magazin
+  - jaf bancar
+  - livrari de droguri
+  - patrule rau famate în intervalul 20:00-08:00
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: 150-250 Checkpoint-uri
@@ -1260,11 +1265,13 @@ Ban 3 zile - Permanent în functie de gravitate
 
 ### <a id="8.3"></a><span style="color: #0088CC">8.3 Minciuni la ticket</span>
 Nu sunt permise minciuni la ticket. Staff-ul dorește să vă ajute în rezolvarea problemelor și nu acceptăm să pierdem timpul în care am putea să ajutăm alte persoane.
+Tot minciuni la ticket se considera și ascunderea, refuzul sau alterarea de informații în cadrul unui ticket.
 
 <span style="color: yellow">Exemple:</span>
 - Nu recunoașteți că ați fost implicat într-o acțiune cu dovezi clar prezentate
 - Încercarea de a falsifica dovezi
 - Iteme pierdute care de fapt au fost depozitate în alte părți
+- Refuzul de a oferi ID-ul prietenului tau care a încalcat regulamentul
 
 <span style="color: red">Sancțiuni:</span>
 Ban 3-14 zile în functie de gravitate
