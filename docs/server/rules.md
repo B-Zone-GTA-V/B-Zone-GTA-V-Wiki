@@ -510,8 +510,7 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - trei sau mai multe abateri: Ban 3-7 zile in functie de gravitate
 
 ### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
-
-- Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului), în tranzacții care implică **BUNURI LEGALE**.
+Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului), în tranzacții care implică **BUNURI LEGALE**.
 - Sunt acceptate țepele până în suma de 10.000$ (cu excepția joburilor legale / hobby).
 - În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
 
@@ -521,6 +520,7 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 
 <span style="color: green">Mențiuni:</span>
 
+- Acestă regulă, în cazul în care nu era clar deja, **NU** se aplică pentru tranzacțiile cu bunuri **ILEGALE**.
 - Împrumuturile de bunuri se fac pe propria răspundere și nu sunt sancționabile, atâta timp cât se respectă limitele bunului simț.
 - Complicitatea la înșelătorie este sancționată în aceeași măsură ca fapta în sine.
 
