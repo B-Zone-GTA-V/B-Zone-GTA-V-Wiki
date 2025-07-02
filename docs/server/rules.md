@@ -182,7 +182,7 @@ Această acțiune se poate face chiar dacă medicul a ajuns în apropierea voast
 
 <span style="color: yellow">Exemplu:</span> ești împușcat de poliție, ai căzut în comă și ajunge medicul lângă tine. Acesta îți oferă primul ajutor medical, tu vei putea să-ți accepți moartea dacă medicul nu reușește la timp să te salveze.
 
-Vă este interzisă apăsarea tastei de acceptare a morții după ce ați trecut de ușile spitalului. Această acțiune va fi sancționată conform regulii <a href="#2.9">#2.9 Refuz RP</a>
+Vă este interzisă apăsarea tastei de acceptare a morții după ce ați trecut de ușile spitalului sau ale secției poliției. Această acțiune va fi sancționată conform regulii <a href="#2.9">#2.9 Refuz RP</a>
 
 ### <a id="2.7"></a><span style="color: #0088CC">2.7 RolePlay (RP)</span>
 
