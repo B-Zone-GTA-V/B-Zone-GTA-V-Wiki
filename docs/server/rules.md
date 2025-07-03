@@ -274,6 +274,7 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
 - Să dai cu piciorul de pe motocicletă în alți motocicliști la peste 50 km/h
 - Blocarea căii de acces la un jaf la magazin
 - Intrarea într-o casă în timp ce fugi de la o bătaie, ești urmărit și închizi ușa
+- Generarea unui accident auto cu scopul de a jefui o persoană
 - Jefuirea, omorârea sau interacțiunea cu persoanele care dorm în case
 - Este interzisă utilizarea unui voice changer fără o mască adecvată sau a unei măști care nu dispune de spațiul necesar pentru integrarea unui dispozitiv de modificare a vocii.
 
