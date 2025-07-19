@@ -770,6 +770,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați
 - elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
 - rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
+- în cazul în care este o razie în desfasurare pe insula Cayo, mafioții au voie sa aterizeze oriunde pe insulă 
 
 <span style="color: red">Sancțiuni:</span>
 Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
