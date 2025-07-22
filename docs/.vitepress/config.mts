@@ -46,9 +46,22 @@ export default defineConfig({
         text: 'ℹ️ General',
         items: [
           // { text: '🐇Eveniment Paște', link: '/server/info/easter' },
+          {
+            text: 'Activități',
+            collapsed: false,
+            items: [
+              { text: '🆕Market', link: '/server/info/market' },
+              { text: 'Sală', link: '/server/info/gym' },
+              { text: 'Cărți', link: '/server/info/books' },
+              { text: 'Poker', link: '/server/info/poker' },
+              { text: 'Plătirea amenzilor', link: '/server/info/fines' },
+              { text: 'Wheel Of Fortune', link: '/server/info/wheel_of_fortune' },
+              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
+            ]
+          },
           { 
             text: 'Caracter',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Cont și Caracter', link: '/server/info/account' },
               { text: 'Documente', link: '/server/info/documents' },
@@ -73,18 +86,6 @@ export default defineConfig({
               { text: 'Meniu ESC', link: '/server/info/esc-menu' },
               { text: 'Walkie-Talkie', link: '/server/info/walkietalkie' },
               { text: 'Remat de Vehicule', link: '/server/info/remat' },
-            ]
-          },
-          {
-            text: 'Activități',
-            collapsed: true,
-            items: [
-              { text: 'Sală', link: '/server/info/gym' },
-              { text: 'Cărți', link: '/server/info/books' },
-              { text: 'Poker', link: '/server/info/poker' },
-              { text: 'Plătirea amenzilor', link: '/server/info/fines' },
-              { text: 'Wheel Of Fortune', link: '/server/info/wheel_of_fortune' },
-              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
             ]
           },
           {
@@ -115,6 +116,7 @@ export default defineConfig({
               { text: '🚌 Șofer De Autobuz', link: '/server/jobs/bus_driver' },
               { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
               { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
+              { text: '🧑‍🌾 Fermier', link: '/server/jobs/farmer' },
               { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
               { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
               { text: '⛏️ Miner', link: '/server/jobs/miner' },
@@ -130,6 +132,7 @@ export default defineConfig({
               { text: '🐟 Fisherman', link: '/server/hobby/fisherman' },
               { text: '🧑‍🔧 Mecanic', link: '/server/hobby/mechanic' },
               { text: '🪓 Tăietor de lemne', link: '/server/hobby/lumberjack' },
+              { text: '🔪 Bucătar', link: '/server/hobby/cooking' },
             ]
           }
         ]

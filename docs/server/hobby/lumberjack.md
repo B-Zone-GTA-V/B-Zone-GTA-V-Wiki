@@ -32,7 +32,7 @@ outline: deep
 </table> 
 
 Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare.
-Pentru a tăia lemne, aveți nevoie de achiziționarea unui <span class="button-p-hobby">Topor</span>, care poate fi cumpărat de la <span class="button-p-hobby">Hardware Store</span>.
+Pentru a tăia lemne, aveți nevoie de achiziționarea unui <span class="button-p-hobby">Topor</span>, care poate fi cumpărat de la <span class="button-p-hobby">[Market](https://socialclub.rockstargames.com/)</span>.
 Odată ce aveți toporul, puteți merge în zona de defrișare a copacilor.
 
 Există 3 tipuri de lemn, din care puteți crea diverse lucruri la <span class="button-p-hobby">General Craft</span> sau <span class="button-p-hobby">Topitorie</span>.
@@ -71,7 +71,7 @@ Pentru a tăia copaci, mergeți în zona de tăiat afișată pe hartă, apropia�
 </table>
 
 Hobbies can be done anytime without the need for a formal job.
-To cut wood, you’ll need to purchase an <span class="button-p-hobby">Axe</span>, which can be bought from the <span class="button-p-hobby">Hardware Store</span>.
+To cut wood, you’ll need to purchase an <span class="button-p-hobby">Axe</span>, which can be bought from the <span class="button-p-hobby">[Market](https://socialclub.rockstargames.com/)</span>.
 Once you have the axe, you can head to the tree cutting area.
 
 There are 3 types of wood, and you can craft different items from them at the <span class="button-p-hobby">General Craft</span> or <span class="button-p-hobby">Smelter</span>:

@@ -34,7 +34,7 @@ outline: deep
     </tr>
 </table>
 
-Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea pescui, este nevoie de achiziționarea unei <span class="button-p-hobby">undițe</span>, cât și a <span class="button-p-hobby">momelelor</span>. Acestea pot fi găsită în interiorul magazinului de lângă zona de pescuit. Odată ce aceste criterii au fost îndeplinite, pescarul se poate îndrepta spre ponton.
+Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea pescui, este nevoie de achiziționarea unei <span class="button-p-hobby">undițe</span>, cât și a <span class="button-p-hobby">momelelor</span>. Acestea pot fi găsite în zona de <span class="button-p-hobby">[Market](https://socialclub.rockstargames.com/)</span>. Odată ce aceste criterii au fost îndeplinite, pescarul se poate îndrepta spre ponton.
 
 #### <span style="color: #0088CC">Tipuri de momele</span>:
 
@@ -148,7 +148,7 @@ Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea
 
 Pentru a prinde pești, apasă pe <span class="button-p-hobby">E</span>, după care vei auzi un sunet și vei avea <span class="button-p-hobby">3 secunde</span> pentru a apăsa <span class="button-p-hobby">click-stânga</span>.
 
-<br>Peștele se vinde lângă magazin, apăsând <span class="button-p-hobby">E</span> sau folosind comanda <span class="button-p-hobby">/sellfish</span>.
+<br>Peștele se vinde la Market.
 
 ### <span style="color: #0088CC">English</span>
 <table>
@@ -178,7 +178,7 @@ Pentru a prinde pești, apasă pe <span class="button-p-hobby">E</span>, după c
     </tr>
 </table>
 
-Fishing can be done anytime, without commitment. To fish, you need to buy a <span class="button-p-hobby">rod</span> and <span class="button-p-hobby">bait</span> from the shop near the fishing areas. After purchase, head to the dock.
+Fishing can be done anytime, without commitment. To fish, you need to buy a <span class="button-p-hobby">rod</span> and <span class="button-p-hobby">bait</span> from the <span class="button-p-hobby">[Market](https://socialclub.rockstargames.com/)</span>. After purchase, head to the dock.
 
 #### <span style="color: #0088CC">Available bait types</span>:
 
@@ -291,7 +291,7 @@ Fishing can be done anytime, without commitment. To fish, you need to buy a <spa
 </table>
 
 To catch fish, press <span class="button-p-hobby">E</span>, after which you'll hear a sound and have <span class="button-p-hobby">3 seconds</span> to press <span class="button-p-hobby">left-click</span>.
-<br>Fish can be sold near the shop by pressing <span class="button-p-hobby">E</span> or using the <span class="button-p-hobby">/sellfish</span> command.
+<br>Fish can be sold at the Market.
 
 <details>
   <summary>Fisherman</summary>
