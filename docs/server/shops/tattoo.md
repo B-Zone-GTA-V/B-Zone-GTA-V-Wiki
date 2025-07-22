@@ -14,13 +14,6 @@ Tatuajele au diferite zone unde pot să fie amplasate precum: cap, corp, mâini 
 
 De menționat este faptul că tatuajele pot să fie scoase individual după dorințele voastre, însă prețul de scoatere a unui tatuaj este mult mai mare față de prețul de a-l achiziționa.
 
-### <span style="color: #0088CC">English</span>
-
-The tattoo shop is the place where you can customize your character even more. Currently, we have a total of 5 such shops. 
-
-Tattoos have different areas where they can be placed, such as: head, body, hands, and legs. Tattoos are considered a "luxury" on the server, therefore their price is higher compared to other ways of customizing your character. 
-
-It's worth noting that tattoos can be removed individually according to your preferences, but the removal cost of a tattoo is much higher than the cost of acquiring it.
 
 |Place|Price|
 |-|-|

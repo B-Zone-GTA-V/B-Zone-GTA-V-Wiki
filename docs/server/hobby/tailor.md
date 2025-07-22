@@ -37,38 +37,3 @@ Croitoria este locul unde <span class="button-p-hobby">ața</span> se poate prel
 Croitoria este marcată pe hartă, dar poate să fie găsită in telefon: <span class="button-p-hobby">Apasa L -> GPS -> Locuri importante -> Croitorie</span>.
 
 În viitor, dorim să adăugăm mai multe rețete de prelucrare la croitorie.
-
-### <span style="color: #0088CC">English</span>
-<table>
-    <tr>
-        <td>Question</td>
-        <td>Answer</td>
-    </tr>
-    <tr>
-        <td>How many hours do I need?</td>
-        <td>At least 0 hours.</td>
-    </tr>
-    <tr>
-        <td>Does it require specific items?</td>
-        <td>Yes, crafting items.</td>
-    </tr>
-    <tr>
-        <td>Does it require a personal vehicle?</td>
-        <td>No.</td>
-    </tr>
-    <tr>
-        <td>Does it require a driving license?</td>
-        <td>No.</td>
-    </tr>
-</table>
-
-Tailoring is the place where <span class="button-p-hobby">thread</span> can be processed into <span class="button-p-hobby">twine</span>.
-<br>Currently, to obtain twine, you need <span class="button-p-hobby">30 thread & 5 metal</span>, with twine being classified as a legal item on the server.
-<br>The tailoring shop is marked on the map but can also be found on your phone: <span class="button-p-hobby">Press L -> GPS -> Important Places -> Tailoring</span>.
-
-In the future, we aim to add more processing recipes to the tailoring shop.
-
-<details>
-  <summary>Tailor</summary>
-  <img src="https://v.b-zone.ro/images/wiki/tailor.png" alt="Tailor">
-</details>

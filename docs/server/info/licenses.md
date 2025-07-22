@@ -34,34 +34,6 @@ Licențele de pescuit și minerit permit jucătorilor să facă joburi complet l
 
 Licența de port-armă și cea de tractări poate să fie primită doar de la polițiști în urma unui test.
 
-### <span style="color: #0088CC">English</span>
-
-Licenses are acquired or obtained through player actions. On the server, there are a total of 8 licenses that can be purchased from the City Hall/DMV.
-
-- Fishing license 
-- Mining license
-- Firearms carrying license
-- Driving license
-- Sailing license
-- Flying license
-- Flatbed license
-- Plane license
-
-Licenses can be purchased from the City Hall for a period between one day and a maximum of 300 days or from the DMV.
-
-The driver's license is initially obtained from the location marked on the GPS (DMV), where you must pass both a theoretical and a practical test. If the license is suspended or expires later, you can regain it by contacting a police officer (who can issue the license after a test) or by retaking the theoretical and practical exam at the location marked on the GPS (DMV).
-
-Boat navigation and piloting licenses are obtained from the same place as the driving license, DMV. To be able to take the tests you need:
-- For the boat license: minimum 100 hours spent on the server and the amount of $62,500.
-- For the Helicopter Pilot License: minimum 500 hours spent on the server and the amount of $125,000.
-- For the Plane Pilot License: minimum 1.000 hours spent on the server and the amount of $1,000,000.
-
-The reacquisition of these two licenses is done by repeating the tests at the DMV.
-
-Fishing and mining licenses allow players to do completely legal jobs and not be fined by the police when stopped for a routine check. Job activity is NOT affected by a license (you can also work without active licenses, but you are prone to penalties from the police).
-
-The firearms carrying license & flatbed license can only be obtained from the police after passing a test.
-
 <details>
   <summary>Buy Licenses</summary>
   <img src="https://v.b-zone.ro/images/wiki/buy-license.png" alt="Car Tuning Centers">
@@ -73,8 +45,3 @@ The firearms carrying license & flatbed license can only be obtained from the po
 
 După ce ați luat una dintre licențele de mai sus este necesar să aveți la dvs. un document ce afirmă că aveți licența respectivă.
 Vezi pagina de <a href="./documents">Documente</a>.
-
-### <span style="color: #0088CC">English</span>
-
-After obtaining one of the licenses mentioned above, you must have a document with you that confirms you possess the respective license.
-See the <a href="./documents">Documents</a> page.

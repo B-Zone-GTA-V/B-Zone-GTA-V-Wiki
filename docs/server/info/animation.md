@@ -22,23 +22,6 @@ Pentru o mai rapidă acționare a animațiilor, serverul vă pune la îndemână
 - Interfata de animații permite setarea la favorite a unor animații, search-ul mai rapid, dar și salvarea unora pentru a le folosi rapid (ALT + 0-9).
 - Animațiile pot să fie întrerupte folosind comanda [/c] în chat.
 
-### <span style="color: #0088CC">English</span>
-
-On the server, there are currently 3 types of animations that you can use:
-- Generic animations
-- Facial animations
-- Walking styles
-
-These animations can be accessed from the K menu -> Animations OR through:
-
-- [/e] -> generic animations 
-- [/walk] -> walking styles
-
-For a quicker activation of animations, the server provides you with the following approaches:
-- The ability to use [/e] followed by the animation name without accessing one of the menus, for example: [/e mechanic2].
-- The animation interface allows users to set animations as favorites, perform faster searches, and save certain animations for quick access (ALT + 0-9).
-- Animations can be interrupted using the command [/c] in the chat.
-
 <details>
   <summary>Animation interface</summary>
   <img src="https://v.b-zone.ro/images/wiki/animations-interface.jpg">
