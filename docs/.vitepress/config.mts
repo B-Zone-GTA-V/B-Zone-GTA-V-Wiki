@@ -49,7 +49,7 @@ export default defineConfig({
             text: 'Activități',
             collapsed: false,
             items: [
-             // { text: '🆕Market', link: '/server/info/market' },
+              { text: '🆕Market', link: '/server/info/market' },
               { text: 'Sală', link: '/server/info/gym' },
               { text: 'Cărți', link: '/server/info/books' },
               { text: 'Poker', link: '/server/info/poker' },

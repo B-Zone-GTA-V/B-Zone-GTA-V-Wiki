@@ -6,7 +6,7 @@ outline: deep
 
 ## Introducere
 
-În acest loc puteți cumpăra / vinde diferite obiecte la diferiți comercianți. În această zonă există următorii comercianți: **Pescar**, **Minereuri**, **Fermă**, **Lemn** și **Reciclat**.
+În acest loc puteți cumpăra / vinde diferite obiecte la diferiți comercianți. În această zonă există următorii comercianți: **Pescar**, **Minereuri**, **Fermă**, **Lemn**, **Ciuperci** și **Reciclat**.
 
 Pentru a găsi această locație, puteți folosi minimapa - Market, sau aplicația de GPS din Telefon - Locații Importante - Market.
 

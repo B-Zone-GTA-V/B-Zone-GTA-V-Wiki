@@ -21,52 +21,11 @@ Solicităm un comportament calm, echilibrat și o atitudine respectuoasă față
 
 Felul în care membrii staff-ului interacționează cu jucătorii constituie un aspect esențial al imaginii și reputației serverului. Prin profesionalism, imparțialitate și respect, contribuiți la crearea unui mediu plăcut, echilibrat și atractiv pentru toți jucatorii.
 
-
-
-### <span style="color: #0088CC">1.4 Atributii si responsabilitati</span>
+### <span style="color: #0088CC">1.4 Comenzi administrative / Web</span>
 
 Lista comenzilor disponibile în joc poate fi vizualizată utilizând comanda /ah. Vă încurajăm să vă familiarizați cu acestea pentru a putea gestiona eficient diverse situații din cadrul serverului.
 
 Începând cu rangul Admin 2, veți avea acces, prin intermediul site-ului, la profilele altor jucători. Acest acces trebuie utilizat exclusiv în scopuri administrative, respectând confidențialitatea și regulile serverului.
-
-<table border="1">
-  <thead>
-    <tr>
-      <th>Grad Admin</th>
-      <th>Atributii STAFF</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>JUNIOR HELPER</td>
-      <td>1) Se familiarizează cu comenzile de admin.<br>2) Răspunde la tickete simple - moderate din joc.<br>3) Răspunde la întrebările de pe chatul global.</td>
-    </tr>
-    <tr>
-      <td>HELPER</td>
-      <td>1) Răspunde la tickete simple - moderate din joc.<br>2) Răspunde la întrebările de pe chatul global.<br>3) Se implică în tickete de RP și întreabă un Junior Moderator+ când vine vorba de neclarități asupra unor astfel de tickete.</td>
-    </tr>
-    <tr>
-      <td>JUNIOR MODERATOR</td>
-      <td>1) Monitorizează BNN, canalul de poze IC și canalul de video IC.<br>2) Ajută helperii la ticketele de RP și la familiarizarea cu comenzile de staff. <br>3) Răspunde la tickete pe Discord.</td>
-    </tr>
-    <tr>
-      <td>MODERATOR</td>
-      <td>1) Soluționează tickete complexe de RP.<br>2) Răspunde la tickete ce necesită folosirea logurilor de pe website.</td>
-    </tr>
-    <tr>
-      <td>ADMINISTRATOR</td>
-      <td>1) Rezolvă tickete ce necesită restituirea de iteme simple (/ashop247) sau cele ce necesită (/gpv2).<br>2) Monitorizează jucătorii folosind /spec. <br>3) Anunță diferite evenimente pe server.<br>4) Soluționează tickete de unban.</td>
-    </tr>
-    <tr>
-      <td>SENIOR ADMIN</td>
-      <td>1) Solutionarea de tickete complexe de RP.<br>2) Solutionarea de tickete ce necesita restituirea de iteme.<br>3) Soluționează tickete ce necesită accesul la diferite storage-uri de case.<br>4) Organizează licitații, dacă este cazul.</td>
-    </tr>
-    <tr>
-      <td>HEAD ADMIN</td>
-      <td>1) Verifică comenzile date de admini, asigurându-se că sunt utilizate corect.<br>2) Verifică ticketele soluționate de admini, pentru a menține standardele și corectitudinea deciziilor.</td>
-    </tr>
-  </tbody>
-</table>
 
 ### <span style="color: #0088CC">1.5 Conflicte de interese</span>
 
@@ -82,46 +41,6 @@ Mai jos aveți cerințele minime pentru a fi eligibil pentru un **UP** la un anu
 - Implicare activă în **tickete mai complexe de RP** (tickete pe Discord).
 - **Calitate ridicată a RP-urilor** pe care le generați pe server.
 - **Activitate pe server** în ceea ce privește evenimentele, cu minim **1 eveniment / evidență**.
-
-Aceste cerințe minime nu garantează **UP-ul**, ci doar vă fac **eligibili** pentru o promovare, în funcție de performanțele și comportamentul general.
-<table border="1">
-  <thead>
-    <tr>
-      <th>Grad Admin</th>
-      <th>Cerințe Minime</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>JUNIOR HELPER</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HELPER</td>
-      <td>1 lună de la ultimul UP<br>Minim 25 ore admin duty.</td>
-    </tr>
-    <tr>
-      <td>JUNIOR MODERATOR</td>
-      <td>2 lună de la ultimul UP<br>Minim 25 ore admin duty.<br>Implicare in tickete de RP moderat complexe.</td>
-    </tr>
-    <tr>
-      <td>MODERATOR</td>
-      <td>1 lună de la ultimul UP<br>Minim 20 ore admin duty.<br>Calitate ridicata a solutionarii ticketelor complexe de RP / pe discord.</td>
-    </tr>
-    <tr>
-      <td>ADMINISTRATOR</td>
-      <td>2 luni de la ultimul UP<br>Cunostinte bune asupra folosirii logurilor de pe website.<br>Minim 15 ore admin duty.</td>
-    </tr>
-    <tr>
-      <td>SENIOR ADMIN</td>
-      <td>3 luni de la ultimul UP<br>Lipsa unei functii de conducere a unei factiuni (lider PD / lider Medici / lider sau co-lider mafie / factiune).<br>Minim 10 ore admin duty.</td>
-    </tr>
-    <tr>
-      <td>HEAD ADMIN</td>
-      <td>5 luni de la ultimul UP<br>Manager al unei factiuni sau organizatii. (PD, Medici, Mafie)<br>Minim 10 ore admin duty.</td>
-    </tr>
-  </tbody>
-</table>
 
 ### <span style="color: #0088CC">1.7 Sanctiuni staff</span>
 În cazul în care un membru staff încalcă o regulă din Regulamentul serverului, acesta nu va fi sancționat cu punish, warn sau ban, ci va fi anunțat un Supervizor sau un Head-Admin. Sancțiunea aplicată va fi determinată în funcție de gravitatea faptei și poate afecta funcția de staff a acestuia.
