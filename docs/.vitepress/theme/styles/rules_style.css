@@ -10,17 +10,17 @@
 
 .info-box p {
     margin: 8px 0;
-    color: #56C596; /* Verde mai închis pentru text */
+    color: #56C596; 
     line-height: 1.5;
 }
 
 .info-box strong {
-    color: #4CAF50; /* Verde mai intens */
+    color: #4CAF50;
 }
 
 .info-box p:first-child {
     font-weight: bold;
-    color: #41D17F; /* Verde mai aprins pentru titlu */
+    color: #41D17F;
 }
 
 details {

@@ -12,12 +12,6 @@ Bancomatele sunt folosite pentru a depozita sau a scoate bani cu rapiditate. Ace
 
 Din bancomat nu se pot scoate sau adăuga sume pe care jucătorul să nu le aibă valabile. (Nu poți scoate mai mulți bani decât ai în bancă/adăuga mai mulți decât ai în mână).
 
-### <span style="color: #0088CC">English</span>
-
-ATMs are used to deposit or withdraw money quickly. They have predefined amounts and also provide the option to add a desired amount for player deposits/withdrawals.
-
-From the ATM, it is not possible to withdraw or add amounts that the player does not have valid. (You cannot withdraw more money than you have in the bank/add more than you have in hand).
-
 <details>
   <summary>ATM</summary>
   <img src="https://v.b-zone.ro/images/wiki/atm.gif" alt="ATM">

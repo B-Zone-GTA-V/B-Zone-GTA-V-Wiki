@@ -14,14 +14,6 @@ Legendă: G = greutate | $ = prețul
 
 De reținut este faptul că armele albe dispar din inventar atunci când jucătorul decide să-și accepte moartea și să se re-spawneze la spital.
 
-### <span style="color: #0088CC">English</span>
-
-Weapon stores are those establishments where players can purchase a variety of melee weapons for self-defense or to rob other players, as follows:
-
-Legend: W = weight | $ = price
-
-It is important to note that melee weapons disappear from the inventory when the player decides to accept their death and respawn at the hospital.
-
 |White Weapon|Details|
 |-|-|
 |Knife|G = 0.5kg \| \$ = 13.000$|

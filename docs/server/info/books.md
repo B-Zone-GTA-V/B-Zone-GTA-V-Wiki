@@ -27,36 +27,8 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 |Rulor de țigări|300|100|
 |Craft general|150|50|
 |Chimist|300|100|
-<<<<<<< HEAD
-=======
 |Mecanic|600|200|
->>>>>>> 9e782edaf77768be24d66aab03a7faaa9d40327f
 
-### <span style="color: #0088CC">English</span>
-
-Through the books system you can convert and transfer your experience points from one skill to another player at a conversion rate of 3:1. The book writing location is in the town hall building, on the ground floor, in the left wing, first room on the right.
-
-You can only write cards if you have skill 6 + the number of points used (see table below).
-
-To write a book, you need a notebook that can be bought in any 24/7 store.
-
-|Book Type|Points for writing a book|Points received for reading the book|
-|:---:|:---:|:---:|
-|Miner|84|28|
-|Fisherman|312|104|
-|Scavanger|1080|360|
-|Trucker|48|16|
-|Weapon Smith|900|300|
-|Forgery|480|160|
-|Tailor|150|50|
-|Farmer|1050|350|
-|Smoke crafts|300|100|
-|General Craft|150|50|
-|Chemist|300|100|
-<<<<<<< HEAD
-=======
-|Mechanic|600|200|
->>>>>>> 9e782edaf77768be24d66aab03a7faaa9d40327f
 
 <details>
   <summary>Write Book</summary>
