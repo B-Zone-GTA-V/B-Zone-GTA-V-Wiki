@@ -83,7 +83,7 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 > - Acțiuni ale mafiei unde participă Liderul sau Co-Liderul și se produce o încălcare gravă de regulament
 > - Acțiuni ale mafiei unde participă un minim de 5 membrii ai acesteia și se produce o încălcare gravă de regulament
 > - Banarea a 3+ membrii din mafie de hack într-o perioada de 30 de zile, sunteți direct responsabili pentru ce membrii vă adaugați în grupare
-- Încălcările de regulament din capitolele <a href="#3">CAP 3. - Comportament OOC</a>, <a href="#4">CAP. 4 ABUZURI ȘI HACKING</a>, <a href="#8">CAP 8. Tickete</a> și <a href="#10">CAP 10. BNN (B-Zone Network News)</a> nu se pot folosi pentru sancțiunea de <strong style="color: red">Mafia WARN</strong> (cu excepția banurilor de hack precizat lista de mai sus).
+- Încălcările de regulament din capitolele <a href="#3">CAP 3. - Comportament OOC</a>, <a href="#4">CAP. 4 ABUZURI ȘI HACKING</a>, <a href="#8">CAP 8. Tickete</a> și <a href="#10">CAP 10. BNN (B-Zone Network News)</a> nu se pot folosi pentru sancțiunea de <strong style="color: red">Mafia WARN</strong> (cu excepția banurilor de hack precizate în lista de mai sus).
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
