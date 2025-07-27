@@ -138,6 +138,8 @@ Pentru aceste tipuri de tickete, vor răspunde doar Adminii 3+, care au autorita
 
 Pentru orice sancțiune oferită, aveți obligația de a păstra cel puțin 7 zile o dovadă a acesteia. Aceasta asigură transparența procesului și permite o verificare ulterioară, în cazul în care este necesar.
 
+Pentru orice sancțiune de Ban cu o durata mai lunga de 5 zile aveți nevoie de aprobarea unui **Senior Admin** sau **Head Admin**. Excepție de la regulă sunt cazurile de Troll sau Cheats.
+
 Jucătorii au termen de 72 de ore pentru a deschide o plângere dacă consideră că au fost sancționați greșit. Este important să le oferiți toate informațiile relevante și dovezile pentru a susține decizia luată.
 
 <div class="info-box">
