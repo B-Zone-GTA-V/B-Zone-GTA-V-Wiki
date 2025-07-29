@@ -462,12 +462,14 @@ Oricine dă bunuri personale pentru a schimba părerea unui angajat guvernamenta
 
 Prestarea de servicii fără a avea licență sau atestat într-un domeniu care cere acest lucru este considerată înșelarea statului și se pedepsește penal. Dacă o persoană este prinsă fără aceste documente, înseamnă că a încălcat Codul Muncii și comite o infracțiune care se poate pedepsi cu:
 
-- **Amendă penală: 15.000$**
-- **Sentință: 15 - 30 de luni**
+- **- Amendă penală: 15.000$**
+- **- Dosar penal și confiscarea bunurilor**
 
 În acest moment urmatoarele licențe pot fi emise de către primăria orașului:
 - De **Pescuit**
 - De **Miner**
+- De **Crescator de Tabac**
+- De **Taietor de Lemne**
 
 ### <a id="4.9"></a><span style="color: #0088CC">4.9 Descurajarea unui martor sau a unei victime</span>
 
@@ -534,14 +536,14 @@ A nu se cumula cu <a href="#5.2">#5.2 Prelucrarea sau deținerea țigărilor de 
 
 ### <a id="5.2"></a><span style="color: #0088CC">5.2 Prelucrarea sau deținerea țigărilor de contrabandă</span>
 
-Orice persoană care transportă, confecționează sau deține țigări de contrabandă care sunt prevăzute de lege ca fiind ilegale.
+Orice persoană care transportă, confecționează sau deține țigări de contrabandă care sunt prevăzute de lege ca fiind ilegale peste o anumită limită legală, va fi sancționat conform Codului Penal.
 
 Această faptă reprezintă o crimă care se poate pedepsi cu reținerea suspectului și amendă, în funcție de cantitatea de țigări pe care o deține:
 
-- **TIP I (1 - 10 țigări): sentință 10 - 20 de luni și amendă 10.000$.**
-- **TIP II (10 - 50 țigări): sentință 20 - 30 de luni și amendă 15.000$.**
-- **TIP III (50 - 100 țigări): sentință 30 - 40 de luni și amendă 20.000$.**
-- **TIP IV (100 + țigări): sentință 40 - 60 de luni și amendă 25.000$.**
+- **TIP I (1 - 20 țigări): atât este legal să aveți asupra dumneavoastră fara licenta de producator.**
+- **TIP II (21 - 50 țigări): confiscarea tigarilor, Dosar Penal și amendă 15.000$.**
+- **TIP III (51 - 100 țigări): confiscarea tigarilor, Dosar Penal și amendă 20.000$.**
+- **TIP IV (101 + țigări): sentință 20 - 40 de luni și amendă 25.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -553,10 +555,10 @@ Această faptă reprezintă reprezintă o crimă care se poate pedepsi cu rețin
 
 Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
-- **TIP I (1 - 10 joint-uri): sentință 20 - 30 de luni și amendă 15.000$.**
-- **TIP II (10 - 50 joint-uri): sentință 30 - 40 de luni și amendă 20.000$.**
-- **TIP III (50 - 100 joint-uri): sentință 40 - 50 de luni și amendă 25.000$.**
-- **TIP IV (100+ joint-uri): sentință 50 - 70 de luni și amendă 30.000$.**
+- **TIP I (1 - 5 joint-uri): confiscare joint-urilor, Dosar Penal și amendă 15.000$.**
+- **TIP II (6 - 50 joint-uri): sentință 30 - 40 de luni și amendă 20.000$.**
+- **TIP III (51 - 100 joint-uri): sentință 40 - 50 de luni și amendă 25.000$.**
+- **TIP IV (101+ joint-uri): sentință 50 - 70 de luni și amendă 30.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -568,10 +570,10 @@ Această faptă reprezintă reprezintă o crimă care se poate pedepsi cu rețin
 
 Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
-- **TIP I (1 - 10 plicuri de cocaina): sentință 40 - 50 de luni și amendă 30.000$.**
-- **TIP II (10 - 50 plicuri de cocaina): sentință 50 - 60 de luni și amendă 40.000$.**
-- **TIP III (50 - 100 plicuri de cocaina): sentință 60 - 70 de luni și amendă 50.000$.**
-- **TIP IV (100+ plicuri de cocaina): sentință 70 - 100 de luni și amendă 60.000$.**
+- **TIP I (1 - 3 plicuri de cocaina): confiscare substanței, Dosar Penal și amendă 30.000$.**
+- **TIP II (4 - 50 plicuri de cocaina): sentință 50 - 60 de luni și amendă 40.000$.**
+- **TIP III (51 - 100 plicuri de cocaina): sentință 60 - 70 de luni și amendă 50.000$.**
+- **TIP IV (101+ plicuri de cocaina): sentință 70 - 100 de luni și amendă 60.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -646,35 +648,28 @@ Orice persoană care răneşte altă persoană prin utilizarea unei armei mortal
 - **Amendă penală: 11.000$**
 - **Sentință: 40 - 60 de luni**
 
-### <a id="6.5"></a><span style="color: #0088CC">6.5 Asalt cu o armă mortală</span>
-
-Asaltul cu o armă mortală este un act de asalt în care suspectul este în posesia unui obiect sau a unei arme capabile de a răni și reprezintă o crimă care se poate pedepsi cu:
-
-- **Amendă penală: 13.000$**
-- **Sentință: 50 - 70 de luni**
-
-### <a id="6.6"></a><span style="color: #0088CC">6.6 Omor din culpă</span>
+### <a id="6.5"></a><span style="color: #0088CC">6.6 Omor din culpă</span>
 
 Omorul din culpă reprezintă uciderea fără intenţie a unui individ, cu sau fără o ceartă anterioară. Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 10.000$**
 - **Sentință: 40 - 60 de luni**
 
-### <a id="6.7"></a><span style="color: #0088CC">6.7 Crimă (Omucidere)</span>
+### <a id="6.6"></a><span style="color: #0088CC">6.7 Crimă (Omucidere)</span>
 
 Omuciderea este un delict ilegal de ucidere a unei fiinţe umane și reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 14.000$**
 - **Sentință: 60 - 80 de luni**
 
-### <a id="6.8"></a><span style="color: #0088CC">6.8 Răpire</span>
+### <a id="6.7"></a><span style="color: #0088CC">6.8 Răpire</span>
 
 O persoană care fură, ţine, reţine sau arestează alt individ, cu forţa şi împotriva voinţei sale săvârșește o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 11.000$**
 - **Sentință: 60 - 100 de luni**
 
-### <a id="6.9"></a><span style="color: #0088CC">6.9 Tortură</span>
+### <a id="6.8"></a><span style="color: #0088CC">6.9 Tortură</span>
 
 Orice persoană care, cu intenţia de a cauza dureri nemiloase şi suferinţe extreme cu scopul răzbunării, şantajului, convingerii sau pentru orice alt scop sadic, care are ca urmare o vătămare corporală extrem de gravă, poate fi acuzată de tortură care se poate pedepsi cu:
 
@@ -683,7 +678,7 @@ Orice persoană care, cu intenţia de a cauza dureri nemiloase şi suferinţe ex
 
 A nu se cumula cu acuzația de <a href="#6.2">#6.2 Tentativă de omor</a>. Totuşi, dacă tortura a rezultat în moartea unui individ, acuzația de tortură se va cumula cu acuzația de <a href="#6.7">#6.7 Crimă (Omucidere)</a>.
 
-### <a id="6.10"></a><span style="color: #0088CC">6.10 Fraudarea Creditorilor</span>
+### <a id="6.9"></a><span style="color: #0088CC">6.10 Fraudarea Creditorilor</span>
 
 Oricine ascunde, vinde, distruge sau deteriorează bunuri din averea unui creditor, creează datorii false sau comite alte acte care îl pune în dificultate financiară, va fi sancționat cu:
 
