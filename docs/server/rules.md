@@ -1405,7 +1405,17 @@ Promovarea altor servere sau comunități, inclusiv prin metode subtile, este st
 Ban Permanent
 
 ### <span style="color: #0088CC"> 10.8 Limba permisă în anunțuri</span>
-Anunțurile trebuie redactate doar în limba română sau engleză. Utilizarea altor limbi în scopuri de promovare sau comunicare publică este interzisă.
+Anunțurile trebuie redactate exclusiv în limba <b>română</b> sau <b>engleză</b>.
+Este permisă folosirea unor termeni sau denumiri în alte limbi (ex: numele unui restaurant, sloganuri scurte sau expresii consacrate), atâta timp cât anunțul rămâne clar și inteligibil în română sau engleză.
+
+✅ Permis:
+– „Deschidere oficială La Pasta Migliore – cel mai autentic gust italian!”
+– „Nou în oraș: Bäckerei Edelweiss – pâine artizanală germană!”
+– „Try our new menu at Café Bonjour – fine French cuisine!”
+
+❌ Interzis:
+– Anunțuri complet scrise în altă limbă decât română sau engleză
+– Mesaje care nu pot fi înțelese de majoritatea utilizatorilor
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: Avertistemnt verbal
