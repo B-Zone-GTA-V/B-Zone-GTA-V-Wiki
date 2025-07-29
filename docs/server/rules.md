@@ -1055,7 +1055,7 @@ Ban 7-14 zile în funcție de gravitate
 
 <p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
 
-<div style="text-align: center; width: 100%;">Anexa 7.8.1 Delimitarea zonelor din oraș (13.02.2025)</div>
+<div style="text-align: center; width: 100%;">Anexa 7.8.1 Delimitarea zonelor din oraș (27.07.2025)</div>
 
 <p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone_cayo.png"/></p>
 
@@ -1404,5 +1404,29 @@ Promovarea altor servere sau comunități, inclusiv prin metode subtile, este st
 <span style="color: red">Sancțiuni:</span>
 Ban Permanent
 
+### <span style="color: #0088CC"> 10.8 Limba permisă în anunțuri</span>
+Anunțurile trebuie redactate exclusiv în limba <b>română</b> sau <b>engleză</b>.
+Este permisă folosirea unor termeni sau denumiri în alte limbi (ex: numele unui restaurant, sloganuri scurte sau expresii consacrate), atâta timp cât anunțul rămâne clar și inteligibil în română sau engleză.
 
-*Acest regulament a fost conceput, corectat și modificat de Roho, Bobo, Mondo, Vito, Therson, Infinity, Chau-Li*
+✅ Permis:
+– „Deschidere oficială La Pasta Migliore – cel mai autentic gust italian!”
+– „Nou în oraș: Bäckerei Edelweiss – pâine artizanală germană!”
+– „Try our new menu at Café Bonjour – fine French cuisine!”
+
+❌ Interzis:
+– Anunțuri complet scrise în altă limbă decât română sau engleză
+– Mesaje care nu pot fi înțelese de majoritatea utilizatorilor
+
+<span style="color: red">Sancțiuni:</span>
+- prima abatare: Avertistemnt verbal
+- a doua abatere: 150-250 checkpointuri
+- trei sau mai multe abateri: Warn + 300 checkpointuri
+
+
+<br>
+<br>
+<br>
+<div class="info-box">
+    <strong>*Acest regulament a fost conceput, corectat și modificat de Roho, Bobo, Mondo, Vito, Therson, Infinity, Pant1limon, Chau-Li*</strong>
+    <p>Asigurați-vă că ați citit și respectati noile modificări pentru a evita eventualele sancțiuni și pentru a fi la curent cu regulile actualizate.</p>
+</div>
