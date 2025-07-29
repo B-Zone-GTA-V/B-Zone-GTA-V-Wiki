@@ -1,8 +1,9 @@
 ---
 outline: deep
 ---
+# Mechanic
 
-## Mechanic
+## Introducere
 
 ### <span style="color: #0088CC">Română</span>
 
