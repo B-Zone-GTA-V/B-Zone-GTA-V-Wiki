@@ -44,7 +44,7 @@ Acest job este împărțit pe mai multe activități, toate disponibile în acea
 
 <details>
   <summary>Fermier</summary>
-  <img src="https://imgur.com/a/DYQHh3J" alt="Farmer">
+  <img src="https://v.b-zone.ro/images/wiki/farmer-location.png" alt="Farmer">
 </details>
 
 ## Mulsul Vacilor
