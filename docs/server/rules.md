@@ -632,9 +632,10 @@ Reprezintă crearea unui avantaj prin folosirea unui bug/exploit și, în funcț
 Încercarea de a te conecta pe server prin orice modalitate pentru a evita un ban temporar sau unul permanent va duce la banarea permanentă a contului și blocarea oricărei căi de acces.
 
 ### <a id="4.3"></a><span style="color: #0088CC">4.3 Hacking</span>
-Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a deranja ceilalți jucători pentru propriul amuzament.
+Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a deranja ceilalți jucători pentru propriul amuzament. 
+Este interzisă utilizarea oricăror programe sau instrumente care modifică în mod intenționat conexiunea la internet în timpul sesiunilor de joc, cu scopul de a obține un avantaj sau de a perturba experiența altor jucători.
 
-În cazul în care sunteți suspectat de hacking, veți fi luați la teste; acestea pot fi refuzate, însă veți fi sancționați cu ban de 30 de zile la prima abatere. Prima instanță de ban pentru hacking va costa 20 000 Gold iar cu fiecare nouă instanță de ban acest preț se va dubla (40 000, 80 000, 160 000, 320 000 etc.). În cazul în care jucatorul face parte dintr-o organizație (mafie, poliție, medici) acesta v-a fi scos din aceasta cu 30 de zile FP.
+În cazul în care sunteți suspectat de hacking, veți fi luați la teste; acestea pot fi refuzate, însă veți fi sancționați cu ban de 30 de zile la prima abatere. Prima instanță de ban pentru hacking va costa 20 000 Gold iar cu fiecare nouă instanță de ban acest preț se va dubla (40 000, 80 000, 160 000, 320 000 etc.). În cazul în care jucatorul face parte dintr-o organizație (mafie, poliție, medici) acesta v-a fi scos din aceasta cu 30 de zile FP. Pe langa cele 30 de zile de FP jucătorul are interdicție 30 de zile de a intra într-o mafie sau de a ține armă în mână, în caz contrar jucatorul v-a fi banat de coduri.
 
 <span style="color: red">Sancțiuni:</span>
 - aimbot/norecoil/silent aim - prima abatere ban permanent
