@@ -1325,12 +1325,7 @@ Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a
 Soluționarea ticketelor se va face în maxim 72 ore de la deschiderea lui.
 
 ### <a id="8.4"></a><span style="color: #0088CC">8.4 Ticket in RolePlay</span>
-Se poate deschide doar dacă regula încălcată este una gravă care nu mai permite continuarea acțiunii de tip RolePlay. În cazul în care acțiunea poate continua puteți deschide un ticket după încheierea roleplay-ului.
-
-<span style="color: yellow">Exemple:</span>
-- Persoana sau grupul de persoane nu respectă regula de CONDUS RP și nu poți să-i urmărești pentru că ai încălca aceeași regulă
-- Ești amenințat cu arma într-o zonă publică
-- Disconnect în roleplay
+Orice tip de ticket se poate deschide doar după încheierea roleplay-ului
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: 100-200 checkpointuri
