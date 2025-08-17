@@ -528,7 +528,6 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - Ceri o reparație la mașină și ti se oferă trusă pentru aceasta fără a face câteva verificări.
 - Ești în comă, ți se dă trusă și continui să tragi cu arma de parcă nimic nu s-ar fi întâmplat.
 - Ești oprit la un trafic stop pe Grove (zone roșie), te dai jos să împuști polițistul direct. (știind că finalul acestui RP ar duce în arestarea ta)
-- Dai primul ajutor unui jucător direct fără a rula diferite proceduri medicale. (/me-uri ori înainte ori după revive)
 - Ești polițist și observi un individ într-un vehicul care nu este confirmat ca fiind cu Cod 1 (înarmat sau extrem de periculos), însă alegi să deschizi focul asupra roților și chiar asupra șoferului, cu scopul de a-l neutraliza pe el sau vehiculul acestuia.
 
 <span style="color: red">Sancțiune:</span>
@@ -690,6 +689,7 @@ Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea 
 - Folosirea de diferite animații pentru a te descătușa.
 - Evacuarea chiriașilor curenți pentru a obține obiectele din locurile lor de depozitare.
 - Tractarea in mod abuziv a masinilor parcate legal cu scopul de a genera bani.
+- Folosirea armelor destinate membrilor SAS fără a fi îmbracat în SAS. (Excepție fiind cei cu grad de Sub-Comisar+)
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: 150 - 200 checkpointuri
@@ -1323,6 +1323,19 @@ Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a
 - Cereri unban
 - Alte probleme<br><br>
 Soluționarea ticketelor se va face în maxim 72 ore de la deschiderea lui.
+
+### <a id="8.4"></a><span style="color: #0088CC">8.4 Ticket in RolePlay</span>
+Se poate deschide doar dacă regula încălcată este una gravă care nu mai permite continuarea acțiunii de tip RolePlay. În cazul în care acțiunea poate continua puteți deschide un ticket după încheierea roleplay-ului.
+
+<span style="color: yellow">Exemple:</span>
+- Persoana sau grupul de persoane nu respectă regula de CONDUS RP și nu poți să-i urmărești pentru că ai încălca aceeași regulă
+- Ești amenințat cu arma într-o zonă publică
+- Disconnect în roleplay
+
+<span style="color: red">Sancțiuni:</span>
+- prima abatare: 100-200 checkpointuri
+- a doua abatere: Warn + 300 checkpointuri
+- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ## <a id="9"></a> <span style="color: #0088CC">CAP 9. Activitate</span>
 
