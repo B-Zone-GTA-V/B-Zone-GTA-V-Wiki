@@ -426,7 +426,7 @@ Orice persoană care refuză să părăsească o instituție a statului (Secția
 Infracțiune care constă în insultă, injosire, calomnie, vandalism, amenințare ori alte acte de violență verbală cât și fizică împotriva unui agent de poliție. Această acțiune reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 20.000$**
-- **Sentință: 50 - 80 de luni**
+- **Sentință: 50 - 360 de luni**
 
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 Evadarea din custodie</span>
 
