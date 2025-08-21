@@ -291,6 +291,7 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
 - Generarea unui accident auto cu scopul de a jefui o persoană
 - Jefuirea, omorârea sau interacțiunea cu persoanele care dorm în case
 - Este interzisă utilizarea unui voice changer fără o mască adecvată sau a unei măști care nu dispune de spațiul necesar pentru integrarea unui dispozitiv de modificare a vocii.
+- Folosirea tazerului prin geamul sau texturile unei mașini.
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: 100-200 Checkpoint-uri
@@ -1206,11 +1207,12 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 <br>
 
 #### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Magazine</span>
-Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 4 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>.
+Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>.
 
 Civilii prezenți în timpul jafului nu pot fi jefuiți, răpiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
 
-În cazul în care un jaf începe cu un număr mai mic decât 4 participanți, se pot alătura alte persoane până la numărul maxim (4). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 2 persoane.
+În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (4). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 6 persoane.<br><br>
+<span style="color: red">Exceptie:</span> În cazul mafiilor neoficiale numărul maxim este de **6** iar în cazul mafiilor oficiale numărul maxim este de **4**.
 
 O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf.
 
