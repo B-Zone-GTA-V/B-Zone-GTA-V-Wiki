@@ -77,6 +77,7 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
+              { text: 'Cutii Haine', link: '/server/info/clothing-case' },
               { text: 'BNN', link: '/server/info/bnn' },
               { text: 'ATM', link: '/server/info/atm' },
               { text: 'Licențe', link: '/server/info/licenses' },
