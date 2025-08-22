@@ -987,7 +987,7 @@ Este <span style="color: red">STRICT INTERZIS</span>:
 - Cererea de bani sau de bunuri în cadrul negocierilor unei situații de ostatic.
 - Să aveți pretenții mari precum pe baza unui ostatic ca un lider sau o întreagă organizație să se prezinte forțat într-o anumită locație.
 - Să aveți pretenții prea mari din partea Poliției, precum să plece toate echipajele, să lase armele sau să cereți eliberarea suspecților din custodie dacă aceștia au fost deja luați de la locul faptei (se aplică și în cazul liderului de mafie). În principiu nu se permit exagerari foarte mari.
-- Luarea de ostatic în cadrul jafurilor, indiferent de ce tip sunt acestea.
+- Luarea de ostatic în cadrul jafurilor sau a intervenților S.A.S., indiferent de ce tip sunt acestea.
 - Luarea unui polițist/medic ostatic odată ce acesta a intrat în coma, polițistul/medicul luat ostatic trebuie să fie în viață.
 
 Este <span style="color: yellow">OBLIGATORIU</span>:
