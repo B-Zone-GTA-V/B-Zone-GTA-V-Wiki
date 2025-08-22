@@ -1070,7 +1070,7 @@ Ban 7-14 zile în funcție de gravitate
 Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și, de obicei, monitorizate prin camere de supraveghere. În aceste zone unde nu este permis să comiți ilegalități. Aici se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>.
 
 <span style="color: yellowgreen">Excepții:</span>
-- Pe zonele verzi de pe Aeroport Cayo va este permis să scoateți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
+- Pe zonele verzi de pe Aeroport Cayo va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
 ---
 
 #### <a id="7.8.2"></a><span style="color:red; font-size: 20px;">7.8.2 ZONE ROSII</span>
