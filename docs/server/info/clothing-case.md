@@ -6,7 +6,7 @@ outline: deep
 
 ## Introducere
 
-În prezent sunt prezente 6 tipuri de cutii: **Paște 2024**, **Halloween 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu** & **B8pe**.
+În prezent sunt prezente 8 tipuri de cutii: **Paște 2024**, **Halloween 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu**, **B8pe**, **B8pe Fire** & **B8pe Ice**.
 <br/>
 Aceste cutii se pot achiziționa din joc prin intermediul Shop-ului. Puteți achiziționa cutii pentru ambele sexe (Masculin sau Feminin), item-ul primit fiind pentru sexul specific.
 
@@ -111,4 +111,36 @@ Haine disponibile pentru cutia B8pe.
 <details>
   <summary>Haine Cutie B8pe - Feminin</summary>
   <img src="https://v.b-zone.ro/images/wiki/b8pe_f.gif" alt="Clothing Cases">
+</details>
+
+### Cutie B8pe Fire
+
+Haine disponibile pentru cutia B8pe Fire.
+
+<details>
+  <summary>Haine Cutie B8pe Fire - Masculin</summary>
+  <img src="https://v.b-zone.ro/images/wiki/b8pe_fire_m.gif" alt="Clothing Cases">
+</details>
+
+Haine disponibile pentru cutia B8pe Fire.
+
+<details>
+  <summary>Haine Cutie B8pe Fire - Feminin</summary>
+  <img src="https://v.b-zone.ro/images/wiki/b8pe_fire_f.gif" alt="Clothing Cases">
+</details>
+
+### Cutie B8pe Ice
+
+Haine disponibile pentru cutia B8pe Ice.
+
+<details>
+  <summary>Haine Cutie B8pe Ice - Masculin</summary>
+  <img src="https://v.b-zone.ro/images/wiki/b8pe_ice_m.gif" alt="Clothing Cases">
+</details>
+
+Haine disponibile pentru cutia B8pe Ice.
+
+<details>
+  <summary>Haine Cutie B8pe Ice - Feminin</summary>
+  <img src="https://v.b-zone.ro/images/wiki/b8pe_ice_f.gif" alt="Clothing Cases">
 </details>
