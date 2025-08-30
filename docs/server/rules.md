@@ -623,6 +623,13 @@ Această regulă vizează comportamentele prin care se aduc injurii, acuzații n
 - prima abatere: Ban 7-14 zile în funcție de gravitate
 - două sau mai multe abateri: Ban 14-30 zile sau permanent în cazuri extreme
 
+### <a id="3.6"></a><span style="color: #0088CC">3.6 Reacții (Plâns) nejustificate</span>
+Această regulă este aplicabilă jucătorilor care manifestă comportamente exagerate sau reacții disproporționate față de situații de roleplay sau față de deciziile luate de echipa administrativă. (Sancțiunea poate fi acordată doar cu aprobarea unui Admin 4+).
+
+<span style="color: red">Sancțiuni:</span>
+- prima abatere: Ban 1 zi
+- două sau mai multe abateri: Ban 2-7 zile în functie de gravitate
+
 ## <a id="4"></a><span style="color: #0088CC">CAP. 4 ABUZURI ȘI HACKING</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Bug abuse</span>
