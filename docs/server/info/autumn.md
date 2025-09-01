@@ -11,7 +11,7 @@ outline: deep
 
 ## Introducere
 
-Pe server a fost adăugat un eveniment simbolic. Începând cu luna aprilie **Septembrie** și până pe **1 Octombrie** evenimentul de toamnă va fi activ pe server!
+Pe server a fost adăugat un eveniment simbolic. Începând cu luna aprilie **Septembrie** și până pe **19 Octombrie** evenimentul de toamnă va fi activ pe server!
 
 ## Întrebări frecvente
 
@@ -22,7 +22,7 @@ Pe server a fost adăugat un eveniment simbolic. Începând cu luna aprilie **Se
     </tr>
     <tr>
         <td>Cât ține evenimentul?</td>
-        <td>Începând cu luna Septembrie și până pe 1 Octombrie</td>
+        <td>Începând cu luna Septembrie și până pe 19 Octombrie</td>
     </tr>
     <tr>
         <td>Cât costă ticketul de BattlePass?</td>
