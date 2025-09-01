@@ -11,7 +11,7 @@ outline: deep
 
 ## Introducere
 
-Pe server a fost adăugat un eveniment simbolic. Începând cu luna aprilie **Septembrie** și până pe **19 Octombrie** evenimentul de toamnă va fi activ pe server!
+Pe server a fost adăugat un eveniment simbolic. Începând cu luna **Septembrie** și până pe **19 Octombrie** evenimentul de toamnă va fi activ pe server!
 
 ## Întrebări frecvente
 
