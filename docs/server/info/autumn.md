@@ -25,6 +25,14 @@ Pe server a fost adăugat un eveniment simbolic. Începând cu luna **Septembrie
         <td>Începând cu luna Septembrie și până pe 19 Octombrie</td>
     </tr>
     <tr>
+        <td>Ce capacitate are portbagajul mașinii Taco Van?</td>
+        <td>100 Kg</td>
+    </tr>
+      <tr>
+        <td>Ce capacitate are ghiozdanul de la ultimul nivel?</td>
+        <td>40 Kg</td>
+    </tr>
+    <tr>
         <td>Cât costă ticketul de BattlePass?</td>
         <td>3.000 Gold</td>
     </tr>
