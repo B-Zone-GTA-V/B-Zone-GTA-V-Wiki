@@ -76,6 +76,7 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 - În cazuri speciale se poate recurge chiar și la checkpointuri între 200-500 ca formă alternativă de sancționare.
 - Sancțiunile din capitolul 3 pot să fie agravate la **Ban Permanent** cu aprobarea unui **Senior Admin** sau **Head Admin**
 - La adunarea a 3 warnuri veți primi automat un ban de 5 zile.
+- În cazul unor situații excepționale unde sunt încalcate 3 sau mai multe sancțiuni, sancțiunea acordata va fi aceea de **Greșeli multiple** ce se sancționează cu **BAN** între 1-30 zile în funcție de gravitate.
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.9 Mafia Warn</span>
 - Aceasta este o sancțiune acordată mafiilor oficiale și neoficiale, aceste grupări sunt imaginea serverului și avem pretenția la un nivel mai ridicat de Roleplay din partea acestora.
