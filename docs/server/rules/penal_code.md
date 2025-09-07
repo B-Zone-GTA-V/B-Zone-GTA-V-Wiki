@@ -194,8 +194,8 @@ Pentru o concentrație de alcool între 0,1% și 0,7%, se comite o contravenție
 
 Orice persoană care face orice tip de cursă pe stradă și nu are permisiunea legală a poliției, punând în pericol viața civililor, înfăptuiește o infracțiune care se poate pedepsi cu:
 
-- **Amendă contravenționala: 15.000$**
-- **Sentința: 40 - 60 de luni**
+- **Amendă contravenționala: 25.000$**
+- **Sentința: 60 - 80 de luni**
 - **Anulare permis de conducere** 
 
 ### <a id="2.5"></a><span style="color: #0088CC">2.5 Părăsirea locului accidentului sau a unei scene</span>
