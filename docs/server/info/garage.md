@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Sistemul de garaje este conceput pentru a putea avea poziționate diverse vehicule pe toată aria jocului.
 
 Vehiculul parcat la un garaj o să poată să fie scos doar de la acel garaj, daunele motorului, precum și obiectele din portbagaj și torpedou fiind salvate în momentul în care vehiculul este parcat.

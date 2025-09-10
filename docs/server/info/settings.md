@@ -6,8 +6,6 @@ outline: deep
 
 ## Setări și taste rapide / Settings & Hotkeys
 
-### <span style="color: #0088CC">Română</span>
-
 Comunitatea B-Zone vine cu setări predefinite pentru majoritatea acțiunilor de pe server, dar și cu posibilitatea de a schimba setările, cât și elemente din HUD după bunul plac al fiecăruia.
 
  Elemente din HUD ce pot fi modificate:
@@ -25,7 +23,6 @@ Alte elemente ce pot fi ajustate din joc în timp real:
 Pe server există opțiunea de a afișa un compass, care ajută la oferirea detaliilor despre strada pe care vă aflați, folosind comanda [/compass] în chat.
 
 Fiecare tastă rapidă poate să fie schimbată prin accesarea comenzii [/settings] în chat, urmând să selecteze categoria "Taste".
-
 
 <details>
   <summary>Settings</summary>

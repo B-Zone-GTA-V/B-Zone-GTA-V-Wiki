@@ -6,8 +6,6 @@ outline: deep
 
 ## Magazin de haine normal
 
-### <span style="color: #0088CC">Română</span>
-
 Magazinele de haine sunt locuri speciale în joc unde jucătorii își pot schimba vestimentația personajului lor. În prezent avem un număr total de 5 astfel de magazine. În magazin aveți posibilitatea de a vi se afișa caracterul gol pentru a face o vestimentație de la zero mult mai ușor.
 
 Hainele achiziționate sunt stocate în inventarul jucătorului, de unde pot fi echipate. Un jucător poate deține mai multe haine simultan.
@@ -24,12 +22,9 @@ Pentru a cumpăra o haină, jucătorul trebuie să exploreze hainele disponibile
 
 ## Magazin de haine premium
 
-### <span style="color: #0088CC">Română</span>
-
 Există o singură locație de astfel de haine premium ce o puteți găsi în GPS sau direct din Harta jocului.
 
 În acest magazin se găsesc articole de îmbrăcăminte diferite față de cel normal. Acestea pot fi achiziționate atât cu Gold, cât și cu Cash/Card.
-
 
 <details>
   <summary>Premium Clothing Store</summary>

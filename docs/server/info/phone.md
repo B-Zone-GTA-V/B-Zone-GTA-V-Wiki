@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Telefonul vine cu mai multe aplicații folosite după cum urmează:
 
 |Application|Description|

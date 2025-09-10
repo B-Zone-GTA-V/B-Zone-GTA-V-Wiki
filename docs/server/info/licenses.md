@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Licențele sunt achiziționate sau dobândite în urma acțiunilor jucătorilor. Pe server există un număr total de 8 licențe ce se pot achiziționa de la primărie/DMV. 
 
 - Licența de pescuit
@@ -40,8 +38,6 @@ Licența de port-armă și cea de tractări poate să fie primită doar de la po
 </details>
 
 ## Documente
-
-### <span style="color: #0088CC">Română</span>
 
 După ce ați luat una dintre licențele de mai sus este necesar să aveți la dvs. un document ce afirmă că aveți licența respectivă.
 Vezi pagina de <a href="./documents">Documente</a>.

@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Pentru a vinde un vehicul personal, trebuie să te îndrepți spre centrul de remat. Ajuns acolo, trebuie să intri în checkpoint-ul respectiv și să apeși pe butonul de confirmare (Y).
 
 Odată apăsat acest buton, veți avea o interfață de acceptare a acțiuni de vindere!

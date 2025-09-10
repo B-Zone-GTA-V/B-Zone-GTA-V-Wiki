@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Pe server în prezent există 3 tipuri de animații pe care le puteți folosi:
 - Animații generice 
 - Animații faciale 

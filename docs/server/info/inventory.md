@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Inventarul este elementul de bază al serverului nostru. În inventar vă puteți depozita mâncarea, piesele de vestimentație, obiectele dobândite de la locurile de muncă și nu numai. 
 
 Inventarul vine cu o capacitate de 5 kilograme, putând să fie urcat la 45 kg prin echiparea unui ghiozdan. Cu inventarul deschis, puteți vedea obiectele aruncate în vecinătate, dar și să aruncați obiecte în vecinătate (pe jos). 

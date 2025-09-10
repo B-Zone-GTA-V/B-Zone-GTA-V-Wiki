@@ -3,6 +3,7 @@ outline: deep
 ---
 
 # Indicatorii de Stare
+
 ## Hunger (Foame)
 
 Indicatorul de foame scade pe măsură ce timpul trece sau în urma anumitor activități. Pentru a menține un nivel optim, trebuie să consumi mâncare de calitate, pe care o poți găsi pe pagina de Cooking. De asemenea, hidratarea este importantă pentru a preveni scăderea rapidă a acestui indicator.

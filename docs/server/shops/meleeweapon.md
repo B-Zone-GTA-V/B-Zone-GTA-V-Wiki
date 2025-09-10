@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Magazinele de arme sunt acele magazine de unde jucătorul își poate achiziționa o gamă variată de arme albe pentru auto-apărare sau pentru a jefui alți jucători, după cum urmează:
 
 Legendă: G = greutate | $ = prețul

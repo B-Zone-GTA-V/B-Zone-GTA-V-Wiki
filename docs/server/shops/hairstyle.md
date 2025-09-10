@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Frizeriile sunt locurile unde jucătorii își pot schimba înfățișarea în joc. Pe comunitatea B-Zone sunt disponibile 6 frizerii.
 
 Pretul pentru modificarea aspectului la frizerie este fix și nu depinde de numărul sau tipul schimbărilor pe care le faci la personajul tău.
