@@ -14,13 +14,14 @@ Tatuajele au diferite zone unde pot să fie amplasate precum: cap, corp, mâini 
 
 De menționat este faptul că tatuajele pot să fie scoase individual după dorințele voastre, însă prețul de scoatere a unui tatuaj este mult mai mare față de prețul de a-l achiziționa.
 
+Mai jos aveți o lista cu prețurile per zonă. Acest preț este aplicat tatuajelor comune dacă acestea nu au un preț predefinit de către administrația serverului.
 
 |Place|Price|
 |-|-|
-|Head|$ = 3.500|
-|Body|$ = 5.500|
-|Hand|$ = 4.800|
-|Leg|$ = 5.000|
+|Cap|$ = 3.500|
+|Corp|$ = 5.500|
+|Mână|$ = 4.800|
+|Picior|$ = 5.000|
 
 <details>
   <summary>Tattoo</summary>
