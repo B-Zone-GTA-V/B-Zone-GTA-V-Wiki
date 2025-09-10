@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Sistemul de Referal aduce beneficii ambelor părți, atât jucătorului care introduce un cod de referal, cât și cel care are codul respectiv.
 
 Codul de referal poate fi introdus la înregistrarea pe server sau din meniul ESC - Referal cu condiția să aveți sub 50 de ore jucate.

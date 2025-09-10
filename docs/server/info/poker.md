@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Pe server vă puteți juca celebrul joc Poker, mai exact modul Texas Hold'em.
 <br />
 Pentru a vă putea juca trebuie să fiți într-o zona unde este o masă de poker. De regulă această locație este la cazino, celelalte locații le aflați în mod IC.

@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Magazinul de tatuaje este locul în care vă puteți personaliza caracterul chiar mai mult. În prezent avem un număr total de 5 astfel de magazine.
 
 Tatuajele au diferite zone unde pot să fie amplasate precum: cap, corp, mâini și picioare. Tatuajele sunt considerate un "moft" pe server, prin urmare prețul acestora este mai ridicat față de alte modalități de a-ți personaliza caracterul. 
