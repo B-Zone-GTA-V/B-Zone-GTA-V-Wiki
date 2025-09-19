@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 După ce ai primit o nouă licență trebuie să te prezinți la Secția de Poliție din Los Santos pentru a-ți elibera documentul. Totodată este necesar să vă eliberați și buletinul tot din aceași locație.
 
 Itemul primit în inventar poate fi arătat către o altă persoană sau să îl inspectați dumneavoastră. Aceste iteme se pierd în momentul în care alegeți să vă respawnați la spital în urma unui Player Kill (PK).
@@ -25,8 +23,6 @@ Itemul primit în inventar poate fi arătat către o altă persoană sau să îl
 </details>
 
 ## Actualizare poză documente
-
-### <span style="color: #0088CC">Română</span>
 
 În momentul în care caracterul este finalizat, o poză va fi făcută, care va fi folosită atunci când vă arătați documentele unui alt jucător.
 

@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Amenzile sunt oferite de către polițiști în urma încălcării codului penal. Acestea nu sunt plătite automat de către jucător ci înregistrate la primărie pentru a putea să fie plătite ulterior.
 
 Pentru a vedea lista completă a amenzilor înregistrate pe numele vostru, trebuie să vă deplasați la primărie și să interacționați cu NPC-ul nostru "NPC Andreea Amenzi & Licențe". Amenzi se pot plăti preferențial în funcție de vechimea amenzi sau a valorii acesteia după bunul vostru plac.

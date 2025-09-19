@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Prin sistemul de cărți poți converti și transfera punctele tale de experiență de la un skill către un alt jucător la o rată de conversie de 3:1. Locația de scris cărți se află în clădirea primăriei, la parter, aripa stângă, prima cameră pe dreapta.
 
 Poți scrie cărți doar dacă ai skill 6 + numărul de puncte care se utilizează (vezi tabelul de mai jos).

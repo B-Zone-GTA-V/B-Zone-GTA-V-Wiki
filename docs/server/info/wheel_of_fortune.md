@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Pentru a putea accesa Roata Norocului trebuie să fiți la Cazino.
 <br />
 Prețul unei rotiri este de **1000 Jetoane** sau **500 Gold**.

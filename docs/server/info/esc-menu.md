@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Meniul de ESC conține multe informații esențiale pentru jucător.
 - Tabul Acasă: Informații generale, Redirectionare către harta jocului și tabul de setări al GTA V, cât și o scurtătură către Battlepass-ul curent.
 - Tabul Statistici Jucător: Statistici referitoare la Cont, Activitate, Licențe, Sancțiuni și Facțiune.

@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 BNN este o aplicație pe telefon de anunțuri ce permite trimiterea de anunțuri în funcție de de tip (Case / Mașini / Servicii / Bunuri).
 
 Prețul publicării unui anunț timp de o oră este de <span class="money">$500</span>. 

@@ -5,8 +5,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 <table>
     <tr>
         <td>Întrebare</td>

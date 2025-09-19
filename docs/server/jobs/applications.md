@@ -2,11 +2,9 @@
 outline: deep
 ---
 
-# Joburi & Activități / Jobs & Activities
+# Joburi & Activități
 
 ## Introducere
-
-### <span style="color: #0088CC">Română</span>
 
 Toate joburile și activitățile au fost trecute într-o interfață specială pentru a ajuta jucătorii noi.
 
@@ -19,9 +17,7 @@ Pentru joburile ilegale și activitățile aferente nu veți primi un Waypoint, 
   <img src="https://v.b-zone.ro/images/wiki/jobs-interface.gif" alt="Jobs Interface">
 </details>
 
-## Job Applications
-
-### <span style="color: #0088CC">Română</span>
+## Aplicații la Joburi
 
 Pentru a aplica la orice loc de muncă disponibil pe server, trebuie să vă deplasați fizic la punctele de angajare. Pentru a ajunge acolo, puteți folosi telefonul: <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> și selectați locul de muncă dorit.</span>
 <br>Asigurați-vă că îndepliniți cerințele de ore pentru acel job din <span class="button-p-job">ESC -> meniul Jobs.</span>

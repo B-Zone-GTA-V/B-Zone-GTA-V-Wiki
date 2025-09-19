@@ -2,11 +2,9 @@
 outline: deep
 ---
 
-# Gym / Sală de forță
+#  Sală de forță (Gym)
 
 ## Introducere
-
-### <span style="color: #0088CC">Română</span>
 
 Sunt disponibile două săli de forță, una în Vespucii și una la închisoare.
 
@@ -19,7 +17,6 @@ NOTA 1: Dacă aveți cont VIP Gold sau Diamond veți avea un boost de max kg ce 
 NOTA 2: Pierderea contului VIP nu vă va elimina kilogramele extra, dar nu veți putea face sală până nu scădeți sub noua limită.
 
 Clarificare Max KG: 5kg (buzunarele) + 40kg (cel mai bun backpack) + 20kg (sala) + 10kg (VIP Diamond) = 75kg
-
 
 <details>
   <summary>Gym</summary>
