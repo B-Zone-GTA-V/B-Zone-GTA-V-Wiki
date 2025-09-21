@@ -12,9 +12,9 @@ Prin conectarea la server, sunteți direct de acord să respectați regulile ser
 
 ### <a id="1.2"></a><span style="color: #0088CC">1.2 Interpretare regulament</span>
 
-Interpretarea oricărei reguli este interzisă! Nu puteți interpreta nici o regulă după bunul plac pentru a vă oferi avantaje într-un RolePlay. 
+Interpretarea oricărei reguli este interzisă! Nu puteți interpreta nicio regulă după bunul plac pentru a vă oferi avantaje într-un RolePlay. 
 
-Pentru orice neclaritate pe parte de regulament contactați un membru staff. In situațiile de ticket, identificarea încălcării de regulament se face de către membrul staff care a preluat ticketul și nu de către jucători.
+Pentru orice neclaritate pe parte de regulament contactați un membru staff. În situațiile de ticket, identificarea încălcării de regulament se face de către membrul staff care a preluat ticketul și nu de către jucători.
 
 ### <a id="1.3"></a><span style="color: #0088CC">1.3 Condiții pentru a putea juca pe server</span>
 
@@ -26,7 +26,7 @@ Exemple de nume interzise: Mickael Jackson / Jhon Coa*eLungi / MaJocBine
 
 Exemple de nume permise: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
-Neconformarea, respectiv necooperarea cu administrația serverului pentru a respecta orice parametru de mai sus, va duce la banarea contului dumneavoastră permanent, având posibilitatea să vă faceți ulterior alt cont.
+Neconformarea sau necooperarea cu administrația serverului pentru a respecta orice parametru de mai sus, va duce la banarea contului dumneavoastră permanent, având posibilitatea să vă faceți ulterior alt cont.
 
 ### <a id="1.4"></a><span style="color: #0088CC">1.4 Politică de comportament și de excludere a jucătorilor (ZT)</span>
 
@@ -46,7 +46,7 @@ Pentru a asigura corectitudinea și transparența în cadrul sesiunilor de Rolep
 
 <span style="color:red">⚠ **Sancțiuni:** </span> 
 - Lipsa unei filmări valide în cazul unei reclamații poate duce la **anularea dovezilor proprii** și la **posibile sancțiuni**.
-- Dacă un jucător refuză sau nu poate furniza filmarea într-o situație în care este solicitată, acesta nu poate să își susțină nevinovăția și poate fi sancționat. Ex: Dacă ești acuzat de MetaGaming iar tu nu deții filmarea pentru a demonstra contrarul vei fi sancționat pentru MG.
+- Dacă un jucător refuză sau nu poate furniza filmarea într-o situație în care este solicitată, acesta nu poate să-și susțină nevinovăția și poate fi sancționat. Ex: Dacă ești acuzat de MetaGaming iar tu nu deții filmarea pentru a demonstra contrarul vei fi sancționat pentru MG.
 
 ### <a id="1.6"></a><span style="color: #0088CC">1.6 Reclamatii False și Posthunt</span>
 
@@ -67,13 +67,13 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 - Sindicatul are dreptul să folosească informații/dovezi OOC pentru a începe RP-uri, investigații sau intervenții.
 - Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor nu este unul exagerat și strică experiența normală de Roleplay.
 - Sindicatul nu folosește informațiile dobândite OOC pentru a intervenii în conflicte între mafii ci doar pentru a menține o ordine sănătoasă de Roleplay pe întregul oraș.
-- Sindicatului nu i se pot cere informații OOC de către jucatori.
+- Sindicatului nu i se pot cere informații OOC de către jucători.
 - Prin informatii OOC se intelege filmari preluate de la diversi participati la respectivele RP-uri, nu informatii preluate din admin, dupa voce, etc.
 - Informațiile OOC pot sa fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.8 Gravitatea sancțiunilor</span>
 - În situațiile în care încălcarea regulamentului nu a fost una voită sau nu a fost suficient de gravă încât să fiți susceptibili unei sancțiuni de **BAN**, un membru al staffului poate recurge la a vă oferi un warn în locul sancțiunii.
-- În cazuri speciale se poate recurge chiar și la checkpointuri între 200-500 ca formă alternativă de sancționare.
+- În cazuri speciale se poate recurge chiar și la Jail între 20-100 minute ca formă alternativă de sancționare.
 - Sancțiunile din capitolul 3 pot să fie agravate la **Ban Permanent** cu aprobarea unui **Senior Admin** sau **Head Admin**
 - La adunarea a 3 warnuri veți primi automat un ban de 5 zile.
 - În cazul unor situații excepționale unde sunt încalcate 3 sau mai multe sancțiuni, sancțiunea acordata va fi aceea de **Greșeli multiple** ce se sancționează cu **BAN** între 1-30 zile în funcție de gravitate.
@@ -118,7 +118,7 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 - Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai de datoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-150 Checkpoint-uri
+- prima abatare: 20-30 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -182,7 +182,7 @@ Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acț
 - când ești aruncat în apă într-o zonă nepopulată
 
 <span style="color: red">Sancțiuni</span> pentru apel către medici din zone nepopulate: 
-- prima abatare: 100 Checkpoint-uri
+- prima abatare: 20 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
@@ -216,7 +216,7 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 - Jefuirea de oameni în comă indiferent de zona unde se află (Ex. Găsești pe cineva în comă și il jefuiești, indiferent dacă îi dai in vreum fel revive sau pe loc în timp ce e mor)
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100 Checkpoint-uri
+- prima abatare: 20 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 3 zile 
 
@@ -234,7 +234,7 @@ Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai 
 - Rolezi că arunci cheia în șanț și nu vrei să descui mașina după ce un alt jucător a găsit cheia.
 
 <span style="color: red">Sancțiuni</span>
-- prima abatare: 50-100 Checkpoint-uri
+- prima abatare: 10-20 minute Jail
 - două sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
 ### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
@@ -295,7 +295,7 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
 - Folosirea tazerului prin geamul sau texturile unei mașini.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 Checkpoint-uri
+- prima abatare: 20-40 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
@@ -317,7 +317,7 @@ Reprezintă atacarea cu pumnii/arme albe sau împușcarea unui jucător sau a un
 <span style="color: yellow">Exemplu:</span> Te deplasezi pe o stradă, iar la un moment dat vezi 2 persoane care stau retrase și discută. Te apropii de ei și îi împuști, dar tu nu i-ai mai văzut până în acel moment și nu ai nici un roleplay anterior care să te lege de aceștia.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 300 checkpointuri
+- prima abatare: 60 minute Jail
 - a doua abatere: Ban 1-3 zile în functie de gravitate 
 - trei sau mai multe abateri: Ban 3-14 zile în functie de gravitate  
 
@@ -328,7 +328,7 @@ Reprezintă călcarea intenționată a unui jucător sau al unui grup de jucăto
 <span style="color: yellow">Exemplu:</span> Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 300 checkpointuri
+- prima abatare: 60 minute Jail
 - a doua abatere: Ban 1-3 zile în functie de gravitate 
 - trei sau mai multe abateri: Ban 3-14 zile în functie de gravitate  
 
@@ -341,7 +341,7 @@ Reprezintă înotarea la nesfârșit și este interzisă deoarece în realitate 
 - Ai căzut din barca în care erai cu prietenii tăi, iar ei s-au îndepărtat foarte mult, ești la o distanță foarte mare de orice mal și hotărăști să înoți pană acolo fără oprire. Acest lucru este interzis. 
 
 <span style="color: red">Sancțiuni: </span>
-- prima abatare: 300 checkpointuri
+- prima abatare: 60 minute Jail
 - a doua abatere: Warn + întoarcerea în locul unde ai început să înoți
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
@@ -354,7 +354,7 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-300 checkpointuri
+- prima abatare: 20-60 Minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -392,7 +392,7 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 - Bați un polițist în penitenciar
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-300 checkpointuri
+- prima abatare: 20-60 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -413,7 +413,7 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
   - patrule rau famate în intervalul 20:00-08:00
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-300 checkpointuri
+- prima abatare: 20-60 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -430,8 +430,8 @@ Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat
 - Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 500 checkpointuri
-- a doua abatere: Warn + 500 checkpointuri
+- prima abatare: 100 minute Jail
+- a doua abatere: Warn + 100 minute Jail
 - trei sau mai multe abateri: Ban 1-30 zile în functie de gravitate 
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
@@ -442,8 +442,8 @@ Reprezintă orice atitudine/comportament de superioritate față de ceilalți ju
 - Înjosirea oamenii care lucrează la un job legal fără un motiv întemeiat.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-300 checkpointuri
-- a doua abatere: Warn + 200-400 checkpointuri
+- prima abatare: 20-60 minute Jail
+- a doua abatere: Warn + 40-80 minute Jail
 - trei sau mai multe abateri: Ban 1-14 zile în functie de gravitate 
 
 ### <a id="2.23"></a><span style="color: #0088CC">2.23 Provoking</span>
@@ -456,8 +456,8 @@ Reprezintă acțiunea prin care provoci un alt jucător să se enerveze, fără 
 - Forțarea unui jucător să intre într-un roleplay pe care nu și-l dorește.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 50-150 checkpointuri
-- a doua abatere: Warn + 150-300 checkpointuri
+- prima abatare: 10-30 minute Jail
+- a doua abatere: Warn + 30-60 minute Jail
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
 
 ### <a id="2.24"></a><span style="color: #0088CC">2.24 Sleep</span>
@@ -471,8 +471,8 @@ Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este in
 - Ești urmărit de mafie și te pui /sleep
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 50-150 checkpointuri
-- a doua abatere: Warn + 150-300 checkpointuri
+- prima abatare: 10-30 minute Jail
+- a doua abatere: Warn + 30-60 minute Jail
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
 
 ### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitenciar</span>
@@ -517,7 +517,7 @@ Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de 
 ### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
 Freechat reprezintă folosirea chatului OOC din joc, transmițând mesaje care nu sunt de interes comun, a mesajelor de ură sau a frustrărilor.
 
-Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și comanda /ticket pot adresa întrebări și pot socializa cu alți jucatori fără sa deranjeze pe alții. Dorim ca pe acest chat să vedem o atitudine pozitivă, să ne ajutăm unii pe alții sau să ne distrăm. Acest chat este văzut de toți jucătorii și poate fi închis ori de câte ori noi considerăm că nu se folosește în scopurile în care a fost oferit.
+Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și comanda /ticket pot adresa întrebări și pot socializa cu alți jucători fără sa deranjeze pe alții. Dorim ca pe acest chat să vedem o atitudine pozitivă, să ne ajutăm unii pe alții sau să ne distrăm. Acest chat este văzut de toți jucătorii și poate fi închis ori de câte ori noi considerăm că nu se folosește în scopurile în care a fost oferit.
 
 <span style="color: red">Sancțiune:</span> mute 10-600 minute și poate ajunge până la ban 7 zile în funcție de gravitate
 
@@ -533,9 +533,9 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - Ești polițist și observi un individ într-un vehicul care nu este confirmat ca fiind cu Cod 1 (înarmat sau extrem de periculos), însă alegi să deschizi focul asupra roților și chiar asupra șoferului, cu scopul de a-l neutraliza pe el sau vehiculul acestuia.
 
 <span style="color: red">Sancțiune:</span>
-- prima abatare: 50-150 checkpointuri
-- a doua abatere: 150-300 checkpointuri
-- trei sau mai multe abateri: Warn + 300-500 checkpointuri
+- prima abatare: 10-30 minute Jail
+- a doua abatere: 30-60 minute Jail
+- trei sau mai multe abateri: Warn + 60-100 minute Jail
 
 ### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
 Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului), în tranzacții care implică **BUNURI LEGALE**.
@@ -543,8 +543,8 @@ Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și
 - În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 200-300 checkpointuri
-- a doua abatere: Warn + 300-400 checkpointuri
+- prima abatare: 40-60 minute Jail
+- a doua abatere: Warn + 60-80 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
 <span style="color: green">Mențiuni:</span>
@@ -594,8 +594,8 @@ Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire 
 - „Iată cum arată un roleplay de calitate, nu ce faceți voi.”
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 300 checkpointuri
-- a doua abatere: Warn + 500 checkpointuri
+- prima abatare: 60 minute Jail
+- a doua abatere: Warn + 100 minute Jail
 - trei sau mai multe abateri: Ban 3-7 zile în functie de gravitate 
 
 ### <a id="3.4"></a><span style="color: #0088CC">3.4 Toxicitate</span>
@@ -679,9 +679,9 @@ Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de 
 
 <span style="color: red">Sancțiuni:</span><br>
 ##### <span style="color: lightgreen">Afk în roleplay (ex. vine poliția la razie la Mina):</span>
-- prima abatare: 100 checkpointuri + Kick
-- a doua abatere: 200 checkpointuri + Kick
-- trei sau mai multe abateri: 300 checkpointuri + Kick
+- prima abatare: 20 minute Jail + Kick
+- a doua abatere: 40 minute Jail + Kick
+- trei sau mai multe abateri: 60 minute Jail + Kick
 ##### <span style="color: lightgreen">Afk în afara unui roleplay (ex. afk la spital dupa respawn):</span>
 - Kick
 
@@ -701,7 +701,7 @@ Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea 
 - Folosirea armelor destinate membrilor SAS fără a fi îmbracat în SAS. (Excepție fiind cei cu grad de Sub-Comisar+)
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 150 - 200 checkpointuri
+- prima abatare: 30-40 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 3-30 zile în funcție de gravitate
 
@@ -729,7 +729,7 @@ Reprezintă încălcarea regulamentului în mod repetat sau băgarea în seamă 
 ### <a id="4.10"></a><span style="color: #0088CC">4.10 Conturi multiple</span>
 Pentru a asigura o experiență autentică și echitabilă pentru toți jucătorii, este permisă utilizarea unui singur cont pe server. Conectarea de pe mai multe conturi este strict interzisă. 
 
-Orice încălcare a acestei reguli va duce la banarea permanentă a conturilor duplicate (**_200.000.000_** de checkpointuri nu **BAN**).
+Orice încălcare a acestei reguli va duce la sancționarea conturilor duplicate (**_2.000.000_** de minute, nu **BAN**).
 
 <span style="color: red">Sancțiuni pentru contul principal:</span>
 - prima abatere: Ban 1-7 zile în functie de gravitate.
@@ -756,7 +756,7 @@ De asemenea, o mașină joasă nu poate face pitstop unei mașini cu gardă îna
 <span style="color: green">Excepții:</span> În cazul în care 2 vehicule de mare viteză accelerează în același timp și ajung până la maxim 180 km/h în momentul aplicării manevrei pit-stop manevra este considerata regulamentară deoarece este foarte greu să aproximezi viteza în condițiile în care mașinile accelerează foarte repede.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 200 checkpointuri
+- prima abatare: 40 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în funcție de gravitate
 
@@ -772,7 +772,7 @@ Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit.
 <span style="color: green">Excepție:</span> dacă motorul autovehiculului este pornit nu se consideră ninja-jack.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
+- prima abatare: 20-40 Minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în funcție de gravitate
 
@@ -785,9 +785,9 @@ Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră î
 - Să mergi cu o mașină cu gardă joasă pe drumuri accidentate
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 200-300 checkpointuri
-- trei sau mai multe abateri: Warn + 300-400 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 40-60 minute Jail
+- trei sau mai multe abateri: Warn + 60-80 minute Jail
 
 Pentru fiecare categorie de mai jos va fi impusă o limită maximă de viteză în funcție de gardă, respectiv suspensiile pe care le are.
 
@@ -856,7 +856,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 <span style="color: limegreen">Reguli generale pentru piloți:</span>
 - Piloții trebuie să respecte toate regulile de trafic aerian și să acționeze într-un mod realist.
 - Decolarea și aterizarea trebuie anunțate în prealabil prin stația radio a aeroportului.
-- Pilotii nu au voie sa astepte jucatorii pe care ii transporta pe cayo mai mult de 2 minute.
+- Pilotii nu au voie sa astepte jucătorii pe care ii transporta pe cayo mai mult de 2 minute.
 - Piloții trebuie să respecte traseele stabilite pentru job și nu au voie să se abată de la acestea fără un motiv valid RP.
 - Zborul aproape de sol fără a ateriza avionul pentru a obține un beneficiu este interzis.
 - Avioanele trebuie parcate doar în zonele special amenajate.
@@ -884,12 +884,12 @@ Sunt interzise:
 - urcarea cu un vehicul peste un alt vehicul.
 
 <span style="color: yellow">Exemple:</span>
-- Intrii într-o masina parcată cu scopul de a o muta pe aceasta 10m mai încolo.
+- Intri într-o masina parcată cu scopul de a o muta pe aceasta 10m mai încolo.
 - Vezi o mașină ce vine de pe celălalt sens, tragi stangă în ultimul moment pentru a garanta împactul cu aceasta.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 200 checkpointuri
-- a doua abatere: Warn + 200 checkpointuri
+- prima abatare: 40 minute Jail
+- a doua abatere: Warn + 40 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 #### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Blocajele</span>
@@ -904,8 +904,8 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span>:
 - blocajele trebuie făcute din timp sau la viteze suficient de mici cu scopul de a oferii celor împlicați în urmărire timp suficient pentru a evita impactul cu blocajul
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 200 checkpointuri
-- a doua abatere: Warn + 200 checkpointuri
+- prima abatare: 40 minute Jail
+- a doua abatere: Warn + 40 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ## <a id="6"></a><span style="color: #0088CC">CAP.6 JOBURI ȘI ACTIVITĂȚI LEGALE</span>
@@ -921,9 +921,9 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span>:
 - Să nu deranjați persoanele cu care interacționați la locul de muncă
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 50-100 checkpointuri
-- a doua abatere: 200-300 checkpointuri
-- trei sau mai multe abateri: Warn + 300 checkpointuri
+- prima abatare: 10-20 minute Jail
+- a doua abatere: 40-60 minute Jail
+- trei sau mai multe abateri: Warn + 60 minute Jail
 
 ## <a id="7"></a><span style="color: #0088CC">CAP. 7 ACȚIUNI ILEGALE</span>
 
@@ -940,9 +940,9 @@ Vă este permis să furați o mașină de poliție/medici doar în cazuri extrem
 - Echipa administrativă nu este obligată să vă returneze obiectele în cazul în care vă sunt furate din vehiculele personale, vă recomandăm să vă parcați vehiculele în unul din cele peste 50 de garaje de pe hartă.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 200-300 checkpointuri
-- trei sau mai multe abateri: Warn + 300-500 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 40-60 minute Jail
+- trei sau mai multe abateri: Warn + 60-100 minute Jail
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Ilegalități sub 50 de ore</span>
 
@@ -954,8 +954,8 @@ Acțiunile ilegale cuprind:
 - Craftarea respectiv, confecționarea de obiecte ilegale.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 200-300 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 40-60 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zonă publică</span>
@@ -973,8 +973,8 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - aruncarea unui cetățean în comă într-o zonă publică
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 200-300 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 40-60 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 <span style="color: green">Mențiuni și excepții:</span>
@@ -1007,8 +1007,8 @@ Este <span style="color: yellow">OBLIGATORIU</span>:
 - În cazul în care cereți o mașină ca să puteți fugii sau o cale de scăpare, Poliția este <span style="color: yellowgreen">obligată</span> să se țină de cuvânt și să nu se tragă fix în momentul în care ostaticul este eliberat. Poliția în acel moment se pregatește de o urmărire nu de deschiderea focului.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 200-300 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 40-60 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ### <a id="7.5"></a><span style="color: #0088CC">7.5 Răpirea</span>
@@ -1022,8 +1022,8 @@ Este permisă, respectând următoarele cerințe:
 - În cazul roleplay-ului de răscupărare a celui răpit se pot cere bunuri până în suma de 200.000$ (dar nu de la facțiunile guvernamentale). În cazul în care nu se ajunge la un acord între părțile implicate, cel răpit își va rula PK-ul față de toți cei prezenți în RP-ul respectiv (chiar și din gang / mafie dacă este implicat).
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 200 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 40 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ### <a id="7.6"></a><span style="color: #0088CC">7.6 Acțiunile teroriste</span>
@@ -1056,8 +1056,8 @@ Ban 7-14 zile în funcție de gravitate
 
 <span style="color: red">Sancțiuni:</span>
 - mafiile ce incalcă această regulă vor primii implicit <strong style="color: red">Mafia WARN</strong>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate<br>
 <span style="color: yellowgreen">Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.</span>
 
@@ -1178,8 +1178,8 @@ Este <span style="color: red">interzis</span>:
 - jefuirea aceluiasi individ intr-un interval mai mic de 2 ore (Persoanele care au fost jefuite nu au voie sa abuzeze de această regula și trebuie să ruleze în continuare frica de jefuire)
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill | Kill & Rob | Drop & Kill</span>
@@ -1207,8 +1207,8 @@ In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, ac
 Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ### <a id="7.10"></a><span style="color: #0088CC">7.10 Regulament jafuri</span>
@@ -1229,8 +1229,8 @@ Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuir
 Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banci</span>
@@ -1251,8 +1251,8 @@ După terminarea jafului și neutralizarea zonei, poliția va trebui să închid
 Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Nu se permite spargerea roților mașinilor parcate. Aceaste acțiuni pot conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ### <a id="7.11"></a><span style="color: #0088CC">7.11 Ilegalități în case și în jurul caselor</span>
@@ -1274,16 +1274,16 @@ Sunt <span style="color: red">interzise</span> următoarele:
 - Se consideră casă HQ-urile de mafii sau locul unde o grupare își desfășoara preponderent activitatea
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ### <a id="7.12"></a><span style="color: #0088CC">7.12 Deturnarea unui transport</span>
 Se permite deturnarea unui transport de deținuți, oriunde în afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere), dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
@@ -1293,7 +1293,7 @@ Se permite deturnarea unui transport de deținuți, oriunde în afara orașului 
 
 **Grupare oficială** - Grupare de maxim 31 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
 
-<span style="color: red">Sancțiuni</span> pentru toți membrii care nu respectă acestă regulă. În funcție de gravitatea situației și numărul de abateri se poate sancționa de la 100 Checkpoint-uri pănă la ban 7 zile.
+<span style="color: red">Sancțiuni</span> pentru toți membrii care nu respectă acestă regulă. În funcție de gravitatea situației și numărul de abateri se poate sancționa de la 20 minute Jail pănă la ban 7 zile.
 
 <span style="color: green">Mențiuni:</span>
 
@@ -1338,20 +1338,20 @@ Soluționarea ticketelor se va face în maxim 72 ore de la deschiderea lui.
 Orice tip de ticket se poate deschide doar după încheierea roleplay-ului
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ## <a id="9"></a> <span style="color: #0088CC">CAP 9. Activitate</span>
 
 ### <a id="9.1"></a><span style="color: #0088CC"> 9.1 Case</span>
 
-Persoanele ce detin o casa trebuie sa aibe la activ minim 10 ore in 30 de zile.
-<br>Persoanele ce nu indeplinesc minimul de ore solicitat li se va scoate casa de pe cont, iar aceasta ulterior scoasa la licitatii IC.
-<br><span style="Color: red">Daca detineti bunuri</span> in casa in momentul in care o pierdeti, acestea nu vor fi returnate de catre echipa administrativa.
+Persoanele ce dețin o casă trebuie sa aibă la activ minim 10 ore in 30 de zile.
+<br>Persoanele care nu îndeplinesc minimul de ore solicitat vor pierde casa de pe cont, iar aceasta, ulterior, va fi scoasă la licitații IC.
+<br><span style="Color: red">Daca dețineti bunuri</span> în casă în momentul în care o pierdeți, acestea nu vor fi returnate de către echipa administrativă.
 
-Persoanele banate permanent fara drept de plata li se vor scoate casa dupa o perioada de 10 zile in cazul in care exista situatia unei modificari din "fara drept de plata" in "cu drept de plata" in urma unui ticket.
-<br>Persoanelor banate temporar pentru o perioada mai mare de 30 de zile nu li se va lua in considerare minimul de 10 ore decat dupa expirarea banului.
+Persoanelor banate permanent fără drept de plată li se vor scoate casa după o perioadă de 10 zile în cazul în care există situația unei modificări din "fără drept de plată" în "cu drept de plată" în urma unui ticket.
+<br>Persoanelor banate temporar pentru o perioadă mai mare de 30 de zile nu li se va lua in considerare minimul de 10 ore decât după expirarea banului.
 
 ## <a id="10"></a> <span style="color: #0088CC">CAP 10. BNN (B-Zone Network News)</span>
 
@@ -1360,8 +1360,8 @@ Persoanele banate permanent fara drept de plata li se vor scoate casa dupa o per
 Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice alt conținut ofensator vor fi șterse.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 checkpointuri
-- a doua abatere: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 ### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Obligativitatea roleplay-ului</span>
@@ -1370,8 +1370,8 @@ Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay.
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: Avertisment verbal
-- a doua abatere: 100-200 checkpointuri
-- trei sau mai multe abateri: Warn + 300 checkpointuri
+- a doua abatere: 20-40 minute Jail
+- trei sau mai multe abateri: Warn + 60 minute Jail
 
 ### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Obligativitatea imaginilor relevante</span>
 
@@ -1383,8 +1383,8 @@ Poza atașată anunțului trebuie să fie relevantă pentru produsul sau servici
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: Avertisment verbal
-- a doua abatere: 100-200 checkpointuri
-- trei sau mai multe abateri: Warn + 300 checkpointuri
+- a doua abatere: 20-40 minute Jail
+- trei sau mai multe abateri: Warn + 60 minute Jail
 
 Excepție: În cazul utilizării imaginilor controversate, cu conținut politic sau cu tentă sexual-pornografică, sancțiunile pot varia în funcție de gravitate, putând include și Ban permanent.
 
@@ -1394,8 +1394,8 @@ Nu este permisă promovarea sau vânzarea de bunuri ilegale prin intermediul pla
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: Avertisment verbal
-- a doua abatere: Warn + 100-200 checkpointuri
-- trei sau mai multe abateri: Warn + 300 checkpointuri
+- a doua abatere: Warn + 20-40 minute Jail
+- trei sau mai multe abateri: Warn + 60 minute Jail
 
 ### <a id="10.5"></a><span style="color: #0088CC"> 10.5 Fără incitare la ură sau certuri</span>
 
@@ -1412,9 +1412,9 @@ Exemple de anunțuri interzise:
 - "L-am culcat pe X pe Groove."
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100-200 Checkpoint-uri
-- a doua abatere: Warn + 200-300 checkpointuri
-- trei sau mai multe abateri: Warn + 300 checkpointuri
+- prima abatare: 20-40 minute Jail
+- a doua abatere: Warn + 40-60 minute Jail
+- trei sau mai multe abateri: Warn + 60 minute Jail
 
 ### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Fără promovarea altor comunități</span>
 
@@ -1438,14 +1438,14 @@ Este permisă folosirea unor termeni sau denumiri în alte limbi (ex: numele unu
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: Avertistemnt verbal
-- a doua abatere: 150-250 checkpointuri
-- trei sau mai multe abateri: Warn + 300 checkpointuri
+- a doua abatere: 30-50 minute Jail
+- trei sau mai multe abateri: Warn + 60 minute Jail
 
 
 <br>
 <br>
 <br>
 <div class="info-box">
-    <strong>*Acest regulament a fost conceput, corectat și modificat de Roho, Bobo, Mondo, Vito, Therson, Infinity, Pant1limon, Chau-Li*</strong>
+    <strong>*Acest regulament a fost conceput, corectat și modificat de Roho, Bobo, Barbosu, Sartor, Mondo, Vito, Therson, Infinity, Pant1limon, Chowdy*</strong>
     <p>Asigurați-vă că ați citit și respectati noile modificări pentru a evita eventualele sancțiuni și pentru a fi la curent cu regulile actualizate.</p>
 </div>
