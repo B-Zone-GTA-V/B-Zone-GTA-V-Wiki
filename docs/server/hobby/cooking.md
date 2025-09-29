@@ -64,6 +64,66 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
+          <img src="https://v.b-zone.ro/images/items/1028.png" alt="Item 1028">
+        </div>
+      </td>
+      <td>5%</td>
+      <td>2%</td>
+      <td>-30%</td>
+      <td>-</td>
+      <td>15 min</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="image-row">
+          <img src="https://v.b-zone.ro/images/items/1029.png" alt="Item 1029">
+        </div>
+      </td>
+      <td>5%</td>
+      <td>2%</td>
+      <td>-40%</td>
+      <td>-</td>
+      <td>15 min</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="image-row">
+          <img src="https://v.b-zone.ro/images/items/1031.png" alt="Item 1031">
+        </div>
+      </td>
+      <td>5%</td>
+      <td>8%</td>
+      <td>-</td>
+      <td>-</td>
+      <td>20 min</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="image-row">
+          <img src="https://v.b-zone.ro/images/items/1030.png" alt="Item 1030">
+        </div>
+      </td>
+      <td>5%</td>
+      <td>4%</td>
+      <td>-60%</td>
+      <td>-</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="image-row">
+          <img src="https://v.b-zone.ro/images/items/1032.png" alt="Item 1032">
+        </div>
+      </td>
+      <td>5%</td>
+      <td>4%</td>
+      <td>-50%</td>
+      <td>-</td>
+      <td>25 min</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="image-row">
           <img src="https://v.b-zone.ro/images/items/1017.png" alt="Item 1017">
         </div>
       </td>
@@ -108,6 +168,18 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
       <td>-16%</td>
       <td>-</td>
       <td>32 min</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="image-row">
+          <img src="https://v.b-zone.ro/images/items/1033.png" alt="Item 1033">
+        </div>
+      </td>
+      <td>6%</td>
+      <td>14%</td>
+      <td>-</td>
+      <td>-</td>
+      <td>34 min</td>
     </tr>
     <tr>
       <td>
@@ -184,7 +256,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1026.png" alt="Item 1026">
+          <img src="https://v.b-zone.ro/images/items/1027.png" alt="Item 1027">
         </div>
       </td>
       <td>100%</td>
