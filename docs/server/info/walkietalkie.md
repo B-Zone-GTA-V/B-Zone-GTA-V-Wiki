@@ -14,12 +14,12 @@ Pentru a accesa un canal dorit, apasă pe locația unde îți este afișat textu
 
 <details>
   <summary>Reset frequency button</summary>
-  <img src="https://v.b-zone.ro/images/wiki/reset-frequency-button.png" alt="Reset frequency button">
+  <img src="https://assets.b-zone.ro/wiki/reset-frequency-button.png" alt="Reset frequency button">
 </details>
 
 <br/>
 
 <details>
   <summary>Set frequency</summary>
-  <img src="https://v.b-zone.ro/images/wiki/set-frequency.gif" alt="Set frequency">
+  <img src="https://assets.b-zone.ro/wiki/set-frequency.gif" alt="Set frequency">
 </details>

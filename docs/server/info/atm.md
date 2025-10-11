@@ -12,5 +12,5 @@ Din bancomat nu se pot scoate sau adăuga sume pe care jucătorul să nu le aib�
 
 <details>
   <summary>ATM</summary>
-  <img src="https://v.b-zone.ro/images/wiki/atm.gif" alt="ATM">
+  <img src="https://assets.b-zone.ro/wiki/atm.gif" alt="ATM">
 </details>

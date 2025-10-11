@@ -16,5 +16,5 @@ Pentru a achiziționa noile piese, jucătorul trebuie să aleagă modalitatea de
 
 <details>
   <summary>Tuning</summary>
-  <img src="https://v.b-zone.ro/images/wiki/tuning.gif" alt="Tuning">
+  <img src="https://assets.b-zone.ro/wiki/tuning.gif" alt="Tuning">
 </details>

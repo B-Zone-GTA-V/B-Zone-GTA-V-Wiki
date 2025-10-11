@@ -17,7 +17,7 @@ Pentru a cumpăra o haină, jucătorul trebuie să exploreze hainele disponibile
 
 <details>
   <summary>Clothing Store</summary>
-  <img src="https://v.b-zone.ro/images/wiki/normal-clothing-store.gif" alt="Clothing Store">
+  <img src="https://assets.b-zone.ro/wiki/normal-clothing-store.gif" alt="Clothing Store">
 </details>
 
 ## Magazin de haine premium
@@ -28,5 +28,5 @@ Există o singură locație de astfel de haine premium ce o puteți găsi în GP
 
 <details>
   <summary>Premium Clothing Store</summary>
-  <img src="https://v.b-zone.ro/images/wiki/premium-clothing-store.png" alt="Premium Clothing Store">
+  <img src="https://assets.b-zone.ro/wiki/premium-clothing-store.png" alt="Premium Clothing Store">
 </details>

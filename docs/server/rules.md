@@ -1063,11 +1063,11 @@ Ban 7-14 zile în funcție de gravitate
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Delimitarea zonelor</span>
 
-<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone.png"/></p>
+<p align="center"><img src="https://assets.b-zone.ro/b-zone-zone.png"/></p>
 
 <div style="text-align: center; width: 100%;">Anexa 7.8.1 Delimitarea zonelor din oraș (27.07.2025)</div>
 
-<p align="center"><img src="https://v.b-zone.ro/images/b-zone-zone_cayo.png"/></p>
+<p align="center"><img src="https://assets.b-zone.ro/b-zone-zone_cayo.png"/></p>
 
 <div style="text-align: center; width: 100%;">Anexa 7.8.2 Delimitarea zonelor de pe Cayo (13.02.2025)</div>
 

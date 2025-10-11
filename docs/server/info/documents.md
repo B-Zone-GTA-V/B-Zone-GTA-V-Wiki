@@ -12,14 +12,14 @@ Itemul primit în inventar poate fi arătat către o altă persoană sau să îl
 
 <details>
   <summary>Documents</summary>
-  <img src="https://v.b-zone.ro/images/wiki/document-items.png" alt="Car Tuning Centers">
+  <img src="https://assets.b-zone.ro/wiki/document-items.png" alt="Car Tuning Centers">
 </details>
 
 <br/>
 
 <details>
   <summary>Buletin</summary>
-  <img src="https://v.b-zone.ro/images/wiki/buletin.png" alt="Car Tuning Centers">
+  <img src="https://assets.b-zone.ro/wiki/buletin.png" alt="Car Tuning Centers">
 </details>
 
 ## Actualizare poză documente
@@ -32,5 +32,5 @@ Pentru a vă face noua poză, este nevoie să mergeți la primul etaj din primă
 
 <details>
   <summary>Photo Update</summary>
-  <img src="https://v.b-zone.ro/images/wiki/update-doc-photo.gif" alt="Car Tuning Centers">
+  <img src="https://assets.b-zone.ro/wiki/update-doc-photo.gif" alt="Car Tuning Centers">
 </details>
