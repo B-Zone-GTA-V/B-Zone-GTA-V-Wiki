@@ -30,5 +30,5 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 
 <details>
   <summary>Write Book</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/write-book.png" alt="Write Book">
+  <img src="https://assets.b-zone.ro/wiki/write-book.png" alt="Write Book">
 </details>

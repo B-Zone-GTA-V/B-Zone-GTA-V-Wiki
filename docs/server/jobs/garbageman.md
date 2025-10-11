@@ -54,5 +54,5 @@ După ce adunați gunoiul de la toate punctele marcate pe <span class="button-p-
 
 <details>
   <summary>Garbageman</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/garbageman.gif" alt="Garbageman">
+  <img src="https://assets.b-zone.ro/wiki/garbageman.gif" alt="Garbageman">
 </details>

@@ -20,13 +20,13 @@ Există posibilitatea și de sloturi rapide folosind key-urile de la **0**, **4*
 #### <span style="color: #0088CC">Tipuri de obiecte</span>
 
 - Obiecte **PROTEJATE**, aceste obiecte nu pot sa fie **furate** și nu pot să fie **pierdute la respawn**. Aceste obiecte pot fi deosebite prin marginea <span style="color: #009DFF">**Albastru deschisa**</span> a obiectului. Aceste obiecte pot sa fie mutate sau date altor jucatori, daca sunt in masini ele **POT** sa fie furate!
-  <img src="https://assets.b-zone.ro/images/wiki/item_protected.png" alt="Inventory">
+  <img src="https://assets.b-zone.ro/wiki/item_protected.png" alt="Inventory">
 
 - Obiecte **SOUL-BOUND**, aceste obiecte nu pot să vă părăsească inventarul în nici un fel (furt, drop, depozitare etc.) și nu pot să fie pierdute la respawn. Aceste obiecte pot fi deosebite prin marginea <span style="color: red">**ROȘIE**</span> a obiectului.
-  <img src="https://assets.b-zone.ro/images/wiki/item_soul_bound.png" alt="Inventory">
+  <img src="https://assets.b-zone.ro/wiki/item_soul_bound.png" alt="Inventory">
 
 
 <details>
   <summary>Inventory</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/inventory.png" alt="Inventory">
+  <img src="https://assets.b-zone.ro/wiki/inventory.png" alt="Inventory">
 </details>

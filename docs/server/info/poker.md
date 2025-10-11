@@ -14,7 +14,7 @@ Fiecare masă are o cerință de intrare difertă, această constă în numărul
 
 <details>
   <summary>Masă Poker</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/poker-table.jpg" alt="Poker Table">
+  <img src="https://assets.b-zone.ro/wiki/poker-table.jpg" alt="Poker Table">
 </details>
 
 #### Jetoane
@@ -25,7 +25,7 @@ Prețul unui jeton este de <span class="money">$100</span> la cumpărare, iar c�
 
 <details>
   <summary>Jetoane</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/chips.png" alt="Chips">
+  <img src="https://assets.b-zone.ro/wiki/chips.png" alt="Chips">
 </details>
 
 #### Cum te joci Poker

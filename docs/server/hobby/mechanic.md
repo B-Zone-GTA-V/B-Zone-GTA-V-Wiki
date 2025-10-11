@@ -40,7 +40,7 @@ Acest hobby include și o mașină de tractări, însă pentru a o folosi este n
 Acest hobby dispune de un shop și de un sistem de crafting. Shop-ul poate fi găsit la domnul Vericu George, iar crafting-ul se realizează la mesele de lucru din anumite service-uri auto.
 <details>
   <summary>Car Tuning Centers</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/car-tuning-locations.png" alt="Car Tuning Centers">
+  <img src="https://assets.b-zone.ro/wiki/car-tuning-locations.png" alt="Car Tuning Centers">
 </details>
 
 <table>

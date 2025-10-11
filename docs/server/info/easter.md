@@ -58,7 +58,7 @@ Din această locație veți putea începe BattlePass-ul sau veți putea interac�
 
 <details>
   <summary>Locație</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/easter-location.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/easter-location.png" alt="BP">
 </details>
 
 ## BattlePass Sezonul 5
@@ -73,7 +73,7 @@ De precizat că acest Item nu poate fi furat de pe voi, iar în caz de PlayerKil
 
 <details>
   <summary>BattlePass</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/bp.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/bp.png" alt="BP">
 </details>
 
 ## Concurs de Paște
@@ -86,7 +86,7 @@ Metodele de procurat aceste **Ouă** sunt următoarele: **Din BattlePass**, **Qu
 
 <details>
   <summary>Concurs de Paște</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/bp-contest.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/bp-contest.png" alt="BP">
 </details>
 
 ## Questuri
@@ -99,7 +99,7 @@ Acestea vă vor apărea pe radar doar dacă sunteți suficient de aproape de ele
 
 <details>
   <summary>Găsește Coșul cu ouă</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/bp-egg.jpeg" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/bp-egg.jpeg" alt="BP">
 </details>
 
 ### Pictează Ouăle
@@ -112,7 +112,7 @@ Ajunși la locația oului va trebui să completați un joculeț în care veți p
 
 <details>
   <summary>Pictează Oul</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/bp-paint.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/bp-paint.png" alt="BP">
 </details>
 
 ## Shop Special
@@ -125,7 +125,7 @@ Pentru a testa mașinile trebuie să te duci la Dealership, iar acolo vei avea o
 
 <details>
   <summary>Shop</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/bp-shop.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/bp-shop.png" alt="BP">
 </details>
 
 ## Iteme Speciale

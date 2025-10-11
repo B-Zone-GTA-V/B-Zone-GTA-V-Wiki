@@ -23,5 +23,5 @@ Mai jos aveți o lista cu prețurile per zonă. Acest preț este aplicat tatuaje
 
 <details>
   <summary>Tattoo</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/tattoo.gif" alt="Tattoo">
+  <img src="https://assets.b-zone.ro/wiki/tattoo.gif" alt="Tattoo">
 </details>

@@ -26,5 +26,5 @@ Trăsături precum pistruii / mărimea nasului / pomeții etc. NU pot fi modific
 
 <details>
   <summary>Account Creation</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/account-creation.gif" alt="Account Creation">
+  <img src="https://assets.b-zone.ro/wiki/account-creation.gif" alt="Account Creation">
 </details>

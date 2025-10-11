@@ -22,5 +22,5 @@ Pentru o mai rapidă acționare a animațiilor, serverul vă pune la îndemână
 
 <details>
   <summary>Animation interface</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/animations-interface.jpg">
+  <img src="https://assets.b-zone.ro/wiki/animations-interface.jpg">
 </details>

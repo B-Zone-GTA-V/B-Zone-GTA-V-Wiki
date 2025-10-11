@@ -16,5 +16,5 @@ Vă rugăm să consultați regulamentul înainte de a posta un anunț: [click](h
 
 <details>
   <summary>BNN Interface</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/bnn-interface.png" alt="BNN Interface">
+  <img src="https://assets.b-zone.ro/wiki/bnn-interface.png" alt="BNN Interface">
 </details>

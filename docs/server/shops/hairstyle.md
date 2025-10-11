@@ -15,5 +15,5 @@ Frizeriile sunt concepute astfel încât nu poți schimba trăsăturile original
 
 <details>
   <summary>Barber Shop</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/barber.gif" alt="Barber">
+  <img src="https://assets.b-zone.ro/wiki/barber.gif" alt="Barber">
 </details>

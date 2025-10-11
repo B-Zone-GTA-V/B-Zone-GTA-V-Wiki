@@ -39,5 +39,5 @@ Când atingi 10 jucători aduși cu peste 25 ore fiecare vei primi o mașină sp
 
 <details>
   <summary>Referal</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/referal.png" alt="Referal">
+  <img src="https://assets.b-zone.ro/wiki/referal.png" alt="Referal">
 </details>

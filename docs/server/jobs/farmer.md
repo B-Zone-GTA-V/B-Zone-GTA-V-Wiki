@@ -44,7 +44,7 @@ Acest job este împărțit pe mai multe activități, toate disponibile în acea
 
 <details>
   <summary>Fermier</summary>
-  <img src="https://assets.b-zone.ro/images/wiki/farmer-location.png" alt="Farmer">
+  <img src="https://assets.b-zone.ro/wiki/farmer-location.png" alt="Farmer">
 </details>
 
 ## Mulsul Vacilor
@@ -69,57 +69,57 @@ Această activitate constă în colectarea de găini. Puteți face această acti
     </tr>
     <tr>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6000.png" alt="Item 6000"></div></td>
+        <img src="https://assets.b-zone.ro/items/6000.png" alt="Item 6000"></div></td>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6001.png" alt="Item 6001"></div></td>
+        <img src="https://assets.b-zone.ro/items/6001.png" alt="Item 6001"></div></td>
         <td>20min</td>
         <td>40 de ore</td>
     </tr>
     <tr>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6002.png" alt="Item 6002"></div></td>
+        <img src="https://assets.b-zone.ro/items/6002.png" alt="Item 6002"></div></td>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6003.png" alt="Item 6003"></div></td>
+        <img src="https://assets.b-zone.ro/items/6003.png" alt="Item 6003"></div></td>
         <td>30min</td>
         <td>40 de ore</td>
     </tr>
     <tr>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6004.png" alt="Item 6004"></div></td>
+        <img src="https://assets.b-zone.ro/items/6004.png" alt="Item 6004"></div></td>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6005.png" alt="Item 6005"></div></td>
+        <img src="https://assets.b-zone.ro/items/6005.png" alt="Item 6005"></div></td>
         <td>6min</td>
         <td>5 ore</td>
     </tr>
     <tr>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6006.png" alt="Item 6006"></div></td>
+        <img src="https://assets.b-zone.ro/items/6006.png" alt="Item 6006"></div></td>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6007.png" alt="Item 6007"></div></td>
+        <img src="https://assets.b-zone.ro/items/6007.png" alt="Item 6007"></div></td>
         <td>6min</td>
         <td>10 ore</td>
     </tr>
     <tr>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6008.png" alt="Item 6008"></div></td>
+        <img src="https://assets.b-zone.ro/items/6008.png" alt="Item 6008"></div></td>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6009.png" alt="Item 6009"></div></td>
+        <img src="https://assets.b-zone.ro/items/6009.png" alt="Item 6009"></div></td>
         <td>8min</td>
         <td>15 ore</td>
     </tr>
     <tr>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6010.png" alt="Item 6010"></div></td>
+        <img src="https://assets.b-zone.ro/items/6010.png" alt="Item 6010"></div></td>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6011.png" alt="Item 6011"></div></td>
+        <img src="https://assets.b-zone.ro/items/6011.png" alt="Item 6011"></div></td>
         <td>8min</td>
         <td>20 de ore</td>
     </tr>
     <tr>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6012.png" alt="Item 6012"></div></td>
+        <img src="https://assets.b-zone.ro/items/6012.png" alt="Item 6012"></div></td>
         <td><div class="image-row">
-        <img src="https://assets.b-zone.ro/images/items/6013.png" alt="Item 6013"></div></td>
+        <img src="https://assets.b-zone.ro/items/6013.png" alt="Item 6013"></div></td>
         <td>10min</td>
         <td>30 de ore</td>
     </tr>
