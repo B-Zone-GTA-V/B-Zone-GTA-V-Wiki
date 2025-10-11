@@ -51,7 +51,7 @@ Optiunea de <span class="button-p-job">Miner Avansat Fier</span> sau <span class
 
 <details>
   <summary>Miner</summary>
-  <img src="https://v.b-zone.ro/images/wiki/miner.gif" alt="Miner">
+  <img src="https://assets.b-zone.ro/images/wiki/miner.gif" alt="Miner">
 </details>
 
 ## Topitorie / Smelter

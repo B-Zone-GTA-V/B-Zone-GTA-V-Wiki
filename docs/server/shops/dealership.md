@@ -18,5 +18,5 @@ Anumite vehicule pot să fie mai dorite, de aceea există posibilitatea de a ad�
 
 <details>
   <summary>DS</summary>
-  <img src="https://v.b-zone.ro/images/wiki/dealership.gif" alt="DS">
+  <img src="https://assets.b-zone.ro/images/wiki/dealership.gif" alt="DS">
 </details>

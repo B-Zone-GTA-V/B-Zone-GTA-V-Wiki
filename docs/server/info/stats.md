@@ -22,5 +22,5 @@ Stresul crește în urma unor activități intense sau a unor evenimente negativ
 
 <details>
   <summary>Poza cu toti indicatorii de stare</summary>
-  <img src="https://v.b-zone.ro/images/wiki/hud-stats.png" alt="Poza cu toti indicatorii de stare">
+  <img src="https://assets.b-zone.ro/images/wiki/hud-stats.png" alt="Poza cu toti indicatorii de stare">
 </details>

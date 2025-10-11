@@ -12,7 +12,7 @@ Pentru a găsi această locație, puteți folosi minimapa - Market, sau aplicaț
 
 <details>
   <summary>Market</summary>
-  <img src="https://v.b-zone.ro/images/wiki/market.jpg" alt="Market">
+  <img src="https://assets.b-zone.ro/images/wiki/market.jpg" alt="Market">
 </details>
 
 ## Vânzarea de iteme

@@ -77,5 +77,5 @@ Cursa din Los Santos este mai specială deoarece la anumite locații va trebui s
 
 <details>
   <summary>Pilot</summary>
-  <img src="https://v.b-zone.ro/images/wiki/pilot.png" alt="Pilot">
+  <img src="https://assets.b-zone.ro/images/wiki/pilot.png" alt="Pilot">
 </details>

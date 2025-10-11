@@ -50,5 +50,5 @@ Rutele sunt diferite: pentru <span class="button-p-job">Șofer de Autobuz</span>
 
 <details>
   <summary>Bus Driver</summary>
-  <img src="https://v.b-zone.ro/images/wiki/bus-driver.png" alt="Trucker">
+  <img src="https://assets.b-zone.ro/images/wiki/bus-driver.png" alt="Trucker">
 </details>

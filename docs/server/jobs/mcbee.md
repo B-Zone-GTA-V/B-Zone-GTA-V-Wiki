@@ -50,5 +50,5 @@ Prepararea burgerilor este bazată pe un memory game, de fiecare dată o să ave
 
 <details>
   <summary>McBeeDelivery</summary>
-  <img src="https://v.b-zone.ro/images/wiki/mcbeede.gif" alt="McBeeDelivery">
+  <img src="https://assets.b-zone.ro/images/wiki/mcbeede.gif" alt="McBeeDelivery">
 </details>

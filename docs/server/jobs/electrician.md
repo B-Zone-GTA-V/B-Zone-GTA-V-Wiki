@@ -53,5 +53,5 @@ Tura la locul de muncă se încheie atunci când toate panourile electrice neces
 
 <details>
   <summary>Electrician</summary>
-  <img src="https://v.b-zone.ro/images/wiki/electrician.gif" alt="Electrician">
+  <img src="https://assets.b-zone.ro/images/wiki/electrician.gif" alt="Electrician">
 </details>

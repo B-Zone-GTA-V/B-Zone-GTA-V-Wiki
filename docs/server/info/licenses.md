@@ -34,7 +34,7 @@ Licența de port-armă și cea de tractări poate să fie primită doar de la po
 
 <details>
   <summary>Buy Licenses</summary>
-  <img src="https://v.b-zone.ro/images/wiki/buy-license.png" alt="Car Tuning Centers">
+  <img src="https://assets.b-zone.ro/images/wiki/buy-license.png" alt="Car Tuning Centers">
 </details>
 
 ## Documente

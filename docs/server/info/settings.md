@@ -26,5 +26,5 @@ Fiecare tastă rapidă poate să fie schimbată prin accesarea comenzii [/settin
 
 <details>
   <summary>Settings</summary>
-  <img src="https://v.b-zone.ro/images/wiki/key-bind-settings.png" alt="Inventory">
+  <img src="https://assets.b-zone.ro/images/wiki/key-bind-settings.png" alt="Inventory">
 </details>
