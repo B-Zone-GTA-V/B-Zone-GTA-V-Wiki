@@ -52,7 +52,7 @@ Din această locație veți putea începe BattlePass-ul sau veți putea interac�
 
 <details>
   <summary>Locație</summary>
-  <img src="https://v.b-zone.ro/images/wiki/autumn-location.jpeg" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/autumn-location.jpeg" alt="BP">
 </details>
 
 ## BattlePass Sezonul 6
@@ -67,7 +67,7 @@ De precizat că acest Item nu poate fi furat de pe voi, iar în caz de PlayerKil
 
 <details>
   <summary>BattlePass</summary>
-  <img src="https://v.b-zone.ro/images/wiki/bp.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/bp.png" alt="BP">
 </details>
 
 ## Final

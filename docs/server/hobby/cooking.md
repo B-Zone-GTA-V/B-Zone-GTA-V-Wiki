@@ -52,7 +52,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1016.png" alt="Item 1016">
+          <img src="https://assets.b-zone.ro/items/1016.png" alt="Item 1016">
         </div>
       </td>
       <td>10%</td>
@@ -64,7 +64,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1028.png" alt="Item 1028">
+          <img src="https://assets.b-zone.ro/items/1028.png" alt="Item 1028">
         </div>
       </td>
       <td>5%</td>
@@ -76,7 +76,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1029.png" alt="Item 1029">
+          <img src="https://assets.b-zone.ro/items/1029.png" alt="Item 1029">
         </div>
       </td>
       <td>5%</td>
@@ -88,7 +88,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1031.png" alt="Item 1031">
+          <img src="https://assets.b-zone.ro/items/1031.png" alt="Item 1031">
         </div>
       </td>
       <td>5%</td>
@@ -100,7 +100,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1030.png" alt="Item 1030">
+          <img src="https://assets.b-zone.ro/items/1030.png" alt="Item 1030">
         </div>
       </td>
       <td>5%</td>
@@ -112,7 +112,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1032.png" alt="Item 1032">
+          <img src="https://assets.b-zone.ro/items/1032.png" alt="Item 1032">
         </div>
       </td>
       <td>5%</td>
@@ -124,7 +124,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1017.png" alt="Item 1017">
+          <img src="https://assets.b-zone.ro/items/1017.png" alt="Item 1017">
         </div>
       </td>
       <td>20%</td>
@@ -136,7 +136,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1018.png" alt="Item 1018">
+          <img src="https://assets.b-zone.ro/items/1018.png" alt="Item 1018">
         </div>
       </td>
       <td>5%</td>
@@ -148,7 +148,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1019.png" alt="Item 1019">
+          <img src="https://assets.b-zone.ro/items/1019.png" alt="Item 1019">
         </div>
       </td>
       <td>30%</td>
@@ -160,7 +160,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1020.png" alt="Item 1020">
+          <img src="https://assets.b-zone.ro/items/1020.png" alt="Item 1020">
         </div>
       </td>
       <td>25%</td>
@@ -172,7 +172,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1033.png" alt="Item 1033">
+          <img src="https://assets.b-zone.ro/items/1033.png" alt="Item 1033">
         </div>
       </td>
       <td>6%</td>
@@ -184,7 +184,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1021.png" alt="Item 1021">
+          <img src="https://assets.b-zone.ro/items/1021.png" alt="Item 1021">
         </div>
       </td>
       <td>40%</td>
@@ -196,7 +196,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1022.png" alt="Item 1022">
+          <img src="https://assets.b-zone.ro/items/1022.png" alt="Item 1022">
         </div>
       </td>
       <td>35%</td>
@@ -208,7 +208,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1023.png" alt="Item 1023">
+          <img src="https://assets.b-zone.ro/items/1023.png" alt="Item 1023">
         </div>
       </td>
       <td>50%</td>
@@ -220,7 +220,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1024.png" alt="Item 1024">
+          <img src="https://assets.b-zone.ro/items/1024.png" alt="Item 1024">
         </div>
       </td>
       <td>70%</td>
@@ -232,7 +232,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1025.png" alt="Item 1025">
+          <img src="https://assets.b-zone.ro/items/1025.png" alt="Item 1025">
         </div>
       </td>
       <td>70%</td>
@@ -244,7 +244,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1026.png" alt="Item 1026">
+          <img src="https://assets.b-zone.ro/items/1026.png" alt="Item 1026">
         </div>
       </td>
       <td>100%</td>
@@ -256,7 +256,7 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
     <tr>
       <td>
         <div class="image-row">
-          <img src="https://v.b-zone.ro/images/items/1027.png" alt="Item 1027">
+          <img src="https://assets.b-zone.ro/items/1027.png" alt="Item 1027">
         </div>
       </td>
       <td>100%</td>
@@ -270,5 +270,5 @@ Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare. Pentr
 
 <details>
   <summary>Bucătar</summary>
-  <img src="https://v.b-zone.ro/images/wiki/cooking.jpg" alt="Cooking">
+  <img src="https://assets.b-zone.ro/wiki/cooking.jpg" alt="Cooking">
 </details>

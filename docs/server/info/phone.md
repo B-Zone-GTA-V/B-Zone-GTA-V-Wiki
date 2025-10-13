@@ -31,5 +31,5 @@ Telefonul vine cu mai multe aplicații folosite după cum urmează:
 
 <details>
   <summary>Phone</summary>
-  <img src="https://v.b-zone.ro/images/wiki/phone.png" alt="Phone">
+  <img src="https://assets.b-zone.ro/wiki/phone.png" alt="Phone">
 </details>

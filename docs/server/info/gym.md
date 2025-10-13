@@ -20,5 +20,5 @@ Clarificare Max KG: 5kg (buzunarele) + 40kg (cel mai bun backpack) + 20kg (sala)
 
 <details>
   <summary>Gym</summary>
-  <img src="https://v.b-zone.ro/images/wiki/gym.png" alt="Gym">
+  <img src="https://assets.b-zone.ro/wiki/gym.png" alt="Gym">
 </details>

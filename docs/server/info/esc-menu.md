@@ -18,5 +18,5 @@ Meniul de ESC conține multe informații esențiale pentru jucător.
 
 <details>
   <summary>ESC Menu</summary>
-  <img src="https://v.b-zone.ro/images/wiki/esc-menu.png" alt="ESC">
+  <img src="https://assets.b-zone.ro/wiki/esc-menu.png" alt="ESC">
 </details>

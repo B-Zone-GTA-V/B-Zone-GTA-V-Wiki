@@ -14,7 +14,7 @@ Pentru joburile ilegale și activitățile aferente nu veți primi un Waypoint, 
 
 <details>
   <summary>Jobs Interface</summary>
-  <img src="https://v.b-zone.ro/images/wiki/jobs-interface.gif" alt="Jobs Interface">
+  <img src="https://assets.b-zone.ro/wiki/jobs-interface.gif" alt="Jobs Interface">
 </details>
 
 ## Aplicații la Joburi
@@ -37,5 +37,5 @@ Fiecare loc de muncă afișează informații despre modul de lucru și despre cu
 
 <details>
   <summary>Job Application system</summary>
-  <img src="https://v.b-zone.ro/images/wiki/jobs-application.gif" alt="Job Application system">
+  <img src="https://assets.b-zone.ro/wiki/jobs-application.gif" alt="Job Application system">
 </details>

@@ -14,5 +14,5 @@ La acumularea a 4 amenzi neplătite nu o să mai puteți lucra legal (la joburil
 
 <details>
   <summary>Fines payment</summary>
-  <img src="https://v.b-zone.ro/images/wiki/pay-fines.gif" alt="Fines payment">
+  <img src="https://assets.b-zone.ro/wiki/pay-fines.gif" alt="Fines payment">
 </details>
