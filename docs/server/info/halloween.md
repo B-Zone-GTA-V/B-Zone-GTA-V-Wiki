@@ -11,7 +11,7 @@ outline: deep
 
 ## 📋 Introducere
 
-De la **XX Octombrie** până la **YY Noiembrie**, atmosfera se transformă într-una plină de mister, dovleci înfricoșători și surprize de sezon. 
+De la **21 Octombrie** până la **30 Noiembrie**, atmosfera se transformă într-una plină de mister, dovleci înfricoșători și surprize de sezon. 
 
 Pregătește-te să intri în spiritul Halloween-ului cu evenimente speciale și activități tematice!
 
@@ -24,7 +24,7 @@ Pregătește-te să intri în spiritul Halloween-ului cu evenimente speciale și
     </tr>
     <tr>
         <td>Cât ține evenimentul?</td>
-        <td>Începând cu XX Octombrie până pe YY Noiembrie</td>
+        <td>Începând cu 21 Octombrie până pe 30 Noiembrie</td>
     </tr>
       <tr>
         <td>Cât costă ticketul de BattlePass?</td>
