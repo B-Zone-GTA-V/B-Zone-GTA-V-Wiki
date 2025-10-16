@@ -6,7 +6,7 @@ outline: deep
 
 ## Introducere
 
-În prezent sunt prezente 8 tipuri de cutii: **Paște 2024**, **Halloween 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu**, **B8pe**, **B8pe Fire** & **B8pe Ice**.
+În prezent sunt prezente 10 tipuri de cutii: **Paște 2024**, **Halloween 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu**, **B8pe**, **B8pe Fire**, **B8pe Ice**, **Harrowing** & **Screaming**.
 <br/>
 Aceste cutii se pot achiziționa din joc prin intermediul Shop-ului. Puteți achiziționa cutii pentru ambele sexe (Masculin sau Feminin), item-ul primit fiind pentru sexul specific.
 
@@ -143,4 +143,36 @@ Haine disponibile pentru cutia B8pe Ice.
 <details>
   <summary>Haine Cutie B8pe Ice - Feminin</summary>
   <img src="https://assets.b-zone.ro/wiki/b8pe_ice_f.gif" alt="Clothing Cases">
+</details>
+
+### Cutie Harrowing
+
+Haine disponibile pentru cutia Harrowing.
+
+<details>
+  <summary>Haine Cutie Harrowing - Masculin</summary>
+  <img src="https://assets.b-zone.ro/wiki/harrowing_m.gif" alt="Clothing Cases">
+</details>
+
+Haine disponibile pentru cutia Harrowing.
+
+<details>
+  <summary>Haine Cutie Harrowing - Feminin</summary>
+  <img src="https://assets.b-zone.ro/wiki/harrowing_f.gif" alt="Clothing Cases">
+</details>
+
+### Cutie Screaming
+
+Haine disponibile pentru cutia Screaming.
+
+<details>
+  <summary>Haine Cutie Screaming - Masculin</summary>
+  <img src="https://assets.b-zone.ro/wiki/screaming_m.gif" alt="Clothing Cases">
+</details>
+
+Haine disponibile pentru cutia Screaming.
+
+<details>
+  <summary>Haine Cutie Screaming - Feminin</summary>
+  <img src="https://assets.b-zone.ro/wiki/screaming_f.gif" alt="Clothing Cases">
 </details>
