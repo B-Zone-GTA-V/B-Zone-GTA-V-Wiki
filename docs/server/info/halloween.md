@@ -58,8 +58,7 @@ Pentru a începe BattlePass-ul trebuie să vorbiți cu NPC-ul de pe plaja Los Sa
 
 <details>
   <summary>Locație Start BattlePass</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/hallowen-bp-location.png" alt="BP"> -->
-  <img src="https://i.imgur.com/95aHKad.jpeg" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/hallowen-bp-location.png" alt="BP">
 </details>
 
 ### Abisul
@@ -68,16 +67,14 @@ Pentru a interacționa cu NPC-ul de Eveniment trebuie să mergeți la **Cimitiru
 
 <details>
   <summary>Locație Evenimente</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/halloween-location.jpeg" alt="BP"> -->
-    <img src="https://i.imgur.com/Mo5QHiN.jpeg" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/halloween-location.jpeg" alt="BP">
 </details>
 
 Pentru locația exactă folosiți aplicația din telefon **GPS** -> **Halloween**.
 
 <details>
   <summary>Abisul</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/abisul.png" alt="BP"> -->
-    <img src="https://i.imgur.com/lr1pa2W.jpeg" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/abisul.png" alt="BP">
 </details>
 
 ## 🎫 BattlePass Sezonul 7
@@ -94,8 +91,7 @@ Din acest sezon, jucătorii care au folosit Ticketul de BattlePass vor avea un b
 
 <details>
   <summary>BattlePass</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/bp.png" alt="BP"> -->
-  <img src="https://i.imgur.com/z7GRbCz.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/bp.png" alt="BP">
 </details>
 
 ## 🎃 Questuri Disponibile
@@ -112,8 +108,7 @@ Acest quest poate fi realizat doar **individual**!
 
 <details>
   <summary>Dovleci</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/pumpkin.png" alt="BP"> -->
-  <img src="https://i.imgur.com/SDhBOrR.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/pumpkin.png" alt="BP">
 </details>
 
 ### Săpatul de morminte
@@ -130,8 +125,7 @@ Acest quest se poate desfășura doar **individual**!
 
 <details>
   <summary>Săpatul de morminte</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/digging-up.png" alt="BP"> -->
-  <img src="https://i.imgur.com/iEMpxhc.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/digging-up.png" alt="BP">
 </details>
 
 ### Trick or Treat
@@ -148,8 +142,7 @@ cest quest se poate desfășura atât **individual**, cât și în **echipă de 
 
 <details>
   <summary>Trick or Treat</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/trick-or-treat.png" alt="BP"> -->
-  <img src="https://i.imgur.com/FjXZkBa.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/trick-or-treat.png" alt="BP">
 </details>
 
 ## 🛍️ Shop-ul Exclusiv
@@ -168,8 +161,7 @@ Pentru a vizualiza și testa vehiculele din shop, mergeți la **Dealership**, un
 
 <details>
   <summary>Shop</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/shop.png" alt="BP"> -->
-  <img src="https://i.imgur.com/Gsyyi36.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/shop.png" alt="BP">
 </details>
 
 ## 🎃 Concurs Halloween
@@ -184,8 +176,7 @@ La NPC-ul de eveniment puteți urmări în timp real clasamentul, iar la finalul
 
 <details>
   <summary>Concurs Halloween</summary>
-  <!-- <img src="https://assets.b-zone.ro/wiki/halloween-contest.png" alt="BP"> -->
-  <img src="https://i.imgur.com/hGqD4Ht.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/halloween-contest.png" alt="BP">
 </details>
 
 ## Final
