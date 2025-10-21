@@ -157,7 +157,7 @@ Acesta are două categorii: **Cutii de haine** și **mașini exclusive**.
 
 Pentru a vedea ce obiecte vestimentare se află în cutiile **Harrowing** sau **Screaming**, accesați [pagina de Wiki](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/info/clothing-case.html).
 
-Pentru a vizualiza și testa vehiculele din shop, mergeți la **Dealership**, unde veți găsi categoria **Event**.
+Pentru a vizualiza și testa vehiculele din shop, mergeți la **Dealership** (la **Cosmin Samsarul**), unde veți găsi categoria **Event**.
 
 <details>
   <summary>Shop</summary>
