@@ -35,7 +35,7 @@ Pregătește-te să intri în spiritul Halloween-ului cu evenimente speciale și
         <td>Vei putea colecționa premiile de la secțiunea Premium din cadrul BattlePass-ului curent și vei avea un bonus de 10% Experiență pentru fiecare activitate.</td>
     </tr>
     <tr>
-        <td>Ce avantaje am dacă dețin VIP Diamond pe perioada BattlePass-ului?</td>
+        <td>Ce avantaje am dacă dețin Cont Premium pe perioada BattlePass-ului?</td>
         <td>Vei primi un bonus de 10% Experiență pentru fiecare activitate.</td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ De acum ca să colectați premiile de pe rândul de **Premium** veți avea nevoi
 
 De precizat că acest Item nu poate fi furat de pe voi, iar în caz de PlayerKill nu îl veți pierde!
 
-Din acest sezon, jucătorii care au folosit Ticketul de BattlePass vor avea un bonus de **10% Experiență** per activitate completată, iar cei care dețin și **VIP Diamond** vor avea încă un bonus de **10% Experiență**.
+Din acest sezon, jucătorii care au folosit Ticketul de BattlePass vor avea un bonus de **10% Experiență** per activitate completată, iar cei care dețin și **Cont Premium** vor avea încă un bonus de **10% Experiență**.
 
 <details>
   <summary>BattlePass</summary>
