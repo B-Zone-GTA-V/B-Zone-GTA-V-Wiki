@@ -67,7 +67,7 @@ Pentru a interacționa cu NPC-ul de Eveniment trebuie să mergeți la **Cimitiru
 
 <details>
   <summary>Locație Evenimente</summary>
-  <img src="https://assets.b-zone.ro/wiki/halloween-location.jpeg" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/halloween-location.jpg" alt="BP">
 </details>
 
 Pentru locația exactă folosiți aplicația din telefon **GPS** -> **Halloween**.
