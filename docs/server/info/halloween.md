@@ -130,8 +130,6 @@ Acest quest se poate desfășura doar **individual**!
 
 ### Trick or Treat
 
-Acest quest are o limită de completare: jucătorii îl pot realiza o dată la fiecare **o oră și jumătate**!
-
 Pentru acest quest puteți forma o echipă prin aplicația **Teams** din telefon, adaptată special pentru a permite grupuri și în afara joburilor care implică muncă în echipă.
 
 Dacă doriți să faceți questul în echipă, aceasta trebuie creată în aplicația **Teams** înainte de începerea activității.
