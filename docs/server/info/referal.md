@@ -22,7 +22,7 @@ Jucătorul care introduce un cod de referal are următoarele beneficii în func�
     </tr>
     <tr>
         <td>10 ore</td>
-        <td>Mașină specială Bizon W3 46E + VIP Diamond 3 zile</td>
+        <td>Mașină specială Bizon W3 46E + Cont Premium 3 zile</td>
     </tr>
     <tr>
         <td>25 ore</td>
