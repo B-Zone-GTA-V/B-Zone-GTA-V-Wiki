@@ -1048,7 +1048,7 @@ Ban 7-14 zile în funcție de gravitate
 
 - Este <strong style="color: green">PERMIS</strong> unui membru al unei mafii cu grad să intervină doar pentru un alt membru din <strong style="color: green">propria</strong> mafie, în acțiunile cu poliția, dar nu prin implicarea altor civili.
 - Este <strong style="color: green">PERMIS</strong> să acționati civil/mafiot pentru civil/mafiot în acțiunile cu jefuitorii.
-- Este <strong style="color: green">PERMIS</strong> să dați trusă doar membrilor din <strong style="color: green">propria</strong> mafie.
+- Este <strong style="color: green">PERMIS</strong> să dați trusă doar membrilor din <strong style="color: green">propria</strong> mafie sau celor implicați la aceeași acțiune de la început (ex. jaf bancar).
 
 <span style="color: yellowgreen">Exceptii:</span>
 - Pe insula Cayo nu se aplică regula 7.7 Intervenții civil/mafiot pentru civil/mafiot.
@@ -1234,7 +1234,7 @@ Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, câ
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 #### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banci</span>
-Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6 și maxim 25 cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări, dar fără a depăși limita de maximul de oameni 25.
+Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6 și maxim 25 cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări fără a depăși limita de maximul de oameni 25, <strong style="color: red">DOAR</strong> cu acordul sindicatului în baza unui RP de aliere.
 
 După ce alarma se declanșează, proximitatea băncii devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi banca pot fi omorâți.
 
