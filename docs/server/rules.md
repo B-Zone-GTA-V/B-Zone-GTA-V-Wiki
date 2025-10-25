@@ -290,6 +290,8 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
 - Blocarea căii de acces la un jaf la magazin
 - Intrarea într-o casă în timp ce fugi de la o bătaie, ești urmărit și închizi ușa
 - Generarea unui accident auto cu scopul de a jefui o persoană
+- Urcarea într-un vehicul folosit de un jucător fără consimțământul acestuia
+- Plasarea sau ascunderea unei persoane într-un vehicul împrumutat de la un alt jucător fără acordul acestuia, în scopul comiterii de infracțiuni (ex: jaf, atac etc.)
 - Jefuirea, omorârea sau interacțiunea cu persoanele care dorm în case
 - Este interzisă utilizarea unui voice changer fără o mască adecvată sau a unei măști care nu dispune de spațiul necesar pentru integrarea unui dispozitiv de modificare a vocii.
 - Folosirea tazerului prin geamul sau texturile unei mașini.
@@ -979,6 +981,8 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 
 <span style="color: green">Mențiuni și excepții:</span>
 - zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
+- este permis să pui arma la burtă/cap în vehiculele cu geamuri fumurii <strong style="color: red">(full negre, inclusiv parbrizul)</strong>, chiar și în zonele publice. Atenție: acțiunea de jaf trebuie continuată doar într-o zonă roșie sau gri.
+În restul zonelor, punerea armei la burtă/cap este permisă indiferent dacă vehiculul are sau nu geamuri fumurii.
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic (În situațiile cu poliția)</span>
@@ -1174,6 +1178,8 @@ Este <span style="color: red">interzis</span>:
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
+- este interzis să jefuiți o persoană cu care ați format o echipă pentru un job, quest sau orice altă activitate.
+(dacă echipa a fost formată fără un motiv concret, această regulă nu se aplică.)
 - jefuirea aceluiasi individ intr-un interval mai mic de 2 ore (Persoanele care au fost jefuite nu au voie sa abuzeze de această regula și trebuie să ruleze în continuare frica de jefuire)
 
 <span style="color: red">Sancțiuni:</span>
