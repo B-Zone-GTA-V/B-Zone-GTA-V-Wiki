@@ -20,3 +20,9 @@ Anumite vehicule pot să fie mai dorite, de aceea există posibilitatea de a ad�
   <summary>DS</summary>
   <img src="https://assets.b-zone.ro/wiki/dealership.gif" alt="DS">
 </details>
+
+## Lista clase vehicule
+
+Mai jos aveți un link către un fișier Excel unde sunt trecute toate vehiculele și clasa din care fac parte.
+<br/>
+<a href="https://docs.google.com/spreadsheets/d/1U6xoWYHBMLNIdsjJRcLP8hy9h0QZeb9Y3VQl7V2E06o/edit?gid=0#gid=0" target="_blank">Click pentru document</a>
