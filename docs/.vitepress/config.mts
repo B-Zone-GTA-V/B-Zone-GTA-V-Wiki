@@ -56,7 +56,7 @@ export default defineConfig({
               { text: 'Cărți', link: '/server/info/books' },
               { text: 'Poker', link: '/server/info/poker' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
-              { text: 'Wheel Of Fortune', link: '/server/info/wheel_of_fortune' },
+              { text: 'Roata Norocului', link: '/server/info/wheel_of_fortune' },
               { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
             ]
           },

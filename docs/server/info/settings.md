@@ -4,7 +4,7 @@ outline: deep
 
 # Setări / Settings
 
-## Setări și taste rapide / Settings & Hotkeys
+## Setări și taste rapide
 
 Comunitatea B-Zone vine cu setări predefinite pentru majoritatea acțiunilor de pe server, dar și cu posibilitatea de a schimba setările, cât și elemente din HUD după bunul plac al fiecăruia.
 
@@ -25,6 +25,6 @@ Pe server există opțiunea de a afișa un compass, care ajută la oferirea deta
 Fiecare tastă rapidă poate să fie schimbată prin accesarea comenzii [/settings] în chat, urmând să selecteze categoria "Taste".
 
 <details>
-  <summary>Settings</summary>
+  <summary>Setări</summary>
   <img src="https://assets.b-zone.ro/wiki/key-bind-settings.png" alt="Inventory">
 </details>

@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Inventar și rucsac / Inventory & Backpack
+# Inventar și rucsac
 
 ## Introducere
 
@@ -27,6 +27,6 @@ Există posibilitatea și de sloturi rapide folosind key-urile de la **0**, **4*
 
 
 <details>
-  <summary>Inventory</summary>
+  <summary>Inventar</summary>
   <img src="https://assets.b-zone.ro/wiki/inventory.png" alt="Inventory">
 </details>

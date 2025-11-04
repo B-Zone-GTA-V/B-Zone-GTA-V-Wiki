@@ -19,6 +19,6 @@ NOTA 2: Pierderea contului Premium nu vă va elimina kilogramele extra, dar nu v
 Clarificare Max KG: 5kg (buzunarele) + 40kg (cel mai bun backpack) + 20kg (sala) + 10kg (Cont Premium) = 75kg
 
 <details>
-  <summary>Gym</summary>
+  <summary>Sală</summary>
   <img src="https://assets.b-zone.ro/wiki/gym.png" alt="Gym">
 </details>

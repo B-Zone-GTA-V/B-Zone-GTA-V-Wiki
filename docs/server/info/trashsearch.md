@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Căutarea in gunoi / Search in the trash
+# Căutarea in gunoaie
 
 ## Introducere
 
@@ -11,6 +11,6 @@ Pe serverul nostru, se oferă posibilitatea de a efectua căutări în container
 Este important de menționat că două sau mai multe persoane nu pot desfășura activități de căutare în același container simultan. După cautare, respectivul container va deveni inaccesibil pentru o perioadă de 10 minute (cosul de gunoi va fi gol).
 
 <details>
-  <summary>Search in the trash bin</summary>
+  <summary>Căutarea în gunoi</summary>
   <img src="https://assets.b-zone.ro/wiki/trash-bin-search.gif" alt="Search in the trash bin">
 </details>

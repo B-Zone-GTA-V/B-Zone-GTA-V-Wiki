@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Sistemul de garaje / Garage System
+# Sistemul de garaje
 
 ## Introducere
 

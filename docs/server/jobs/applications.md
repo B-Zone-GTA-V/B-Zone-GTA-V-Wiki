@@ -13,8 +13,8 @@ Dacă apăsați CLICK pe un job legal veți primi un Waypoint către locația ac
 Pentru joburile ilegale și activitățile aferente nu veți primi un Waypoint, acestea trebuind să le descoperiți IC.
 
 <details>
-  <summary>Jobs Interface</summary>
-  <img src="https://assets.b-zone.ro/wiki/jobs-interface.gif" alt="Jobs Interface">
+  <summary>Interfață Joburi</summary>
+  <img src="https://assets.b-zone.ro/wiki/jobs-interface.png" alt="Jobs Interface">
 </details>
 
 ## Aplicații la Joburi
@@ -30,12 +30,14 @@ Locurile de muncă disponibile pe server sunt:
 - [Trucker](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/trucker.html) - valabil în Los Santos
 - [Șofer De Autobuz / Bus Driver](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/bus_driver.html) - valabil în Los Santos
 - [GoPostal](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/gopostal.html) - valabil în Los Santos
+- [Fermier](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/farmer.html) - valabil în Grapeseed
+- [Pilot](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/pilot.html) - valabil pe toate aeroporturile
 
 Pentru fiecare dintre locurile de muncă specificate mai sus, aveți nevoie de un <span class="button-p-job">permis de conducere</span> valabil pentru a vă putea angaja.
 
-Fiecare loc de muncă afișează informații despre modul de lucru și despre cum sunteți plătit. Aceste informații pot fi vizualizate înainte de a începe tura, accesând <span class="button-p-job">butonul din dreapta sus -> numit "Informații"</span>.
+Fiecare loc de muncă afișează informații despre modul de lucru și despre cum sunteți plătit.
 
 <details>
-  <summary>Job Application system</summary>
-  <img src="https://assets.b-zone.ro/wiki/jobs-application.gif" alt="Job Application system">
+  <summary>Aplicare Job</summary>
+  <img src="https://assets.b-zone.ro/wiki/jobs-application.png" alt="Job Application system">
 </details>

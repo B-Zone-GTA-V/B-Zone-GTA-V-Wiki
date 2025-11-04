@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Frizerii / Barber Shop
+# Frizerii
 
 ## Introducere
 

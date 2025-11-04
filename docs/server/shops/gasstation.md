@@ -11,6 +11,6 @@ Benzinăriile sunt folosite pentru a adăuga combustibil; în acest sens, pe ser
 Canistrele de benzină ocupă un spațiu generic de 2 kg, având o capacitate de 20 de litri, iar greutatea finală ajunge la 20 kg.
 
 <details>
-  <summary>Gas Station</summary>
+  <summary>Benzinărie</summary>
   <img src="https://assets.b-zone.ro/wiki/gas-station.gif" alt="Gas">
 </details>
