@@ -3,6 +3,11 @@ outline: deep
 ---
 
 # Lumberjack
+<<<<<<< HEAD
+=======
+
+## Introducere
+>>>>>>> e09a4f86b1c5151023e9e93b92615a054a0fbe53
 
 ## Introducere
 
