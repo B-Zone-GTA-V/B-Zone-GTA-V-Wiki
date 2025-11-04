@@ -93,16 +93,6 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Activități',
-            collapsed: true,
-            items: [
-              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
-              { text: 'Cărți', link: '/server/info/books' },
-              { text: 'Sală', link: '/server/info/gym' },
-              { text: 'Plătirea amenzilor', link: '/server/info/fines' },
-            ]
-          },
-          {
             text: 'Magazine',
             collapsed: true,
             items: [

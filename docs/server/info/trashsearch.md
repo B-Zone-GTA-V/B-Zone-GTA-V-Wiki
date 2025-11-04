@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Căutarea in gunoaie
+# Căutarea in tomberoane
 
 ## Introducere
 
