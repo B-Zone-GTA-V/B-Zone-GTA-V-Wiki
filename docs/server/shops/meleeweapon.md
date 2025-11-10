@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Magazinul de Arme albe / White Weapons Shop
+# Magazinul de Arme albe
 
 ## Introducere
 

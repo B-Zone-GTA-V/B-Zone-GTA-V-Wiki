@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Sistemul de animații / Animation System
+# Sistemul de animații
 
 ## Introducere
 
@@ -21,6 +21,6 @@ Pentru o mai rapidă acționare a animațiilor, serverul vă pune la îndemână
 - Animațiile pot să fie întrerupte folosind comanda [/c] în chat.
 
 <details>
-  <summary>Animation interface</summary>
+  <summary>Interfață animații</summary>
   <img src="https://assets.b-zone.ro/wiki/animations-interface.jpg">
 </details>

@@ -15,6 +15,6 @@ Locația publicării unui anunț se găsește pe hartă sau în aplicația de GP
 Vă rugăm să consultați regulamentul înainte de a posta un anunț: [click](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/rules.html#cap-10-bnn-b-zone-network-news).
 
 <details>
-  <summary>BNN Interface</summary>
+  <summary>BNN</summary>
   <img src="https://assets.b-zone.ro/wiki/bnn-interface.png" alt="BNN Interface">
 </details>

@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Clothing Store / Magazin de Haine
+# Magazin de Haine
 
 ## Magazin de haine normal
 
@@ -16,7 +16,7 @@ Pentru a cumpăra o haină, jucătorul trebuie să exploreze hainele disponibile
 
 
 <details>
-  <summary>Clothing Store</summary>
+  <summary>Magazin Haine</summary>
   <img src="https://assets.b-zone.ro/wiki/normal-clothing-store.gif" alt="Clothing Store">
 </details>
 

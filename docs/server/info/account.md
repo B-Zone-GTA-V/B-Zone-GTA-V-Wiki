@@ -25,6 +25,6 @@ Un singur personaj este valabil per cont, prin urmare, asigurați-vă că invest
 Trăsături precum pistruii / mărimea nasului / pomeții etc. NU pot fi modificate după ce personajul a fost finalizat!
 
 <details>
-  <summary>Account Creation</summary>
+  <summary>Creare Caracter</summary>
   <img src="https://assets.b-zone.ro/wiki/account-creation.gif" alt="Account Creation">
 </details>
