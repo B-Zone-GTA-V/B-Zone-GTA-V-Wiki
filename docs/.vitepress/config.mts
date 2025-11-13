@@ -85,6 +85,7 @@ export default defineConfig({
               { text: 'ATM', link: '/server/info/atm' },
               { text: 'Licențe', link: '/server/info/licenses' },
               { text: 'Telefon', link: '/server/info/phone' },
+              { text: 'Tabletă', link: '/server/info/tablet' },
               { text: 'Garaje', link: '/server/info/garage' },
               { text: 'Animații', link: '/server/info/animation' },
               { text: 'Meniu ESC', link: '/server/info/esc-menu' },
