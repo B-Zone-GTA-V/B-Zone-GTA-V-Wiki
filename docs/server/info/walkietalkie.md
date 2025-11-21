@@ -13,13 +13,13 @@ Pentru a accesa un canal dorit, apasă pe locația unde îți este afișat textu
 În cazul în care dorești să părăsești frecvența pe care ești, apasă pe butonul marcat mai jos în poză (vezi la varianta din engleză).
 
 <details>
-  <summary>Reset frequency button</summary>
+  <summary>Buton resetare frecvență</summary>
   <img src="https://assets.b-zone.ro/wiki/reset-frequency-button.png" alt="Reset frequency button">
 </details>
 
 <br/>
 
 <details>
-  <summary>Set frequency</summary>
+  <summary>Setează frecvența</summary>
   <img src="https://assets.b-zone.ro/wiki/set-frequency.gif" alt="Set frequency">
 </details>

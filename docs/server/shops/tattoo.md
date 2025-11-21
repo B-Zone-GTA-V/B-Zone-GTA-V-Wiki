@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Tatuaje / Tattoo
+# Tatuaje
 
 ## Introducere
 

@@ -56,8 +56,9 @@ export default defineConfig({
               { text: 'Cărți', link: '/server/info/books' },
               { text: 'Poker', link: '/server/info/poker' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
-              { text: 'Wheel Of Fortune', link: '/server/info/wheel_of_fortune' },
-              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
+              { text: 'Roata Norocului', link: '/server/info/wheel_of_fortune' },
+              { text: 'Culegător de Ciuperci', link: '/server/info/mushrooms' },
+              { text: 'Căutatul în tomberoane', link: '/server/info/trashsearch' },
             ]
           },
           { 
@@ -84,6 +85,7 @@ export default defineConfig({
               { text: 'ATM', link: '/server/info/atm' },
               { text: 'Licențe', link: '/server/info/licenses' },
               { text: 'Telefon', link: '/server/info/phone' },
+              { text: 'Tabletă', link: '/server/info/tablet' },
               { text: 'Garaje', link: '/server/info/garage' },
               { text: 'Animații', link: '/server/info/animation' },
               { text: 'Meniu ESC', link: '/server/info/esc-menu' },

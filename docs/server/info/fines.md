@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Plata amenzilor / Paying Fines
+# Plata amenzilor
 
 ## Introducere
 
@@ -13,6 +13,6 @@ Pentru a vedea lista completă a amenzilor înregistrate pe numele vostru, trebu
 La acumularea a 4 amenzi neplătite nu o să mai puteți lucra legal (la joburile marcate pe GPS) de aceea este important ca mereu să aveți amenzile plătite. Dacă totuși nu doriți să vă plătiți amenzile, trebuie să luați în considerare că oportunitățile de a vă angaja în facțiunile guvernamentale (poliție, medici & mecanici) pot scădea.
 
 <details>
-  <summary>Fines payment</summary>
-  <img src="https://assets.b-zone.ro/wiki/pay-fines.gif" alt="Fines payment">
+  <summary>Plătire amenzi</summary>
+  <img src="https://assets.b-zone.ro/wiki/pay-fines.png" alt="Fines payment">
 </details>

@@ -19,6 +19,6 @@ Tematica roții diferă de la sezon la sezon, iar mașina dată ca premiu este s
 
 
 <details>
-  <summary>Wheel of Fortune</summary>
+  <summary>Roata Norocului</summary>
   <img src="https://assets.b-zone.ro/wiki/wheel-of-fortune.png" alt="WOF">
 </details>
