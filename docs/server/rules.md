@@ -1253,7 +1253,7 @@ Cel care începe jaful are nevoie de minim 500 ore.
 
 După terminarea jafului și neutralizarea zonei, poliția va trebui să închidă sistemele de siguranță ale băncii.
 
-Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Nu se permite spargerea roților mașinilor parcate. Aceaste acțiuni pot conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
+Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. În mod evident nici crearea de ziduri din mașini sau orice alta modalitate de a limita accesul/căile de intrare în bancă nu este permisă. Nu se permite spargerea roților mașinilor parcate. Aceaste acțiuni pot conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatare: 20-40 minute Jail
