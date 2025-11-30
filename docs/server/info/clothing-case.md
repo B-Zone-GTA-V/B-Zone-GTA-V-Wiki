@@ -176,3 +176,19 @@ Haine disponibile pentru cutia Screaming.
   <summary>Haine Cutie Screaming - Feminin</summary>
   <img src="https://assets.b-zone.ro/wiki/screaming_f.png" alt="Clothing Cases">
 </details>
+
+### Cutie Crăciun 2025
+
+Haine disponibile pentru cutia Crăciun 2025.
+
+<details>
+  <summary>Haine Cutie Crăciun 2025 - Masculin</summary>
+  <img src="https://assets.b-zone.ro/wiki/christmas_2025_m.png" alt="Clothing Cases">
+</details>
+
+Haine disponibile pentru cutia Crăciun 2025.
+
+<details>
+  <summary>Haine Cutie Crăciun 2025 - Feminin</summary>
+  <img src="https://assets.b-zone.ro/wiki/christmas_2025_f.png" alt="Clothing Cases">
+</details>
