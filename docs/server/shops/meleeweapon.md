@@ -15,14 +15,14 @@ De reținut este faptul că armele albe dispar din inventar atunci când jucăto
 |White Weapon|Details|
 |-|-|
 |Knife|G = 0.5kg \| \$ = 13.000$|
-|Baseball bat|G = 0.2kg \| \$ = 8.500$|
+|Baseball bat|G = 1kg \| \$ = 8.500$|
 |Knuckles|G = 0.5kg \| \$ = 8.500$|
-|Bottle|G = 0.2kg \| \$ = 8.500$|
+|Bottle|G = 0.2kg \| \$ = 12.000$|
 |Dagger|G = 0.5kg \| \$ = 14.000$|
 |Switchblade|G = 0.3kg \| \$ = 15.000$|
 |Machette|G = 1kg \| \$ = 10.000$|
 
 <details>
   <summary>Gunshop</summary>
-  <img src="https://assets.b-zone.ro/wiki/melee-shop.gif" alt="Gunshop">
+  <img src="https://assets.b-zone.ro/wiki/melee-shop.pngf" alt="Gunshop">
 </details>
