@@ -26,7 +26,7 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 |Craft general|150|50|
 |Chimist|300|100|
 |Mecanic|600|200|
-
+|Bucătar|600|200|
 
 <details>
   <summary>Scriere Carte</summary>
