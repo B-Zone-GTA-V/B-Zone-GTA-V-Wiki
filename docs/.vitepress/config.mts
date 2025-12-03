@@ -55,9 +55,9 @@ export default defineConfig({
               { text: 'Market', link: '/server/info/market' },
               { text: 'Sală', link: '/server/info/gym' },
               { text: 'Cărți', link: '/server/info/books' },
+              { text: 'Roata Norocului', link: '/server/info/wheel_of_fortune' },
               { text: 'Poker', link: '/server/info/poker' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
-              { text: 'Roata Norocului', link: '/server/info/wheel_of_fortune' },
               { text: 'Culegător de Ciuperci', link: '/server/info/mushrooms' },
               { text: 'Căutatul în tomberoane', link: '/server/info/trashsearch' },
             ]
