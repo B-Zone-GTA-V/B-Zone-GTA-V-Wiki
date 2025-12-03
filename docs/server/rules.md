@@ -1175,6 +1175,7 @@ Puteți să jefuiți o persoană doar de banii și obiectele care se află asupr
 
 Este <span style="color: red">interzis</span>:
 - să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe <strong style="color: red">CARACTER</strong>. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
+- să jefuiți un jucător dacă acesta nu are cel puțin 50 de ore jucate pe <strong style="color: red">SERVER</strong> (Acest lucru vă va fi notificat in momentul in care Încercați să furați ceva de pe ei). Această regulă nu scutește jucătorul de regula de No-Fear / Provoking etc.
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
