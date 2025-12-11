@@ -401,6 +401,14 @@ Spunerea unor minciuni sau distorsionarea adevărului pentru a obține un folos 
 - **Sentință: 120 - 200 de luni**
 - **Returnarea bunurilor sau contravaloarea acestora**
 
+### <a id="3.19"></a><span style="color: #0088CC">3.19 Eveniment neautorizat in spațiul public</span>
+
+Orice persoană sau grup de persoane care desfășoară un eveniment pe domeniul public fără obținerea avizului printr-o cerere de audiență și acordul Poliției.
+
+- **Amendă contravențională: 100.000$**
+- **Sentință: 30 de luni**
+- **Codul Penal: reprezintă o infracţiune care se poate pedepsi cu închiderea suspectului.**
+
 ## <a id="4"></a><span style="color: #0088CC">CAP. 4 Infracţiuni asupra justiţiei</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstrucția unui ofiţer</span>
