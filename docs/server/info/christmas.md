@@ -12,7 +12,7 @@ outline: deep
 ## 📋 Introducere
 
 Anul acesta avem două mari activități ce se vor desfășura în lunile Decembrie și Ianuarie.
-Prima activitate constă într-un Quest ce se va dăsfășura în perioada începe de pe  **12 Decembrie - 24 Decembrie**. Urmând ca în în periaoda **25 - 27 Decembrie** să veniți la locația evenimentului pentru colectarea cadoului.
+Prima activitate constă într-un Quest ce se va desfășura în perioada de  **12 Decembrie - 24 Decembrie**. Urmând ca în perioada **25 - 27 Decembrie** să veniți la locația evenimentului pentru colectarea cadoului.
 A doua activitate este un BattlePass nou cu premii pe măsură, acesta va ține de pe **1 Decembrie** până pe **31 Ianuarie**, mai multe detalii vor fi prezentate mai jos.
 
 ## Locație evenimente
