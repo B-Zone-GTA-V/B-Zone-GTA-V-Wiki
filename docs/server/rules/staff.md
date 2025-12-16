@@ -31,7 +31,7 @@ Lista comenzilor disponibile în joc poate fi vizualizată utilizând comanda /a
 
 Nu acceptăm ca un membru al echipei staff să dețină o funcție administrativă pe un alt server FiveM/RAGE:MP, considerând acest lucru un conflict de interese. Implicarea simultană în mai multe comunități poate afecta obiectivitatea, loialitatea și eficiența în gestionarea serverului nostru.
 
-Pentru a deține o funcție administrativă pe serverul B-Zone, este necesar să renunțați la orice poziție de conducere sau administrare pe alte comunități, de asemenea vă este interzis să vă jucați pe alte cominități odată ce dețineți o funcție administrativă aici. Prioritatea trebuie să fie dedicarea totală pentru dezvoltarea și buna funcționare a serverului nostru.
+Pentru a deține o funcție administrativă pe serverul B-Zone, este necesar să renunțați la orice poziție de conducere sau administrare pe alte comunități, de asemenea vă este interzis să vă jucați pe alte comunități odată ce dețineți o funcție administrativă aici. Prioritatea trebuie să fie dedicarea totală pentru dezvoltarea și buna funcționare a serverului nostru.
 
 ### <span style="color: #0088CC">1.6 Gradele administrative</span>
 Mai jos aveți cerințele minime pentru a fi eligibil pentru un **UP** la un anumit grad administrativ:  
@@ -117,7 +117,7 @@ Respectarea acestor reguli contribuie la menținerea unui echilibru în gameplay
 
 #### <span style="color: #0088CC">4.3.1 Intrebari</span>
 
-La întrebări, poate răspunde oricare membru al staff-ului, atâta timp cât dispune de informațiile necesare și cunoștințele pentru a oferi un răspuns corect și util. Este esențial ca fiecare membru al echipei să fie bine informat și să aplice aceleași standarduri pentru a menține consistența și claritatea răspunsurilor oferite jucătorilor.
+La întrebări, poate răspunde oricare membru al staff-ului, atâta timp cât dispune de informațiile necesare și cunoștințele pentru a oferi un răspuns corect și util. Este esențial ca fiecare membru al echipei să fie bine informat și să aplice aceleași standarde pentru a menține consistența și claritatea răspunsurilor oferite jucătorilor.
 
 De asemenea, evitați răspunsurile repetitive sau spam de mesaje. În schimb, încercați să oferiți răspunsuri clare și concise printr-un singur mesaj. Astfel, veți contribui la o comunicare mai eficientă și mai profesionistă.
 
