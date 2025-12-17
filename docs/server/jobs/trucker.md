@@ -29,7 +29,7 @@ outline: deep
     </tr>
     <tr>
         <td>Necesită un atestat de la primarie?</td>
-        <td>Da.</td>
+        <td>Nu.</td>
     </tr>
     <tr>
         <td>Permite lucrul in echipa?</td>
