@@ -1161,7 +1161,9 @@ Mai jos aveți o hartă orientativă a zonelor nepopulate, în principiu aceast�
 <p align="center"><img src="https://i.imgur.com/dtFLZmv.png"/></p>
 <div style="text-align: center; width: 100%">Anexa 7.8.5 Zone nepopulate</div>
 
-Se va sancționa conform regulii <a href="#2.10">#2.10 MetaGaming (MG)</a>
+Apelul catre medici din zone nepopulate se sanctioneaza conform regulii <a href="#2.6.1">#2.6.1 Apelul către medici</a>
+
+Folosirea alertelor din zone nepopulate de catre politie se sanctioneaza conform regulii <a href="#2.10">#2.10 MetaGaming (MG)</a>
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Jafuri jucători</span>
 
