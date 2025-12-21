@@ -118,7 +118,7 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 - Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai de datoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-30 minute Jail
+- prima abatere: 20-30 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -136,7 +136,7 @@ Ban 3-14 zile în functie de gravitate
 - Când acorzi informații importante despre organizația din care faci parte către o altă organizație sau poliției și ești prins în mod IC făcând aceste lucruri.
 - Când acumulezi prea multe caziere și primești închisoare pe viață.
 - Când te sinucizi și nu mai poți fi salvat.
-- Cănd ești urmărit de către poliție și te înneci în mod intenționat.
+- Cănd ești urmărit de către poliție și te îneci în mod intenționat.
 
 În urma unui CK <span style="color: red">se pierd următoarele</span>:
 
@@ -182,7 +182,7 @@ Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acț
 - când ești aruncat în apă într-o zonă nepopulată
 
 <span style="color: red">Sancțiuni</span> pentru apel către medici din zone nepopulate: 
-- prima abatare: 20 minute Jail
+- prima abatere: 20 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
@@ -213,10 +213,10 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 - Polițiști - Eșecul de a aplica Codul Penal Rutier. Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea interveni. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate să plece și să ceară/aștepte întăriri). 
 - Deschiderea OOC în IC
 - Tractarea de vehicule parcate regulamentar fără să vă asigurați că acestea sunt abandonate. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
-- Jefuirea de oameni în comă indiferent de zona unde se află (Ex. Găsești pe cineva în comă și il jefuiești, indiferent dacă îi dai in vreum fel revive sau pe loc în timp ce e mor)
+- Jefuirea de oameni în comă indiferent de zona unde se află (Ex. Găsești pe cineva în comă și il jefuiești, indiferent dacă îi dai in vreum fel revive sau pe loc în timp ce e mort)
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20 minute Jail
+- prima abatere: 20 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 3 zile 
 
@@ -234,7 +234,7 @@ Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai 
 - Rolezi că arunci cheia în șanț și nu vrei să descui mașina după ce un alt jucător a găsit cheia.
 
 <span style="color: red">Sancțiuni</span>
-- prima abatare: 10-20 minute Jail
+- prima abatere: 10-20 minute Jail
 - două sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
 ### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
@@ -253,7 +253,7 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
     - Recunosc o grupare ca fiind „Mafia Porumbeilor” deoarece sistemul le-a atribuit echipamente personalizate cu simboluri ale mafiei și porumbei.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Ban 1-3 zile în functie de gravitate 
+- prima abatere: Ban 1-3 zile în functie de gravitate 
 - două sau mai multe abateri: Ban 7-14 zile în functie de gravitate 
 
 <span style="color: green">Mențiuni:</span>
@@ -273,7 +273,7 @@ Reprezintă oferirea informațiilor IC în OOC.
 - Un jucător care transmite pe Discord că a fost omorât la o anumită locație.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Ban 1-3 zile în functie de gravitate 
+- prima abatere: Ban 1-3 zile în functie de gravitate 
 - două sau mai multe abateri: Ban 3-7 zile în functie de gravitate 
 
 <span style="color: green">Mențiuni:</span>
@@ -297,7 +297,7 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
 - Folosirea tazerului prin geamul sau texturile unei mașini.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
@@ -319,7 +319,7 @@ Reprezintă atacarea cu pumnii/arme albe sau împușcarea unui jucător sau a un
 <span style="color: yellow">Exemplu:</span> Te deplasezi pe o stradă, iar la un moment dat vezi 2 persoane care stau retrase și discută. Te apropii de ei și îi împuști, dar tu nu i-ai mai văzut până în acel moment și nu ai nici un roleplay anterior care să te lege de aceștia.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 60 minute Jail
+- prima abatere: 60 minute Jail
 - a doua abatere: Ban 1-3 zile în functie de gravitate 
 - trei sau mai multe abateri: Ban 3-14 zile în functie de gravitate  
 
@@ -330,7 +330,7 @@ Reprezintă călcarea intenționată a unui jucător sau al unui grup de jucăto
 <span style="color: yellow">Exemplu:</span> Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 60 minute Jail
+- prima abatere: 60 minute Jail
 - a doua abatere: Ban 1-3 zile în functie de gravitate 
 - trei sau mai multe abateri: Ban 3-14 zile în functie de gravitate  
 
@@ -343,7 +343,7 @@ Reprezintă înotarea la nesfârșit și este interzisă deoarece în realitate 
 - Ai căzut din barca în care erai cu prietenii tăi, iar ei s-au îndepărtat foarte mult, ești la o distanță foarte mare de orice mal și hotărăști să înoți pană acolo fără oprire. Acest lucru este interzis. 
 
 <span style="color: red">Sancțiuni: </span>
-- prima abatare: 60 minute Jail
+- prima abatere: 60 minute Jail
 - a doua abatere: Warn + întoarcerea în locul unde ai început să înoți
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
 
@@ -356,7 +356,7 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-60 Minute Jail
+- prima abatere: 20-60 Minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -394,7 +394,7 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 - Bați un polițist în penitenciar
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-60 minute Jail
+- prima abatere: 20-60 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -415,7 +415,7 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
   - patrule rau famate în intervalul 20:00-08:00
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-60 minute Jail
+- prima abatere: 20-60 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -432,7 +432,7 @@ Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat
 - Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 100 minute Jail
+- prima abatere: 100 minute Jail
 - a doua abatere: Warn + 100 minute Jail
 - trei sau mai multe abateri: Ban 1-30 zile în functie de gravitate 
 
@@ -444,7 +444,7 @@ Reprezintă orice atitudine/comportament de superioritate față de ceilalți ju
 - Înjosirea oamenii care lucrează la un job legal fără un motiv întemeiat.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-60 minute Jail
+- prima abatere: 20-60 minute Jail
 - a doua abatere: Warn + 40-80 minute Jail
 - trei sau mai multe abateri: Ban 1-14 zile în functie de gravitate 
 
@@ -458,7 +458,7 @@ Reprezintă acțiunea prin care provoci un alt jucător să se enerveze, fără 
 - Forțarea unui jucător să intre într-un roleplay pe care nu și-l dorește.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 10-30 minute Jail
+- prima abatere: 10-30 minute Jail
 - a doua abatere: Warn + 30-60 minute Jail
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
 
@@ -473,7 +473,7 @@ Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este in
 - Ești urmărit de mafie și te pui /sleep
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 10-30 minute Jail
+- prima abatere: 10-30 minute Jail
 - a doua abatere: Warn + 30-60 minute Jail
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
 
@@ -535,7 +535,7 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - Ești polițist și observi un individ într-un vehicul care nu este confirmat ca fiind cu Cod 1 (înarmat sau extrem de periculos), însă alegi să deschizi focul asupra roților și chiar asupra șoferului, cu scopul de a-l neutraliza pe el sau vehiculul acestuia.
 
 <span style="color: red">Sancțiune:</span>
-- prima abatare: 10-30 minute Jail
+- prima abatere: 10-30 minute Jail
 - a doua abatere: 30-60 minute Jail
 - trei sau mai multe abateri: Warn + 60-100 minute Jail
 
@@ -545,7 +545,7 @@ Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și
 - În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 40-60 minute Jail
+- prima abatere: 40-60 minute Jail
 - a doua abatere: Warn + 60-80 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
 
@@ -596,7 +596,7 @@ Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire 
 - „Iată cum arată un roleplay de calitate, nu ce faceți voi.”
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 60 minute Jail
+- prima abatere: 60 minute Jail
 - a doua abatere: Warn + 100 minute Jail
 - trei sau mai multe abateri: Ban 3-7 zile în functie de gravitate 
 
@@ -670,7 +670,7 @@ Exemple de moduri ilegale:
 Se consideră afiliere, promovare sau colaborare orice asociere cu o comunitate, website, server de Discord sau grup care distribuie, vinde sau promovează programe de tip cheat, hack ori orice alt software ce oferă un avantaj în joc. Această regulă vi se aplică doar în momentul în care sunteți suspectați de cod.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Warn + dovadă cu părăsirea respectivelor comunități
+- prima abatere: Warn + dovadă cu părăsirea respectivelor comunități
 - a doua abatere: Ban 30 de zile + dovadă cu părăsirea respectivelor comunități
 - trei sau mai multe abateri: Ban permanent
 
@@ -681,7 +681,7 @@ Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de 
 
 <span style="color: red">Sancțiuni:</span><br>
 ##### <span style="color: lightgreen">Afk în roleplay (ex. vine poliția la razie la Mina):</span>
-- prima abatare: 20 minute Jail + Kick
+- prima abatere: 20 minute Jail + Kick
 - a doua abatere: 40 minute Jail + Kick
 - trei sau mai multe abateri: 60 minute Jail + Kick
 ##### <span style="color: lightgreen">Afk în afara unui roleplay (ex. afk la spital dupa respawn):</span>
@@ -703,7 +703,7 @@ Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea 
 - Folosirea armelor destinate membrilor SAS fără a fi îmbracat în SAS. (Excepție fiind cei cu grad de Sub-Comisar+)
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 30-40 minute Jail
+- prima abatere: 30-40 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 3-30 zile în funcție de gravitate
 
@@ -758,7 +758,7 @@ De asemenea, o mașină joasă nu poate face pitstop unei mașini cu gardă îna
 <span style="color: green">Excepții:</span> În cazul în care 2 vehicule de mare viteză accelerează în același timp și ajung până la maxim 180 km/h în momentul aplicării manevrei pit-stop manevra este considerata regulamentară deoarece este foarte greu să aproximezi viteza în condițiile în care mașinile accelerează foarte repede.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 40 minute Jail
+- prima abatere: 40 minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în funcție de gravitate
 
@@ -774,7 +774,7 @@ Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit.
 <span style="color: green">Excepție:</span> dacă motorul autovehiculului este pornit nu se consideră ninja-jack.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 Minute Jail
+- prima abatere: 20-40 Minute Jail
 - a doua abatere: Warn
 - trei sau mai multe abateri: Ban 1-3 zile în funcție de gravitate
 
@@ -787,7 +787,7 @@ Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră î
 - Să mergi cu o mașină cu gardă joasă pe drumuri accidentate
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 40-60 minute Jail
 - trei sau mai multe abateri: Warn + 60-80 minute Jail
 
@@ -877,7 +877,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
 ⚠️ Acest regulament trebuie respectat de toți piloții! Nerespectarea regulilor va duce la sancțiuni severe!
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Ban 1 - 3 zile + Confiscarea licentei
+- prima abatere: Ban 1 - 3 zile + Confiscarea licentei
 - două sau mai multe abateri: Ban 3 - 7 zile + Confiscarea licentei
 
 ### <a id="5.5"></a><span style="color: #0088CC">5.5 Car-Ram (CR)</span>
@@ -890,7 +890,7 @@ Sunt interzise:
 - Vezi o mașină ce vine de pe celălalt sens, tragi stangă în ultimul moment pentru a garanta împactul cu aceasta.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 40 minute Jail
+- prima abatere: 40 minute Jail
 - a doua abatere: Warn + 40 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -906,7 +906,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span>:
 - blocajele trebuie făcute din timp sau la viteze suficient de mici cu scopul de a oferii celor împlicați în urmărire timp suficient pentru a evita impactul cu blocajul
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 40 minute Jail
+- prima abatere: 40 minute Jail
 - a doua abatere: Warn + 40 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -923,7 +923,7 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span>:
 - Să nu deranjați persoanele cu care interacționați la locul de muncă
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 10-20 minute Jail
+- prima abatere: 10-20 minute Jail
 - a doua abatere: 40-60 minute Jail
 - trei sau mai multe abateri: Warn + 60 minute Jail
 
@@ -942,7 +942,7 @@ Vă este permis să furați o mașină de poliție/medici doar în cazuri extrem
 - Echipa administrativă nu este obligată să vă returneze obiectele în cazul în care vă sunt furate din vehiculele personale, vă recomandăm să vă parcați vehiculele în unul din cele peste 50 de garaje de pe hartă.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 40-60 minute Jail
 - trei sau mai multe abateri: Warn + 60-100 minute Jail
 
@@ -956,7 +956,7 @@ Acțiunile ilegale cuprind:
 - Craftarea respectiv, confecționarea de obiecte ilegale.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 40-60 minute Jail
+- prima abatere: 40-60 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
 
@@ -975,7 +975,7 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - aruncarea unui cetățean în comă într-o zonă publică
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 40-60 minute Jail
+- prima abatere: 40-60 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1010,7 +1010,7 @@ Este <span style="color: yellow">OBLIGATORIU</span>:
 - În cazul în care cereți o mașină ca să puteți fugii sau o cale de scăpare, Poliția este <span style="color: yellowgreen">obligată</span> să se țină de cuvânt și să nu se tragă fix în momentul în care ostaticul este eliberat. Poliția în acel moment se pregatește de o urmărire nu de deschiderea focului.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 40-60 minute Jail
+- prima abatere: 40-60 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1025,7 +1025,7 @@ Este permisă, respectând următoarele cerințe:
 - În cazul roleplay-ului de răscupărare a celui răpit se pot cere bunuri până în suma de 200.000$ (dar nu de la facțiunile guvernamentale). În cazul în care nu se ajunge la un acord între părțile implicate, cel răpit își va rula PK-ul față de toți cei prezenți în RP-ul respectiv (chiar și din gang / mafie dacă este implicat).
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 40 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1059,7 +1059,7 @@ Ban 7-14 zile în funcție de gravitate
 
 <span style="color: red">Sancțiuni:</span>
 - mafiile ce incalcă această regulă vor primii implicit <strong style="color: red">Mafia WARN</strong>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate<br>
 <span style="color: yellowgreen">Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.</span>
@@ -1161,7 +1161,9 @@ Mai jos aveți o hartă orientativă a zonelor nepopulate, în principiu aceast�
 <p align="center"><img src="https://i.imgur.com/dtFLZmv.png"/></p>
 <div style="text-align: center; width: 100%">Anexa 7.8.5 Zone nepopulate</div>
 
-Se va sancționa conform regulii <a href="#2.10">#2.10 MetaGaming (MG)</a>
+Apelul catre medici din zone nepopulate se sanctioneaza conform regulii <a href="#2.6.1">#2.6.1 Apelul către medici</a>
+
+Folosirea alertelor din zone nepopulate de catre politie se sanctioneaza conform regulii <a href="#2.10">#2.10 MetaGaming (MG)</a>
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.9 Jafuri jucători</span>
 
@@ -1184,7 +1186,7 @@ Este <span style="color: red">interzis</span>:
 - jefuirea aceluiasi individ intr-un interval mai mic de 2 ore (Persoanele care au fost jefuite nu au voie sa abuzeze de această regula și trebuie să ruleze în continuare frica de jefuire)
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1213,7 +1215,7 @@ In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, ac
 Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1235,7 +1237,7 @@ Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuir
 Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1267,7 +1269,7 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 <p align="center"><a id="harta_jafuri"></a><img src="https://assets.b-zone.ro/b-zone-zone_jafuri.png"/></p>
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1290,7 +1292,7 @@ Sunt <span style="color: red">interzise</span> următoarele:
 - Se consideră casă HQ-urile de mafii sau locul unde o grupare își desfășoara preponderent activitatea
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1298,7 +1300,7 @@ Sunt <span style="color: red">interzise</span> următoarele:
 Se permite deturnarea unui transport de deținuți, oriunde în afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere), dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1354,7 +1356,7 @@ Soluționarea ticketelor se va face în maxim 72 ore de la deschiderea lui.
 Orice tip de ticket se poate deschide doar după încheierea roleplay-ului
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1376,7 +1378,7 @@ Persoanelor banate permanent fără drept de plată li se vor scoate casa după 
 Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice alt conținut ofensator vor fi șterse.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 60 minute Jail
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
@@ -1385,7 +1387,7 @@ Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice a
 Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay. 
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Avertisment verbal
+- prima abatere: Avertisment verbal
 - a doua abatere: 20-40 minute Jail
 - trei sau mai multe abateri: Warn + 60 minute Jail
 
@@ -1398,7 +1400,7 @@ Poza atașată anunțului trebuie să fie relevantă pentru produsul sau servici
 - Prezintă elemente OOC (Out of Character).
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Avertisment verbal
+- prima abatere: Avertisment verbal
 - a doua abatere: 20-40 minute Jail
 - trei sau mai multe abateri: Warn + 60 minute Jail
 
@@ -1409,7 +1411,7 @@ Excepție: În cazul utilizării imaginilor controversate, cu conținut politic 
 Nu este permisă promovarea sau vânzarea de bunuri ilegale prin intermediul platformei de anunțuri, promovare de bunuri ilegale este și atunci când vinzi pistoale de apa, plicuri cu zăpadă etc.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Avertisment verbal
+- prima abatere: Avertisment verbal
 - a doua abatere: Warn + 20-40 minute Jail
 - trei sau mai multe abateri: Warn + 60 minute Jail
 
@@ -1428,7 +1430,7 @@ Exemple de anunțuri interzise:
 - "L-am culcat pe X pe Groove."
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: 20-40 minute Jail
+- prima abatere: 20-40 minute Jail
 - a doua abatere: Warn + 40-60 minute Jail
 - trei sau mai multe abateri: Warn + 60 minute Jail
 
@@ -1453,7 +1455,7 @@ Este permisă folosirea unor termeni sau denumiri în alte limbi (ex: numele unu
 – Mesaje care nu pot fi înțelese de majoritatea utilizatorilor
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatare: Avertistemnt verbal
+- prima abatere: Avertistemnt verbal
 - a doua abatere: 30-50 minute Jail
 - trei sau mai multe abateri: Warn + 60 minute Jail
 
