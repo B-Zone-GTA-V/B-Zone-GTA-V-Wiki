@@ -1266,6 +1266,8 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 
 - Ne dorim ca jafurile să își desfășoare conflictele într-o arie restrânsă, pentru a nu afecta alte RP-uri care se pot desfășura în afara zonei marcate pentru jaf.
 
+- Odată cu încheierea jafului (banii au fost luați și mafioții pleacă sau orice alt lucru ce ar incheia RP-ul de bătaie în jurul băncii) acest perimetru de jaf nu se mai aplică. În cazul în care poliția urmărește suspecții ce pleacă de la jaf trebuie să își asume o posibilă redeschidere a focului în limitele zonelor marcate pe hartă (nu în zone verzi). De precizat este faptul că încheierea jafului nu vă permite urmărirea poliției în afara perimetrului doar cu scopul de a-i pica pentru a vă asigura că nu puteți să fiți urmăriți ulterior.
+
 <p align="center"><a id="harta_jafuri"></a><img src="https://assets.b-zone.ro/b-zone-zone_jafuri.png"/></p>
 
 <span style="color: red">Sancțiuni:</span>
