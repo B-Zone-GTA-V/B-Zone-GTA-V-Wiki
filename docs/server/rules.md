@@ -820,7 +820,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
 - locuri special amenajate (helipad)
 - helipaduri special amenajate de pe case
-- perimetrul unui jaf de banca, <a href="#harta_jafuri">cel marcat pe hartă</a> (activ sau ce urmează sa inceapă), atat pe stradă, câmp, clădiri etc, cu exceptia cladirilor ce nu permit aterizarea în mod RP a unui heli, de exemplu cladirile ce au acoperiș de țigle, înclinat, etc. cladirile pe care se aterizează trebuie să dispună de un plan drept și o suprafață suficient de mare de aterizare (Acest lucru se aplică tuturor indiferent de facțiunea din care face parte jucătorul)
+- perimetrul unui jaf de banca, <a href="#harta_jafuri">cel marcat pe hartă</a> (activ sau ce urmează sa inceapă), atat pe stradă, câmp, clădiri etc, cu exceptia cladirilor ce nu permit aterizarea în mod RP a unui heli, de exemplu cladirile ce au acoperiș de țigle, înclinat, etc. cladirile pe care se aterizează trebuie să dispună de un plan drept și o suprafață suficient de mare de aterizare (Acest lucru se aplică tuturor indiferent de facțiunea din care face parte jucătorul). Încalcarea acestei reguli în cadrul unui jaf se va sancționa conform regulii <a href="#7.10.2">7.10.2 Banci</a>
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
 - insula Cayo (cu excepția helipad-ului de pe aeroport)
