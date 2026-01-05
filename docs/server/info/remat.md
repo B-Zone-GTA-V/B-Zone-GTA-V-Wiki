@@ -14,6 +14,6 @@ Odată confirmată acțiunea vei primi în contul tău bancar o sumă de bani di
 Ai grijă înainte să vinzi vehiculul la obiectele pe care le ai în portbagaj și torpedou, deoarece acestea vor fi pierdute odată cu vehiculul.
 
 (!) În funcție de cum ați făcut rost de vehicul prețul de la remat va fi diferit
-- Dacă ați achiziționat în mod normal din Dealerul Auto / De la alți jucători veți primi 60% din valoarea vehiculului.
-- Dacă ați achiziționat din Dealer Auto cu moneda Gold, veți primi 0$ când veți vinde la remat.
+- Dacă achiziționezi o mașină din Dealerul Auto / Care a fost cumpărată de alt jucător din Dealerul Auto cu Bani IC, vei primi 60% din valoarea vehiculului.
+- Dacă ați achiziționat din Dealer Auto cu moneda Gold veți primi 0$ când veți vinde la remat.
 - Dacă ați primit mașina prin intermediul **Battlepass-ului**, **Roata Norocului**, **Shop-uri Evenimente Speciale** sau **Recompensă de la Referal**, veți primi 0$ când veți vinde la remat.
