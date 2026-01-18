@@ -820,7 +820,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
 - locuri special amenajate (helipad)
 - helipaduri special amenajate de pe case
-- perimetrul unui jaf de banca, <a href="#harta_jafuri">cel marcat pe hartă</a> (activ sau ce urmează sa inceapă), atat pe stradă, câmp, clădiri etc, cu exceptia cladirilor ce nu permit aterizarea în mod RP a unui heli, de exemplu cladirile ce au acoperiș de țigle, înclinat, etc. cladirile pe care se aterizează trebuie să dispună de un plan drept și o suprafață suficient de mare de aterizare (Acest lucru se aplică tuturor indiferent de facțiunea din care face parte jucătorul)
+- perimetrul unui jaf de banca, <a href="#harta_jafuri">cel marcat pe hartă</a> (activ sau ce urmează sa inceapă), atat pe stradă, câmp, clădiri etc, cu exceptia cladirilor ce nu permit aterizarea în mod RP a unui heli, de exemplu cladirile ce au acoperiș de țigle, înclinat, etc. cladirile pe care se aterizează trebuie să dispună de un plan drept și o suprafață suficient de mare de aterizare (Acest lucru se aplică tuturor indiferent de facțiunea din care face parte jucătorul). Încalcarea acestei reguli în cadrul unui jaf se va sancționa conform regulii <a href="#7.10.2">7.10.2 Banci</a>
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
 - insula Cayo (cu excepția helipad-ului de pe aeroport)
@@ -1265,6 +1265,8 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 - Este <span style="color:red">**STRICT INTERZIS**</span> să continuați confruntarea în afara zonei marcate pe hartă. Această interdicție include atât tragerea focurilor de armă în afara zonei, cât și tragerea din afara zonei către interior. Excepție face situația în care poliția deschide focul asupra voastră din afara perimetrului; în acest caz, vă este permis să răspundeți cu foc, însă **NU** aveți voie să îi urmăriți sau să părăsiți zona marcată.
 
 - Ne dorim ca jafurile să își desfășoare conflictele într-o arie restrânsă, pentru a nu afecta alte RP-uri care se pot desfășura în afara zonei marcate pentru jaf.
+
+- Odată cu încheierea jafului (banii au fost luați și mafioții pleacă sau orice alt lucru ce ar incheia RP-ul de bătaie în jurul băncii) acest perimetru de jaf nu se mai aplică. În cazul în care poliția urmărește suspecții ce pleacă de la jaf trebuie să își asume o posibilă redeschidere a focului în limitele zonelor marcate pe hartă (nu în zone verzi). De precizat este faptul că încheierea jafului nu vă permite urmărirea poliției în afara perimetrului doar cu scopul de a-i pica pentru a vă asigura că nu puteți să fiți urmăriți ulterior.
 
 <p align="center"><a id="harta_jafuri"></a><img src="https://assets.b-zone.ro/b-zone-zone_jafuri.png"/></p>
 
