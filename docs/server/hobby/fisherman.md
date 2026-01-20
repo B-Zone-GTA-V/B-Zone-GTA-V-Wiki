@@ -33,7 +33,7 @@ outline: deep
     </tr>
 </table>
 
-Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea pescui, este nevoie de achiziționarea unei <span class="button-p-hobby">undițe</span>, cât și a <span class="button-p-hobby">momelelor</span>. Acestea pot fi găsite în zona de <span class="button-p-hobby">[Market](https://socialclub.rockstargames.com/)</span>. Odată ce aceste criterii au fost îndeplinite, pescarul se poate îndrepta spre ponton.
+Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea pescui, este nevoie de achiziționarea unei <span class="button-p-hobby">undițe</span>, cât și a <span class="button-p-hobby">momelelor</span>. Acestea pot fi găsite în zona de <span class="button-p-hobby">[Market](../info/market.md)</span>. Odată ce aceste criterii au fost îndeplinite, pescarul se poate îndrepta spre ponton.
 
 #### <span style="color: #0088CC">Tipuri de momele</span>:
 
