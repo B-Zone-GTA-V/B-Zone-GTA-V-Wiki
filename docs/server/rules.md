@@ -1098,7 +1098,7 @@ Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**00:0
 ---
 
 #### <a id="7.8.3"></a><span style="color:yellow; font-size: 20px;">7.8.3 ZONE/DRUMURI GALBENE</span>
-Zonele și drumurile galbene sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar jafurile sunt interzise. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea roleplay-ului.
+Zonele și drumurile galbene sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar <strong style="color: red">NU</strong> cu scopul de a jefuii. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea roleplay-ului.
 
 Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - Luarea de ostatic, respectiv răpirea cetățenilor, în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
