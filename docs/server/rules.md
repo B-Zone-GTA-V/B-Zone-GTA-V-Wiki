@@ -1264,6 +1264,8 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 
 - Este <span style="color:red">**STRICT INTERZIS**</span> să continuați confruntarea în afara zonei marcate pe hartă. Această interdicție include atât tragerea focurilor de armă în afara zonei, cât și tragerea din afara zonei către interior. Excepție face situația în care poliția deschide focul asupra voastră din afara perimetrului; în acest caz, vă este permis să răspundeți cu foc, însă **NU** aveți voie să îi urmăriți sau să părăsiți zona marcată.
 
+- Este <span style="color:red">**STRICT INTERZIS**</span> să deschidă focul de pe clădirile din afara perimetrului indiferent dacă ești polițist, civil, mafiot etc.
+
 - Ne dorim ca jafurile să își desfășoare conflictele într-o arie restrânsă, pentru a nu afecta alte RP-uri care se pot desfășura în afara zonei marcate pentru jaf.
 
 - Odată cu încheierea jafului (banii au fost luați și mafioții pleacă sau orice alt lucru ce ar incheia RP-ul de bătaie în jurul băncii) acest perimetru de jaf nu se mai aplică. În cazul în care poliția urmărește suspecții ce pleacă de la jaf trebuie să își asume o posibilă redeschidere a focului în limitele zonelor marcate pe hartă (nu în zone verzi). De precizat este faptul că încheierea jafului nu vă permite urmărirea poliției în afara perimetrului doar cu scopul de a-i pica pentru a vă asigura că nu puteți să fiți urmăriți ulterior.
