@@ -820,8 +820,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 #### <a id="5.4.4"></a><span style="color: #0088CC">5.4.4 Elicoptere</span>
 Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
 - locuri special amenajate (helipad)
-- helipaduri special amenajate de pe case
-- perimetrul unui jaf de banca, <a href="#harta_jafuri">cel marcat pe hartă</a> (activ sau ce urmează sa inceapă), atat pe stradă, câmp, clădiri etc, cu exceptia cladirilor ce nu permit aterizarea în mod RP a unui heli, de exemplu cladirile ce au acoperiș de țigle, înclinat, etc. cladirile pe care se aterizează trebuie să dispună de un plan drept și o suprafață suficient de mare de aterizare (Acest lucru se aplică tuturor indiferent de facțiunea din care face parte jucătorul). Încalcarea acestei reguli în cadrul unui jaf se va sancționa conform regulii <a href="#7.10.2">7.10.2 Banci</a>
+- helipaduri special amenajate de pe clădiri
 
 Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
 - insula Cayo (cu excepția helipad-ului de pe aeroport)
@@ -1261,7 +1260,7 @@ Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât ș
 
 <span style="color: green">Mențiuni:</span>
 
-- În cadrul unui jaf de bancă, odată cu începerea acestuia, se creează un perimetru de jaf. Acest perimetru este evidențiat pe harta de mai jos și este utilizat atât în cadrul regulii <a href="#5.4.4">5.4.4 Elicoptere</a>, cât și pentru a determina zona maximă în care se poate desfășura conflictul Poliție – Mafie.
+- În cadrul unui jaf de bancă, odată cu începerea acestuia, se creează un perimetru de jaf. Acest perimetru este evidențiat pe harta de mai jos și este utilizat pentru a determina zona maximă în care se poate desfășura conflictul Poliție – Mafie.
 
 - Este <span style="color:red">**STRICT INTERZIS**</span> să continuați confruntarea în afara zonei marcate pe hartă. Această interdicție include atât tragerea focurilor de armă în afara zonei, cât și tragerea din afara zonei către interior. Excepție face situația în care poliția deschide focul asupra voastră din afara perimetrului; în acest caz, vă este permis să răspundeți cu foc, însă **NU** aveți voie să îi urmăriți sau să părăsiți zona marcată.
 
