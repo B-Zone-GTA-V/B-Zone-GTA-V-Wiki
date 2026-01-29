@@ -27,6 +27,10 @@ outline: deep
         <td>Necesită permis de conducere?</td>
         <td>Nu.</td>
     </tr>
+     <tr>
+        <td>Necesită un atestat de la primărie?</td>
+        <td>Da.</td>
+    </tr>
 </table> 
 
 Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare.
