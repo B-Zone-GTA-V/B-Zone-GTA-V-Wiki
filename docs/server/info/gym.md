@@ -16,7 +16,7 @@ NOTA 1: Dacă aveți Cont Premium veți avea un boost de max kg ce le puteți an
 
 NOTA 2: Pierderea contului Premium nu vă va elimina kilogramele extra, dar nu veți putea face sală până nu scădeți sub noua limită.
 
-Clarificare Max KG: 5kg (buzunarele) + 40kg (cel mai bun backpack) + 20kg (sala) + 10kg (Cont Premium) = 75kg
+Clarificare Max KG: 5kg (buzunarele) + 50kg (cel mai bun backpack) + 20kg (sala) + 10kg (Cont Premium) = 85kg
 
 <details>
   <summary>Sală</summary>
