@@ -649,8 +649,7 @@ Este interzisă utilizarea oricăror programe sau instrumente care modifică în
 În cazul în care sunteți suspectat de hacking, veți fi luați la teste; acestea pot fi refuzate, însă veți fi sancționați cu ban de 30 de zile la prima abatere. Prima instanță de ban pentru hacking va costa 20 000 Gold iar cu fiecare nouă instanță de ban acest preț se va dubla (40 000, 80 000, 160 000, 320 000 etc.). În cazul în care jucatorul face parte dintr-o organizație (mafie, poliție, medici) acesta v-a fi scos din aceasta cu 30 de zile FP. Pe langa cele 30 de zile de FP jucătorul are interdicție 30 de zile de a intra într-o mafie sau de a ține armă în mână, în caz contrar jucatorul v-a fi banat de coduri.
 
 <span style="color: red">Sancțiuni:</span>
-- aimbot/norecoil/silent aim - prima abatere ban permanent
-- alte coduri: ban 30 zile
+- Ban permanent
 
 #### <a id="4.3.1"></a><span style="color: #0088CC">4.3.1 Moduri ilegale</span>
 Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă oferii avantaje față de alți jucători.
