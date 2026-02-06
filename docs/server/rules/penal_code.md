@@ -859,3 +859,19 @@ Infracțiunea se pedepsește cu:
 În situațiile în care persoana acuzată a colaborat la aflarea adevărului și la identificarea altor infractori, limitele speciale ale pedepsei se reduc la jumătate.
 
 Această faptă nu se cumulează cu alte articole ale codului penal.
+
+### <a id="8.11"></a><span style="color: #0088CC">8.11 Pericol grav pentru siguranța publică</span>
+
+O persoană poate fi încadrată la această faptă atunci când acumulează minimum 50 de dosare penale. Prin comportamentul său repetat dovedește că reprezintă un risc real pentru ordinea și siguranța publică. Încadrarea se face pe baza istoricului infracțional, a probelor existente și a evaluării pericolului social al faptelor comise.
+
+La atingerea pragului de 50 de dosare, persoana intră automat pe lista Most Wanted. I se emite mandat de arestare cu această acuzație și este adusă în fața instanței competente. Instanța analizează toate dosarele, probele și circumstanțele cauzei. 
+
+Dacă este găsită vinovată, persoana poate primi pedeapsa maximă prevăzută de lege, inclusiv închisoare pe viață.
+
+Infracțiunea se pedepsește cu:
+
+- **Sentință: 500 de luni - închisoare pe viață**
+
+În situațiile în care persoana acuzată a colaborat la aflarea adevărului și la identificarea altor infractori, limitele speciale ale pedepsei se reduc la jumătate.
+
+Această faptă nu se cumulează cu alte articole ale codului penal.
