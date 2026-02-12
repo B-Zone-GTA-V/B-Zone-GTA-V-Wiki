@@ -6,189 +6,24 @@ outline: deep
 
 ## Introducere
 
-În prezent sunt prezente 10 tipuri de cutii: **Paște 2024**, **Halloween 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu**, **B8pe**, **B8pe Fire**, **B8pe Ice**, **Harrowing** & **Screaming**.
+În prezent sunt prezente 12 tipuri de cutii: **Halloween 2024**, **Paște 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu**, **B8pe**, **B8pe Fire**, **B8pe Ice**, **Harrowing**, **Screaming**, **Crăciun 2025** & **Valentines 2026**.
+
 <br/>
+
+Pentru a vedea toate cutiile de haine de pe server deschideți meniul **ESC** - **Case Opening**. De acolo puteți cumpără și vizualiza conținutul fiecărei cutii, totodată și sanșa fiecărui obiect.
+
+După ce deschideți o cutie puteți alege să vindeți itemul și să primiți o cantitate de Gold sau să îl păstrați.
+
 Aceste cutii se pot achiziționa din joc prin intermediul Shop-ului. Puteți achiziționa cutii pentru ambele sexe (Masculin sau Feminin), item-ul primit fiind pentru sexul specific.
 
 <details>
-  <summary>Tipuri Cutii</summary>
+  <summary>Meniul din ESC</summary>
   <img src="https://assets.b-zone.ro/wiki/clothing-cases.png" alt="Clothing Cases">
 </details>
 
-## Ce haine conține fiecare cutie
-
-### Cutie Paște 2024
-
-Haine disponibile pentru cutia Paște 2024.
+<br/>
 
 <details>
-  <summary>Haine Cutie Paște 2024 - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/easter_2024_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Paște 2024.
-
-<details>
-  <summary>Haine Cutie Paște 2024 - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/easter_2024_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie Halloween 2024
-
-Haine disponibile pentru cutia Halloween 2024.
-
-<details>
-  <summary>Haine Cutie Halloween 2024 - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/halloween_2024_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Halloween 2024.
-
-<details>
-  <summary>Haine Cutie Halloween 2024 - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/halloween_2024_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie Crăciun 2024
-
-Haine disponibile pentru cutia Crăciun 2024.
-
-<details>
-  <summary>Haine Cutie Crăciun 2024 - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/christmas_2024_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Crăciun 2024.
-
-<details>
-  <summary>Haine Cutie Crăciun 2024 - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/christmas_2024_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie Paște 2025
-
-Haine disponibile pentru cutia Paște 2025.
-
-<details>
-  <summary>Haine Cutie Paște 2025 - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/easter_2025_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Paște 2025.
-
-<details>
-  <summary>Haine Cutie Paște 2025 - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/easter_2025_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie Lafufu
-
-Haine disponibile pentru cutia Lafufu.
-
-<details>
-  <summary>Haine Cutie Lafufu - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/lafufu_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Lafufu.
-
-<details>
-  <summary>Haine Cutie Lafufu - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/lafufu_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie B8pe
-
-Haine disponibile pentru cutia B8pe.
-
-<details>
-  <summary>Haine Cutie B8pe - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/b8pe_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia B8pe.
-
-<details>
-  <summary>Haine Cutie B8pe - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/b8pe_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie B8pe Fire
-
-Haine disponibile pentru cutia B8pe Fire.
-
-<details>
-  <summary>Haine Cutie B8pe Fire - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/b8pe_fire_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia B8pe Fire.
-
-<details>
-  <summary>Haine Cutie B8pe Fire - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/b8pe_fire_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie B8pe Ice
-
-Haine disponibile pentru cutia B8pe Ice.
-
-<details>
-  <summary>Haine Cutie B8pe Ice - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/b8pe_ice_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia B8pe Ice.
-
-<details>
-  <summary>Haine Cutie B8pe Ice - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/b8pe_ice_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie Harrowing
-
-Haine disponibile pentru cutia Harrowing.
-
-<details>
-  <summary>Haine Cutie Harrowing - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/harrowing_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Harrowing.
-
-<details>
-  <summary>Haine Cutie Harrowing - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/harrowing_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie Screaming
-
-Haine disponibile pentru cutia Screaming.
-
-<details>
-  <summary>Haine Cutie Screaming - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/screaming_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Screaming.
-
-<details>
-  <summary>Haine Cutie Screaming - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/screaming_f.png" alt="Clothing Cases">
-</details>
-
-### Cutie Crăciun 2025
-
-Haine disponibile pentru cutia Crăciun 2025.
-
-<details>
-  <summary>Haine Cutie Crăciun 2025 - Masculin</summary>
-  <img src="https://assets.b-zone.ro/wiki/christmas_2025_m.png" alt="Clothing Cases">
-</details>
-
-Haine disponibile pentru cutia Crăciun 2025.
-
-<details>
-  <summary>Haine Cutie Crăciun 2025 - Feminin</summary>
-  <img src="https://assets.b-zone.ro/wiki/christmas_2025_f.png" alt="Clothing Cases">
+  <summary>Selectare Cutie</summary>
+  <img src="https://assets.b-zone.ro/wiki/case.png" alt="Clothing Cases">
 </details>

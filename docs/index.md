@@ -1,4 +1,4 @@
-# Bun venit pe Wiki-ul serverului <a href="https://v.b-zone.ro" target="_blank">B-Zone V</a>!
+# Bun venit pe Wiki-ul serverului <a href="https://gta5.ro" target="_blank">B-Zone V</a>!
 
 Comunitatea noastră îți oferă toate informațiile necesare, prezentate clar și accesibil, pentru a înțelege în detaliu cum funcționează fiecare sistem din joc.
 
