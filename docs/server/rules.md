@@ -690,6 +690,9 @@ Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de 
 ### <a id="4.5"></a><span style="color: #0088CC">4.5 Tranzacțiile OOC</span>
 Afacerile sau tentativele de afaceri cu bunuri reale pe bunuri în joc sau conturi nu sunt permise.
 
+<span style="color: yellow">Exceptii:</span>
+- tranzacțiile de bunuri din joc pentru încărcarea unei sume de Gold în contul celuilalt
+
 <span style="color: red">Sancțiune:</span> Ban permanent fără drept de plata
 
 ### <a id="4.6"></a><span style="color: #0088CC">4.6 System Abuse</span>
@@ -1282,10 +1285,11 @@ Sunt <span style="color: green">permise</span> următoarele **DOAR** în interva
 - jefuirea unui cetățean în casă jefuitorului sau casă unde jefuitorul are chirie
 
 Sunt <span style="color: red">interzise</span> următoarele:
+- jefuirea unui jucător în interiorul propriei sale case
 - răpirea unui jucător din propria casă fără un RP anterior cu acesta
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
-- intratul în curtea sau interiorul unei case fără aprobarea proprietarului/chiriașului sau un roleplay complex de spargere a lacătului (se rolează că aceste uși/porți sunt închise)
+- intratul în curtea sau interiorul unei case fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 4+
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.8">7.8 Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br>
 *Exemplu: Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
