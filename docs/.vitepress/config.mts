@@ -20,7 +20,7 @@ export default defineConfig({
       { 
         text: 'Linkuri',
         items: [
-          { text: 'UCP', link: 'https://v.b-zone.ro' },
+          { text: 'UCP', link: 'https://gta5.ro' },
           { text: 'Discord', link: 'https://b-zone.ro/rage' },
           { text: 'RAGEMP', link: 'https://rage.mp' },
         ]
