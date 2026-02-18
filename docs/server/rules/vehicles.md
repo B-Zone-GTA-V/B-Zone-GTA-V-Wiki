@@ -1668,13 +1668,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 
 ## Off-Road Cars // Mașini Off-Road
 
-- Albany Cavalvade III
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/4073019166.png" alt="veh">
-</details>
-
 - Bison
 
 <details>
@@ -1928,6 +1921,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 </details>
 
 ## Extreme Off-Road Cars // Mașini Extreme Off-Road
+
+- Albany Cavalvade III
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/4073019166.png" alt="veh">
+</details>
 
 - Benefactor Dubsta EMS
 
