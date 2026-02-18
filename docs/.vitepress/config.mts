@@ -42,6 +42,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '🚗 Vehicule Server',
+        items: [
+          { text: 'Vehicule', link: '/server/rules/vehicles' },
+        ]
+      },
+      {
         text: 'ℹ️ General',
         items: [
           // { text: '🐇Eveniment Paște', link: '/server/info/easter' },
