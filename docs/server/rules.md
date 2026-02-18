@@ -541,14 +541,14 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 - trei sau mai multe abateri: Warn + 60-100 minute Jail
 
 ### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
-Este strict interzis să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului), în tranzacții care implică **BUNURI LEGALE**.
+Este <span style="color:red">**STRICT INTERZIS**</span> să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului).
 - Sunt acceptate țepele până în suma de 10.000$ (cu excepția joburilor legale / hobby).
 - În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
 
 <span style="color: red">Sancțiuni:</span>
-- prima abatere: 40-60 minute Jail
-- a doua abatere: Warn + 60-80 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
+- prima abatere: 60-120 minute Jail
+- a doua abatere: Warn + Ban 1-3 zile
+- trei sau mai multe abateri: Ban 7-14 zile în functie de gravitate 
 
 <span style="color: green">Mențiuni:</span>
 
