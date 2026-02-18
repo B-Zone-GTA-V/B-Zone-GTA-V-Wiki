@@ -551,8 +551,6 @@ Este <span style="color:red">**STRICT INTERZIS**</span> să înșelați alte per
 - trei sau mai multe abateri: Ban 7-14 zile în functie de gravitate 
 
 <span style="color: green">Mențiuni:</span>
-
-- Acestă regulă, în cazul în care nu era clar deja, **NU** se aplică pentru tranzacțiile cu bunuri **ILEGALE**.
 - Împrumuturile de bunuri se fac pe propria răspundere și nu sunt sancționabile, atâta timp cât se respectă limitele bunului simț.
 - Complicitatea la înșelătorie este sancționată în aceeași măsură ca fapta în sine.
 
