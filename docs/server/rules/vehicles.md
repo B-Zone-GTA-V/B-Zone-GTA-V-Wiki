@@ -643,13 +643,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/461154615.png" alt="veh">
 </details>
 
-- Enus Huntley Bayga
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2200787450.png" alt="veh">
-</details>
-
 - Enus Jubilee Ghost
 
 <details>
@@ -1668,11 +1661,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 
 ## Off-Road Cars // Mașini Off-Road
 
-- Bison
+- Albany Cavalvade III
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/4278019151.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/4073019166.png" alt="veh">
 </details>
 
 - Balkan Terra
@@ -1787,18 +1780,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/863465870.png" alt="veh">
 </details>
 
-- Bravado Colossus
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1767571075.png" alt="veh">
-</details>
-
 - Declasse Transporter MAI
 
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/2087132070.png" alt="veh">
+</details>
+
+- Enus Huntley Bayga
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2200787450.png" alt="veh">
 </details>
 
 - Enus Jubilee Royal
@@ -1922,13 +1915,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 
 ## Extreme Off-Road Cars // Mașini Extreme Off-Road
 
-- Albany Cavalvade III
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/4073019166.png" alt="veh">
-</details>
-
 - Benefactor Dubsta EMS
 
 <details>
@@ -1941,6 +1927,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/336353220.png" alt="veh">
+</details>
+
+- Bison
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/4278019151.png" alt="veh">
 </details>
 
 - Bizan Tau Fighter
@@ -2113,6 +2106,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3117882782.png" alt="veh">
+</details>
+
+- Bravado Colossus
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1767571075.png" alt="veh">
 </details>
 
 - Bondar KR-1200
