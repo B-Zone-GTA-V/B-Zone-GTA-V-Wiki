@@ -6,8 +6,6 @@ outline: deep
 
  ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 <table>
     <tr>
         <td>Întrebare</td>
@@ -59,5 +57,5 @@ După ce ați livrat toate cutiile, vă întoarceți la sediu, unde puteți aleg
 
 <details>
   <summary>GoPostal</summary>
-  <img src="https://v.b-zone.ro/images/wiki/go-postal.png" alt="GoPostal">
+  <img src="https://assets.b-zone.ro/wiki/go-postal.png" alt="GoPostal">
 </details>

@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Pe server vă puteți juca celebrul joc Poker, mai exact modul Texas Hold'em.
 <br />
 Pentru a vă putea juca trebuie să fiți într-o zona unde este o masă de poker. De regulă această locație este la cazino, celelalte locații le aflați în mod IC.
@@ -16,7 +14,7 @@ Fiecare masă are o cerință de intrare difertă, această constă în numărul
 
 <details>
   <summary>Masă Poker</summary>
-  <img src="https://v.b-zone.ro/images/wiki/poker-table.jpg" alt="Poker Table">
+  <img src="https://assets.b-zone.ro/wiki/poker-table.jpg" alt="Poker Table">
 </details>
 
 #### Jetoane
@@ -27,7 +25,7 @@ Prețul unui jeton este de <span class="money">$100</span> la cumpărare, iar c�
 
 <details>
   <summary>Jetoane</summary>
-  <img src="https://v.b-zone.ro/images/wiki/chips.png" alt="Chips">
+  <img src="https://assets.b-zone.ro/wiki/chips.png" alt="Chips">
 </details>
 
 #### Cum te joci Poker

@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Sistemul de Referal aduce beneficii ambelor părți, atât jucătorului care introduce un cod de referal, cât și cel care are codul respectiv.
 
 Codul de referal poate fi introdus la înregistrarea pe server sau din meniul ESC - Referal cu condiția să aveți sub 50 de ore jucate.
@@ -24,7 +22,7 @@ Jucătorul care introduce un cod de referal are următoarele beneficii în func�
     </tr>
     <tr>
         <td>10 ore</td>
-        <td>Mașină specială Bizon W3 46E + VIP Diamond 3 zile</td>
+        <td>Mașină specială Bizon W3 46E + Cont Premium 3 zile</td>
     </tr>
     <tr>
         <td>25 ore</td>
@@ -41,5 +39,5 @@ Când atingi 10 jucători aduși cu peste 25 ore fiecare vei primi o mașină sp
 
 <details>
   <summary>Referal</summary>
-  <img src="https://v.b-zone.ro/images/wiki/referal.png" alt="Referal">
+  <img src="https://assets.b-zone.ro/wiki/referal.png" alt="Referal">
 </details>

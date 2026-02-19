@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 <table>
     <tr>
         <td>Întrebare</td>
@@ -29,10 +27,14 @@ outline: deep
         <td>Necesită permis de conducere?</td>
         <td>Nu.</td>
     </tr>
+     <tr>
+        <td>Necesită un atestat de la primărie?</td>
+        <td>Da.</td>
+    </tr>
 </table> 
 
 Hobby-urile pot fi desfășurate oricând, fără a fi nevoie de angajare.
-Pentru a tăia lemne, aveți nevoie de achiziționarea unui <span class="button-p-hobby">Topor</span>, care poate fi cumpărat de la <span class="button-p-hobby">[Market](https://socialclub.rockstargames.com/)</span>.
+Pentru a tăia lemne, aveți nevoie de achiziționarea unui <span class="button-p-hobby">Topor</span>, care poate fi cumpărat de la <span class="button-p-hobby">[Market](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/info/market.html)</span>.
 Odată ce aveți toporul, puteți merge în zona de defrișare a copacilor.
 
 Există 3 tipuri de lemn, din care puteți crea diverse lucruri la <span class="button-p-hobby">General Craft</span> sau <span class="button-p-hobby">Topitorie</span>.

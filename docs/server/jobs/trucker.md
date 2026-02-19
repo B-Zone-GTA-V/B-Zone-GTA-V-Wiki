@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 <table>
     <tr>
         <td>Întrebare</td>
@@ -31,7 +29,7 @@ outline: deep
     </tr>
     <tr>
         <td>Necesită un atestat de la primarie?</td>
-        <td>Da.</td>
+        <td>Nu.</td>
     </tr>
     <tr>
         <td>Permite lucrul in echipa?</td>
@@ -54,5 +52,5 @@ De îndată ce cursa a fost aleasă (<span style="color: #e9cc54">cursele de ski
 
 <details>
   <summary>Trucker</summary>
-  <img src="https://v.b-zone.ro/images/wiki/trucker.gif" alt="Trucker">
+  <img src="https://assets.b-zone.ro/wiki/trucker.gif" alt="Trucker">
 </details>

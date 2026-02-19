@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Comunitatea B-Zone dispune de 3 reprezentanțe: Auto, Bărci și Elicoptere. Fiecare reprezentanță are câte 2 dealeri, unul pentru vehicule vanilla, iar altele pentru achiziționarea cu Gold. La reprezentanța auto este un dealer pentru vehiculele addon.
 
 La crearea caracterului, aveți posibilitatea de a achiziționa un vehicul de început precum Asbo și Blista.
@@ -20,5 +18,11 @@ Anumite vehicule pot să fie mai dorite, de aceea există posibilitatea de a ad�
 
 <details>
   <summary>DS</summary>
-  <img src="https://v.b-zone.ro/images/wiki/dealership.gif" alt="DS">
+  <img src="https://assets.b-zone.ro/wiki/dealership.gif" alt="DS">
 </details>
+
+## Lista clase vehicule
+
+Mai jos aveți un link către un fișier Excel unde sunt trecute toate vehiculele și clasa din care fac parte.
+<br/>
+<a href="https://docs.google.com/spreadsheets/d/1U6xoWYHBMLNIdsjJRcLP8hy9h0QZeb9Y3VQl7V2E06o/edit?gid=0#gid=0" target="_blank">Click pentru document</a>

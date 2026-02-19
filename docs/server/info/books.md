@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Prin sistemul de cărți poți converti și transfera punctele tale de experiență de la un skill către un alt jucător la o rată de conversie de 3:1. Locația de scris cărți se află în clădirea primăriei, la parter, aripa stângă, prima cameră pe dreapta.
 
 Poți scrie cărți doar dacă ai skill 6 + numărul de puncte care se utilizează (vezi tabelul de mai jos).
@@ -28,9 +26,9 @@ Pentru a scrie o carte, ai nevoie de un caiet care se achiziționează din orice
 |Craft general|150|50|
 |Chimist|300|100|
 |Mecanic|600|200|
-
+|Bucătar|600|200|
 
 <details>
-  <summary>Write Book</summary>
-  <img src="https://v.b-zone.ro/images/wiki/write-book.png" alt="Write Book">
+  <summary>Scriere Carte</summary>
+  <img src="https://assets.b-zone.ro/wiki/write-book.png" alt="Write Book">
 </details>

@@ -2,11 +2,9 @@
 outline: deep
 ---
 
-# Sistemul de garaje / Garage System
+# Sistemul de garaje
 
 ## Introducere
-
-### <span style="color: #0088CC">Română</span>
 
 Sistemul de garaje este conceput pentru a putea avea poziționate diverse vehicule pe toată aria jocului.
 

@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 <table>
     <tr>
         <td>Întrebare</td>
@@ -79,5 +77,5 @@ Cursa din Los Santos este mai specială deoarece la anumite locații va trebui s
 
 <details>
   <summary>Pilot</summary>
-  <img src="https://v.b-zone.ro/images/wiki/pilot.png" alt="Pilot">
+  <img src="https://assets.b-zone.ro/wiki/pilot.png" alt="Pilot">
 </details>

@@ -167,7 +167,7 @@ Excepții:
 Orice persoană care folosește un vehicul pentru a evada de un ofițer înfăptuiește o infracțiune și poate fi pedepsit cu:
 
 - **Amendă contravențională: 7.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 60 - 120 de luni**
 - **Anulare permis de conducere**
 
 ### <a id="2.2"></a><span style="color: #0088CC">2.2 Condusul fără permis</span>
@@ -175,14 +175,14 @@ Orice persoană care folosește un vehicul pentru a evada de un ofițer înfăpt
 Orice persoană care conduce un vehicul fără să aibă un permis de conducere valid înfăptuiește o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 6.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 50 - 80 de luni**
 
 ### <a id="2.3"></a><span style="color: #0088CC">2.3 Conducere sub influența drogurilor sau a alcoolului</span>
 
 Orice persoană care este la volan și deține valoarea de 0.8% alcool în sânge sau este sub influența oricărui tip de narcotice și pune în pericol viața unui civil sau propria viață înfăptuiește o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 6.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 60 - 100 de luni**
 - **Anulare permis de conducere**
 
 Pentru o concentrație de alcool între 0,1% și 0,7%, se comite o contravenție care se pedepsește cu:
@@ -195,7 +195,7 @@ Pentru o concentrație de alcool între 0,1% și 0,7%, se comite o contravenție
 Orice persoană care face orice tip de cursă pe stradă și nu are permisiunea legală a poliției, punând în pericol viața civililor, înfăptuiește o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 15.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 60 - 100 de luni**
 - **Anulare permis de conducere** 
 
 ### <a id="2.5"></a><span style="color: #0088CC">2.5 Părăsirea locului accidentului sau a unei scene</span>
@@ -203,7 +203,7 @@ Orice persoană care face orice tip de cursă pe stradă și nu are permisiunea 
 Orice persoană care fuge de la locul unui accident sau al unei crime, fără să se prezinte sau să sune la autorități, înfăptuiește o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 5.500$**
-- **Sentință: 20 - 40 de luni**
+- **Sentință: 40 - 60 de luni**
 - **Anulare permis de conducere**
 
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Conducerea unui autovehicul neînmatriculat</span>
@@ -220,7 +220,7 @@ Orice cetățean care conduce un autovehicul/motocicletă fără a avea o plăcu
 Orice persoană care refuză prelevarea de mostre biologice constituie infractiune, ce se poate pedepsi cu:
 
 - **Amendă contravențională: 15.000$**
-- **Sentință: 50 - 60 de luni**
+- **Sentință: 60 - 80 de luni**
 - **Anulare permis de conducere**
 
 ## <a id="3"></a><span style="color: #0088CC">CAP. 3 Infracţiuni asupra bunelor moravuri, proprietăţilor și liniştii publice</span>
@@ -237,21 +237,21 @@ Orice persoană care își acoperă zona facială cu orice fel de obiect / tatua
 Orice persoană care urmăreşte, cu bună ştiinţă, o altă persoană şi o hărţuieşte cu intenţia de a i se face frică pentru propria siguranţă sau pentru siguranţa familiei sale înfăptuiește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 7.000$**
-- **Sentință: 20 - 40 de luni**
+- **Sentință: 40 - 60 de luni**
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 Urmărirea unei autospeciale de poliție/medici fără acord</span>
 
 Orice persoană care urmăreşte, cu bună ştiinţă, o unitate de poliție/medici şi o hărţuieşte cu intenţia de a face persoana respectivă să-i fie frică pentru propria siguranţă se poate pedepsi cu:
 
 - **Amendă contravențională: 12.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 50 - 80 de luni**
 
 ### <a id="3.4"></a><span style="color: #0088CC">3.4 Expunere indecentă</span>
 
 Orice persoană care îşi expune organele genitale, cu bună ştiinţă, în public sau în orice spaţiu unde se află şi alte persoane, înfăptuiește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 6.000$**
-- **Sentință: 20 - 40 de luni**
+- **Sentință: 40 - 60 de luni**
 
 ### <a id="3.5"></a><span style="color: #0088CC">3.5 Prostituţie</span>
 
@@ -260,7 +260,7 @@ Prostituţia constă în fapta unei persoane de a-şi procura principalele mijlo
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 10.000$**
-- **Sentință: 25 - 50 de luni**
+- **Sentință: 50 - 80 de luni**
 
 De aceeași infracțiune vor fi acuzați și clienții acestor persoane, care fac uz de prostituție.
 
@@ -270,28 +270,28 @@ Violul constă în actul sexual, de orice natură, cu o persoană de sex diferit
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă contravențională: 25.000$**
-- **Sentință: 50 - 100 de luni**
+- **Sentință: 120 - 200 de luni**
 
 ### <a id="3.7"></a><span style="color: #0088CC">3.7 Încălcarea proprietății private</span>
 
 Pătrunderea fără drept, în orice mod, într-o locuință, încăpere sau loc privat, fără consimțământul persoanei care o deține, sau refuzul de a le părăsi la cererea acesteia, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 7.000$**
-- **Sentință: 25 - 50 de luni**
+- **Sentință: 60 - 80 de luni**
 
 ### <a id="3.8"></a><span style="color: #0088CC">3.8 Vandalism</span>
 
 Orice persoană care distruge sau deteriorează un bun sau o proprietate care nu îi aparţine, înfăptuiește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 15.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 60 - 80 de luni**
 
 ### <a id="3.9"></a><span style="color: #0088CC">3.9 Şantaj</span>
 
 Şantajul reprezintă folosirea fricii sau a altor metode drept mecanism pentru a influenţa un individ să îndeplinească diferite activităţi sau servicii, și reprezintă o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 6.000$**
-- **Sentință: 35 - 55 de luni**
+- **Sentință: 75 - 100 de luni**
 
 ### <a id="3.10"></a><span style="color: #0088CC">3.10 Tâlhărie</span>
 
@@ -300,14 +300,14 @@ Tâlhăria constă în fapta unei persoane de a lua un bun mobil din posesia alt
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 15.000$**
-- **Sentință: 50 - 70 de luni**
+- **Sentință: 70 - 100 de luni**
 
 ### <a id="3.11"></a><span style="color: #0088CC">3.11 Furt auto</span>
 
 Orice persoană care fură un autovehicul, nu contează valoarea acestuia, înfăptuiește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 7.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 50 - 80 de luni**
 
 Această acuzație se aplică și pentru spargerea unui autovehicul, cu sau fără intenţia de a-l fura.
 
@@ -316,7 +316,7 @@ Această acuzație se aplică și pentru spargerea unui autovehicul, cu sau făr
 Orice persoană care fură un autovehicul care aparține Departamentului de Poliție sau al Spitalului înfăptuiește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 10.000$**
-- **Sentință: 50 - 70 de luni**
+- **Sentință: 120 - 150 de luni**
 
 Această acuzație se aplică și pentru spargerea unui autovehicul, cu sau fără intenţia de a-l fura.
 
@@ -326,7 +326,7 @@ Săvârșirea unui furt prin violență, amenințarea sau forțarea unei persoan
 Această acțiune reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă contravențională: 30.000$**
-- **Sentință: 60 - 100 de luni**
+- **Sentință: 100 - 150 de luni**
 
 #### <a id="3.12.1"></a><span style="color: #0088CC">3.12.1 Jaf Armat</span>
 
@@ -334,7 +334,7 @@ Săvârșirea unui furt prin violență, amenințarea sau forțarea unei persoan
 reprezintă o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 35.000$**
-- **Sentință: 80 - 120 de luni**
+- **Sentință: 120 - 170 de luni**
 
 #### <a id="3.12.2"></a><span style="color: #0088CC">3.12.2 Jaf Imobile</span>
 
@@ -343,7 +343,7 @@ Săvârșirea unui furt prin violență, amenințare sau forțare a accesului î
 Aceasta infractiune se pedepsește cu:
 
 - **Amendă contravențională: 35.000$**
-- **Sentință: 60 - 100 de luni**
+- **Sentință: 120 - 150 de luni**
 
 #### <a id="3.12.3"></a><span style="color: #0088CC">3.12.3 Jaf Bancar</span>
 
@@ -352,28 +352,28 @@ Săvârșirea unui furt prin violență, amenințare sau forțare a accesului î
 Aceasta infractiune se pedepsește cu:
 
 - **Amendă contravențională: 45.000$**
-- **Sentință: 90 - 120 de luni**
+- **Sentință: 250 - 360 de luni**
 
 ### <a id="3.13"></a><span style="color: #0088CC">3.13 Deranjarea liniştii publice</span>
 
 Dacă cineva pune un aparat pe volumul maxim, vorbește prea tare, folosește cuvinte vulgare în public sau începe o ceartă care poate duce la bătaie, înfăptuiește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 5.000$**
-- **Sentință: 10 - 20 de luni**
+- **Sentință: 20 - 40 de luni**
 
 ### <a id="3.14"></a><span style="color: #0088CC">3.14 Eșecul de a părăsi un loc</span>
 
 Orice persoana care refuză să părăsească locul indicat de un ofițer al legii, săvârșește o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 5.000$**
-- **Sentință: 15 - 30 de luni**
+- **Sentință: 50 - 70 de luni**
 
 ### <a id="3.15"></a><span style="color: #0088CC">3.15 Instigarea unei revolte</span>
 
 Atunci când unul sau mai mulți civili încearcă să creeze o revoltă cu tentativa de a distruge bunurile publice sau de a răni mai mulți oameni. Aceștia săvârșesc o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 20.000$**
-- **Sentință: 25 - 50 de luni**
+- **Sentință: 80 - 120 de luni**
 
 ### <a id="3.16"></a><span style="color: #0088CC">3.16 Calomnie</span>
 
@@ -382,7 +382,7 @@ Acuzarea sau răspândirea unor minciuni în public despre o persoană, care, da
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 7.000$**
-- **Sentință: 15 - 30 de luni**
+- **Sentință: 30 - 50 de luni**
 
 ### <a id="3.17"></a><span style="color: #0088CC">3.17 Căutarea în gunoaiele din spațiul public</span>
 
@@ -398,8 +398,16 @@ Acest lucru reprezintă o infracţiune care se poate pedepsi cu:
 Spunerea unor minciuni sau distorsionarea adevărului pentru a obține un folos necuvenit, dacă acest lucru cauzează pagube. Acest lucru reprezintă o infracțiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 40.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 120 - 200 de luni**
 - **Returnarea bunurilor sau contravaloarea acestora**
+
+### <a id="3.19"></a><span style="color: #0088CC">3.19 Eveniment neautorizat in spațiul public</span>
+
+Orice persoană sau grup de persoane care desfășoară un eveniment pe domeniul public fără obținerea avizului printr-o cerere de audiență și acordul Poliției.
+
+- **Amendă contravențională: 100.000$**
+- **Sentință: 30 de luni**
+- **Codul Penal: reprezintă o infracţiune care se poate pedepsi cu închiderea suspectului.**
 
 ## <a id="4"></a><span style="color: #0088CC">CAP. 4 Infracţiuni asupra justiţiei</span>
 
@@ -410,7 +418,7 @@ Orice persoană care împiedică un ofițer să își îndeplinească atribuții
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 15.000$**
-- **Sentință: 40 - 70 de luni**
+- **Sentință: 100 - 150 de luni**
 
 A nu se acorda împreună cu **<a href="#4.4">#4.4 Rezistență la Arest.</a>**
 
@@ -419,28 +427,28 @@ A nu se acorda împreună cu **<a href="#4.4">#4.4 Rezistență la Arest.</a>**
 Orice persoană care refuză să părăsească o instituție a statului (Secția de Poliție / Spital / Penitenciar etc) la cererea organului de poliție, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă contravențională: 8.000$**
-- **Sentință: 15 - 30 de luni**
+- **Sentință: 75 - 95 de luni**
 
 ### <a id="4.3"></a><span style="color: #0088CC">4.3 Ultraj</span>
 
 Infracțiune care constă în insultă, injosire, calomnie, vandalism, amenințare ori alte acte de violență verbală cât și fizică împotriva unui agent de poliție. Această acțiune reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 20.000$**
-- **Sentință: 50 - 80 de luni**
+- **Sentință: 50 - 360 de luni**
 
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 Evadarea din custodie</span>
 
 Orice persoană care a fost reţinută fizic de către un ofiţer de poliţie şi evadează din posesia acestora rezultă ca o percheziţie sau un mandat de arestare să fie create. În noul dosar penal, persoana va fi pedepsită cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 80 - 120 de luni**
+- **Sentință: 120 - 200 de luni**
 
 ### <a id="4.5"></a><span style="color: #0088CC">4.5 Rezistență la Arest</span>
 
 Orice persoană care opune rezistență când trebuie să fie arestată sau reținută de către ofițerii din cadrul Poliției reprezintă o infractiune care se poate pedepsi cu:
 
 - **Amendă penală: 7.500$**
-- **Sentință: 60 - 80 de luni**
+- **Sentință: 80 - 160 de luni**
 
 Această acuzație înlocuiește acuzația **<a href="#2.1">#2.1 Evadarea de un ofiter cu un autovehicul</a>** și trebuie folosită când un suspect se folosește de fugă pentru a evita arestul.
 
@@ -449,32 +457,34 @@ Această acuzație înlocuiește acuzația **<a href="#2.1">#2.1 Evadarea de un 
 Orice persoană care refuză să se identifice unui ofițer cu un act legal sau cu numele său reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 15.000$**
-- **Sentință: 15 - 30 de luni**
+- **Sentință: 60 - 80 de luni**
 
 ### <a id="4.7"></a><span style="color: #0088CC">4.7 Dare de mită</span>
 
 Oricine dă bunuri personale pentru a schimba părerea unui angajat guvernamental sau pentru a-l influența în deciziile sale. reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 15.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 150 - 300 de luni**
 
 ### <a id="4.8"></a><span style="color: #0088CC">4.8 Codul Muncii</span>
 
 Prestarea de servicii fără a avea licență sau atestat într-un domeniu care cere acest lucru este considerată înșelarea statului și se pedepsește penal. Dacă o persoană este prinsă fără aceste documente, înseamnă că a încălcat Codul Muncii și comite o infracțiune care se poate pedepsi cu:
 
-- **Amendă penală: 15.000$**
-- **Sentință: 15 - 30 de luni**
+- **- Amendă penală: 15.000$**
+- **- Dosar penal și confiscarea bunurilor**
 
 În acest moment urmatoarele licențe pot fi emise de către primăria orașului:
 - De **Pescuit**
 - De **Miner**
+- De **Crescator de Tabac**
+- De **Taietor de Lemne**
 
 ### <a id="4.9"></a><span style="color: #0088CC">4.9 Descurajarea unui martor sau a unei victime</span>
 
 Orice persoană care împiedică sau descurajează orice martor sau victimă de la a da mărturie într-un proces, cu utilizarea mitei, amenințării sau a altor tactici, cu bună știință şi rea intenție, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 35 - 55 de luni**
+- **Sentință: 80 - 120 de luni**
 
 ### <a id="4.10"></a><span style="color: #0088CC">4.10 Limbaj vulgar</span>
 
@@ -487,14 +497,14 @@ Orice persoană folosește cuvinte vulgare cu scopul de a jigni, intimida sau ob
 Orice persoană care apelează în mod abuziv linia de urgență 112 sau fără a avea o adevărată problemă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 50 - 80 de luni**
 
 ### <a id="4.12"></a><span style="color: #0088CC">4.12 Braconajul</span>
 
 Orice persoană care vânează sau pescuiește în zonele care nu sunt stabilite prin lege ca locații de vânătoare/pescuit, comite delictul de braconaj şi se pedepseşte prin lege cu:
 
 - **Amendă penală: 30.000$**
-- **Sentință: 20 - 30 de luni**
+- **Sentință: 70 - 100 de luni**
 
 Informații:
 
@@ -511,13 +521,13 @@ Lista peștilor protejați de lege: Baracuda, Caracatiță, Pisică de mare, ori
 Cine falsifică un act public, fie prin copierea semnăturii, fie prin modificarea unui act adevărat în orice fel, comite infracțiunea de fals în acte publice şi se pedepseşte cu:
 
 - **Amendă penală: 15.000$**
-- **Sentință: 20 - 50 de luni**
+- **Sentință: 80 - 150 de luni**
 
 ### <a id="4.14"></a><span style="color: #0088CC">4.14 Eşecul de plată al amenzilor</span>
 
 Toate amenzile acordate de către Inspectoratul Principal Judiciar Los Santos trebuie achitate în termen de 21 de zile. Eşecul de a efectua plata în acest termen poate fi sancționat cu:
 
-- **Sentință: 20 - 40 de luni**
+- **Sentință: 40 - 80 de luni**
 
 ## <a id="5"></a><span style="color: #0088CC">CAP. 5 Infracţiuni asupra sănătăţii şi siguranţei publice</span>
 
@@ -526,7 +536,7 @@ Toate amenzile acordate de către Inspectoratul Principal Judiciar Los Santos tr
 Producerea, deţinerea, precum şi orice operaţiune privind cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe se pedepsesc cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 15 - 30 de luni**
+- **Sentință: 40 - 60 de luni**
 
 Se aplica doar pentru semintele si frunzele de plante care conțin astfel de substanțe.
 
@@ -534,14 +544,14 @@ A nu se cumula cu <a href="#5.2">#5.2 Prelucrarea sau deținerea țigărilor de 
 
 ### <a id="5.2"></a><span style="color: #0088CC">5.2 Prelucrarea sau deținerea țigărilor de contrabandă</span>
 
-Orice persoană care transportă, confecționează sau deține țigări de contrabandă care sunt prevăzute de lege ca fiind ilegale.
+Orice persoană care transportă, confecționează sau deține țigări de contrabandă care sunt prevăzute de lege ca fiind ilegale peste o anumită limită legală, va fi sancționat conform Codului Penal.
 
 Această faptă reprezintă o crimă care se poate pedepsi cu reținerea suspectului și amendă, în funcție de cantitatea de țigări pe care o deține:
 
-- **TIP I (1 - 10 țigări): sentință 10 - 20 de luni și amendă 10.000$.**
-- **TIP II (10 - 50 țigări): sentință 20 - 30 de luni și amendă 15.000$.**
-- **TIP III (50 - 100 țigări): sentință 30 - 40 de luni și amendă 20.000$.**
-- **TIP IV (100 + țigări): sentință 40 - 60 de luni și amendă 25.000$.**
+- **TIP I (1 - 20 țigări): atât este legal să aveți asupra dumneavoastră fara licenta de producator.**
+- **TIP II (21 - 50 țigări): confiscarea tigarilor, Dosar Penal și amendă 15.000$.**
+- **TIP III (51 - 100 țigări): confiscarea tigarilor, Dosar Penal și amendă 20.000$.**
+- **TIP IV (101 + țigări): sentință 60 - 80 de luni și amendă 25.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -553,10 +563,10 @@ Această faptă reprezintă reprezintă o crimă care se poate pedepsi cu rețin
 
 Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
-- **TIP I (1 - 10 joint-uri): sentință 20 - 30 de luni și amendă 15.000$.**
-- **TIP II (10 - 50 joint-uri): sentință 30 - 40 de luni și amendă 20.000$.**
-- **TIP III (50 - 100 joint-uri): sentință 40 - 50 de luni și amendă 25.000$.**
-- **TIP IV (100+ joint-uri): sentință 50 - 70 de luni și amendă 30.000$.**
+- **TIP I (1 - 5 joint-uri): confiscare joint-urilor, Dosar Penal și amendă 15.000$.**
+- **TIP II (6 - 50 joint-uri): sentință 40 - 80 de luni și amendă 20.000$.**
+- **TIP III (51 - 100 joint-uri): sentință 80 - 120 de luni și amendă 25.000$.**
+- **TIP IV (101+ joint-uri): sentință 120 - 250 de luni și amendă 30.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -568,10 +578,10 @@ Această faptă reprezintă reprezintă o crimă care se poate pedepsi cu rețin
 
 Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
-- **TIP I (1 - 10 plicuri de cocaina): sentință 40 - 50 de luni și amendă 30.000$.**
-- **TIP II (10 - 50 plicuri de cocaina): sentință 50 - 60 de luni și amendă 40.000$.**
-- **TIP III (50 - 100 plicuri de cocaina): sentință 60 - 70 de luni și amendă 50.000$.**
-- **TIP IV (100+ plicuri de cocaina): sentință 70 - 100 de luni și amendă 60.000$.**
+- **TIP I (1 - 3 plicuri de cocaina): confiscare substanței, Dosar Penal și amendă 30.000$.**
+- **TIP II (4 - 50 plicuri de cocaina): sentință 70 - 90 de luni și amendă 40.000$.**
+- **TIP III (51 - 100 plicuri de cocaina): sentință 90 - 140 de luni și amendă 50.000$.**
+- **TIP IV (101+ plicuri de cocaina): sentință 140 - 360 de luni și amendă 60.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -581,10 +591,10 @@ Orice persoană deține bani nemarcati obtinuti prin diferite mijloace ilegale.
 
 Această faptă reprezintă o crimă care se poate pedepsi cu reținerea suspectului și amendă, în funcție de cantitatea de bani nemarcați pe care o deține:
 
-- **TIP I (10.000 - 100.000 bancnote de bani nemarcati): sentință 20 - 30 de luni și amendă 20.000$.**
-- **TIP II (100.000 - 1.000.000 bancnote de bani nemarcati): sentință 30 - 40 de luni și amendă 30.000$.**
-- **TIP III (1.000.000 - 100.000.000 bancnote de bani nemarcati): sentință 40 - 50 de luni și amendă 40.000$.**
-- **TIP IV (10.000.000+ bancnote de bani nemarcati): sentință 50 - 60 de luni și amendă 50.000$.**
+- **TIP I (10.000 - 100.000 bancnote de bani nemarcati): sentință 40 - 70 de luni și amendă 20.000$.**
+- **TIP II (100.000 - 1.000.000 bancnote de bani nemarcati): sentință 70 - 100 de luni și amendă 30.000$.**
+- **TIP III (1.000.000 - 100.000.000 bancnote de bani nemarcati): sentință 100 - 150 de luni și amendă 40.000$.**
+- **TIP IV (10.000.000+ bancnote de bani nemarcati): sentință 120 - 175 de luni și amendă 50.000$.**
 
 ### <a id="5.6"></a><span style="color: #0088CC">5.6 Practicarea medicinei fără licenţă</span>
 
@@ -595,7 +605,7 @@ Se aplică doar la persoanele care încearcă să injecteze sau să practice int
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 20.000$**
-- **Sentință: 60 - 100 de luni**
+- **Sentință: 120 - 180 de luni**
 
 ### <a id="5.7"></a><span style="color: #0088CC">5.7 Obligaţia de identificare adecvată</span>
 
@@ -623,72 +633,65 @@ Orice persoană care amenință intenţionat să comită o crimă care poate rez
 Aceste amenințări criminale reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 8.500$**
-- **Sentință: 20 - 40 de luni**
+- **Sentință: 50 - 80 de luni**
 
 ### <a id="6.2"></a><span style="color: #0088CC">6.2 Tentativă de omor</span>
 
 Orice persoană care încearcă să comită o crimă sau vătămări severe şi ireversibile înfăptuiește o infracțiune și poate fi pedepsită cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 70 - 90 de luni**
 
 ### <a id="6.3"></a><span style="color: #0088CC">6.3 Vătămare corporală</span>
 
 Orice persoană care răneşte altă persoană prin diferite mijloace unde nu apar răni severe, reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 7.500$**
-- **Sentință: 20 - 40 de luni**
+- **Sentință: 60 - 80 de luni**
 
 ### <a id="6.4"></a><span style="color: #0088CC">6.4 Vătămare corporală gravă</span>
 
 Orice persoană care răneşte altă persoană prin utilizarea unei armei mortale sau vătămarea corporală unde apar răni severe, reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 11.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 80 - 120 de luni**
 
-### <a id="6.5"></a><span style="color: #0088CC">6.5 Asalt cu o armă mortală</span>
-
-Asaltul cu o armă mortală este un act de asalt în care suspectul este în posesia unui obiect sau a unei arme capabile de a răni și reprezintă o crimă care se poate pedepsi cu:
-
-- **Amendă penală: 13.000$**
-- **Sentință: 50 - 70 de luni**
-
-### <a id="6.6"></a><span style="color: #0088CC">6.6 Omor din culpă</span>
+### <a id="6.5"></a><span style="color: #0088CC">6.6 Omor din culpă</span>
 
 Omorul din culpă reprezintă uciderea fără intenţie a unui individ, cu sau fără o ceartă anterioară. Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 120 - 150 de luni**
 
-### <a id="6.7"></a><span style="color: #0088CC">6.7 Crimă (Omucidere)</span>
+### <a id="6.6"></a><span style="color: #0088CC">6.7 Crimă (Omucidere)</span>
 
 Omuciderea este un delict ilegal de ucidere a unei fiinţe umane și reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 14.000$**
-- **Sentință: 60 - 80 de luni**
+- **Sentință: 130 - 160 de luni**
 
-### <a id="6.8"></a><span style="color: #0088CC">6.8 Răpire</span>
+### <a id="6.7"></a><span style="color: #0088CC">6.8 Răpire</span>
 
 O persoană care fură, ţine, reţine sau arestează alt individ, cu forţa şi împotriva voinţei sale săvârșește o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 11.000$**
-- **Sentință: 60 - 100 de luni**
+- **Sentință: 100 - 130 de luni**
 
-### <a id="6.9"></a><span style="color: #0088CC">6.9 Tortură</span>
+### <a id="6.8"></a><span style="color: #0088CC">6.9 Tortură</span>
 
 Orice persoană care, cu intenţia de a cauza dureri nemiloase şi suferinţe extreme cu scopul răzbunării, şantajului, convingerii sau pentru orice alt scop sadic, care are ca urmare o vătămare corporală extrem de gravă, poate fi acuzată de tortură care se poate pedepsi cu:
 
 - **Amendă penală: 20.000$**
-- **Sentință: 70 - 100 de luni**
+- **Sentință: 100 - 150 de luni**
 
 A nu se cumula cu acuzația de <a href="#6.2">#6.2 Tentativă de omor</a>. Totuşi, dacă tortura a rezultat în moartea unui individ, acuzația de tortură se va cumula cu acuzația de <a href="#6.7">#6.7 Crimă (Omucidere)</a>.
 
-### <a id="6.10"></a><span style="color: #0088CC">6.10 Fraudarea Creditorilor</span>
+### <a id="6.9"></a><span style="color: #0088CC">6.10 Fraudarea Creditorilor</span>
 
 Oricine ascunde, vinde, distruge sau deteriorează bunuri din averea unui creditor, creează datorii false sau comite alte acte care îl pune în dificultate financiară, va fi sancționat cu:
 
 - **Amendă penală: 15.000$ - 150.000$**
-- **Sentință: 100 - 500 de luni**
+- **Sentință: 200 - 500 de luni**
 - **Restituirea tuturor bunurilor sau contravaloarea acestora**
 
 ## <a id="7"></a><span style="color: #0088CC">CAP. 7 Controlul armelor mortale</span>
@@ -700,7 +703,7 @@ Orice persoană care poartă, fără drept, în locurile şi împrejurările în
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 6.500$**
-- **Sentință: 25 - 50 de luni**
+- **Sentință: 50 - 80 de luni**
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Posesia unei arme de foc de calibru mic fără permis PORT-ARMĂ</span>
 
@@ -711,7 +714,7 @@ Arma poate fi considerată în posesia lui chiar dacă se află în casa individ
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 10.000$**
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 75 - 100 de luni**
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Posesia unei arme de foc de calibru mare</span>
 
@@ -720,7 +723,7 @@ Orice persoană care deține asupra lui o armă de foc de calibru mare precum: *
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 11.000$**
-- **Sentință: 35 - 55 de luni**
+- **Sentință: 80 - 120 de luni**
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Posesia unei arme de foc automată</span>
 
@@ -729,7 +732,7 @@ Orice persoană care deține asupra lui o armă de foc automată, precum: **AK47
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 12.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 100 - 140 de luni**
 
 În cazul în care deține și o armă de calibru mic nu se cumulează cu <a href="#7.2">#7.2 Posesia unei arme de foc de calibru mic fără permis PORT-ARMĂ</a> sau <a href="#7.3">#7.3 Posesia unei arme de foc de calibru mare</a>.
 
@@ -740,21 +743,21 @@ Orice persoană care deține asupra lui explozibil, obiecte inflamabile sau cant
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 20.000$**
-- **Sentință: 90 - 120 de luni**
+- **Sentință: 150 - 250 de luni**
 
 ### <a id="7.6"></a><span style="color: #0088CC">7.6 Îndreptarea unei arme de foc</span>
 
 Orice persoană care deține asupra lui o armă de foc și o îndreaptă asupra unui obiect sau asupra unei persoane. 
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
-- **Sentință: 20 - 40 de luni**
+- **Sentință: 60 - 100 de luni**
 
 ### <a id="7.7"></a><span style="color: #0088CC">7.7 Descărcarea letală a unei arme de foc</span>
 
 Orice persoană care folosește o armă de foc, cu scopul de a vătăma corporal grav o altă persoană nefiind într-un scop de autoapărare.
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
-- **Sentință: 30 - 50 de luni**
+- **Sentință: 70 - 100 de luni**
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Traficul de armament sau de munitie</span>
 
@@ -763,7 +766,7 @@ Orice persoană care deține trei sau mai multe arme de foc şi/sau mai mult de 
 Această faptă reprezintă o crimă care se poate pedepsi cu:
 
 - **Amendă penală: 50.000$**
-- **Sentință: 80 - 120 de luni**
+- **Sentință: 250 - 360 de luni**
 
 De asemenea, toate obiectele folosite pentru a fabrica gloanțe sau arme găsite în zona de fabricație vor fi confiscate.
 
@@ -784,21 +787,21 @@ Această faptă reprezintă o crimă care se pedepsește cu **reținerea suspect
 Intrarea ilegală în zone sau clădiri protejate, cu scopul de a aduna informații sau de a desfășura activități dăunătoare, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 35.000$**
-- **Sentință: 60 - 90 de luni**
+- **Sentință: 120 - 200 de luni**
 
 ### <a id="8.3"></a><span style="color: #0088CC">8.3 Împiedicarea activităților guvernamentale</span>
 
 Orice act care interferează sau împiedică activitățile guvernului, agențiilor de securitate sau serviciilor publice, cum ar fi blocarea drumurilor sau atacarea oficialilor guvernamentali, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 50.000$**
-- **Sentință: 80 - 100 de luni**
+- **Sentință: 120 - 250 de luni**
 
 ### <a id="8.4"></a><span style="color: #0088CC">8.4 Formarea unui grup paramilitar</span>
 
 Crearea sau apartenența la grupuri organizate care au scopuri de combatere a autorităților sau de destabilizare a statului, cu sau fără arme, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 35.000$**
-- **Sentință: 60 - 90 de luni**
+- **Sentință: 120 - 200 de luni**
 
 A nu se cumula cu **<a href="#8.3">#8.3 Împiedicarea activităților guvernamentale</a>**
 
@@ -807,21 +810,21 @@ A nu se cumula cu **<a href="#8.3">#8.3 Împiedicarea activităților guvernamen
 Organizarea de mitinguri, proteste sau alte acțiuni care încurajează violența împotriva autorităților sau a instituțiilor guvernamentale, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 25.000$**
-- **Sentință: 70 - 90 de luni**
+- **Sentință: 120 - 180 de luni**
 
 ### <a id="8.6"></a><span style="color: #0088CC">8.6 Falsificarea documentelor guvernamentale</span>
 
 Crearea, modificarea sau utilizarea ilegală a documentelor oficiale pentru a accesa informații sau locații restricționate, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 20.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 80 - 120 de luni**
 
 ### <a id="8.7"></a><span style="color: #0088CC">8.7 Spionaj</span>
 
 Obținerea sau transmiterea de informații secrete sau sensibile către entități externe, care ar putea periclita siguranța națională sau interesele unui stat, reprezintă o infracţiune care se poate pedepsi cu:
 
 - **Amendă penală: 20.000$**
-- **Sentință: 40 - 60 de luni**
+- **Sentință: 60 - 100 de luni**
 
 ### <a id="8.8"></a><span style="color: #0088CC">8.8 Sabotaj</span>
 
@@ -829,7 +832,7 @@ Sabotajul constă în distrugerea sau deteriorarea intenționată a infrastructu
 Infracţiunea este pedepsita cu:
 
 - **Amendă penală: 35.000$**
-- **Sentință: 60 - 80 de luni**
+- **Sentință: 100 - 150 de luni**
 
 ### <a id="8.9"></a><span style="color: #0088CC">8.9 Constituirea unui grup infracţional organizat</span>
 
@@ -838,7 +841,7 @@ Prin grup infracţional organizat se înţelege grupul structurat, format din tr
 Iniţierea sau constituirea unui grup infracţional organizat, aderarea sau sprijinirea, sub orice formă, a unui astfel de grup se poate pedepseşte cu:
 
 - **Amendă penală: 250.000$ - 500.000$**
-- **Sentință: 150 de luni - închisoare pe viață**
+- **Sentință: 250 de luni - închisoare pe viață**
 
 Dacă persoana care a săvârşit una dintre faptele prevăzute mai sus, contribuie la aflarea adevărului şi tragerea la răspundere penală a unuia sau mai multor membri ai unui grup infracţional organizat, limitele speciale ale pedepsei se reduc la jumătate.
 
@@ -851,7 +854,23 @@ Prin corupție se înțelege abuzul de putere în scopul obținerii unor foloase
 Infracțiunea se pedepsește cu:
 
 - **Amendă penală: 150.000$ - 300.000$**
-- **Sentință: 120 de luni - închisoare pe viață**
+- **Sentință: 250 de luni - închisoare pe viață**
+
+În situațiile în care persoana acuzată a colaborat la aflarea adevărului și la identificarea altor infractori, limitele speciale ale pedepsei se reduc la jumătate.
+
+Această faptă nu se cumulează cu alte articole ale codului penal.
+
+### <a id="8.11"></a><span style="color: #0088CC">8.11 Pericol grav pentru siguranța publică</span>
+
+O persoană poate fi încadrată la această faptă atunci când acumulează minimum 50 de dosare penale. Prin comportamentul său repetat dovedește că reprezintă un risc real pentru ordinea și siguranța publică. Încadrarea se face pe baza istoricului infracțional, a probelor existente și a evaluării pericolului social al faptelor comise.
+
+La atingerea pragului de 50 de dosare, persoana intră automat pe lista Most Wanted. I se emite mandat de arestare cu această acuzație și este adusă în fața instanței competente. Instanța analizează toate dosarele, probele și circumstanțele cauzei. 
+
+Dacă este găsită vinovată, persoana poate primi pedeapsa maximă prevăzută de lege, inclusiv închisoare pe viață.
+
+Infracțiunea se pedepsește cu:
+
+- **Sentință: 500 de luni - închisoare pe viață**
 
 În situațiile în care persoana acuzată a colaborat la aflarea adevărului și la identificarea altor infractori, limitele speciale ale pedepsei se reduc la jumătate.
 

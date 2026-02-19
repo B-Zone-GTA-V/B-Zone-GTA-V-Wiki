@@ -4,9 +4,7 @@ outline: deep
 
 # Despre cont și crearea caracterului.
 
-## Crearea contului / Account Creation
-
-### <span style="color: #0088CC">Română</span>
+## Crearea contului
 
 Pentru a te conecta pe serverul comunității B-Zone de GTA V ai nevoie de un cont valid. Pentru a-ți face un cont ai nevoie de un nume care să nu conțină caractere speciale (doar litere și cifre), o adresă de email validă, precum și o parolă securizată.
 
@@ -16,41 +14,36 @@ De asemenea, la înregistrarea contului o să vă puteți seta limba jocului, ac
 
 La crearea contului ai posibilitatea de a adăuga codul de Referral unde îți va aduce niște beneficii considerabile.
 
-În cazul în care întâmpinați probleme de conectivitate (ați uitat parola), puteți oricând să o recuperați accesând [v.b-zone.ro -> Forgot Password](https://v.b-zone.ro/account/forgot-password).
+În cazul în care întâmpinați probleme de conectivitate (ați uitat parola), puteți oricând să o recuperați accesând [gta5.ro -> Forgot Password](https://assets.b-zone.ro/account/forgot-password).
 
-### <span style="color: #0088CC">English</span>
+### Despre interfață
 
-To connect to the B-Zone community server for GTA V, you need a valid account. To create an account, you require a name without special characters, a valid email address, and a secure password.
+Dacă există un cont creat cu username-ul cu care intrați pe server veți vedea interfața de logare. În acest pas trebuie să vă introduceți parola contului.
 
-The security of the account is determined by how the password is structured. To set a password, you need at least one uppercase letter, one lowercase letter, one symbol, one number, and a total of eight characters.
+În cazul în care intrați pe server pentru prima oară și ajungeți în interfața de logare trebuie să ieșiți din joc și să vă alegeți un alt username pentru a fi redirecționați în interfața de înregistrare prezentată mai jos.
 
-Additionally, during the account registration, you can set the game language, which can be changed in real-time from the settings [/settings] or from ESC menu.
+<details>
+  <summary>Logare</summary>
+  <img src="https://assets.b-zone.ro/wiki/login-account.png" alt="LogIn">
+</details>
 
-When creating the account you have the possibility to add the Referral code where it will bring you some considerable benefits.
+Dacă nu există un cont creat cu username-ul selectat veți fi redirecționat pe pagina de înregistrare a contului.
 
-If you encounter connectivity issues (forgot your password), you can always recover it by accessing v.b-zone.ro -> Forgot Password.
+<details>
+  <summary>Înregistrare</summary>
+  <img src="https://assets.b-zone.ro/wiki/register-account.png" alt="LogIn">
+</details>
 
+### Social Club Id
 
-## Crearea caracterului / Character Creation
+Fiecare cont este restricționat pe un anumit Social Club Id. Acesta se seteaaza în momentul în care se crează contul, iar din acest punct vă veți putea conecta pe cont doar dacă aveți același Social Club Id cu cel asociat contului.
 
-### <span style="color: #0088CC">Romana</span>
+Totodată este permis să aveți doar un cont înregistrat pe un singur Social Club Id.
+
+## Crearea caracterului
 
 În momentul în care personajul este creat, acesta poate să fie modificat parțial în funcție de opțiunile valabile pe server (exemplu: frizeriile).
 
 Un singur personaj este valabil per cont, prin urmare, asigurați-vă că investiți timp în personalizarea caracterului vostru de joc.
 
 Trăsături precum pistruii / mărimea nasului / pomeții etc. NU pot fi modificate după ce personajul a fost finalizat!
-
-### <span style="color: #0088CC">English</span>
-
-
-When the character is created, it can be partially modified based on the available options on the server (e.g., barbershops).
-
-Only one character is valid per account, so make sure to invest time in customizing your in-game character.
-
-Features such as freckles / nose size / cheekbones, and so on, cannot be changed after the character has been finalized!
-
-<details>
-  <summary>Account Creation</summary>
-  <img src="https://v.b-zone.ro/images/wiki/account-creation.gif" alt="Account Creation">
-</details>

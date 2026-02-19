@@ -20,7 +20,7 @@ export default defineConfig({
       { 
         text: 'Linkuri',
         items: [
-          { text: 'UCP', link: 'https://v.b-zone.ro' },
+          { text: 'UCP', link: 'https://gta5.ro' },
           { text: 'Discord', link: 'https://b-zone.ro/rage' },
           { text: 'RAGEMP', link: 'https://rage.mp' },
         ]
@@ -42,9 +42,18 @@ export default defineConfig({
         ]
       },
       {
+        text: '🚗 Vehicule Server',
+        items: [
+          { text: 'Vehicule', link: '/server/rules/vehicles' },
+        ]
+      },
+      {
         text: 'ℹ️ General',
         items: [
           // { text: '🐇Eveniment Paște', link: '/server/info/easter' },
+          // { text: '🍂Eveniment Toamnă', link: '/server/info/autumn' },
+          // { text: '🎃Eveniment Halloween', link: '/server/info/halloween' },
+          // { text: '🎄Eveniment Iarnă', link: '/server/info/christmas' },
           {
             text: 'Activități',
             collapsed: false,
@@ -52,10 +61,11 @@ export default defineConfig({
               { text: 'Market', link: '/server/info/market' },
               { text: 'Sală', link: '/server/info/gym' },
               { text: 'Cărți', link: '/server/info/books' },
+              { text: 'Roata Norocului', link: '/server/info/wheel_of_fortune' },
               { text: 'Poker', link: '/server/info/poker' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
-              { text: 'Wheel Of Fortune', link: '/server/info/wheel_of_fortune' },
-              { text: 'Căutarea în tomberoane', link: '/server/info/trashsearch' },
+              { text: 'Culegător de Ciuperci', link: '/server/info/mushrooms' },
+              { text: 'Căutatul în tomberoane', link: '/server/info/trashsearch' },
             ]
           },
           { 
@@ -66,7 +76,8 @@ export default defineConfig({
               { text: 'Documente', link: '/server/info/documents' },
               { text: 'Inventar', link: '/server/info/inventory' },
               { text: 'Referral', link: '/server/info/referal' }, 
-              { text: 'Setări și Taste rapide', link: '/server/info/settings' }, 
+              { text: 'Setări și Taste rapide', link: '/server/info/settings' },
+              { text: 'Indicatorii de Stare', link: '/server/info/stats' }, 
             // { text: 'Tutorial', link: '/server/info/tutorial' },
             // { text: 'RolePlay Test', link: '/server/info/rptest' },
             // { text: 'Referral', link: '/server/info/referral' },
@@ -76,10 +87,12 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
+              { text: 'Cutii Haine', link: '/server/info/clothing-case' },
               { text: 'BNN', link: '/server/info/bnn' },
               { text: 'ATM', link: '/server/info/atm' },
               { text: 'Licențe', link: '/server/info/licenses' },
               { text: 'Telefon', link: '/server/info/phone' },
+              { text: 'Tabletă', link: '/server/info/tablet' },
               { text: 'Garaje', link: '/server/info/garage' },
               { text: 'Animații', link: '/server/info/animation' },
               { text: 'Meniu ESC', link: '/server/info/esc-menu' },

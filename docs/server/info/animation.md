@@ -2,11 +2,9 @@
 outline: deep
 ---
 
-# Sistemul de animații / Animation System
+# Sistemul de animații
 
 ## Introducere
-
-### <span style="color: #0088CC">Română</span>
 
 Pe server în prezent există 3 tipuri de animații pe care le puteți folosi:
 - Animații generice 
@@ -23,6 +21,6 @@ Pentru o mai rapidă acționare a animațiilor, serverul vă pune la îndemână
 - Animațiile pot să fie întrerupte folosind comanda [/c] în chat.
 
 <details>
-  <summary>Animation interface</summary>
-  <img src="https://v.b-zone.ro/images/wiki/animations-interface.jpg">
+  <summary>Interfață animații</summary>
+  <img src="https://assets.b-zone.ro/wiki/animations-interface.jpg">
 </details>

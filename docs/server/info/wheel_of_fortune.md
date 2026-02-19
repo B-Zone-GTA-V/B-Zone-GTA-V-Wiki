@@ -6,8 +6,6 @@ outline: deep
 
 ## Introducere
 
-### <span style="color: #0088CC">Română</span>
-
 Pentru a putea accesa Roata Norocului trebuie să fiți la Cazino.
 <br />
 Prețul unei rotiri este de **1000 Jetoane** sau **500 Gold**.
@@ -21,6 +19,6 @@ Tematica roții diferă de la sezon la sezon, iar mașina dată ca premiu este s
 
 
 <details>
-  <summary>Wheel of Fortune</summary>
-  <img src="https://v.b-zone.ro/images/wiki/wheel-of-fortune.png" alt="WOF">
+  <summary>Roata Norocului</summary>
+  <img src="https://assets.b-zone.ro/wiki/wheel-of-fortune.png" alt="WOF">
 </details>
