@@ -18,7 +18,7 @@ Pentru orice neclaritate pe parte de regulament contactați un membru staff. În
 
 ### <a id="1.3"></a><span style="color: #0088CC">1.3 Condiții pentru a putea juca pe server</span>
 
-- Nu se permite RolePlay de sex opus față de sexul real al jucatorului.
+- Nu se permite RolePlay de sex opus față de sexul real al jucătorului.
 - Aveți nevoie de un microfon funcțional pentru a comunica cu restul jucătorilor.
 - Numele Roleplay - Folosirea numelor de persoane celebre, respectiv cu tentă și/sau intenția de a face troll, sunt interzise. Numele pot fi cele reale sau inventate de voi și care pot fi întâlnite în viața de zi cu zi.
 
@@ -68,15 +68,15 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 - Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor nu este unul exagerat și strică experiența normală de Roleplay.
 - Sindicatul nu folosește informațiile dobândite OOC pentru a intervenii în conflicte între mafii ci doar pentru a menține o ordine sănătoasă de Roleplay pe întregul oraș.
 - Sindicatului nu i se pot cere informații OOC de către jucători.
-- Prin informatii OOC se intelege filmari preluate de la diversi participati la respectivele RP-uri, nu informatii preluate din admin, dupa voce, etc.
-- Informațiile OOC pot sa fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
+- Prin informații OOC se înțelege filmări preluate de la diverși participanți la respectivele RP-uri, nu informații preluate din admin, după voce, etc.
+- Informațiile OOC pot să fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.8 Gravitatea sancțiunilor</span>
-- În situațiile în care încălcarea regulamentului nu a fost una voită sau nu a fost suficient de gravă încât să fiți susceptibili unei sancțiuni de **BAN**, un membru al staffului poate recurge la a vă oferi un warn în locul sancțiunii.
+- În situațiile în care încălcarea regulamentului nu a fost una voită sau nu a fost suficient de gravă încât să fiți susceptibili unei sancțiuni de **BAN**, un membru al staff-ului poate recurge la a vă oferi un **warn** în locul sancțiunii.
 - În cazuri speciale se poate recurge chiar și la Jail între 20-100 minute ca formă alternativă de sancționare.
-- Sancțiunile din capitolul 3 pot să fie agravate la **Ban Permanent** cu aprobarea unui **Senior Admin** sau **Head Admin**
-- La adunarea a 3 warnuri veți primi automat un ban de 5 zile.
-- În cazul unor situații excepționale unde sunt încalcate 3 sau mai multe sancțiuni, sancțiunea acordata va fi aceea de **Greșeli multiple** ce se sancționează cu **BAN** între 1-30 zile în funcție de gravitate.
+- Sancțiunile din capitolul 3 pot să fie agravate la **Ban Permanent** cu aprobarea unui **Senior Admin** sau **Head Admin**.
+- La adunarea a **3 warn-uri** veți primi automat un ban de 5 zile.
+- În cazul unor situații excepționale unde sunt încălcate 3 sau mai multe reguli, sancțiunea acordată va fi aceea de **Greșeli Multiple** ce se sancționează cu **BAN** între 1-30 de zile în funcție de gravitate.
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.9 Mafia Warn</span>
 - Aceasta este o sancțiune acordată mafiilor oficiale și neoficiale, aceste grupări sunt imaginea serverului și avem pretenția la un nivel mai ridicat de Roleplay din partea acestora.
@@ -980,7 +980,6 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 <span style="color: green">Mențiuni și excepții:</span>
-- zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
 - este permis să pui arma la burtă/cap în vehiculele cu geamuri fumurii <strong style="color: red">(full negre, inclusiv parbrizul)</strong>, chiar și în zonele publice. Atenție: acțiunea de jaf trebuie continuată doar într-o zonă roșie sau gri.
 În restul zonelor, punerea armei la burtă/cap este permisă indiferent dacă vehiculul are sau nu geamuri fumurii.
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
