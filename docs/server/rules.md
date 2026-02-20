@@ -18,7 +18,7 @@ Pentru orice neclaritate pe parte de regulament contactați un membru staff. În
 
 ### <a id="1.3"></a><span style="color: #0088CC">1.3 Condiții pentru a putea juca pe server</span>
 
-- Nu se permite RolePlay de sex opus față de sexul real al jucatorului.
+- Nu se permite RolePlay de sex opus față de sexul real al jucătorului.
 - Aveți nevoie de un microfon funcțional pentru a comunica cu restul jucătorilor.
 - Numele Roleplay - Folosirea numelor de persoane celebre, respectiv cu tentă și/sau intenția de a face troll, sunt interzise. Numele pot fi cele reale sau inventate de voi și care pot fi întâlnite în viața de zi cu zi.
 
@@ -68,24 +68,24 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 - Acțiunile organizate de Sindicat nu sunt limitate de alte reguli generale din regulament, atâta timp cât scopul lor nu este unul exagerat și strică experiența normală de Roleplay.
 - Sindicatul nu folosește informațiile dobândite OOC pentru a intervenii în conflicte între mafii ci doar pentru a menține o ordine sănătoasă de Roleplay pe întregul oraș.
 - Sindicatului nu i se pot cere informații OOC de către jucători.
-- Prin informatii OOC se intelege filmari preluate de la diversi participati la respectivele RP-uri, nu informatii preluate din admin, dupa voce, etc.
-- Informațiile OOC pot sa fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
+- Prin informații OOC se înțelege filmări preluate de la diverși participanți la respectivele RP-uri, nu informații preluate din admin, după voce, etc.
+- Informațiile OOC pot să fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.8 Gravitatea sancțiunilor</span>
-- În situațiile în care încălcarea regulamentului nu a fost una voită sau nu a fost suficient de gravă încât să fiți susceptibili unei sancțiuni de **BAN**, un membru al staffului poate recurge la a vă oferi un warn în locul sancțiunii.
+- În situațiile în care încălcarea regulamentului nu a fost una voită sau nu a fost suficient de gravă încât să fiți susceptibili unei sancțiuni de **BAN**, un membru al staff-ului poate recurge la a vă oferi un **warn** în locul sancțiunii.
 - În cazuri speciale se poate recurge chiar și la Jail între 20-100 minute ca formă alternativă de sancționare.
-- Sancțiunile din capitolul 3 pot să fie agravate la **Ban Permanent** cu aprobarea unui **Senior Admin** sau **Head Admin**
-- La adunarea a 3 warnuri veți primi automat un ban de 5 zile.
-- În cazul unor situații excepționale unde sunt încalcate 3 sau mai multe sancțiuni, sancțiunea acordata va fi aceea de **Greșeli multiple** ce se sancționează cu **BAN** între 1-30 zile în funcție de gravitate.
+- Sancțiunile din capitolul 3 pot să fie agravate la **Ban Permanent** cu aprobarea unui **Senior Admin** sau **Head Admin**.
+- La adunarea a **3 warn-uri** veți primi automat un ban de 5 zile.
+- În cazul unor situații excepționale unde sunt încălcate 3 sau mai multe reguli, sancțiunea acordată va fi aceea de **Greșeli Multiple** ce se sancționează cu **BAN** între 1-30 de zile în funcție de gravitate.
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.9 Mafia Warn</span>
-- Aceasta este o sancțiune acordată mafiilor oficiale și neoficiale, aceste grupări sunt imaginea serverului și avem pretenția la un nivel mai ridicat de Roleplay din partea acestora.
+- Aceasta este o sancțiune aplicată mafiilor oficiale și neoficiale. Deoarece aceste grupări reprezintă imaginea serverului, avem pretenția la un nivel de Roleplay mult mai ridicat din partea membrilor acestora.
 - Sancțiunea de <strong style="color: red">Mafia WARN</strong> se oferă de un Admin 4+ în următoarele situații:
 > - Acțiuni ale mafiei unde participă Liderul sau Co-Liderul și se produce o încălcare gravă de regulament
 > - Acțiuni ale mafiei unde participă un minim de 5 membrii ai acesteia și se produce o încălcare gravă de regulament
-> - Banarea a 3+ membrii din mafie de hack într-o perioada de 30 de zile, sunteți direct responsabili pentru ce membrii vă adaugați în grupare
-- Încălcările de regulament din capitolele <a href="#3">CAP 3. - Comportament OOC</a>, <a href="#4">CAP. 4 ABUZURI ȘI HACKING</a>, <a href="#8">CAP 8. Tickete</a> și <a href="#10">CAP 10. BNN (B-Zone Network News)</a> nu se pot folosi pentru sancțiunea de <strong style="color: red">Mafia WARN</strong> (cu excepția banurilor de hack precizate în lista de mai sus).
-- Odată ce o mafie a adunat 3 warnuri (plătite sau nu) fiecare warn ulterior poate sa ducă la down sau chiar desfințare.
+> - Banarea pentru hack a 3+ membri din mafie într-o perioada de 30 de zile. Sunteți direct responsabili pentru ce membrii vă adăugați în grupare.
+- Încălcările de regulament din capitolele <a href="#3">CAP 3. - Comportament OOC</a>, <a href="#4">CAP. 4 ABUZURI ȘI HACKING</a>, <a href="#8">CAP 8. Tickete</a> și <a href="#10">CAP 10. BNN (B-Zone Network News)</a> nu se pot folosi pentru sancțiunea de <strong style="color: red">Mafia WARN</strong> (cu excepția ban-urilor de hack precizate în lista de mai sus).
+- Odată ce o mafie a acumulat 3 warn-uri (plătite sau nu), fiecare warn ulterior poate să ducă la down sau chiar desființare.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
@@ -112,11 +112,11 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 <span style="color: green">Mențiuni:</span> 
 
 - În momentul în care parasiți orice organizație guvernamentală (Poliție sau Medici) sau departament al acestora sunteți obligați să uitați toate particularitățile acestor organizații / departamente (informații despre membrii acestora, acțiuni sau informații dobandite pe timpul activării în cadrul lor). Singurul lucru ce puteți să îl rețineți este faptul că ați făcut parte din acea organizație / departament.
-- În momentul în care parasiți orice mafie (oficială sau neoficială) și sunteți scoși din tabletă nu vă este rulat automat PK-ul, acesta este dedatoria conducerii mafiei să îl execute. Singura excepție este atunci când jucătorul scos din tabletă nu se mai conectează pe server de minim 7 zile, făcând imposibilă executarea PK-ului de câtre lider. Liderul/Co-liderul are dedatoria de a anunța echipa administrativă de un astfel de jucător.
+- În momentul în care părăsiți orice mafie (oficială sau neoficială) și sunteți scoși din tabletă, nu vă este rolat automat PK-ul. Este de datoria conducerii mafiei să îl execute. Singura excepție este atunci când jucătorul scos din tabletă nu se mai conectează pe server de minim 7 zile, făcând imposibilă executarea PK-ului de către lider. Liderul/Co-liderul are obligația de a anunța echipa administrativă de un astfel de jucător.
 - În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viața sa mafioată. De asemenea, liderul de mafie și toți oamenii prezenți vor uita informațiile despre cel omorât.
-- În momentul în care o organizație (oficială sau neoficială) se desfințează se ruleaza PK-ul pentru toti membrii acesteia. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor mafioate. În cazul în care mafia este recunoscută de sindicat aceștia uită totul și despre Sindicat.
+- În momentul în care o organizație (oficială sau neoficială) se desființează, toți membrii acesteia vor rola PK-ul. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor de mafioți. În cazul în care mafia este recunoscută de sindicat, aceștia uită totul și despre Sindicat.
 - Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
-- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai de datoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
+- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. În momentele în care astfel de informații îți sunt prezentate, e de datoria ta să le ignori / să insinuezi faptul că aceste lucruri s-au întâmplat, probabil, într-un vis a celui ce le aduce în discuție.
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatere: 20-30 minute Jail
@@ -980,7 +980,6 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 <span style="color: green">Mențiuni și excepții:</span>
-- zonele de craftat iteme nu sunt considerate zone publice, chiar dacă sunt marcate pe hartă. Pentru ele se aplică regulamentul zonelor in care se află. Vezi regula <a href="#7.8">7.8 Delimitarea zonelor</a>
 - este permis să pui arma la burtă/cap în vehiculele cu geamuri fumurii <strong style="color: red">(full negre, inclusiv parbrizul)</strong>, chiar și în zonele publice. Atenție: acțiunea de jaf trebuie continuată doar într-o zonă roșie sau gri.
 În restul zonelor, punerea armei la burtă/cap este permisă indiferent dacă vehiculul are sau nu geamuri fumurii.
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
