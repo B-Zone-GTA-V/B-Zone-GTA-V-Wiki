@@ -79,13 +79,13 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 - În cazul unor situații excepționale unde sunt încălcate 3 sau mai multe reguli, sancțiunea acordată va fi aceea de **Greșeli Multiple** ce se sancționează cu **BAN** între 1-30 de zile în funcție de gravitate.
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.9 Mafia Warn</span>
-- Aceasta este o sancțiune acordată mafiilor oficiale și neoficiale, aceste grupări sunt imaginea serverului și avem pretenția la un nivel mai ridicat de Roleplay din partea acestora.
+- Aceasta este o sancțiune aplicată mafiilor oficiale și neoficiale. Deoarece aceste grupări reprezintă imaginea serverului, avem pretenția la un nivel de Roleplay mult mai ridicat din partea membrilor acestora.
 - Sancțiunea de <strong style="color: red">Mafia WARN</strong> se oferă de un Admin 4+ în următoarele situații:
 > - Acțiuni ale mafiei unde participă Liderul sau Co-Liderul și se produce o încălcare gravă de regulament
 > - Acțiuni ale mafiei unde participă un minim de 5 membrii ai acesteia și se produce o încălcare gravă de regulament
-> - Banarea a 3+ membrii din mafie de hack într-o perioada de 30 de zile, sunteți direct responsabili pentru ce membrii vă adaugați în grupare
-- Încălcările de regulament din capitolele <a href="#3">CAP 3. - Comportament OOC</a>, <a href="#4">CAP. 4 ABUZURI ȘI HACKING</a>, <a href="#8">CAP 8. Tickete</a> și <a href="#10">CAP 10. BNN (B-Zone Network News)</a> nu se pot folosi pentru sancțiunea de <strong style="color: red">Mafia WARN</strong> (cu excepția banurilor de hack precizate în lista de mai sus).
-- Odată ce o mafie a adunat 3 warnuri (plătite sau nu) fiecare warn ulterior poate sa ducă la down sau chiar desfințare.
+> - Banarea pentru hack a 3+ membri din mafie într-o perioada de 30 de zile. Sunteți direct responsabili pentru ce membrii vă adăugați în grupare.
+- Încălcările de regulament din capitolele <a href="#3">CAP 3. - Comportament OOC</a>, <a href="#4">CAP. 4 ABUZURI ȘI HACKING</a>, <a href="#8">CAP 8. Tickete</a> și <a href="#10">CAP 10. BNN (B-Zone Network News)</a> nu se pot folosi pentru sancțiunea de <strong style="color: red">Mafia WARN</strong> (cu excepția ban-urilor de hack precizate în lista de mai sus).
+- Odată ce o mafie a acumulat 3 warn-uri (plătite sau nu), fiecare warn ulterior poate să ducă la down sau chiar desființare.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
@@ -112,11 +112,11 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 <span style="color: green">Mențiuni:</span> 
 
 - În momentul în care parasiți orice organizație guvernamentală (Poliție sau Medici) sau departament al acestora sunteți obligați să uitați toate particularitățile acestor organizații / departamente (informații despre membrii acestora, acțiuni sau informații dobandite pe timpul activării în cadrul lor). Singurul lucru ce puteți să îl rețineți este faptul că ați făcut parte din acea organizație / departament.
-- În momentul în care parasiți orice mafie (oficială sau neoficială) și sunteți scoși din tabletă nu vă este rulat automat PK-ul, acesta este dedatoria conducerii mafiei să îl execute. Singura excepție este atunci când jucătorul scos din tabletă nu se mai conectează pe server de minim 7 zile, făcând imposibilă executarea PK-ului de câtre lider. Liderul/Co-liderul are dedatoria de a anunța echipa administrativă de un astfel de jucător.
+- În momentul în care părăsiți orice mafie (oficială sau neoficială) și sunteți scoși din tabletă, nu vă este rolat automat PK-ul. Este de datoria conducerii mafiei să îl execute. Singura excepție este atunci când jucătorul scos din tabletă nu se mai conectează pe server de minim 7 zile, făcând imposibilă executarea PK-ului de către lider. Liderul/Co-liderul are obligația de a anunța echipa administrativă de un astfel de jucător.
 - În momentul în care un lider de mafie/grupare omoară un membru, acesta din urmă va uita toate informațiile pe care le știe despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viața sa mafioată. De asemenea, liderul de mafie și toți oamenii prezenți vor uita informațiile despre cel omorât.
-- În momentul în care o organizație (oficială sau neoficială) se desfințează se ruleaza PK-ul pentru toti membrii acesteia. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor mafioate. În cazul în care mafia este recunoscută de sindicat aceștia uită totul și despre Sindicat.
+- În momentul în care o organizație (oficială sau neoficială) se desființează, toți membrii acesteia vor rola PK-ul. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor de mafioți. În cazul în care mafia este recunoscută de sindicat, aceștia uită totul și despre Sindicat.
 - Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
-- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. Momentul în care aceste informații iti sunt prezentate ai de datoria de a le ignora / de a insinua faptul că aceste lucruri s-au intamplat probabil intr-un vis a celui ce le aduce în discuție.
+- Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. În momentele în care astfel de informații îți sunt prezentate, e de datoria ta să le ignori / să insinuezi faptul că aceste lucruri s-au întâmplat, probabil, într-un vis a celui ce le aduce în discuție.
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatere: 20-30 minute Jail
