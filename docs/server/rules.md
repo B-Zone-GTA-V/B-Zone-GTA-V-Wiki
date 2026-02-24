@@ -973,6 +973,7 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - deschiderea focului în zonele publice
 - uciderea unui jucător în zonele publice
 - aruncarea unui cetățean în comă într-o zonă publică
+- amenințarea cu arma în mașini este interzisă, indiferent dacă acestea au sau nu folii ori geamuri negre.
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatere: 40-60 minute Jail
