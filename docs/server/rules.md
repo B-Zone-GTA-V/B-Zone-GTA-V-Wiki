@@ -973,6 +973,7 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - deschiderea focului în zonele publice
 - uciderea unui jucător în zonele publice
 - aruncarea unui cetățean în comă într-o zonă publică
+- amenințarea cu arma în mașini este interzisă, indiferent dacă acestea au sau nu folii ori geamuri negre.
 
 <span style="color: red">Sancțiuni:</span>
 - prima abatere: 40-60 minute Jail
@@ -980,8 +981,6 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 - trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
 
 <span style="color: green">Mențiuni și excepții:</span>
-- este permis să pui arma la burtă/cap în vehiculele cu geamuri fumurii <strong style="color: red">(full negre, inclusiv parbrizul)</strong>, chiar și în zonele publice. Atenție: acțiunea de jaf trebuie continuată doar într-o zonă roșie sau gri.
-În restul zonelor, punerea armei la burtă/cap este permisă indiferent dacă vehiculul are sau nu geamuri fumurii.
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic (În situațiile cu poliția)</span>
