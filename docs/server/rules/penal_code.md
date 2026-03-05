@@ -578,10 +578,10 @@ Această faptă reprezintă reprezintă o crimă care se poate pedepsi cu rețin
 
 Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
-- **TIP I (1 - 3 plicuri de cocaina): confiscare substanței, Dosar Penal și amendă 30.000$.**
-- **TIP II (4 - 50 plicuri de cocaina): sentință 70 - 90 de luni și amendă 40.000$.**
-- **TIP III (51 - 100 plicuri de cocaina): sentință 90 - 140 de luni și amendă 50.000$.**
-- **TIP IV (101+ plicuri de cocaina): sentință 140 - 360 de luni și amendă 60.000$.**
+- **TIP I (1 - 3 plicuri de cocaina / ciuperci): confiscare substanței, Dosar Penal și amendă 30.000$.**
+- **TIP II (4 - 50 plicuri de cocaina / ciuperci): sentință 70 - 90 de luni și amendă 40.000$.**
+- **TIP III (51 - 100 plicuri de cocaina / ciuperci): sentință 90 - 140 de luni și amendă 50.000$.**
+- **TIP IV (101+ plicuri de cocaina / ciuperci): sentință 140 - 360 de luni și amendă 60.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -718,7 +718,7 @@ Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Posesia unei arme de foc de calibru mare</span>
 
-Orice persoană care deține asupra lui o armă de foc de calibru mare precum: **Navy Revolver**, **Heavy Revolver**, **Gadget Pistol**.
+Orice persoană care deține asupra lui o armă de foc de calibru mare precum: **Navy Revolver**, **Heavy Revolver**, **Double Action Revolver**, **Gadget Pistol**.
 
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
