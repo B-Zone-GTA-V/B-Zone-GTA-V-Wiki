@@ -38,30 +38,62 @@ Jucătorii care acumulează foarte multe sancțiuni într-o perioadă scurtă de
 
 Pentru a asigura corectitudinea și transparența în cadrul sesiunilor de Roleplay, toți jucătorii au obligația de a înregistra constant gameplay-ul sub formă de filmare AUDIO-VIDEO.  
 
-<span style="color:yellowgreen">✔ **Reguli specifice:** </span> 
-- Filmarea trebuie să includă atât imaginea (video), cât și sunetul (audio) pentru a putea fi utilizată ca dovadă în cazul unor reclamații.
-- Înregistrările trebuie păstrate pentru o perioadă minimă de **72 de ore** de la momentul sesiunii de joc.
-- Filmarea trebuie să fie de o calitate rezonabilă (fără lag excesiv, sunet clar și inteligibil).
-- Este interzisă modificarea, tăierea sau alterarea înregistrării într-un mod care poate denatura adevărul.
+<div class="rule-box rule-yellow">
+  <div class="title">Reguli specifice:</div>
 
-<span style="color:red">⚠ **Sancțiuni:** </span> 
-- Lipsa unei filmări valide în cazul unei reclamații poate duce la **anularea dovezilor proprii** și la **posibile sancțiuni**.
-- Dacă un jucător refuză sau nu poate furniza filmarea într-o situație în care este solicitată, acesta nu poate să-și susțină nevinovăția și poate fi sancționat. Ex: Dacă ești acuzat de MetaGaming iar tu nu deții filmarea pentru a demonstra contrarul vei fi sancționat pentru MG.
+- Filmarea trebuie să includă atât imaginea (video), cât și sunetul (audio) pentru a putea fi utilizată ca dovadă în cazul unor reclamații.<br>
+- Înregistrările trebuie păstrate pentru o perioadă minimă de **72 de ore** de la momentul sesiunii de joc.<br>
+- Filmarea trebuie să fie de o calitate rezonabilă (fără lag excesiv, sunet clar și inteligibil).<br>
+- Este interzisă modificarea, tăierea sau alterarea înregistrării într-un mod care poate denatura adevărul.
+</div>
+<div class="rule-box rule-red">
+    <div class="title">Sancțiuni:</div>
+
+- Lipsa unei filmări valide în cazul unei reclamații poate duce la **anularea dovezilor proprii** și la **posibile sancțiuni**.<br>
+- În cazul în care un jucător refuză sau nu poate furniza filmarea atunci când aceasta este solicitată, nu își va putea susține nevinovăția și poate fi sancționat.<br>
+Ex: Dacă ești acuzat de MetaGaming și nu deții o filmare care să demonstreze contrariul, vei fi sancționat pentru MG.
+</div>
 
 ### <a id="1.6"></a><span style="color: #0088CC">1.6 Reclamatii False și Posthunt</span>
 
 Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special atunci când aceștia nu încalcă în mod explicit regulile sau nu perturbă experiența RP, nu este permisă.
 
-<span style="color: yellow">Exemple de posthunt:</span>
-- Căutarea persistentă a sancționării unui jucător cu orice preț, chiar dacă acțiunile sale nu au influențat semnificativ desfășurarea scenariului RP la care ai luat parte.
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple de reclamații false:</div>
+
+- Căutarea persistentă a sancționării unui jucător cu orice preț, chiar dacă acțiunile sale nu au influențat semnificativ desfășurarea scenariului RP la care ai luat parte.<br>
 - Crearea de multiple reclamații împotriva unui jucător care este găsit în mod repetat nevinovat de încălcarea vreunei reguli.
+</div>
 
 Înainte de a trimite o reclamație sau un ticket, gândește-te bine. Dacă plângerea ta este nefondată și urmărește doar sancționarea unei persoane, este posibil să fii chiar tu sancționat pentru posthunt.
 
-<span style="color: red">Sancțiuni:</span>
-Ban 1-7 zile, până la Ban permanent în unele cazuri
+<div class="rule-box rule-sanction">
+  <div class="title">Sancțiuni:</div>
+      <table>
+          <thead>
+            <tr>
+              <th>Abaterea</th>
+              <th>Sancțiune</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Warn</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Ban 1-7 zile în functie de gravitate</td>
+            </tr>
+          </tbody>
+      </table>
+    În cazuri grave se poate ajunge la aplicarea unui ban permanent.
+</div>
 
 ### <a id="1.7"></a><span style="color: #0088CC">1.7 Sindicatul</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Explicații:</div>
+
 - Sindicatul nu este subiectibil la sancțiuni legate de folosirea informațiilor OOC sau metagaming în scopuri de investigație și menținere a ordinii.
 - Sindicatul beneficiază de acces la camere și drone de supraveghere (cu recunoaștere facială) care acoperă toate locațiile deținute de Sindicat.
 - Sindicatul are dreptul să folosească informații/dovezi OOC pentru a începe RP-uri, investigații sau intervenții.
@@ -70,22 +102,19 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 - Sindicatului nu i se pot cere informații OOC de către jucători.
 - Prin informații OOC se înțelege filmări preluate de la diverși participanți la respectivele RP-uri, nu informații preluate din admin, după voce, etc.
 - Informațiile OOC pot să fie folosite doar cu aprobarea Liderului de Sindicat sau a unui Admin 6+.
+</div>
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.8 Gravitatea sancțiunilor</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Explicații:</div>
+
 - În situațiile în care încălcarea regulamentului nu a fost una voită sau nu a fost suficient de gravă încât să fiți susceptibili unei sancțiuni de **BAN**, un membru al staff-ului poate recurge la a vă oferi un **warn** în locul sancțiunii.
 - În cazuri speciale se poate recurge chiar și la Jail între 20-100 minute ca formă alternativă de sancționare.
 - Sancțiunile din capitolul 3 pot să fie agravate la **Ban Permanent** cu aprobarea unui **Senior Admin** sau **Head Admin**.
 - La adunarea a **3 warn-uri** veți primi automat un ban de 5 zile.
 - În cazul unor situații excepționale unde sunt încălcate 3 sau mai multe reguli, sancțiunea acordată va fi aceea de **Greșeli Multiple** ce se sancționează cu **BAN** între 1-30 de zile în funcție de gravitate.
+</div>
 
-### <a id="1.8"></a><span style="color: #0088CC">1.9 Mafia Warn</span>
-- Aceasta este o sancțiune aplicată mafiilor oficiale și neoficiale. Deoarece aceste grupări reprezintă imaginea serverului, avem pretenția la un nivel de Roleplay mult mai ridicat din partea membrilor acestora.
-- Sancțiunea de <strong style="color: red">Mafia WARN</strong> se oferă de un Admin 4+ în următoarele situații:
-> - Acțiuni ale mafiei unde participă Liderul sau Co-Liderul și se produce o încălcare gravă de regulament
-> - Acțiuni ale mafiei unde participă un minim de 5 membrii ai acesteia și se produce o încălcare gravă de regulament
-> - Banarea pentru hack a 3+ membri din mafie într-o perioada de 30 de zile. Sunteți direct responsabili pentru ce membrii vă adăugați în grupare.
-- Încălcările de regulament din capitolele <a href="#3">CAP 3. - Comportament OOC</a>, <a href="#4">CAP. 4 ABUZURI ȘI HACKING</a>, <a href="#8">CAP 8. Tickete</a> și <a href="#10">CAP 10. BNN (B-Zone Network News)</a> nu se pot folosi pentru sancțiunea de <strong style="color: red">Mafia WARN</strong> (cu excepția ban-urilor de hack precizate în lista de mai sus).
-- Odată ce o mafie a acumulat 3 warn-uri (plătite sau nu), fiecare warn ulterior poate să ducă la down sau chiar desființare.
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
@@ -93,23 +122,33 @@ Ban 1-7 zile, până la Ban permanent în unele cazuri
 
 Reprezintă toate acțiunile pe care le face un player/caracter în timpul roleplay-ului. Este opusul semnificației Out-Of-Character (OOC).
 
-<span style="color: yellow">Exemplu:</span> Mi-am creat un cont și un caracter, iar tot ce văd și aud pe joc sunt acțiuni IC. Orice alte informații pe care le observ sau le aud pe chat-ul din joc, Discord, Youtube, etc nu sunt considerate informații IC, ci OOC.
+<div class="rule-box rule-yellow">
+    <div class="title">Exemplu:</div>
+Prin crearea unui cont și a unui caracter, tot ceea ce vezi și auzi în joc reprezintă acțiuni IC. Orice alte informații observate sau auzite în afara jocului (chat, Discord, YouTube etc.) nu sunt considerate informații IC, ci OOC.
+</div>
 
 ### <a id="2.2"></a><span style="color: #0088CC">2.2 Out-of-character (OOC)</span>
 
 Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și absolut tot ce este spus pe canalele OOC (discord, chat-ul din joc, etc).
 
-<span style="color: yellow">Exemplu:</span> Toate informațiile ce sunt discutate pe chat-ul din joc sau în afara jocului și nu au legătură cu ce ai văzut sau ai auzit pe joc.
+<div class="rule-box rule-yellow">
+    <div class="title">Exemplu:</div>
+Toate informațiile ce sunt discutate pe chat-ul din joc sau în afara jocului și nu au legătură cu ce ai văzut sau ai auzit pe joc.
+</div>
 
 ### <a id="2.3"></a><span style="color: #0088CC">2.3 Player-Kill (PK)</span>
 
 În momentul în care te-ai respawnat la spital uiți ultima acțiune pe care ai avut-o, locația și persoanele care au participat la acțiunea respectivă.
 
-<span style="color: yellow">Exemple:</span> 
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple de PK:</div>
+
 - Te afli într-un roleplay în care ai fost răpit. În locația unde ești dus apar niște persoane cu mască și altele fără, dar poți identifica și mașinile acestora, respectiv numerele de înmatriculare. Roleplay-ul evoluează, iar într-un final persoanele te omoară, te respawnezi la spital iar tu trebuie să uiți toate informațiile din ultimul roleplay.
 - Două mafii/grupari se află într-un conflict/beef in momentul în care liderul își ia PK de la celalalt lider acesta impreună cu toți membrii săi uită conflictul respectiv, acest roleplay complex încheindu-se.
+</div>
 
-<span style="color: green">Mențiuni:</span> 
+<div class="rule-box rule-green">
+    <div class="title">Mențiuni:</div>
 
 - În momentul în care parasiți orice organizație guvernamentală (Poliție sau Medici) sau departament al acestora sunteți obligați să uitați toate particularitățile acestor organizații / departamente (informații despre membrii acestora, acțiuni sau informații dobandite pe timpul activării în cadrul lor). Singurul lucru ce puteți să îl rețineți este faptul că ați făcut parte din acea organizație / departament.
 - În momentul în care părăsiți orice mafie (oficială sau neoficială) și sunteți scoși din tabletă, nu vă este rolat automat PK-ul. Este de datoria conducerii mafiei să îl execute. Singura excepție este atunci când jucătorul scos din tabletă nu se mai conectează pe server de minim 7 zile, făcând imposibilă executarea PK-ului de către lider. Liderul/Co-liderul are obligația de a anunța echipa administrativă de un astfel de jucător.
@@ -117,29 +156,71 @@ Reprezintă totalitatea acțiunilor pe care le faci în afara roleplay-ului și 
 - În momentul în care o organizație (oficială sau neoficială) se desființează, toți membrii acesteia vor rola PK-ul. Aceștia uită toate informațiile pe care le știu despre respectiva organizație sau alte organizații cu care a interacționat, in principiu uită viețile lor de mafioți. În cazul în care mafia este recunoscută de sindicat, aceștia uită totul și despre Sindicat.
 - Revenirea în zona în care ai avut roleplay-ul inițial se poate face după 30 de minute.
 - Mesajele din telefon, apeluri sau informațiile deținute de alte persoane nu pot să fie folosite pentru a-ți aduce aminte informații legate de moartea ta sau RP-ul pe care l-ai uitat în urma PK-ului. În momentele în care astfel de informații îți sunt prezentate, e de datoria ta să le ignori / să insinuezi faptul că aceste lucruri s-au întâmplat, probabil, într-un vis a celui ce le aduce în discuție.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-30 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-30 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Revenge Kill (RK)</span>
 
 Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, după ce ți-ai acceptat moartea și te-ai respawnat. 
 
-<span style="color: red">Sancțiuni:</span>
-Ban 3-14 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1+</td>
+                <td>Ban 3-14 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.5"></a><span style="color: #0088CC">2.5 Character Kill (CK)</span>
 
 În urma CK-ului pierzi absolut tot ce deține caracterul jucătorului. CK-ul se oferă în urma unui motiv foarte bine întemeiat. CK reprezintă caracterul care a fost omorât în următoarele condiții de mai jos:
 
+<div class="rule-box rule-red">
+    <div class="title">Exemple de CK:</div>
+
 - Când acorzi informații importante despre organizația din care faci parte către o altă organizație sau poliției și ești prins în mod IC făcând aceste lucruri.
 - Când acumulezi prea multe caziere și primești închisoare pe viață.
 - Când te sinucizi și nu mai poți fi salvat.
 - Cănd ești urmărit de către poliție și te îneci în mod intenționat.
+</div>
 
-În urma unui CK <span style="color: red">se pierd următoarele</span>:
+<div class="rule-box rule-red">
+    <div class="title">În urma unui CK se pierd următoarele:</div>
 
 - banii din mână și banii din bancă
 - vehiculele deținute
@@ -148,18 +229,24 @@ Ban 3-14 zile în functie de gravitate
 - numărul de telefon, contactele si mesajele din telefon
 - Înfățișarea caracterului și numele IC
 - toate informațiile din roleplay-urile avute cu respectivul caracter
+- orele pe character
+</div>
 
-Ce date <span style="color: green">se păstrează</span> dupa un CK:
+<div class="rule-box rule-green">
+    <div class="title">Ce date se păstrează dupa un CK:</div>
 
 - skill-urile la job-uri
 - orele jucate
 - CNP
 - obiectele achiziționate cu Gold
+</div>
 
-<span style="color: green">Mențiuni: </span>
+<div class="rule-box rule-yellow">
+    <div class="title">Mențiuni:</div>
 
 - Prin crearea unui nou caracter nu puteți face roleplay de verișor, frate care să cunoască toata viața caracterului anterior.
 - Transferul de bunuri înainte de a primi CK și recuperarea ulterioară este interzis și se sancționează cu <span style="color: red">warn</span> și ștergerea respectivelor bunuri.
+</div>
 
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Coma</span>
 
@@ -171,23 +258,47 @@ Cât timp ați fost în comă nu știți ce s-a întâmplat în jur, altfel se v
 
 Este simulat de către alți oameni care v-au văzut fiind în comă.
 
-Vă este <span style="color: green">PERMISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
+<div class="rule-box rule-green">
+    <div class="title">Când vă este PERMIS să apelați medicul prin tasta "Y":</div>
 
 - accident mortal în oraș sau pe un drum circulat
 - ai leșinat de foame
 - când ai fost împușcat pe un drum circulat
+</div>
 
-Vă este <span style="color: red">INTERZISĂ</span> apelarea medicului prin acționarea tastei destinate pentru a fi salvați în următoarele cazuri:
+<div class="rule-box rule-red">
+    <div class="title">Când vă este INTERZIS să apelați medicul prin tasta "Y":</div>
 
 - când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni
-- când ești aruncat în apă într-o zonă nepopulată
+- când ești aruncat în apă într-o zonă nepopulată<br><br>
+  <span style="color: #88bfa2">Verificați harta cu zonele nepopulate <a href="rules/zones#Z6">Z6 Zone Nepopulate</a></span>
+</div>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-3 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-<span style="color: red">Sancțiuni</span> pentru apel către medici din zone nepopulate: 
-- prima abatere: 20 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
-
-Verificați harta cu zonele nepopulate <a href="#7.8.5">7.8.5 Zone Nepopulate</a>
 
 #### <a id="2.6.2"></a><span style="color: #0088CC">2.6.2 Acceptarea morții</span>
 
@@ -195,9 +306,15 @@ Se poate face după ce au trecut primele 5 minute de comă și reprezintă un <a
 
 Această acțiune se poate face chiar dacă medicul a ajuns în apropierea voastră. Puteți să alegeți moartea până la ultima secundă când medicul vă oferă primul ajutor. Dacă acesta nu reușește să vă resusciteze înseamnă ca ați ales moartea. 
 
-<span style="color: yellow">Exemplu:</span> ești împușcat de poliție, ai căzut în comă și ajunge medicul lângă tine. Acesta îți oferă primul ajutor medical, tu vei putea să-ți accepți moartea dacă medicul nu reușește la timp să te salveze.
+<div class="rule-box rule-yellow">
+<div class="title">Exemplu:</div>
+Ești împușcat de poliție, ai căzut în comă și ajunge medicul lângă tine. Acesta îți oferă primul ajutor medical, tu vei putea să-ți accepți moartea dacă medicul nu reușește la timp să te salveze.
+</div>
 
+<div class="rule-box rule-red">
+<div class="title">INTERZIS</div>
 Vă este interzisă apăsarea tastei de acceptare a morții după ce ați trecut de ușile spitalului sau ale secției poliției. Această acțiune va fi sancționată conform regulii <a href="#2.9">#2.9 Refuz RP</a>
+</div>
 
 ### <a id="2.7"></a><span style="color: #0088CC">2.7 RolePlay (RP)</span>
 
@@ -209,23 +326,50 @@ De asemenea, prin roleplay putem numi interacțiunea dintre 2 jucători.
 
 Reprezintă situația în care un jucător nu respectă regulile și normele stabilite pentru desfășurarea unei experiențe de joc realiste și autentice. Acest lucru include acțiuni sau comportamente care sunt nerealiste, nepotrivite sau care încalcă regulamentul serverului.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Exemple:</div>
+
 - Medici - Eșecul de a salva persoane. Situația în care un cadru medical are o interacțiune directă sau indirectă cu un cetățean care are nevoie de asistență medicală. Ignorându-l, se consideră fail roleplay.
 - Polițiști - Eșecul de a aplica Codul Penal Rutier. Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea interveni. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate să plece și să ceară/aștepte întăriri). 
 - Deschiderea OOC în IC
 - Tractarea de vehicule parcate regulamentar fără să vă asigurați că acestea sunt abandonate. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
 - Jefuirea de oameni în comă indiferent de zona unde se află (Ex. Găsești pe cineva în comă și il jefuiești, indiferent dacă îi dai in vreum fel revive sau pe loc în timp ce e mort)
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 3 zile 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-3 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 ### <a id="2.9"></a><span style="color: #0088CC">2.9 Refuz RP</span>
 
 Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai multe părți/persoane sau refuzul de a interacționa cu jucătorii fără motive întemeiate. De asemenea, refuz RP se consideră atunci când un alt jucător rolează o acțiune și nu vă conformați.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Ești dus la secția de poliție și refuzi interacțiunea cu aceștia din diferite motive, având ca scuză soluționarea propriilor probleme avute de unul singur.
 - Deplasarea la un service auto unde se află angajații acestuia și îți repari singur mașina fără a interacționa cu ei.
 - Refuzarea deblocării mașinii în urma unui roleplay pentru a-ți fi controlat sau jefuit portbagajul/torpedoul vehiculului.
@@ -233,16 +377,37 @@ Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai 
 - Faci un accident cu un jucător și refuzi să interacționezi cu acesta fără a avea un motiv întemeiat (de ex: ești urmărit de poliție).
 - Mergi la spital și refuzi să interacționezi cu medicii și mergi la Doctorul Sky.
 - Rolezi că arunci cheia în șanț și nu vrei să descui mașina după ce un alt jucător a găsit cheia.
+</div>
 
-<span style="color: red">Sancțiuni</span>
-- prima abatere: 10-20 minute Jail
-- două sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>10-20 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2+</td>
+                <td>Ban 1-3 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
 
 Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In Character) pentru a obține avantaje în roleplay.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Prietenul tău îți scrie pe chat să te duci sa îl iei dintr-o locație pentru că nu mai are mașină, iar tu te duci. 
 - Coordonarea pe discord în locul voice chat-ului din joc.
 - Ai auzit diferite informații cât ai fost în comă și te folosești de acestea.
@@ -252,14 +417,35 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 - Utilizarea informațiilor obținute prin sisteme care restricționează accesul la anumite bunuri pentru un număr limitat de jucători. De exemplu: 
     - Știu că o persoană este lider de mafie deoarece are acces la un gadget disponibil exclusiv pentru el, conform sistemului.
     - Recunosc o grupare ca fiind „Mafia Porumbeilor” deoarece sistemul le-a atribuit echipamente personalizate cu simboluri ale mafiei și porumbei.
+</div>
+<div class="rule-box rule-red">
+    <div class="title">Mențiuni:</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 1-3 zile în functie de gravitate 
-- două sau mai multe abateri: Ban 7-14 zile în functie de gravitate 
-
-<span style="color: green">Mențiuni:</span>
 - Neprezentarea de dovezi în cazul în care se suspectează un caz de metagaming se sancționează de asemenea.
-- Regula de MG nu se aplică membrilor SAS, DCCO și ai grupărilor mafiote atunci când își recunosc propriii colegi din cadrul organizației lor.
+- Regula de MetaGaming nu se aplică membrilor SAS, DCCO și ai grupărilor mafiote atunci când își recunosc propriii colegi din cadrul organizației din care fac parte.
+</div>
+
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 1-3 zile în functie de gravitate </td>
+            </tr>
+            <tr>
+                <td>2+</td>
+                <td>Ban 7-14 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.11"></a><span style="color: #0088CC">2.11 StreamSnipe</span>
 
@@ -269,22 +455,49 @@ Este atunci când jucătorii merg după un streamer/youtuber/tiktoker și interv
 
 Reprezintă oferirea informațiilor IC în OOC.
 
-<span style="color: yellow">Exemple:</span> 
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Un jucător se află în fața unui magazin fără mașină și caută un alt jucător pe chatul din joc solicitându-i să vină să-l ia de acolo.
 - Un jucător care transmite pe Discord că a fost omorât la o anumită locație.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 1-3 zile în functie de gravitate 
-- două sau mai multe abateri: Ban 3-7 zile în functie de gravitate 
+<div class="rule-box rule-red">
+    <div class="title">Mențiuni:</div>
 
-<span style="color: green">Mențiuni:</span>
 - Neprezentarea de dovezi în cazul în care se suspectează un caz de mixing se sancționează de asemenea.
+</div>
+
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 1-3 zile în functie de gravitate </td>
+            </tr>
+            <tr>
+                <td>2+</td>
+                <td>Ban 3-7 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 ### <a id="2.13"></a><span style="color: #0088CC">2.13 PowerGaming (PG)</span>
 
 Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atunci când nu acorzi șanse persoanelor implicate la roleplay-ul pe care l-ai creat.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Să te lovești de un parapet cu 100 km/h și să îți continui drumul ca și cum nimic nu s-ar fi intamplat.
 - Să faci wheelie (să mergi pe o roată) cu motocicleta la peste 100 km/h
 - Să dai cu piciorul de pe motocicletă în alți motocicliști la peste 50 km/h
@@ -296,95 +509,245 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
 - Jefuirea, omorârea sau interacțiunea cu persoanele care dorm în case
 - Este interzisă utilizarea unui voice changer fără o mască adecvată sau a unei măști care nu dispune de spațiul necesar pentru integrarea unui dispozitiv de modificare a vocii.
 - Folosirea tazerului prin geamul sau texturile unei mașini.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-3 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.14"></a><span style="color: #0088CC">2.14 RolePlay Scârbos</span>
 
 Este acel roleplay pe care îl fac persoanele pentru a denigra alte persoane prin acțiunile pe care le fac ei sau îi pun pe aceștia să le facă. Roleplay-urile de acest gen se fac doar cu acordul ambelor părți implicate.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - dai /me cu: urinez pe el, îl scuip, etc.
 - Îl pui sa facă diferite acțiuni cu conotație sexuală
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-Ban 7-14 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 7-14 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.15"></a><span style="color: #0088CC">2.15 Random Death Match (RDM)</span>
  
 Reprezintă atacarea cu pumnii/arme albe sau împușcarea unui jucător sau a unui grup de jucători fără vreun motiv sau un roleplay anterior.
 
-<span style="color: yellow">Exemplu:</span> Te deplasezi pe o stradă, iar la un moment dat vezi 2 persoane care stau retrase și discută. Te apropii de ei și îi împuști, dar tu nu i-ai mai văzut până în acel moment și nu ai nici un roleplay anterior care să te lege de aceștia.
+<div class="rule-box rule-yellow">
+    <div class="title">Exemplu:</div>
+    <p>Te deplasezi pe o stradă, iar la un moment dat vezi 2 persoane care stau retrase și discută. Te apropii de ei și îi împuști, dar tu nu i-ai mai văzut până în acel moment și nu ai nici un roleplay anterior care să te lege de aceștia.</p>
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 60 minute Jail
-- a doua abatere: Ban 1-3 zile în functie de gravitate 
-- trei sau mai multe abateri: Ban 3-14 zile în functie de gravitate  
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Ban 1-3 zile în functie de gravitate </td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 3-14 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.16"></a><span style="color: #0088CC">2.16 Vehicle Death Match (VDM)</span>
 
 Reprezintă călcarea intenționată a unui jucător sau al unui grup de jucători fară un motiv foarte bine întemeiat sau un roleplay anterior.
 
-<span style="color: yellow">Exemplu:</span> Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul.
+<div class="rule-box rule-yellow">
+    <div class="title">Exemplu:</div>
+Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 60 minute Jail
-- a doua abatere: Ban 1-3 zile în functie de gravitate 
-- trei sau mai multe abateri: Ban 3-14 zile în functie de gravitate  
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Ban 1-3 zile în functie de gravitate </td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 3-14 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.17"></a><span style="color: #0088CC">2.17 Olympic-Swim</span>
 
 Reprezintă înotarea la nesfârșit și este interzisă deoarece în realitate ai obosi, neavând pregătire specială.
 
-<span style="color: yellow">Exemple:</span>
-- Te urmărește poliția, te oprești lângă un ponton și hotărăști să sari în apă pentru a nu te prinde și să înoți fără încetare.
-- Ai căzut din barca în care erai cu prietenii tăi, iar ei s-au îndepărtat foarte mult, ești la o distanță foarte mare de orice mal și hotărăști să înoți pană acolo fără oprire. Acest lucru este interzis. 
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
 
-<span style="color: red">Sancțiuni: </span>
-- prima abatere: 60 minute Jail
-- a doua abatere: Warn + întoarcerea în locul unde ai început să înoți
-- trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate 
+- Te urmărește poliția, te oprești lângă un ponton și hotărăști să sari în apă pentru a nu te prinde și să înoți fără încetare.
+- Ai căzut din barca în care erai cu prietenii tăi, iar ei s-au îndepărtat foarte mult, ești la o distanță foarte mare de orice mal și hotărăști să înoți pană acolo fără oprire. Acest lucru este interzis.
+</div>
+
+
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + întoarcerea în locul unde ai început să înoți </td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 ### <a id="2.18"></a><span style="color: #0088CC">2.18 No Fear (NF)</span>
 Reprezintă acțiunea în care nu îți este frică că propria ta viață ar putea fi pusă în pericol.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Nu te temi în mod realist de a muri atunci când ești amenințat cu arma sau lovit cu pumnii.
 - Ești singur și nu îți este frică să te apropii de zone rău famate unde sunt grupuri cu arme în mâini și începi să îi provoci.
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-60 Minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
+<div class="rule-box rule-green">
+    <div class="title">Mențiuni:</div>
 
-<span style="color: green">Mențiuni:</span>
 - Itemele jucătorului care face NO FEAR pot fi confiscate dacă roleplay-ul este anulat în urma unui ticket.
+</div>
+
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-60 Minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn </td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în functie de gravitate </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 #### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Pentru grupurile de mai mult de 3 membri SAS nu se aplică regula de No Fear.
 - Un membru SAS aflat singur va rola frica dacă este prins de cel puțin 4 jucători.
 - Doi membri SAS aflati singuri vor rola frica dacă sunt prinși de cel puțin 5 jucători.
 - De menționat este faptul că această comparație numerică se face în momentul începerii RP-ului și nu se recalculează pe parcursul acestuia. (Ex. Dacă te afli într-un conflict activ și pici 2 din cei 3 SAS, ultimului SAS nu i se va aplica regula de No Fear, dar dacă acesta ramane singur și ulterior este prins i se va aplica regula.)
 
-<span style="color: yellow">Exemple:</span>
+<span style="color: lightgreen">Situații:</span>
+
 - 1 SAS vs 3, <strong style="color: red">NU</strong>, nu se aplică NF
 - 1 SAS vs 4, <strong style="color: green">DA</strong>, se aplică NF
 - 2 SAS vs 4, <strong style="color: red">NU</strong>, nu se aplică NF
 - 2 SAS vs 5, <strong style="color: green">DA</strong>, se aplică NF
 - 3 SAS vs oricâți, <strong style="color: red">NU</strong>, nu se aplică NF
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-Se aplică sancțiunile de la regula <a href="#2.18">2.18 No Fear (NF)</a>
+
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <p>Se aplică sancțiunile de la regula <a href="#2.18">2.18 No Fear (NF)</a></p>
+</div>
 
 ### <a id="2.19"></a><span style="color: #0088CC">2.19 Cop-Fear (CF)</span>
 
 Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al poliției.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
 
 - Ai ajuns în secția de poliție și refuzi cooperarea cu aceștia.
 - Refuzul de a părăsi un perimetru la solicitarea departamentului de poliție.
@@ -393,18 +756,41 @@ Reprezintă acțiunea prin care nu îți este frică în preajma unui organ al p
 - Ridicarea polițiștilor doborâți
 - Oferirea de trusă medicală polițiștilor de către mafioți
 - Bați un polițist în penitenciar
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-60 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
-
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.20"></a><span style="color: #0088CC">2.20 Cop-Bait (CB)</span>
 
 Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poliție fără un roleplay anterior, care să conducă la propriul tău amuzament.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Drift-uri si burn-out in prezența unui echipaj de poliție.
 - Conducerea în mod intenționat și repetat pe contra-sens în preajma poliției.
 - Trecerea în mod repetat pe lângă un echipaj de poliție având față acoperită.
@@ -414,11 +800,33 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
   - jaf bancar
   - livrari de droguri
   - patrule rau famate în intervalul 20:00-08:00
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-60 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.21"></a><span style="color: #0088CC">2.21 Disconnect în RolePlay</span>
 
@@ -427,41 +835,113 @@ Reprezintă deconectarea de pe server în mod intenționat în timpul un rolepla
 În cazul în care un jucător se deconectează de pe server pentru a evita consecințele unui roleplay (cum ar fi pierderea itemelor), iar acesta nu revine într-un timp rezonabil, va pierde toate itemele din inventar, precum și din vehiculul deținut.
 Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat offline.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Ești la o locație de ilegale și îți dai disconnect când vine o razie din partea poliției sau când vine altă mafie.
 - Disconnect în momentul în care ești urmărit de poliție.
 - Disconnect imediat după jefuirea unei persoane sau a unui grup de persoane.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 100 minute Jail
-- a doua abatere: Warn + 100 minute Jail
-- trei sau mai multe abateri: Ban 1-30 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>100 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 100 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-30 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
 Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, **în lipsa unui roleplay anterior**.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Jignirea jucătorilor fără un motiv întemeiat.
 - Înjosirea oamenii care lucrează la un job legal fără un motiv întemeiat.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-60 minute Jail
-- a doua abatere: Warn + 40-80 minute Jail
-- trei sau mai multe abateri: Ban 1-14 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 40-80 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-14 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.23"></a><span style="color: #0088CC">2.23 Provoking</span>
 
 Reprezintă acțiunea prin care provoci un alt jucător să se enerveze, fără a avea o interacțiune anterioară cu acesta, spre propriul tău amuzament.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Lovirea motocicletei pentru a da un jucător jos de pe aceasta.
 - Lovirea cu pumnul și părăsirea locului.
 - Forțarea unui jucător să intre într-un roleplay pe care nu și-l dorește.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 10-30 minute Jail
-- a doua abatere: Warn + 30-60 minute Jail
-- trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>10-30 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 30-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-3 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.24"></a><span style="color: #0088CC">2.24 Sleep</span>
 
@@ -469,14 +949,38 @@ Folosirea comenzii /sleep se poate face doar în case cu condiția să nu aveți
 
 Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este interzisă și se sancționează conform regulii <a href="#2.13">#2.13 PowerGaming (PG)</a>
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-red">
+    <div class="title">Exemple:</div>
+
 - Ești urmărit de poliție și te pui /sleep
 - Ești urmărit de mafie și te pui /sleep
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 10-30 minute Jail
-- a doua abatere: Warn + 30-60 minute Jail
-- trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>10-30 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 30-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-3 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitenciar</span>
 
@@ -488,23 +992,29 @@ Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci cand sun
 
 ### <a id="2.26"></a><span style="color: #0088CC">2.26 Corupția</span>
 
-#### <a id="2.26.1"></a><span style="color: #0088CC">2.26.1 IC</span>
+#### <a id="2.26.1"></a><span style="color: #0088CC">2.26.1 Corupție IC</span>
 
 Corupția IC reprezintă orice metodă de corupție la nivel de caracter.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
 
 - Orice acțiune ilegală care se sancționează cu închisoare conform Codului Penal (pentru poliție)
 - Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală)
 - Luarea de mită
+</div>
 
-<span style="color: red">Sancțiune:</span> 14 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 14 zile) + blacklist în facțiune
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiune:</div>
+    <p>14 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 14 zile) + blacklist în facțiune</p>
+</div>
 
-#### <a id="2.26.2"></a><span style="color: #0088CC">2.26.2 OOC</span>
+#### <a id="2.26.2"></a><span style="color: #0088CC">2.26.2 Corupție OOC</span>
 
 Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de comunicare decât cele oferite de server.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
 
 - Orice act prin care oferiți bunuri dobândite în facțiunile guvernamentale
 - Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală) prin canale de comunicare OOC (discord, whatsapp, etc)
@@ -512,47 +1022,107 @@ Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de 
 - Eliberarea unui deținut (indiferent dacă are sau nu obiecte ilegale asupra sa) din custodia poliției fără un motiv solid și justificat IC sau fără un roleplay anterior care să susțină acțiunea.  
 (Motivul eliberării nu trebuie să se bazeze pe informații OOC sau relații de prietenie OOC.) - Dacă sunteți suspectat de un astfel de act de corupție și nu puteți demonstra o relație sau un motiv valid IC între voi și deținut, veți fi sancționați corespunzător.
 - Acțiuni ce încalcă logica de Roleplay al unei facțiuni guvernamentale: furtul, înșelătoria, omorul, utilizarea de arme ilegale, tranzacții cu obiecte ilegale etc.
+</div>
+<div class="rule-box rule-green">
+    <div class="title">Excepție:</div>
+Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi sancționate în baza regulii 2.26 - Corupție
+</div>
 
-<span style="color: red">Sancțiune:</span> ban 1-14 zile în funcție de gravitate fără drept de plată + 21-34 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 21-34 zile) + blacklist în facțiune
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiune:</div>
+    <p>BAN 1–14 zile, în funcție de gravitate, fără drept de plată + 30 Faction Punish (nu vei mai putea intra într-o altă facțiune sau gang timp de 30 de zile) + blacklist în facțiune.</p>
+</div>
 
-<span style="color: yellow">Exceptie:</span> Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi sancționate în baza regulii 2.26 - Corupție.
+
 
 ### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
 Freechat reprezintă folosirea chatului OOC din joc, transmițând mesaje care nu sunt de interes comun, a mesajelor de ură sau a frustrărilor.
 
 Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și comanda /ticket pot adresa întrebări și pot socializa cu alți jucători fără sa deranjeze pe alții. Dorim ca pe acest chat să vedem o atitudine pozitivă, să ne ajutăm unii pe alții sau să ne distrăm. Acest chat este văzut de toți jucătorii și poate fi închis ori de câte ori noi considerăm că nu se folosește în scopurile în care a fost oferit.
 
-<span style="color: red">Sancțiune:</span> mute 10-600 minute și poate ajunge până la ban 7 zile în funcție de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiune:</div>
+    <p>Mute 10 - 600 minute și poate ajunge până la ban 7 zile sau permanent în funcție de gravitate.</p>
+</div>
 
 ### <a id="2.28"></a><span style="color: #0088CC">2.28 Low Effort Roleplay (LER)</span>
 Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Faci un accident grav si scrii un "/me isi revine usor" cu copy-paste după care pleci mai departe.
 - Ceri o pastilă la spital și ti se oferă o injecție rapidă fără explicații.
 - Ceri o reparație la mașină și ti se oferă trusă pentru aceasta fără a face câteva verificări.
 - Ești în comă, ți se dă trusă și continui să tragi cu arma de parcă nimic nu s-ar fi întâmplat.
 - Ești oprit la un trafic stop pe Grove (zone roșie), te dai jos să împuști polițistul direct. (știind că finalul acestui RP ar duce în arestarea ta)
 - Ești polițist și observi un individ într-un vehicul care nu este confirmat ca fiind cu Cod 1 (înarmat sau extrem de periculos), însă alegi să deschizi focul asupra roților și chiar asupra șoferului, cu scopul de a-l neutraliza pe el sau vehiculul acestuia.
-
-<span style="color: red">Sancțiune:</span>
-- prima abatere: 10-30 minute Jail
-- a doua abatere: 30-60 minute Jail
-- trei sau mai multe abateri: Warn + 60-100 minute Jail
+</div>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>10-30 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>30-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60-100 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
 Este <span style="color:red">**STRICT INTERZIS**</span> să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului).
-- Sunt acceptate țepele până în suma de 10.000$ (cu excepția joburilor legale / hobby).
-- În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 60-120 minute Jail
-- a doua abatere: Warn + Ban 1-3 zile
-- trei sau mai multe abateri: Ban 7-14 zile în functie de gravitate 
+<div class="rule-box rule-yellow">
+    <div class="title">Înșelătorii:</div>
+
+- Sunt acceptate țepele până în suma de 10.000$ (cu excepția joburilor legale / hobby).<br>
+- În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
 
 <span style="color: green">Mențiuni:</span>
 - Împrumuturile de bunuri se fac pe propria răspundere și nu sunt sancționabile, atâta timp cât se respectă limitele bunului simț.
 - Complicitatea la înșelătorie este sancționată în aceeași măsură ca fapta în sine.
+</div>
+
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>60-120 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + Ban 1-3 zile</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 7-14 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ## <a id="3"></a><span style="color: #0088CC">CAP 3. - Comportament OOC</span>
 
@@ -564,9 +1134,27 @@ Aceasta regulă include, dar nu se limitează la:
 - Utilizarea limbajului obscen sau aluzii cu conținut sexual în conversațiile cu fetele de pe server.
 - Hărțuirea constantă sau persistentă a jucătoarelor prin mesaje private, chat public sau alte mijloace de comunicare disponibile pe server.
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 3-7 zile în functie de gravitate
-- două sau mai multe abateri: Ban 7-30 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 3-7 zile în functie de gravitate</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Ban 7-30 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="3.2"></a><span style="color: #0088CC">3.2 Jignirile/Amenințările OOC</span>
 
@@ -576,63 +1164,165 @@ Sancțiunile se oferă în funcție de gravitate, începând cu mute pana la ban
 
 Echipa administrativă nu va interveni în cazul jignirilor transmise prin căile de comunicare private.
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 1-3 zile în functie de gravitate
-- două sau mai multe abateri: Ban 3 - 7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 1-3 zile în functie de gravitate</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Ban 3-7 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 Suferințele OOC</span>
 Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire care are scopul de a umili, provoca sau denigra un alt jucător sau a unui grup de persoane în urma unui roleplay sau revenirea la o acțiune anterioară cu scopul de a enerva.
 
-<span style="color: yellow">Astfel, regula interzice, fara a se limita doar la acestea, urmatoarele:</span>
+<div class="rule-box rule-red">
+    <div class="title">Astfel, regula interzice, fara a se limita doar la acestea, urmatoarele:</div>
+
 - Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> pe chat-ul din joc.
 - Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> repetitiv pe canalele vocale din joc a persoanelor în comă.
 - Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> pe Discord, fie în mesaje private, fie pe serverul comunității sau pe alte servere.
 - Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jigni</span> pe transmisiuni live (chaturi live).
-
-<span style="color: yellow">Exemple interzise:</span>
+  
+<span style="color: red">Exemple interzise:</span>
 - „Polițiștilor, cum vă descurcați acolo pe jos, tot picați?”
 - „Mafioților, ar fi bine să învățați să țintiți corect.”
 - „Iată cum arată un roleplay de calitate, nu ce faceți voi.”
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 60 minute Jail
-- a doua abatere: Warn + 100 minute Jail
-- trei sau mai multe abateri: Ban 3-7 zile în functie de gravitate 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 100 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 3-7 zile în functie de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="3.4"></a><span style="color: #0088CC">3.4 Toxicitate</span>
 Reprezintă încălcări repetate ale regulamentului și distrugerea experienței de joc pentru alți jucători. Această regulă este menită să asigure un mediu de joc pozitiv și plăcut pentru toți membrii comunității. Administrația va lua deciziile necesare pentru menținerea integrității și bunăstării comunității.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-red">
+    <div class="title">Exemple:</div>
+
 - Încălcarea repetată a regulamentului pentru a-ți crea avantaje IC față de alți jucători
 - Manifestarea frustrării prin instigarea la ură sau certuri OOC bazate pe acțiunile desfășurate în joc (IC)
 - Distrugerea experienței de joc a altor jucători care doresc să se bucure de o experiență lină și plăcută
 - Utilizarea injuriilor sau jignirilor OOC pe chat privat sau în fluxurile de streaming după acțiuni IC în repetate rânduri pentru a denigra o persoana/grup de persoane
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 7-14 zile în functie de gravitate
-- două sau mai multe abateri: Ban 14-30 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 7-14 zile în funcție de gravitate</td>
+            </tr>
+            <tr>
+                <td>2+</td>
+                <td>Ban 14-30 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="3.5"></a><span style="color: #0088CC">3.5 Injurii sau denigrare staff și comunitate</span>
 Această regulă vizează comportamentele prin care se aduc injurii, acuzații nefondate sau se denigrează în mod repetat membrii echipei administrative sau comunitatea în ansamblu. Lipsa de respect față de staff sau față de alți membri ai comunității subminează eforturile de a menține un mediu de joc echilibrat, corect și plăcut pentru toți participanții. Feedback-ul constructiv este încurajat, însă exprimarea acestuia trebuie făcută într-un mod civilizat, prin canalele oficiale puse la dispoziție.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-red">
+    <div class="title">Exemple:</div>
+
 - Jigniri sau atacuri directe la adresa membrilor staff-ului în spațiul public sau privat
 - Acuzații grave fără dovezi, menite să submineze încrederea în echipa de administrare
 - Denigrarea comunității în mod repetat pe alte platforme (ex: Discord, Twitch, TikTok etc.)
 - Promovarea unei imagini negative despre staff sau comunitate cu intenția clară de a crea dezbinare
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 7-14 zile în funcție de gravitate
-- două sau mai multe abateri: Ban 14-30 zile sau permanent în cazuri extreme
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 7-14 zile în funcție de gravitate</td>
+            </tr>
+            <tr>
+                <td>2+</td>
+                <td>Ban 14-30 zile sau permanent în cazuri extreme</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="3.6"></a><span style="color: #0088CC">3.6 Reacții (Plâns) nejustificate</span>
 Această regulă este aplicabilă jucătorilor care manifestă comportamente exagerate sau reacții disproporționate față de situații de roleplay sau față de deciziile luate de echipa administrativă. (Sancțiunea poate fi acordată doar cu aprobarea unui Admin 4+).
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 1 zi
-- două sau mai multe abateri: Ban 2-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 1 zi</td>
+            </tr>
+            <tr>
+                <td>2+</td>
+                <td>Ban 2-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-## <a id="4"></a><span style="color: #0088CC">CAP. 4 ABUZURI ȘI HACKING</span>
+## <a id="4"></a><span style="color: #0088CC">CAP. 4 ABUZURI</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Bug abuse</span>
 Reprezintă crearea unui avantaj prin folosirea unui bug/exploit și, în funcție de gravitate, poate duce de la retragerea bunurilor obținute până la ban permanent. Bug-urile se raportează prin /ticket pentru a fi rezolvate și nu abuzate.
@@ -640,103 +1330,173 @@ Reprezintă crearea unui avantaj prin folosirea unui bug/exploit și, în funcț
 ### <a id="4.2"></a><span style="color: #0088CC">4.2 Ban Evading</span>
 Încercarea de a te conecta pe server prin orice modalitate pentru a evita un ban temporar sau unul permanent va duce la banarea permanentă a contului și blocarea oricărei căi de acces.
 
-### <a id="4.3"></a><span style="color: #0088CC">4.3 Hacking</span>
-Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a deranja ceilalți jucători pentru propriul amuzament. 
-Este interzisă utilizarea oricăror programe sau instrumente care modifică în mod intenționat conexiunea la internet în timpul sesiunilor de joc, cu scopul de a obține un avantaj sau de a perturba experiența altor jucători.
-
-În cazul în care sunteți suspectat de hacking, veți fi luați la teste; acestea pot fi refuzate, însă veți fi sancționați cu ban de 30 de zile la prima abatere. Prima instanță de ban pentru hacking va costa 20 000 Gold iar cu fiecare nouă instanță de ban acest preț se va dubla (40 000, 80 000, 160 000, 320 000 etc.). În cazul în care jucatorul face parte dintr-o organizație (mafie, poliție, medici) acesta v-a fi scos din aceasta cu 30 de zile FP. Pe langa cele 30 de zile de FP jucătorul are interdicție 30 de zile de a intra într-o mafie sau de a ține armă în mână, în caz contrar jucatorul v-a fi banat de coduri.
-
-<span style="color: red">Sancțiuni:</span>
-- Ban permanent
-
-#### <a id="4.3.1"></a><span style="color: #0088CC">4.3.1 Moduri ilegale</span>
-Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă oferii avantaje față de alți jucători.
-
-Exemple de moduri ilegale:
-- moduri ce modifica ciclul de zi-noapte al jocului (zi permanenta, etc.)
-- moduri de efecte pe hituri de gloante
-- moduri de tracere pentru gloante
-- moduri ce scot texturi sau elemente de mapping
-- moduri ce coloreaza tinta cand e pusă pe un jucator
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Warn + eliminarea modurilor
-- a doua abatere: Ban 30 de zile
-- a treia abatere: Ban permanent
-
-#### <a id="4.3.2"></a><span style="color: #0088CC">4.3.2 Afiliere comunitate cheats</span>
-Se consideră afiliere, promovare sau colaborare orice asociere cu o comunitate, website, server de Discord sau grup care distribuie, vinde sau promovează programe de tip cheat, hack ori orice alt software ce oferă un avantaj în joc. Această regulă vi se aplică doar în momentul în care sunteți suspectați de cod.
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Warn + dovadă cu părăsirea respectivelor comunități
-- a doua abatere: Ban 30 de zile + dovadă cu părăsirea respectivelor comunități
-- trei sau mai multe abateri: Ban permanent
-
-### <a id="4.4"></a><span style="color: #0088CC">4.4 AFK (Away From Keyboard)</span>
+### <a id="4.4"></a><span style="color: #0088CC">4.3 AFK (Away From Keyboard)</span>
 Este permis cel mult de 5 minute într-o zonă publică populată (secție poliție, spital, etc) și cel mult de 30 de minute într-o zonă retrasă dacă nu aveți un roleplay activ.
 
 Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de o pauză și să primiți acordul acestora. 
 
-<span style="color: red">Sancțiuni:</span><br>
-##### <span style="color: lightgreen">Afk în roleplay (ex. vine poliția la razie la Mina):</span>
-- prima abatere: 20 minute Jail + Kick
-- a doua abatere: 40 minute Jail + Kick
-- trei sau mai multe abateri: 60 minute Jail + Kick
-##### <span style="color: lightgreen">Afk în afara unui roleplay (ex. afk la spital dupa respawn):</span>
-- Kick
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni - Afk în roleplay (ex. vine poliția la razie la Mina):</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20 minute Jail + Kick</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>40 minute Jail + Kick</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>60 minute Jail + Kick</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="title">Sanctiune - Afk în afara unui roleplay</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Kick</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-### <a id="4.5"></a><span style="color: #0088CC">4.5 Tranzacțiile OOC</span>
+
+### <a id="4.5"></a><span style="color: #0088CC">4.4 Tranzacțiile OOC</span>
 Afacerile sau tentativele de afaceri cu bunuri reale pe bunuri în joc sau conturi nu sunt permise.
 
-<span style="color: yellow">Exceptii:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Exceptii:</div>
+
 - tranzacțiile de bunuri din joc pentru încărcarea unei sume de Gold în contul celuilalt
+</div>
+<div class="rule-box rule-sanction">
+<div class="title">Sancțiune:</div> 
+Ban permanent fără drept de plata
+</div>
 
-<span style="color: red">Sancțiune:</span> Ban permanent fără drept de plata
-
-### <a id="4.6"></a><span style="color: #0088CC">4.6 System Abuse</span>
+### <a id="4.6"></a><span style="color: #0088CC">4.5 System Abuse</span>
 Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea un avantaj față de ceilalți jucători.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Exemple:</div>
+
 - Ești urmărit de poliție și mergi la un garaj sa îți parchezi mașina.
 - Folosirea de diferite animații pentru a te descătușa.
 - Evacuarea chiriașilor curenți pentru a obține obiectele din locurile lor de depozitare.
 - Tractarea in mod abuziv a masinilor parcate legal cu scopul de a genera bani.
 - Folosirea armelor destinate membrilor SAS fără a fi îmbracat în SAS. (Excepție fiind cei cu grad de Sub-Comisar+)
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 30-40 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 3-30 zile în funcție de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+        <table>
+                <thead>
+                    <tr>
+                        <th>Abaterea</th>
+                        <th>Sancțiune</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>30-40 minute Jail</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Warn</td>
+                    </tr>
+                    <tr>
+                        <td>3+</td>
+                        <td>Ban 3-30 zile în funcție de gravitate</td>
+                    </tr>
+                </tbody>
+        </table>
+</div>
 
-### <a id="4.7"></a><span style="color: #0088CC">4.7 Reclama este interzisă</span>
+### <a id="4.7"></a><span style="color: #0088CC">4.6 Reclama este interzisă</span>
 Orice promovare de conținut ce nu ține de comunitatea B-Zone este interzisă!
 
-<span style="color: red">Sancțiuni:</span>
-Ban 30 zile - Permanent în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <p>Ban Permanent</p>
+</div>
 
-### <a id="4.8"></a><span style="color: #0088CC">4.8 Trolling</span>
+### <a id="4.8"></a><span style="color: #0088CC">4.7 Trolling</span>
 Reprezintă încălcarea regulamentului în mod repetat sau băgarea în seamă pentru a interacționa cu alți jucători care nu își doresc acest lucru, doar pentru propriul tău amuzament.
 
-<span style="color: red">Sancțiuni:</span>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <p>Ban 7-14 zile pentru conturile ce au mai mult de 10 ore jucate pe server. </p>
+    <p>Ban permanent pentru conturile ce au mai putin de 10 ore jucate pe server.</p>
+</div>
 
-- Ban 7-14 zile pentru conturile ce au mai mult de 10 ore jucate pe server. 
-- Ban permanent pentru conturile ce au mai putin de 10 ore jucate pe server.
-
-### <a id="4.9"></a><span style="color: #0088CC">4.9 Account sharing</span>
+### <a id="4.9"></a><span style="color: #0088CC">4.8 Account sharing</span>
 Împărțirea contului cu alte persoane este interzisă. Această practică reprezintă un risc la adresa securității contului, apar inconsistențe în povestea unui caracter, se poate distorsiona echilibrul jocului și poate duce la conflicte între jucători. Este esențial ca fiecare jucător să aibă propriul său cont și să nu împărtășească informații de conectare cu alte persoane. 
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 1-7 zile în functie de gravitate
-- două sau mai multe abateri: Ban 7-14 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Abaterea</th>
+                        <th>Sancțiune</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Ban 1-7 zile în functie de gravitate</td>
+                    </tr>
+                    <tr>
+                        <td>2+</td>
+                        <td>Ban 7-14 zile în functie de gravitate</td>
+                    </tr>
+                </tbody>
+            </table>
+</div>
 
-### <a id="4.10"></a><span style="color: #0088CC">4.10 Conturi multiple</span>
+### <a id="4.10"></a><span style="color: #0088CC">4.9 Conturi multiple</span>
 Pentru a asigura o experiență autentică și echitabilă pentru toți jucătorii, este permisă utilizarea unui singur cont pe server. Conectarea de pe mai multe conturi este strict interzisă. 
 
 Orice încălcare a acestei reguli va duce la sancționarea conturilor duplicate (**_2.000.000_** de minute, nu **BAN**).
 
-<span style="color: red">Sancțiuni pentru contul principal:</span>
-- prima abatere: Ban 1-7 zile în functie de gravitate.
-- două sau mai multe abateri: Ban 7-14 zile în functie de gravitate.
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiune pe contul principal:</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Abaterea</th>
+                        <th>Sancțiune</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Ban 1-7 zile în functie de gravitate</td>
+                    </tr>
+                    <tr>
+                        <td>2+</td>
+                        <td>Ban 7-14 zile în functie de gravitate</td>
+                    </tr>
+                </tbody>
+            </table>
+</div>
 
 ## <a id="5"></a><span style="color: #0088CC">CAP 5. REGULI DE CONDUS / ACȚIUNI CU VEHICULUL</span>
 
@@ -756,12 +1516,36 @@ Manevra este interzisă indiferent de viteză pentru clasele de mașini: SPORT/S
 
 De asemenea, o mașină joasă nu poate face pitstop unei mașini cu gardă înaltă.
 
-<span style="color: green">Excepții:</span> În cazul în care 2 vehicule de mare viteză accelerează în același timp și ajung până la maxim 180 km/h în momentul aplicării manevrei pit-stop manevra este considerata regulamentară deoarece este foarte greu să aproximezi viteza în condițiile în care mașinile accelerează foarte repede.
+<div class="rule-box rule-yellow">
+    <div class="title">Excepții:</div>
+    <p>În cazul în care 2 vehicule de mare viteză accelerează în același timp și ajung până la maxim 180 km/h în momentul aplicării manevrei pit-stop manevra este considerata regulamentară deoarece este foarte greu să aproximezi viteza în condițiile în care mașinile accelerează foarte repede.</p>
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 40 minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-3 zile în funcție de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Abaterea</th>
+                        <th>Sancțiune</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>40 minute Jail</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Warn</td>
+                    </tr>
+                    <tr>
+                        <td>3+</td>
+                        <td>Ban 1-3 zile în funcție de gravitate</td>
+                    </tr>
+                </tbody>
+            </table>
+</div>
 
 ### <a id="5.3"></a><span style="color: #0088CC">5.3 Ninja-Jack</span>
 Reprezintă acțiunea prin care te urci într-un vehicul imediat după ce un jucător a părăsit-o și pleci cu ea imediat fără a verifica dacă în contact se regăsesc cheile. 
@@ -770,36 +1554,83 @@ Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit.
 
 În cazul în care o mașină este deblocată puteți să rolați că îi legați firele și apoi să ii porniți motorul.
 
-<span style="color: yellow">Exemplu:</span> Oprește o mașină scumpă lângă tine, vrei sa o furi, ușile sunt deschise și pentru a nu fi prins de proprietar apeși tasta de pornire a motorului și pleci imediat.
+<div class="rule-box rule-yellow">
+    <div class="title">Exemplu:</div>
+    <p>Oprește o mașină scumpă lângă tine, vrei sa o furi, ușile sunt deschise și pentru a nu fi prins de proprietar apeși tasta de pornire a motorului și pleci imediat.</p>
+    <div class="title"><span style="color: green">Excepție:</span></div> Dacă motorul autovehiculului este pornit nu se consideră ninja-jack.
+</div>
 
-<span style="color: green">Excepție:</span> dacă motorul autovehiculului este pornit nu se consideră ninja-jack.
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 Minute Jail
-- a doua abatere: Warn
-- trei sau mai multe abateri: Ban 1-3 zile în funcție de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Abaterea</th>
+                        <th>Sancțiune</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>20-40 Minute Jail</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Warn</td>
+                    </tr>
+                    <tr>
+                        <td>3+</td>
+                        <td>Ban 1-3 zile în funcție de gravitate</td>
+                    </tr>
+                </tbody>
+            </table>
+</div>
 
 ### <a id="5.4"></a><span style="color: #0088CC">5.4 Condus NON-RP</span>
 Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră în care în realitate nu ai putea. 
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Să mergi cu un autovehicul cu cel puțin o roată spartă la peste 70 km/h
 - Să mergi pe contra-sens în mod repetat sau pe autostradă
 - Să mergi cu o mașină cu gardă joasă pe drumuri accidentate
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 40-60 minute Jail
-- trei sau mai multe abateri: Warn + 60-80 minute Jail
-
-Pentru fiecare categorie de mai jos va fi impusă o limită maximă de viteză în funcție de gardă, respectiv suspensiile pe care le are.
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Abaterea</th>
+                        <th>Sancțiune</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>20-40 Minute Jail</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Warn</td>
+                    </tr>
+                    <tr>
+                        <td>3+</td>
+                        <td>Ban 1-3 zile în funcție de gravitate</td>
+                    </tr>
+                </tbody>
+            </table>
+</div>
 
 #### <a id="5.4.1"></a><span style="color: #0088CC">5.4.1 Off-Road</span>
 
 Pentru a conduce un vehicul cu garda înaltă pe drumurile off-road aveți obligația sa nu depășiți viteza maxima de 100 km/h. Nu puteți conduce mașini din categoriile Super si Super Sport pe drumurile OFF-ROAD.
 
-<span style="color: red">Sancțiuni:</span>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
 Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
+</div>
 
 #### <a id="5.4.2"></a><span style="color: #0088CC">5.4.2 Extreme Off-Road</span>
 Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poate face respectând următoarele aspecte:
@@ -807,55 +1638,74 @@ Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poa
 - Mașina sa fie de tip SUV cu gardă înaltă.
 - Viteza să nu fie mai mare de 50 km/h. 
 
-<span style="color: red">Sancțiuni:</span>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
 Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
+</div>
 
 #### <a id="5.4.3"></a><span style="color: #0088CC">5.4.3 Motociclete</span>
 - Motociclete de viteză - sunt destinate a fi folosite doar pe drumurile asfaltate fără limită de viteza în afara orașului.
 - Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
 
-<span style="color: red">Sancțiuni:</span>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
 Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
+</div>
 
 #### <a id="5.4.4"></a><span style="color: #0088CC">5.4.4 Elicoptere</span>
-Este <span style="color: limegreen">PERMIS</span> să aterizați cu un elicopter pe:
+<div class="rule-box rule-green">
+<div class="title">Este PERMIS să aterizați cu un elicopter pe:</div>
+
 - locuri special amenajate (helipad)
 - helipaduri special amenajate de pe clădiri
+</div>
+<div class="rule-box rule-red">
+<div class="title">Este STRICT INTERZIS să aterizați cu un elicopter pe:</div>
 
-Este <span style="color: #ff0000">STRICT INTERZIS</span> să aterizați cu un elicopter pe:
 - insula Cayo (cu excepția helipad-ului de pe aeroport)
 - locuri neamenajate
 - case indiferent de zonă
 - blocurile din Los Santos
 - străzi, parcari
+- să faci acțiuni **TERORISTE** cu elicopterul.<br>
+- stați sau să lăsați un elicoper abandonat pe un garaj de elicoptere (blocând parcarea).
+</div>
 
-Este <span style="color: #ff0000">STRICT INTERZIS</span> să faci acțiuni **TERORISTE** cu elicopterul.<br>
-Este <span style="color: #ff0000">STRICT INTERZIS</span> stați sau să lăsați un elicoper abandonat pe un garaj de elicoptere (blocând parcarea).
-
-<span style="color: yellow">Exceptii:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Exceptii:</div>
 - elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
 - rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
 - în cazul în care este o razie în desfasurare pe insula Cayo, mafioții au voie sa aterizeze oriunde pe insulă 
+</div>
 
-<span style="color: red">Sancțiuni:</span>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
 Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
+</div>
 
 #### <a id="5.4.5"></a><span style="color: #0088CC">5.4.5 Bărci</span>
 
-Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
+<div class="rule-box rule-red">
+<div class="title">Este STRICT INTERZIS să:</div>
+
 - acostați barca pe insula Cayo (cu excepția garajului de barci de la aeroport)
 - intrați intenționat cu barca în maluri pentru a ajunge mai rapid pe uscat
 - loviți intenționat bărcile parcate sau bărcile care au alte persoane în ele
 - parcați bărcile pe uscat
 - blocați intrările în porturi sau locuri special amenajate pentru bărci
+</div>
 
-<span style="color: red">Sancțiuni:</span>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
 Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
+</div>
 
 #### <a id="5.4.6"></a><span style="color: #0088CC">5.4.6 Avioane</span>
 
-<span style="color: limegreen">Reguli generale pentru piloți:</span>
+<div class="rule-box rule-green">
+<div class="title">Reguli generale pentru piloți:</div>
+
 - Piloții trebuie să respecte toate regulile de trafic aerian și să acționeze într-un mod realist.
 - Decolarea și aterizarea trebuie anunțate în prealabil prin stația radio a aeroportului.
 - Pilotii nu au voie sa astepte jucătorii pe care ii transporta pe cayo mai mult de 2 minute.
@@ -864,56 +1714,136 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 - Avioanele trebuie parcate doar în zonele special amenajate.
 - Orice accident aviatic trebuie tratat ca un incident serios în cadrul roleplay-ului.
 - Abandonarea aeronavelor în locuri nepermise este sancționată cu **ban 3-7 zile** și **pierderea licenței de aviație**.
+</div>
 
-<span style="color: yellow">Exemple de motive bine întemeiate pentru abatere de la traseu:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Exemple de motive bine întemeiate pentru abatere de la traseu:</div>
+
 - Liderul Sindicatului organizează un roleplay în Paleto și are nevoie de transport din Los Santos.
 - Chestorul General organizează un roleplay în zona bazei militare și are nevoie de transport.
 - *Motiv neîntemeiat*: **"M-a chemat X în Paleto să îl iau si sa il duc pe cayo."**.
+</div>
 
-Este <span style="color: #ff0000">STRICT INTERZIS</span> să:
+<div class="rule-box rule-red">
+<div class="title">STRICT INTERZIS să:</div>
+
 - Folosiți avioanele de la job pentru distracție, plimbări personale sau trolling.
 - Comiți crime, jafuri sau pentru a transporta persoane fără un motiv valid roleplay.
+</div>
 
 ⚠️ Acest regulament trebuie respectat de toți piloții! Nerespectarea regulilor va duce la sancțiuni severe!
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Ban 1 - 3 zile + Confiscarea licentei
-- două sau mai multe abateri: Ban 3 - 7 zile + Confiscarea licentei
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Abaterea</th>
+                        <th>Sancțiune</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Ban 1 - 3 zile + Confiscarea licentei</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Ban 3 - 7 zile + Confiscarea licentei</td>
+                    </tr>
+                </tbody>
+            </table>
+</div>
 
 ### <a id="5.5"></a><span style="color: #0088CC">5.5 Car-Ram (CR)</span>
-Sunt interzise:
+<div class="rule-box rule-red">
+<div class="title">Sunt interzise:</div>
+
 - folosirea vehiculului cu intenția de a lovi un alt vehicul sau a forța un alt vehicul să intre în tine.
 - urcarea cu un vehicul peste un alt vehicul.
+</div>
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Exemple:</div>
+
 - Intri într-o masina parcată cu scopul de a o muta pe aceasta 10m mai încolo.
 - Vezi o mașină ce vine de pe celălalt sens, tragi stangă în ultimul moment pentru a garanta împactul cu aceasta.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 40 minute Jail
-- a doua abatere: Warn + 40 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile (în funcție de gravitate)</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 #### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Blocajele</span>
-- Blocajul reprezintă acțiunea de a obstrucționa intenționat deplasarea unui vehicul, jucător sau accesul într-o zonă, folosind mijloace fizice (vehicule, obiecte).
+  Blocajul reprezintă acțiunea de a obstrucționa intenționat deplasarea unui vehicul, jucător sau accesul într-o zonă, folosind mijloace fizice (vehicule, obiecte).
 
-Este <span style="color: #ff0000">STRICT INTERZIS</span>:
+<div class="rule-box rule-red">
+<div class="title">STRICT INTERZIS să:</div>
+
 - blocarea a mai mult de o bandă de mers folosind obiecte
 - blocarea a mai mult de o bandă de mers folosind obiecte sau vehicule <span style="color: yellowgreen">în cazul autostrăzilor</span>
 - blocajele făcute din scurt ce garantează împactul cu un alt autovehicul (poate să fie sancționat și cu <span style="color: red">**NF**</span> în cazuri mai grave)
+</div>
 
-<span style="color: green">Mențiuni:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Mențiuni:</div>
+
 - blocajele trebuie făcute din timp sau la viteze suficient de mici cu scopul de a oferii celor împlicați în urmărire timp suficient pentru a evita impactul cu blocajul
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 40 minute Jail
-- a doua abatere: Warn + 40 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ## <a id="6"></a><span style="color: #0088CC">CAP.6 JOBURI ȘI ACTIVITĂȚI LEGALE</span>
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Locurile de muncă legale</span>
 
-În momentul în care vă aflați la un loc de muncă legal, aveți îndatorirea de a respecta următoarele reguli:
+<div class="rule-box rule-green">
+<div class="title">În momentul în care vă aflați la un loc de muncă legal, aveți îndatorirea de a respecta următoarele reguli:</div>
 
 - Să continuați să lucrați cu uniforma alocată respectivului loc de muncă.
 - Să aveți un comportament adecvat la locul de muncă.
@@ -921,11 +1851,33 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span>:
 - Să nu folosiți vehiculele de job în scopuri personale.
 - Să nu folosiți uniformele de job ca și acoperire pentru activități ilegale.
 - Să nu deranjați persoanele cu care interacționați la locul de muncă
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 10-20 minute Jail
-- a doua abatere: 40-60 minute Jail
-- trei sau mai multe abateri: Warn + 60 minute Jail
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>10-20 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>40-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ## <a id="7"></a><span style="color: #0088CC">CAP. 7 ACȚIUNI ILEGALE</span>
 
@@ -933,18 +1885,41 @@ Este <span style="color: #ff0000">STRICT INTERZIS</span>:
 Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi. 
 
 - Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="5.4">#5.4 Ninja-Jack</a> la orice oră, **DOAR** mașina.<br>
-- Este permis să furați bunuri dintr-o mașină dacă respectați regula de <a href="#7.8.2">7.8.2 Zone rău famate</a> și <a href="#7.3">#7.3 Ilegalități în zonă publică</a>.
+- Este permis să furați bunuri dintr-o mașină dacă respectați regulile din <a href="./rules/zones#Z1">Regulament Zone</a> și regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>.
 
 Vă este permis să furați o mașină de poliție/medici doar în cazuri extreme ca o ultimă cale de scăpare urmând ca să o abandonați cat mai repede posibil.
 
-<span style="color: green">Mențiuni:</span>
+<div class="rule-box rule-yellow">
+<div class="title">Mențiuni:</div>
 
 - Echipa administrativă nu este obligată să vă returneze obiectele în cazul în care vă sunt furate din vehiculele personale, vă recomandăm să vă parcați vehiculele în unul din cele peste 50 de garaje de pe hartă.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 40-60 minute Jail
-- trei sau mai multe abateri: Warn + 60-100 minute Jail
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 40-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60-100 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="7.2"></a><span style="color: #0088CC">7.2 Ilegalități sub 50 de ore</span>
 
@@ -955,42 +1930,90 @@ Acțiunile ilegale cuprind:
 - Luarea de Ostatic sau participarea la o actiune de acest tip.
 - Craftarea respectiv, confecționarea de obiecte ilegale.
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 40-60 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-3 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>40-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-3 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zonă publică</span>
-Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="#7.8.1">7.8.1 Zone Verzi</a>.
+Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="./rules/zones#Z2">Z2 - Zone Verzi</a>.
 
 Denumim zone publice locurile în care în realitate ar exista camere de luat vederi sau ar fi o zona des circulată.
 
 De asemenea, este interzis să se desfășoare activități ilegale în apropierea unui spital sau a unei secții de poliție, respectiv penitenciar.
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
 
 - scoaterea unei arme albe / a unei arme de foc în zonele publice
 - deschiderea focului în zonele publice
 - uciderea unui jucător în zonele publice
 - aruncarea unui cetățean în comă într-o zonă publică
 - amenințarea cu arma în mașini este interzisă, indiferent dacă acestea au sau nu folii ori geamuri negre.
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 40-60 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
-
-<span style="color: green">Mențiuni și excepții:</span>
+</div>
+<div class="rule-box rule-green">
+    <div class="title">Mențiuni și excepții:</div>
 - în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
+</div>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>40-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic (În situațiile cu poliția)</span>
 
 Luarea de ostatic este actul de a captura și reține o persoană sau un grup de persoane împotriva voinței lor, în momentul în care libertatea ta sau a oamenilor tăi este pusă în pericol, cu scopul de a scăpa de aceste presiuni.
-
+<div class="rule-box rule-yellow">
+<div class="title">Exemple de situații în care se poate lua ostatic:</div>
 - Luarea de ostatic poate avea loc doar dacă <span style="color: yellowgreen">liderul</span> oficial sau neoficial este pus în pericol sau arestat, iar doar mafia sa are dreptul și capacitatea de a cere eliberarea lui. 
 - Liderul de mafie poate lua ostatic doar in cazul in care nu mai are sanse de scapare si are dreptul de a-și salva doar viața sa și a oamenilor săi implicați la acțiunea respectivă.
+</div>
 
-Este <span style="color: red">STRICT INTERZIS</span>:
+<div class="rule-box rule-red">
+<div class="title">Este STRICT INTERZIS</div>
+
 - Luarea de ostatic fără un roleplay anterior sau un motiv bine întemeiat.
 - Luarea unei persoane sau a unui grup de persoane sub amenințarea ta sau a grupului tău pentru o durata de mai mult de 2 ore.
 - Cererea de bani sau de bunuri în cadrul negocierilor unei situații de ostatic.
@@ -998,144 +2021,104 @@ Este <span style="color: red">STRICT INTERZIS</span>:
 - Să aveți pretenții prea mari din partea Poliției, precum să plece toate echipajele, să lase armele sau să cereți eliberarea suspecților din custodie dacă aceștia au fost deja luați de la locul faptei (se aplică și în cazul liderului de mafie). În principiu nu se permit exagerari foarte mari.
 - Luarea de ostatic în cadrul jafurilor sau a intervenților S.A.S., indiferent de ce tip sunt acestea.
 - Luarea unui polițist/medic ostatic odată ce acesta a intrat în coma, polițistul/medicul luat ostatic trebuie să fie în viață.
+</div>
 
 Este <span style="color: yellow">OBLIGATORIU</span>:
 - Ca după o înțelegere/negociere pe baza ostaticului să vă țineți de cuvânt și să nu fie o înșelăciune la mijloc. Lucru valabil pentru abele părți implicate.
 
-<span style="color: green">Mențiuni:</span>
+<div class="rule-box rule-green">
+    <div class="title">Mențiuni:</div>
+
 - În cazul în care jucătorul/jucătorii nu mai pot sta, vi se permite amânarea, respectiv ostaticii au obligația de a reveni la data și ora stabilită de comun acord.
 - În cazul în care nu se acceptă oferta aveți dreptul de a da PK ostaticului.
 - În cazul în care cereți o mașină ca să puteți fugii sau o cale de scăpare, Poliția este <span style="color: yellowgreen">obligată</span> să se țină de cuvânt și să nu se tragă fix în momentul în care ostaticul este eliberat. Poliția în acel moment se pregatește de o urmărire nu de deschiderea focului.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 40-60 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                               <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>40-60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="7.5"></a><span style="color: #0088CC">7.5 Răpirea</span>
+<div class="rule-box rule-yellow">
+<div class="title">Este permisă, respectând următoarele cerințe:</div>
 
-Este permisă, respectând următoarele cerințe:
 - Să se folosească o armă letală pentru a amenința.
 - Zona din care sunt răpiți să fie o zonă retrasă.
 - Să se folosească un vehicul în care este pusă persoana răpită și să se afle minim 2 persoane din grupul care organizează răpirea. Invitarea persoanelor din zone publice nu se poate face cu forța sau sub amenințare.
 - În intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span> sau <span style="color:yellowgreen">**00:00 - 24:00**</span> pe zonele roșii.
 - Persoana răpită sa nu fie la un job legal sau pe traseul de la job.
 - În cazul roleplay-ului de răscupărare a celui răpit se pot cere bunuri până în suma de 200.000$ (dar nu de la facțiunile guvernamentale). În cazul în care nu se ajunge la un acord între părțile implicate, cel răpit își va rula PK-ul față de toți cei prezenți în RP-ul respectiv (chiar și din gang / mafie dacă este implicat).
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 40 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="7.6"></a><span style="color: #0088CC">7.6 Acțiunile teroriste</span>
 Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul pe care vreți să-l faceți. 
 - Aceste acțiuni sunt permise cu aprobarea unui membru staff senior în baza unui roleplay complex. 
 - Eșecul unei astfel de acțiuni teroriste se sancționează cu CK tuturor membrilor implicați în aceasta acțiune (indiferent daca e aprobat sau nu).
 
-<span style="color: yellow">Exemple:</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
 - Intrarea pe terenurile guvernamentale înarmat.
 - Folosirea armelor de orice calibru în locațiile publice.
 - Folosirea explozibilului prin care puneți în pericol viețile oamenilor respectiv deteriorarea spațiilor publice fără un motiv întemeiat (Jaf-uri).
 - Incendierea intenționată a unui vehicul în preajma cetățenilor.
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-Ban 7-14 zile în funcție de gravitate
-
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Intervenții civil/mafiot pentru civil/mafiot</span>
-- Alianța dintre 2 sau mai multe mafii recunoscute de către sindicat impotriva unei altei mafii recunoscute de către sindicat este <strong style="color: red">STRICT INTERZISĂ</strong> fără aprobarea sindicatului sau declararea unui razboi.
-- Este <strong style="color: red">STRICT INTERZISĂ</strong> acționarea pentru o altă mafie/civili, în acțiunile cu poliția, daca nu sunteți toți direct implicați de la începutul acțiunii.
-- Este <strong style="color: red">STRICT INTERZIS</strong> să acționați mafiot pentru civil, dacă acesta lucreaza pentru dumneavoastră și este prins de către poliție. Este <strong style="color: green">PERMIS</strong> doar dacă sunteți în același vehicul.
-- Este <strong style="color: red">STRICT INTERZIS</strong> să acționați civil/mafiot pentru civil, în acțiunile cu poliția, dacă nu sunteți toți în același vehicul.
-
-- Este <strong style="color: green">PERMIS</strong> unui membru al unei mafii cu grad să intervină doar pentru un alt membru din <strong style="color: green">propria</strong> mafie, în acțiunile cu poliția, dar nu prin implicarea altor civili.
-- Este <strong style="color: green">PERMIS</strong> să acționati civil/mafiot pentru civil/mafiot în acțiunile cu jefuitorii.
-- Este <strong style="color: green">PERMIS</strong> să dați trusă doar membrilor din <strong style="color: green">propria</strong> mafie sau celor implicați la aceeași acțiune de la început (ex. jaf bancar).
-
-<span style="color: yellowgreen">Exceptii:</span>
-- Pe insula Cayo nu se aplică regula 7.7 Intervenții civil/mafiot pentru civil/mafiot.
-- Mafia care detine un teritoriu (ce nu este teritoriu de livrat) are dreptul de intervenii pe acesta în cazul în care poliția face o razie pe el.
-
-<span style="color: red">Sancțiuni:</span>
-- mafiile ce incalcă această regulă vor primii implicit <strong style="color: red">Mafia WARN</strong>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate<br>
-<span style="color: yellowgreen">Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.</span>
-
-### <a id="7.8"></a><span style="color: #0088CC">7.8 Delimitarea zonelor</span>
-
-<p align="center"><img src="https://assets.b-zone.ro/b-zone-zone.png"/></p>
-
-<div style="text-align: center; width: 100%;">Anexa 7.8.1 Delimitarea zonelor din oraș (27.07.2025)</div>
-
-<p align="center"><img src="https://assets.b-zone.ro/b-zone-zone_cayo.png"/></p>
-
-<div style="text-align: center; width: 100%;">Anexa 7.8.2 Delimitarea zonelor de pe Cayo (13.02.2025)</div>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    
+- Ban 7-14 zile în funcție de gravitate
+</div>
 
 --- 
-
-#### <a id="7.8.1"></a><span style="color:green; font-size: 20px;">7.8.1 ZONE/DRUMURI VERZI</span>
-
-Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și, de obicei, monitorizate prin camere de supraveghere. În aceste zone unde nu este permis să comiți ilegalități. Aici se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>.
-
-<span style="color: yellowgreen">Excepții:</span>
-- Pe zonele verzi de pe Aeroport Cayo va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
----
-
-#### <a id="7.8.2"></a><span style="color:red; font-size: 20px;">7.8.2 ZONE ROSII</span>
-Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara acestuia, unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
-
-Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span> pentru **Los Santos** / <span style="color:yellowgreen">**18:00 - 10:00**</span> pentru **Insula Cayo**:
-- Jefuirea persoanelor, a vehiculelor, a plantelor sau orice forma de furt/jaf
-
-Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**00:00 - 24:00**</span>:
-- Luarea de ostatic respectiv răpirea cetățenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
-- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlați zona Grove, iar o mafie rivală vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
-
----
-
-#### <a id="7.8.3"></a><span style="color:yellow; font-size: 20px;">7.8.3 ZONE/DRUMURI GALBENE</span>
-Zonele și drumurile galbene sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar <strong style="color: red">NU</strong> cu scopul de a jefuii. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea roleplay-ului.
-
-Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Luarea de ostatic, respectiv răpirea cetățenilor, în baza unui roleplay anterior sau un motiv foarte bine întemeiat.
-- Deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat. 
-**<span style="color:red">OPRIREA LA UN TRAFIC STOP NU ESTE UN MOTIV BINE ÎNTEMEIAT PENTRU A DESCHIDE FOCUL ÎN ACESTE ZONE</span>**
-
-În intervalul orar <span style="color:yellowgreen">**08:01 - 19:59**</span>:
-- Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
-
----
-
-#### <a id="7.8.4"></a><span style="color:gray; font-size: 20px;">7.8.4 ZONE GRI / DRUMURI ROȘII</span>
-Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități. În principiu sunt drumurile ce nu au fost marcate pe harta de mai sus cu nici o culoare, alei între cladiri, drumuri prin munți sau prin extremitatea hărții.
-
-<span style="color:gray; font-size: 18px;">În orașe</span>
-
-Se permit urmatoarele în intervalul orar în orașe <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Jefuirea persoanelor sau a vehiculelor
-- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
-- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat 
-
-În intervalul orar în oraș <span style="color:yellowgreen">**08:01 - 19:59**</span>:
-- Se aplică regulamentul de <a href="#7.3">#7.3 Ilegalități în zonă publică</a><br><br>
-
-<span style="color:gray; font-size: 18px;">În afara orașelor</span>
-
-Se permit urmatoarele în intervalul orar în afara oraselor <span style="color:yellowgreen">**20:00 - 08:00**</span>:
-- Jefuirea persoanelor sau a vehiculelor
-
-Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:yellowgreen">**00:00 - 24:00**</span>:
-- Luarea de ostatic respectiv rapirea cetatenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat
-- Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Sunteti urmariti de politie si vreti sa faceti o ambuscada, drumurile acestea retrase pot sa fie folosite in respectivele actiuni)
-
----
-
-<span style="color: green">Mențiuni și Excepții:</span>
-
-- Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
-
-- Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie. Se va sancționa conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>
 
 - Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri. Dacă o persoană aflată într-o zonă roșie sau gri provoacă intenționat (face 'Provoking'), aveți permisiunea să o îndepărtați din fața afacerii / din afacere — inclusiv prin folosirea armelor, dacă este necesar. În cazul afacerilor legale ce dispun de o parte ilegala (ex. Hanul Namol), în partea ilegală a acestor afaceri, sunt permise acțiunile ilegale din partea proprietarilor acestor afaceri și nu se aplica regula de ilegalitate în zonă publică.
 
@@ -1149,31 +2132,20 @@ Se permit urmatoarele în intervalul orar in afara oraselor <span style="color:y
 
 _Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
 
-#### <a id="7.8.5"></a><span style="color: #0088CC">7.8.5 ZONE NEPOPULATE</span>
-Sunt acele zone pe hartă unde nu ați putea fi văzuți de cetățeni trecători, fiind niște zone foarte retrase pe unde nu trece lumea în mod constant.<br>
-În aceste zone este strict <span style="color: red">INTERZIS</span>:
-- apelul medicilor cât timp sunteți în comă
-- folosirea alertelor de focuri de armă de către poliție din aceste zone
 
-Mai jos aveți o hartă orientativă a zonelor nepopulate, în principiu această hartă nu trebuie interpretată la linie, în principiu dacă poziția ta este vizibilă cu ușurință de pe un drum, acea zonă nu este considerată nepopulată.
-<p align="center"><img src="https://i.imgur.com/dtFLZmv.png"/></p>
-<div style="text-align: center; width: 100%">Anexa 7.8.5 Zone nepopulate</div>
-
-Apelul catre medici din zone nepopulate se sanctioneaza conform regulii <a href="#2.6.1">#2.6.1 Apelul către medici</a>
-
-Folosirea alertelor din zone nepopulate de catre politie se sanctioneaza conform regulii <a href="#2.10">#2.10 MetaGaming (MG)</a>
-
-### <a id="7.9"></a><span style="color: #0088CC">7.9 Jafuri jucători</span>
+### <a id="7.9"></a><span style="color: #0088CC">7.7 Jafuri jucători</span>
 
 Intervalul orar în care puteți jefui un jucător este <span style="color:yellowgreen">**20:00 - 08:00**</span>.
 
 Pentru a putea jefui, aveți nevoie de minim o armă albă / o armă de foc asupra voastră.
 
-Jefuirea jucătorilor se poate face doar în <a href="#7.8">#7.8 Zonele rău famate</a> și <a href="#7.8.1">Zonele gri/ drumuri roșii</a> respectând condițiile acestor reguli.
+Jefuirea jucătorilor se poate face doar în <a href="./rules/zones#Z1">Zonele rău famate</a> și <a href="./rules/zones#Z5">Z5 - Zonele gri/ drumuri roșii</a> respectând condițiile acestor reguli.
 
 Puteți să jefuiți o persoană doar de banii și obiectele care se află asupra sa și de obiectele care se află în vehiculul pe care îl conducea în momentul în care a fost jefuit.
 
-Este <span style="color: red">interzis</span>:
+<div class="rule-box rule-red">
+    <div class="title">Este interzis:</div>
+
 - să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe <strong style="color: red">CARACTER</strong>. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
 - să jefuiți un jucător dacă acesta nu are cel puțin 50 de ore jucate pe <strong style="color: red">SERVER</strong> (Acest lucru vă va fi notificat in momentul in care Încercați să furați ceva de pe ei). Această regulă nu scutește jucătorul de regula de No-Fear / Provoking etc.
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
@@ -1182,143 +2154,144 @@ Este <span style="color: red">interzis</span>:
 - este interzis să jefuiți o persoană cu care ați format o echipă pentru un job, quest sau orice altă activitate.
 (dacă echipa a fost formată fără un motiv concret, această regulă nu se aplică.)
 - jefuirea aceluiasi individ intr-un interval mai mic de 2 ore (Persoanele care au fost jefuite nu au voie sa abuzeze de această regula și trebuie să ruleze în continuare frica de jefuire)
+- să jefuiți itemele cu background albastru (itemele protejate)
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-#### <a id="7.9.1"></a><span style="color: #0088CC">7.9.1 Rob & Kill | Kill & Rob | Drop & Kill</span>
+#### <a id="7.9.1"></a><span style="color: #0088CC">7.7.1 Rob & Kill | Kill & Rob | Drop & Kill</span>
 - Rob & Kill reprezintă acțiunea de a jefui, ulterior omorî o persoană (PK). Este interzisă omorârea unei persoane (PK) după ce ați jefuit-o.<br>
 - Kill & Rob reprezintă acțiunea de a omorî (Comă), ulterior jefuind persoană cât ea este în comă.<br>
 - Drop & Kill reprezintă acțiunea de a pune pe cineva sa arunce pe jos / ofere / dezechipeze obiectele din inventar ca mai apoi să-l omori (PK).
 
 In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, acesta nu poate să fie privat de acest drept. Orice acțiune ce asigură PK-ul jucătorului în urma jefuirii nu este permisă.
+<div class="rule-box rule-red">
 
 - Este strict <span style="color: red">INTERZISĂ</span> folosirea truselor de prim ajutor pe cineva în Comă cu scopul de a-l jefui ulterior. Dacă vreți să jefuiți pe cineva picat el trebuie să fie dus la un spital ilegal, roleplay-ul de jefuit continuându-se de acolo.
 - Este strict <span style="color: red">INTERZIS</span> să omori o persoană după ce i-ai vazut itemele și nu iți convin (în contextul unui acțiuni de jefuit).
-
-<span style="color: yellow">Exemple:</span>
+</div>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
 
 - Ai răpit o persoană, o duci într-un loc ferit, o omori și o jefuiești.
 - Jefuiești o persoană și chemi pe altcineva să-l omoare având un plan stabilit anterior.
 - Te-ai hotărât să oprești pe cineva și îl forțezi, folosindu-te de intimidare, să arunce tot ce are in inventar. Mai apoi, te gândești să-l omori, acest lucru este interzis.
+</div>
 
-<span style="color: green">Excepții de la regulă:</span>
+<div class="rule-box rule-green">
+    <div class="title">Excepții de la regulă:</div>
+
 - Ai voie să omori o persoană doar atunci când tu pleci din acel loc unde ai jefuit-o, iar aceasta te urmărește singură sau se întâlnește cu alte persoane pentru a te doborî/recupera lucrurile furate. 
 - Persoanele care sunt guralive, nu au frică și care nu se conformează jefuitorului pot fi omorâte. De asemenea, persoanele care folosesc telefonul sau stația în timp ce sunt amenințate cu arma pot fi omorâte.
 - Persoana jefuită, dacă întâlnește jefuitorul, îl poate jefui pe acesta de tot ce are în inventar și de a-l omorî ulterior doar pe jefuitorul inițial, fără a avea 50 de ore jucate pe <strong style="color: red">CARACTER</strong>
 - În momentul în care primiți o țeapă IC cu obiecte ilegale
 
 Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-### <a id="7.10"></a><span style="color: #0088CC">7.10 Regulament jafuri</span>
-<br>
+### <a id="7.11"></a><span style="color: #0088CC">7.8 Ilegalități în case și în jurul caselor</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Sunt permise următoarele **DOAR** în intervalul **20:00 - 08:00**:</div>
 
-#### <a id="7.10.1"></a><span style="color: #0088CC">7.10.1 Magazine</span>
-Jefuirea magazinelor se poate face cu cel puțin o armă de foc, în orice interval orar, într-un grup de minim 2, maxim 8 persoane cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>.
-
-Civilii prezenți în timpul jafului nu pot fi jefuiți, răpiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi magazinul pot fi omorâți.
-
-În cazul în care un jaf începe cu un număr mai mic decât 8 participanți, se pot alătura alte persoane până la numărul maxim (4). De exemplu: jaful începe în 2 persoane, se mai solicită întăriri de maxim 6 persoane.<br><br>
-<span style="color: red">Exceptie:</span> În cazul mafiilor neoficiale numărul maxim este de **6** iar în cazul mafiilor oficiale numărul maxim este de **4**.
-
-O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf.
-
-Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuirea unui magazin.
-
-Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. Această acțiune poate conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
-
-#### <a id="7.10.2"></a><span style="color: #0088CC">7.10.2 Banci</span>
-Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6 și maxim 25 cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări fără a depăși limita de maximul de oameni 25, <strong style="color: red">DOAR</strong> cu acordul sindicatului în baza unui RP de aliere.
-
-După ce alarma se declanșează, proximitatea băncii devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi banca pot fi omorâți.
-
-O persoană care și-a acceptat moartea nu poate fi înlocuită de un alt coleg la jaf.
-
-Pe durata jafului nu puteți avea ostatic pentru că se vizează exclusiv jefuirea unei bănci. Dorim să evităm situațiile de tickete în care aceeași persoană ar putea fi luată drept ostatic de mai multe ori sau tickete pentru nerespectarea condițiilor negociate.
-
-Un alt grup de persoane nu poate interveni să bată jefuitorii sau să preia jaful.
-
-Cel care începe jaful are nevoie de minim 500 ore.
-
-După terminarea jafului și neutralizarea zonei, poliția va trebui să închidă sistemele de siguranță ale băncii.
-
-Ușile băncii nu pot fi blocate cu vehicule, atât de către jefuitori, cât și de polițiști. În mod evident nici crearea de ziduri din mașini sau orice alta modalitate de a limita accesul/căile de intrare în bancă nu este permisă. Nu se permite spargerea roților mașinilor parcate. Aceaste acțiuni pot conduce la sancționarea conform regulii de <a href="#2.13">#2.13 PowerGaming (PG)</a>.
-
-<span style="color: green">Mențiuni:</span>
-
-- În cadrul unui jaf de bancă, odată cu începerea acestuia, se creează un perimetru de jaf. Acest perimetru este evidențiat pe harta de mai jos și este utilizat pentru a determina zona maximă în care se poate desfășura conflictul Poliție – Mafie.
-
-- Este <span style="color:red">**STRICT INTERZIS**</span> să continuați confruntarea în afara zonei marcate pe hartă. Această interdicție include atât tragerea focurilor de armă în afara zonei, cât și tragerea din afara zonei către interior. Excepție face situația în care poliția deschide focul asupra voastră din afara perimetrului; în acest caz, vă este permis să răspundeți cu foc, însă **NU** aveți voie să îi urmăriți sau să părăsiți zona marcată.
-
-- Este <span style="color:red">**STRICT INTERZIS**</span> să deschidă focul de pe clădirile din afara perimetrului indiferent dacă ești polițist, civil, mafiot etc.
-
-- Ne dorim ca jafurile să își desfășoare conflictele într-o arie restrânsă, pentru a nu afecta alte RP-uri care se pot desfășura în afara zonei marcate pentru jaf.
-
-- Odată cu încheierea jafului (banii au fost luați și mafioții pleacă sau orice alt lucru ce ar incheia RP-ul de bătaie în jurul băncii) acest perimetru de jaf nu se mai aplică. În cazul în care poliția urmărește suspecții ce pleacă de la jaf trebuie să își asume o posibilă redeschidere a focului în limitele zonelor marcate pe hartă (nu în zone verzi). De precizat este faptul că încheierea jafului nu vă permite urmărirea poliției în afara perimetrului doar cu scopul de a-i pica pentru a vă asigura că nu puteți să fiți urmăriți ulterior.
-
-<p align="center"><a id="harta_jafuri"></a><img src="https://assets.b-zone.ro/b-zone-zone_jafuri.png"/></p>
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
-
-### <a id="7.11"></a><span style="color: #0088CC">7.11 Ilegalități în case și în jurul caselor</span>
-Sunt <span style="color: green">permise</span> următoarele **DOAR** în intervalul <span style="color:yellowgreen">**20:00 - 08:00**</span>:
 - ducerea unui cetățean răpit în propria casă sau casă unde aveți chirie
 - jefuirea unui cetățean în casă jefuitorului sau casă unde jefuitorul are chirie
+</div>
+<div class="rule-box rule-red">
+    <div class="title">Sunt interzise următoarele:</div>
 
-Sunt <span style="color: red">interzise</span> următoarele:
 - jefuirea unui jucător în interiorul propriei sale case
 - răpirea unui jucător din propria casă fără un RP anterior cu acesta
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
-- intratul în curtea sau interiorul unei case fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 4+
-- acțiuni ilegale în apropierea caselor care nu sunt în <a href="#7.8">7.8 Zonele rău famate</a>
-- Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br>
-*Exemplu: Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
+- intratul în curtile cu garduri fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 4+
+- acțiuni ilegale în apropierea caselor care nu sunt în <a href="./rules/zones#Z1"> Zonele rău famate</a>
+- Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br><br>
+*<span style="color: yellow">Exemplu:</span> Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
+</div>
 
-<span style="color: green">Mențiuni:</span>
+<div class="rule-box rule-green">
+    <div class="title">Mențiuni:</div>
+
 - Se consideră casă orice forma de interior cu teleport sau cu uși deschise
 - Se consideră casă HQ-urile de mafii sau locul unde o grupare își desfășoara preponderent activitatea
+</div>
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-### <a id="7.12"></a><span style="color: #0088CC">7.12 Deturnarea unui transport</span>
-Se permite deturnarea unui transport de deținuți, oriunde în afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere), dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
-
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
-
-### <a id="7.13"></a><span style="color: #0088CC">7.13 Limite membri la ilegalitati</span>
-**Gang** - Grupare de maxim 10 persoane care nu este recunoscută de către sindicat.
-
-**Grupare neoficială** - Grupare de maxim 21 persoane care este recunoscută de către sindicat.
-
-**Grupare oficială** - Grupare de maxim 31 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
-
-<span style="color: red">Sancțiuni</span> pentru toți membrii care nu respectă acestă regulă. În funcție de gravitatea situației și numărul de abateri se poate sancționa de la 20 minute Jail pănă la ban 7 zile.
-
-<span style="color: green">Mențiuni:</span>
-
-Orice tip de grupare poate avea mai mulți membri pentru activități legale. Aceste limitări se aplică doar pentru activități ilegale.
 
 ## <a id="8"></a><span style="color: #0088CC">CAP 8. Tickete</span>
 Ticketul reprezintă o formă de contactare a staff-ului serverului pentru a rezolva o problemă sau pentru a raporta o încălcare a regulamentului. 
@@ -1332,8 +2305,23 @@ Pentru prezentarea dovezilor din joc se solicită să fie afișate data și ora,
 ### <a id="8.1"></a><span style="color: #0088CC">8.1 Comportamentul neadecvat la ticket</span>
 Prin comportament neadecvat catalogăm orice situație în care luați peste picior echipa administrativă sau persoanele implicate în ticket. În momentul în care luați parte la un ticket va trebui să uitați de toate problemele pe care le aveți IC și să vă comportați respectuos.
 
-<span style="color: red">Sancțiuni:</span>
-- Ban 1-14 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1+</td>
+                <td>Ban 1-14 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="8.2"></a><span style="color: #0088CC">8.2 Minciuni la ticket</span>
 Nu sunt permise minciuni la ticket. Staff-ul dorește să vă ajute în rezolvarea problemelor și nu acceptăm să pierdem timpul în care am putea să ajutăm alte persoane.
@@ -1345,8 +2333,23 @@ Tot minciuni la ticket se considera și ascunderea, refuzul sau alterarea de inf
 - Iteme pierdute care de fapt au fost depozitate în alte părți
 - Refuzul de a oferi ID-ul prietenului tau care a încalcat regulamentul
 
-<span style="color: red">Sancțiuni:</span>
-Ban 3-14 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ban 1-14 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="8.3"></a><span style="color: #0088CC">8.3 Tickete pe Discord</span>
 Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) în termen de 24 ore de la data incidentului pentru următoarele probleme:
@@ -1358,10 +2361,31 @@ Soluționarea ticketelor se va face în maxim 72 ore de la deschiderea lui.
 ### <a id="8.4"></a><span style="color: #0088CC">8.4 Ticket in RolePlay</span>
 Orice tip de ticket se poate deschide doar după încheierea roleplay-ului
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ## <a id="9"></a> <span style="color: #0088CC">CAP 9. Activitate</span>
 
@@ -1380,19 +2404,61 @@ Persoanelor banate permanent fără drept de plată li se vor scoate casa după 
 
 Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice alt conținut ofensator vor fi șterse.
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 60 minute Jail
-- trei sau mai multe abateri: Ban 1-7 zile în functie de gravitate
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Ban 1-7 zile în funcție de gravitate</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Obligativitatea roleplay-ului</span>
 
 Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay. 
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Avertisment verbal
-- a doua abatere: 20-40 minute Jail
-- trei sau mai multe abateri: Warn + 60 minute Jail
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Avertisment verbal</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Obligativitatea imaginilor relevante</span>
 
@@ -1402,10 +2468,31 @@ Poza atașată anunțului trebuie să fie relevantă pentru produsul sau servici
 - Conțin arme, cadavre sau alte elemente inadecvate roleplay-ului.
 - Prezintă elemente OOC (Out of Character).
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Avertisment verbal
-- a doua abatere: 20-40 minute Jail
-- trei sau mai multe abateri: Warn + 60 minute Jail
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Avertisment verbal</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 Excepție: În cazul utilizării imaginilor controversate, cu conținut politic sau cu tentă sexual-pornografică, sancțiunile pot varia în funcție de gravitate, putând include și Ban permanent.
 
@@ -1413,10 +2500,31 @@ Excepție: În cazul utilizării imaginilor controversate, cu conținut politic 
 
 Nu este permisă promovarea sau vânzarea de bunuri ilegale prin intermediul platformei de anunțuri, promovare de bunuri ilegale este și atunci când vinzi pistoale de apa, plicuri cu zăpadă etc.
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Avertisment verbal
-- a doua abatere: Warn + 20-40 minute Jail
-- trei sau mai multe abateri: Warn + 60 minute Jail
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Avertisment verbal</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="10.5"></a><span style="color: #0088CC"> 10.5 Fără incitare la ură sau certuri</span>
 
@@ -1432,17 +2540,40 @@ Exemple de anunțuri interzise:
 - "Cumpăr femeie de moravuri ușoare."
 - "L-am culcat pe X pe Groove."
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: 20-40 minute Jail
-- a doua abatere: Warn + 40-60 minute Jail
-- trei sau mai multe abateri: Warn + 60 minute Jail
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Avertisment verbal</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### <a id="10.7"></a><span style="color: #0088CC"> 10.7 Fără promovarea altor comunități</span>
 
 Promovarea altor servere sau comunități, inclusiv prin metode subtile, este strict interzisă.
 
-<span style="color: red">Sancțiuni:</span>
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiune:</div>
 Ban Permanent
+</div>
 
 ### <span style="color: #0088CC"> 10.8 Limba permisă în anunțuri</span>
 Anunțurile trebuie redactate exclusiv în limba <b>română</b> sau <b>engleză</b>.
@@ -1450,23 +2581,42 @@ Este permisă folosirea unor termeni sau denumiri în alte limbi (ex: numele unu
 
 ✅ Permis:
 – „Deschidere oficială La Pasta Migliore – cel mai autentic gust italian!”
-– „Nou în oraș: Bäckerei Edelweiss – pâine artizanală germană!”
+– „Nou în oraș: Bäckerei Edelweiss – pâine acodexrtizanală germană!”
 – „Try our new menu at Café Bonjour – fine French cuisine!”
 
 ❌ Interzis:
 – Anunțuri complet scrise în altă limbă decât română sau engleză
 – Mesaje care nu pot fi înțelese de majoritatea utilizatorilor
 
-<span style="color: red">Sancțiuni:</span>
-- prima abatere: Avertistemnt verbal
-- a doua abatere: 30-50 minute Jail
-- trei sau mai multe abateri: Warn + 60 minute Jail
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Avertisment verbal</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>20-40 minute Jail</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Warn + 60 minute Jail</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
 <br>
 <br>
-<br>
-<div class="info-box">
-    <strong>*Acest regulament a fost conceput, corectat și modificat de Roho, Bobo, Barbosu, Sartor, Mondo, Vito, Therson, Infinity, Pant1limon, Chowdy*</strong>
-    <p>Asigurați-vă că ați citit și respectati noile modificări pentru a evita eventualele sancțiuni și pentru a fi la curent cu regulile actualizate.</p>
+<div class="rule-box rule-yellow">
+Acest regulament a fost scris și gândit de către administrația serverului B-Zone.
 </div>
