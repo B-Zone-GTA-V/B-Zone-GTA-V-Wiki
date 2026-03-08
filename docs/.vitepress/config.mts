@@ -35,10 +35,20 @@ export default defineConfig({
         ]
       },
       {
-        text: '📖 Regulamente',
+        text: '📖 Server Info',
         items: [
-          { text: 'Regulament (Română)', link: '/server/rules' },
-          { text: 'Cod Penal (Română)', link: '/server/rules/penal_code' },
+          { 
+            text: 'Regulamente',
+            collapsed: false,
+            items: [
+              { text: 'Regulament General', link: '/server/rules' },
+              { text: 'Regulament Mafii/Grupari', link: '/server/rules/mafii' },
+              { text: 'Regulament Jafuri', link: '/server/rules/jafuri' },
+              { text: 'Regulament Zone', link: '/server/rules/zones' },
+              { text: 'Regulament Programe Interzise', link: '/server/rules/hacking' }
+            ]
+          },
+          { text: 'Cod Penal', link: '/server/rules/penal_code' },
         ]
       },
       {
