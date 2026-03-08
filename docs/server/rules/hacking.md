@@ -9,7 +9,6 @@ lastUpdated: true
 
 Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a deranja ceilalți jucători pentru propriul amuzament. Este interzisă utilizarea oricăror programe sau instrumente care modifică în mod intenționat conexiunea la internet, fișierele jocului în timpul sesiunilor de joc, cu scopul de a obține un avantaj sau de a perturba experiența altor jucători.
 
-În cazul în care sunteți suspectat ca jucati cu cheat-uri, veți fi luați la teste; acestea pot fi refuzate, însă veți fi sancționați cu <strong style="color: red">BAN PERMANENT</strong>. În cazul în care jucatorul face parte dintr-o organizație (mafie, poliție, medici) acesta va fi scos cu 30 de zile Faction Punish. Pe langa cele 30 de zile de Faction Punish jucătorul are interdicție 30 de zile de a intra într-o mafie sau de a ține armă în mână, în caz contrar jucatorul va fi banat de coduri.
 
 <div class="rule-box rule-sanction">
     <div class="title">Sanctiuni:</div>
@@ -28,17 +27,61 @@ Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a dera
 <strong style="color: #e87a5f">Echipa administrativă își rezervă dreptul de a bana și fără drept de plată.</strong>
 </div>
 
+### <a id="C1.2"></a>C1.2 - Cheats TW
+
+Jucătorii suspectați de folosirea codurilor pot fi luați la teste TW de către un membru al echipei <strong style="color: #e87a5f">Cheater Team</strong>. Acestea pot fi refuzate, însă refuzul testelor va fi sancționat cu <strong style="color: red">BAN PERMANENT</strong>. În urma testelor, dacă se dovedește că jucătorul folosește sau deține în calculator programe care i-ar putea oferi un avantaj, acesta va fi sancționat conform regulii <a href="#C1.1">C1.1 Cheats</a>.
+
+<div class="rule-box rule-yellow">
+    <div class="title">Mentiune:</div>
+În cazul în care banul este plătit, sunteți obligați să vă reinstalați Windows-ul înainte de a intra din nou pe server. De asemenea, veți avea filmare obligatorie, ceea ce înseamnă că orice kill realizat pe server trebuie să aibă o dovadă video, în cazul în care sunteți chemați pe support.
+
+În lipsa dovezii video, veți fi sancționați cu <strong style="color: red">BAN PERMANENT</strong> pentru lipsa filmării obligatorii.
+
+</div>
+
+<div class="rule-box rule-red">
+    <div class="title">Este interzis:</div>
+
+- Ștergerea fișierelor înainte de TW
+- Întârzierea pe support sau tragerea de timp
+- Reinițializarea serviciilor
+- Curățarea jurnalelor
+- Curățarea registrilor
+- Curățarea sau modificarea Prefetch-ului
+- Folosirea aplicațiilor care șterg string-uri
+- Distrugerea fișierelor
+- Curățarea shell:recent
+- Manipularea NvAPPTimestamps
+- Dezactivarea BAM Inheritance
+- Dezactivarea ActivitiesCache
+- Dezactivarea JumpLists
+- Oprirea thread-urilor din servicii
+
+    <div class="title">Tentative de Bypass:</div>
+
+*Orice interacțiune înainte de pornirea RageMP cu următoarele aplicații:*
+- CMD
+- Python
+- PowerShell
+- PowerShell ISE
+- System Informer / Process Hacker
+- Registry Editor
+</div>
+
 ## <a id="C2.1"></a>C2.1 - Moduri ilegale
 
 Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă oferii avantaje față de alți jucători.
 
 <div class="rule-box rule-red">
     <div class="title">Exemple de moduri ilegale:</div>
-    - moduri ce modifica ciclul de zi-noapte al jocului (zi permanenta, etc.)<br>
-    - moduri de efecte pe hituri de gloante<br>
-    - moduri de tracere pentru gloante<br>
-    - moduri ce scot texturi sau elemente de mapping<br>
-    - moduri ce coloreaza tinta cand e pusă pe un jucator
+
+- moduri ce modifica ciclul de zi-noapte al jocului (zi permanenta, etc.)
+- moduri de efecte pe hituri de gloante
+- moduri de tracere pentru gloante
+- moduri ce scot texturi sau elemente de mapping
+- moduri ce coloreaza tinta cand e pusă pe un jucator
+- etc.<br><br>
+<strong style="color: #e87a5f">*Faptul că un mod nu este menționat în această listă nu înseamnă că acesta este permis sau legal. Dacă nu sunteți siguri dacă un mod este legal sau ilegal, puteți deschide un ticket pentru a întreba un membru din Cheater Team.*</strong>
 </div>
 
 <div class="rule-box rule-sanction">

@@ -20,13 +20,20 @@ lastUpdated: true
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://assets.b-zone.ro/b-zone-zone_maldive.png" target="_blank">
+    <img src="https://assets.b-zone.ro/b-zone-zone_maldive.png">
+  </a>
+</p>
+
 ## <a id="Z2"></a><span style="color:green; font-size: 20px;">Z2 - ZONE/DRUMURI VERZI</span>
 
 Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și, de obicei, monitorizate prin camere de supraveghere. În aceste zone unde nu este permis să comiți ilegalități. Aici se aplică regulamentul de <a href="../rules#7.3"> 7.3 Ilegalități în zonă publică</a>.
 
 <div class="rule-box rule-green">
     <div class="title">Excepții:</div>
-- Pe zonele verzi de pe Aeroport Cayo va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
+- Pe zonele verzi de pe Aeroport Cayo sau Maldive va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
 </div>
 
 ---
@@ -35,7 +42,7 @@ Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și,
 Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara acestuia, unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
 
 <div class="rule-box rule-green">
-<div class="title">Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">20:00 - 08:00</span> pentru <b>Los Santos</b> / <span style="color:yellowgreen">18:00 - 10:00</span> pentru <b>Insula Cayo</b>:
+<div class="title">Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">20:00 - 08:00</span> pentru <b>Los Santos</b> / <span style="color:yellowgreen">18:00 - 10:00</span> pentru <b>Insula Cayo si Maldive</b>:
 </div><br>
 - Jefuirea persoanelor, a vehiculelor, a plantelor sau orice forma de furt/jaf
 </div>

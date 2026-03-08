@@ -1662,7 +1662,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 <div class="rule-box rule-red">
 <div class="title">Este STRICT INTERZIS să aterizați cu un elicopter pe:</div>
 
-- insula Cayo (cu excepția helipad-ului de pe aeroport)
+- insula Cayo sau Maldive (cu excepția helipad-ului de pe aeroport)
 - locuri neamenajate
 - case indiferent de zonă
 - blocurile din Los Santos
@@ -1676,7 +1676,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 - elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
 - rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
-- în cazul în care este o razie în desfasurare pe insula Cayo, mafioții au voie sa aterizeze oriunde pe insulă 
+- în cazul în care este o razie în desfasurare pe insula Cayo sau Maldive, mafioții au voie sa aterizeze oriunde pe insulă 
 </div>
 
 <div class="rule-box rule-sanction">
@@ -1689,7 +1689,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 <div class="rule-box rule-red">
 <div class="title">Este STRICT INTERZIS să:</div>
 
-- acostați barca pe insula Cayo (cu excepția garajului de barci de la aeroport)
+- acostați barca pe insula Cayo sau Maldive (cu excepția garajului de barci de la aeroport)
 - intrați intenționat cu barca în maluri pentru a ajunge mai rapid pe uscat
 - loviți intenționat bărcile parcate sau bărcile care au alte persoane în ele
 - parcați bărcile pe uscat
@@ -1708,7 +1708,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 
 - Piloții trebuie să respecte toate regulile de trafic aerian și să acționeze într-un mod realist.
 - Decolarea și aterizarea trebuie anunțate în prealabil prin stația radio a aeroportului.
-- Pilotii nu au voie sa astepte jucătorii pe care ii transporta pe cayo mai mult de 2 minute.
+- Pilotii nu au voie sa astepte jucătorii pe care ii transporta pe cayo sau Maldive mai mult de 2 minute.
 - Piloții trebuie să respecte traseele stabilite pentru job și nu au voie să se abată de la acestea fără un motiv valid RP.
 - Zborul aproape de sol fără a ateriza avionul pentru a obține un beneficiu este interzis.
 - Avioanele trebuie parcate doar în zonele special amenajate.
@@ -2239,7 +2239,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
     </table>
 </div>
 
-### <a id="7.11"></a><span style="color: #0088CC">7.8 Ilegalități în case și în jurul caselor</span>
+### <a id="7.8"></a><span style="color: #0088CC">7.8 Ilegalități în case și în jurul caselor</span>
 <div class="rule-box rule-yellow">
     <div class="title">Sunt permise următoarele **DOAR** în intervalul **20:00 - 08:00**:</div>
 
