@@ -259,7 +259,7 @@ Cât timp ați fost în comă nu știți ce s-a întâmplat în jur, altfel se v
 Este simulat de către alți oameni care v-au văzut fiind în comă.
 
 <div class="rule-box rule-green">
-    <div class="title">Când vă este PERMIS să apelați medicul prin tasta "Y":</div>
+    <div class="title">Când vă este PERMIS să apelați medicul prin tasta "N":</div>
 
 - accident mortal în oraș sau pe un drum circulat
 - ai leșinat de foame
@@ -267,7 +267,7 @@ Este simulat de către alți oameni care v-au văzut fiind în comă.
 </div>
 
 <div class="rule-box rule-red">
-    <div class="title">Când vă este INTERZIS să apelați medicul prin tasta "Y":</div>
+    <div class="title">Când vă este INTERZIS să apelați medicul prin tasta "N":</div>
 
 - când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni
 - când ești aruncat în apă într-o zonă nepopulată<br><br>
