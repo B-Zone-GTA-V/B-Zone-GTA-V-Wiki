@@ -1,74 +1,77 @@
-
 .image-row {
     display: flex;
     justify-content: center;
+    gap: 8px;
 }
 
 .image-row img {
-    margin: 0 5px;
     width: 50px;
     height: 50px;
+    border-radius: 6px;
 }
 
 details {
     font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
-    background: linear-gradient(145deg, #2c3e50, #34495e);
-    border-radius: 12px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-    padding: 15px;
-    width: 750px;
-    margin: 20px auto;
-    transition: all 0.4s ease;
+    background: linear-gradient(180deg, #2b3a48, #24313d);
+    border-radius: 14px;
+    /* border: 1px solid rgba(255,255,255,0.08); */
+    /* box-shadow: 0 6px 18px rgba(0,0,0,0.25); */
+    max-width: 750px;
+    margin: 24px auto;
     overflow: hidden;
+    transition: all 0.3s ease;
 }
 
 summary {
-    font-size: 22px;
-    font-weight: 500;
+    list-style: none;
+    font-size: 20px;
+    font-weight: 600;
     color: #ecf0f1;
     cursor: pointer;
-    padding: 16px 20px;
-    background: linear-gradient(145deg, #3b5770, #2c3e50);
-    border-radius: 10px;
+    padding: 18px 24px;
     text-align: center;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.05);
+    background: linear-gradient(180deg, #34495e, #2c3e50);
+    transition: all 0.25s ease;
     position: relative;
-    text-decoration: none;
 }
 
 summary::marker {
     display: none;
 }
 
-summary:hover {
-    background-color: #3b5770;
-    transform: scale(1.02);
+summary::after {
+    content: "▾";
+    position: absolute;
+    right: 20px;
+    font-size: 16px;
+    transition: transform 0.3s ease;
 }
 
-details[open] summary {
-    background-color: #2c3e50;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
+details[open] summary::after {
+    transform: rotate(180deg);
+}
+
+details > *:not(summary) {
+    padding: 18px 24px;
 }
 
 details img {
     display: block;
     max-width: 100%;
-    border-radius: 12px;
-    margin: 16px auto;
-    border: 1px solid #ecf0f1;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.25);
+    margin: 18px auto;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.35);
 }
 
 details[open] > *:not(summary) {
-    animation: fadeIn 0.5s ease-in;
+    animation: slideFade 0.35s ease;
 }
 
-@keyframes fadeIn {
+@keyframes slideFade {
     from {
         opacity: 0;
-        transform: translateY(-10px);
+        transform: translateY(-6px);
     }
     to {
         opacity: 1;
