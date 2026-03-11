@@ -93,9 +93,9 @@ Se permite deturnarea unui transport de deținuți, oriunde în afara orașului 
 
 **Gang recunoscut** - Grupare de maxim 15 persoane care este recunoscută de către sindicat.
 
-**Grupare neoficială** - Grupare de maxim 21 persoane care este recunoscută de către sindicat.
+**Grupare neoficială** - Grupare de maxim 31 persoane care este recunoscută de către sindicat.
 
-**Grupare oficială** - Grupare de maxim 31 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
+**Grupare oficială** - Grupare de maxim 41 persoane care este recunoscută de către sindicat și care are afaceri cu sindicatul de mai mult timp.
 
 <div class="rule-box rule-yellow">
 <div class="title">Mențiuni:</div>
