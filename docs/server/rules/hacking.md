@@ -68,6 +68,48 @@ Jucătorii suspectați de folosirea codurilor pot fi luați la teste TW de cătr
 - Registry Editor
 </div>
 
+### <a id="C1.2"></a>C1.3 - Filmare obligatorie
+
+Toți jucătorii care utilizează o armă și provoacă damage altor jucători au obligația de a înregistra integral acțiunea desfășurată. Înregistrarea trebuie să surprindă în mod clar și neîntrerupt desfășurarea actiunii, de la inițierea interacțiunii până la finalizarea acesteia, fără editări sau intervenții asupra conținutului.
+
+Materialul video trebuie păstrat pentru o perioadă de 72 de ore și pus la dispoziția echipei administrative la solicitare. În lipsa unei dovezi video conforme, jucătorul poate fi considerat responsabil și sancționat în consecință.
+
+<div class="rule-box rule-red">
+    <div class="title">Filmare obligatorie:</div>
+
+- Participarea în minigame-uri aferente jafurilor de magazine sau bănci.
+- Utilizarea armei (tragerea cu arma);
+- Provocarea de damage altor jucători;
+- Eliminarea (kill) altor jucători;
+</div>
+
+<div class="rule-box rule-sanction">
+    <div class="title">Sanctiuni:</div>
+        <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>1</td>
+            <td>Ban 15 zile</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Ban 30 de zile</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Ban permanent</td>
+            </tr>
+        </tbody>
+        </table>
+</div>
+
+
 ## <a id="C2.1"></a>C2.1 - Moduri ilegale
 
 Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă oferii avantaje față de alți jucători.
@@ -80,7 +122,7 @@ Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă 
 - moduri de tracere pentru gloante
 - moduri ce scot texturi sau elemente de mapping
 - moduri ce coloreaza tinta cand e pusă pe un jucator
-- etc.<br><br>
+<br><br>
 <strong style="color: #e87a5f">*Faptul că un mod nu este menționat în această listă nu înseamnă că acesta este permis sau legal. Dacă nu sunteți siguri dacă un mod este legal sau ilegal, puteți deschide un ticket pentru a întreba un membru din Cheater Team.*</strong>
 </div>
 
