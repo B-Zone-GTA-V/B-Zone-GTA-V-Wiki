@@ -334,6 +334,7 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 - Deschiderea OOC în IC
 - Tractarea de vehicule parcate regulamentar fără să vă asigurați că acestea sunt abandonate. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
 - Jefuirea de oameni în comă indiferent de zona unde se află (Ex. Găsești pe cineva în comă și il jefuiești, indiferent dacă îi dai in vreum fel revive sau pe loc în timp ce e mort)
+- Intervenția echipajelor S.A.S. in cadrul unui jaf de magazin
 </div>
 
 <div class="rule-box rule-sanction">
