@@ -6,7 +6,7 @@ outline: deep
 
 ## Introducere
 
-În prezent sunt prezente 12 tipuri de cutii: **Halloween 2024**, **Paște 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu**, **B8pe**, **B8pe Fire**, **B8pe Ice**, **Harrowing**, **Screaming**, **Crăciun 2025** & **Valentines 2026**.
+În prezent sunt prezente 13 tipuri de cutii: **Halloween 2024**, **Paște 2024**, **Crăciun 2024**, **Paște 2025**, **Lafufu**, **B8pe**, **B8pe Fire**, **B8pe Ice**, **Harrowing**, **Screaming**, **Crăciun 2025**, **Valentines 2026** & **Paște 2026**.
 
 <br/>
 
