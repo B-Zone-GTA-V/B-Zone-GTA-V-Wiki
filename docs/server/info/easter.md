@@ -102,7 +102,7 @@ Au fost readăugate ouăle de ciocolată care au efecte speciale când le consum
     </tr>
     <tr>
         <td>Cât ține BattlePass-ul?</td>
-        <td>Începând cu 31 Martie, ora 18:00, până pe 30 Mai ora 00:00</td>
+        <td>Începând cu 24 Martie până pe 30 Mai ora 00:00</td>
     </tr>
     <tr>
         <td>Cât costă ticketul de BattlePass?</td>
