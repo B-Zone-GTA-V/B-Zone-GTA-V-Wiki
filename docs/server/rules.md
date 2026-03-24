@@ -1394,11 +1394,12 @@ Ban permanent fără drept de plata
 ### <a id="4.6"></a><span style="color: #0088CC">4.5 System Abuse</span>
 Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea un avantaj față de ceilalți jucători.
 
-<div class="rule-box rule-yellow">
-<div class="title">Exemple:</div>
+<div class="rule-box rule-red">
+<div class="title">Exemple de actiuni interzise:</div>
 
 - Ești urmărit de poliție și mergi la un garaj sa îți parchezi mașina.
 - Folosirea de diferite animații pentru a te descătușa.
+- Folosirea de animații în timpul schimburilor de focuri.
 - Evacuarea chiriașilor curenți pentru a obține obiectele din locurile lor de depozitare.
 - Tractarea in mod abuziv a masinilor parcate legal cu scopul de a genera bani.
 - Folosirea armelor destinate membrilor SAS fără a fi îmbracat în SAS. (Excepție fiind cei cu grad de Sub-Comisar+)
@@ -2148,7 +2149,7 @@ Puteți să jefuiți o persoană doar de banii și obiectele care se află asupr
     <div class="title">Este interzis:</div>
 
 - să jefuiți un jucător dacă nu aveți cel puțin 50 de ore jucate pe <strong style="color: red">CARACTER</strong>. Regula se aplică pentru toate persoanele care jefuiesc sau oferă sprijin/informații pentru jaf. Vezi regula <a href="#7.2">#7.2 Ilegalități sub 50 ore</a>
-- să jefuiți un jucător dacă acesta nu are cel puțin 50 de ore jucate pe <strong style="color: red">SERVER</strong> (Acest lucru vă va fi notificat in momentul in care Încercați să furați ceva de pe ei). Această regulă nu scutește jucătorul de regula de No-Fear / Provoking etc.
+- să jefuiți un jucător dacă acesta nu are cel puțin 50 de ore jucate pe <strong style="color: red">CARACTER</strong> (Acest lucru vă va fi notificat in momentul in care Încercați să furați ceva de pe ei). Această regulă nu scutește jucătorul de regula de No-Fear / Provoking etc.
 - să jefuiți persoane în locuri publice. Vezi regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
@@ -2352,8 +2353,8 @@ Tot minciuni la ticket se considera și ascunderea, refuzul sau alterarea de inf
     </table>
 </div>
 
-### <a id="8.3"></a><span style="color: #0088CC">8.3 Tickete pe Discord</span>
-Pot fi deschise tickete în zona de support de pe serverul nostru de discord (<a href="https://b-zone.ro/rage">b-zone.ro/rage</a>) în termen de 24 ore de la data incidentului pentru următoarele probleme:
+### <a id="8.3"></a><span style="color: #0088CC">8.3 Tickete pe Panel (gta5.ro)</span>
+Pot fi deschise tickete în zona de support de pe site-ul nostru (<a href="https://gta5.ro/support/my-tickets">gta5.ro</a>) în termen de 24 ore de la data incidentului pentru următoarele probleme:
 - Reclamații staff
 - Cereri unban
 - Alte probleme<br><br>
