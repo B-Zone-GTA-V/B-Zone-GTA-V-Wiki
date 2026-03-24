@@ -25,7 +25,7 @@ Din această locație veți putea interacționa cu NPC-ul special al evenimentul
 
 <details>
   <summary>Locație</summary>
-  <img src="https://assets.b-zone.ro/wiki/easter-location.png" alt="BP">
+  <img src="https://assets.b-zone.ro/wiki/easter-location.jpg" alt="BP">
 </details>
 
 ## BattlePass Sezonul 9
@@ -77,8 +77,6 @@ Acest quest permite lucrul în echipă. Pentru a forma echipă trebuie să folos
 </details>
 
 ## Shop Special
-
-Pe durata evenimentului shop-ul de Paște va fi disponibil.
 
 Pe perioada evenimentului veți avea disponibil un shop de unde puteți cumpăra cu Tokeni cutii de haine de paște din edițile 2024 și 2025, dar și cutia de paște nouă care are mai multe premii.
 
