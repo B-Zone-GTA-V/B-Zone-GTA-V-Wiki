@@ -49,7 +49,7 @@ Ușile magazinului nu pot fi blocate cu vehicule, atât de către jefuitori, câ
 </div>
 
 ## <a id="J2"></a>J2 - Banci
-Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6 și maxim 25 cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări fără a depăși limita de maximul de oameni 25, <strong style="color: red">DOAR</strong> cu acordul sindicatului în baza unui RP de aliere.
+Jefuirea băncilor se poate face  în orice interval orar, într-un grup de minim 6 și maxim 30 cu condiția ca toți participanții la jaf să aibă cel puțin 50 ore pe <strong style="color: red">CARACTER</strong>. Fiecare membru participant la jaf trebuie să aibă o armă de foc. Se permit alianțe de grupări fără a depăși limita de maximul de oameni 30, <strong style="color: red">DOAR</strong> cu acordul sindicatului în baza unui RP de aliere.
 
 După ce alarma se declanșează, proximitatea băncii devine zonă roșie până la încheierea acțiunii și plecarea poliției. Civilii prezenți în timpul jafului nu pot fi jefuiți sau omorâți, ci trebuie forțați să părăsească zona. Civilii care nu se supun indicațiilor de a părăsi banca pot fi omorâți.
 

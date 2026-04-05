@@ -60,7 +60,7 @@ export default defineConfig({
       {
         text: 'ℹ️ General',
         items: [
-          // { text: '🐇Eveniment Paște', link: '/server/info/easter' },
+          { text: '🐇Eveniment Paște', link: '/server/info/easter' },
           // { text: '🍂Eveniment Toamnă', link: '/server/info/autumn' },
           // { text: '🎃Eveniment Halloween', link: '/server/info/halloween' },
           // { text: '🎄Eveniment Iarnă', link: '/server/info/christmas' },
@@ -97,7 +97,7 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
-              { text: 'Cutii Haine', link: '/server/info/clothing-case' },
+              { text: 'Cutii', link: '/server/info/clothing-case' },
               { text: 'BNN', link: '/server/info/bnn' },
               { text: 'ATM', link: '/server/info/atm' },
               { text: 'Licențe', link: '/server/info/licenses' },
