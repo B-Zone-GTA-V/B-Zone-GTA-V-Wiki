@@ -31,7 +31,14 @@ export default defineConfig({
         text: '🕹️ RAGEMP',
         items: [
           { text: 'RAGE Multiplayer', link: '/server/rage/rage' },
-          { text: 'Probleme RAGE', link: '/server/rage/probleme_rage' },
+          { text: 'Probleme RAGE',
+            collapsed: false,
+            items: [
+              { text: 'Probleme generale', link: '/server/rage/probleme_generale' },
+              { text: 'Probleme la conectare', link: '/server/rage/probleme_conectare' },
+              { text: 'Probleme la microfon', link: '/server/rage/probleme_microfon' },
+            ]
+           },
         ]
       },
       {

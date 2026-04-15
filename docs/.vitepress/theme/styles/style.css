@@ -1,80 +1,64 @@
-.image-row {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-}
-
-.image-row img {
-    width: 50px;
-    height: 50px;
-    border-radius: 6px;
-}
-
 details {
-    font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
-    background: linear-gradient(180deg, #2b3a48, #24313d);
-    border-radius: 14px;
-    /* border: 1px solid rgba(255,255,255,0.08); */
-    /* box-shadow: 0 6px 18px rgba(0,0,0,0.25); */
-    max-width: 750px;
-    margin: 24px auto;
-    overflow: hidden;
-    transition: all 0.3s ease;
+  background: #1f2a37 !important;
+  border: 1px solid #00ffd0 !important;
+  border-radius: 10px !important;
+
+  margin: 20px 0 !important;
+  padding: 0 !important;              /* 🔥 IMPORTANT */
+  overflow: hidden !important;
 }
 
-summary {
-    list-style: none;
-    font-size: 20px;
-    font-weight: 600;
-    color: #ecf0f1;
-    cursor: pointer;
-    padding: 18px 24px;
-    text-align: center;
-    background: linear-gradient(180deg, #34495e, #2c3e50);
-    transition: all 0.25s ease;
-    position: relative;
+/* HEADER */
+details summary {
+  list-style: none !important;
+  cursor: pointer !important;
+
+  padding: 12px 16px !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+
+  color: #a7f3d0 !important;
+  background: #213548 !important;
+
+  display: flex !important;
+  align-items: center !important;
 }
 
-summary::marker {
-    display: none;
+/* eliminare marker */
+details summary::-webkit-details-marker {
+  display: none !important;
 }
 
-summary::after {
-    content: "▾";
-    position: absolute;
-    right: 20px;
-    font-size: 16px;
-    transition: transform 0.3s ease;
+/* sageata */
+details summary::after {
+  content: "▾";
+  margin-left: auto;
 }
 
-details[open] summary::after {
-    transform: rotate(180deg);
-}
-
+/* CONTINUT - 🔥 cheia problemei */
 details > *:not(summary) {
-    padding: 18px 24px;
+  padding: 12px 16px;
 }
 
+/* IMAGINE */
 details img {
-    display: block;
-    max-width: 100%;
-    margin: 18px auto;
-    border-radius: 10px;
-    border: 1px solid rgba(255,255,255,0.08);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+  width: 100% !important;
+  border-radius: 8px !important;
+  display: block;
+}
+/* summary sa ocupe TOT */
+details summary {
+  margin: 0 !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
 
-details[open] > *:not(summary) {
-    animation: slideFade 0.35s ease;
+/* rotunjire corecta */
+details summary {
+  border-radius: 10px 10px 0 0;
 }
 
-@keyframes slideFade {
-    from {
-        opacity: 0;
-        transform: translateY(-6px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+/* cand e inchis -> tot butonul rotunjit */
+details:not([open]) summary {
+  border-radius: 10px !important;
 }

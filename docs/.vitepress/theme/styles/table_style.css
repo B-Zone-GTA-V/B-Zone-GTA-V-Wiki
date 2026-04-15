@@ -1,0 +1,17 @@
+/* imagini din tabel */
+table img {
+  width: 44px !important;
+  height: 44px !important;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 4px;
+}
+
+td {
+  vertical-align: middle;
+}
+
+td {
+  line-height: 1; 
+}
