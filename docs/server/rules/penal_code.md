@@ -578,10 +578,10 @@ Această faptă reprezintă reprezintă o crimă care se poate pedepsi cu rețin
 
 Amenda se calculeaza în funcție de cantitatea de droguri pe care o deține:
 
-- **TIP I (1 - 3 plicuri de cocaina): confiscare substanței, Dosar Penal și amendă 30.000$.**
-- **TIP II (4 - 50 plicuri de cocaina): sentință 70 - 90 de luni și amendă 40.000$.**
-- **TIP III (51 - 100 plicuri de cocaina): sentință 90 - 140 de luni și amendă 50.000$.**
-- **TIP IV (101+ plicuri de cocaina): sentință 140 - 360 de luni și amendă 60.000$.**
+- **TIP I (1 - 3 plicuri de cocaina / ciuperci): confiscare substanței, Dosar Penal și amendă 30.000$.**
+- **TIP II (4 - 50 plicuri de cocaina / ciuperci): sentință 70 - 90 de luni și amendă 40.000$.**
+- **TIP III (51 - 100 plicuri de cocaina / ciuperci): sentință 90 - 140 de luni și amendă 50.000$.**
+- **TIP IV (101+ plicuri de cocaina / ciuperci): sentință 140 - 360 de luni și amendă 60.000$.**
 
 În cazul în care este surprins ca produce / deține acest tip de obiecte ilegale, componentele necesare pentru producerea obiectelor o sa fie confiscate (semințe/frunze/hartie de rulat).
 
@@ -718,7 +718,7 @@ Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Posesia unei arme de foc de calibru mare</span>
 
-Orice persoană care deține asupra lui o armă de foc de calibru mare precum: **Navy Revolver**, **Heavy Revolver**, **Gadget Pistol**.
+Orice persoană care deține asupra lui o armă de foc de calibru mare precum: **Navy Revolver**, **Heavy Revolver**, **Double Action Revolver**, **Gadget Pistol**.
 
 Această faptă reprezintă o infracţiune care se poate pedepsi cu:
 
@@ -855,6 +855,22 @@ Infracțiunea se pedepsește cu:
 
 - **Amendă penală: 150.000$ - 300.000$**
 - **Sentință: 250 de luni - închisoare pe viață**
+
+În situațiile în care persoana acuzată a colaborat la aflarea adevărului și la identificarea altor infractori, limitele speciale ale pedepsei se reduc la jumătate.
+
+Această faptă nu se cumulează cu alte articole ale codului penal.
+
+### <a id="8.11"></a><span style="color: #0088CC">8.11 Pericol grav pentru siguranța publică</span>
+
+O persoană poate fi încadrată la această faptă atunci când acumulează minimum 50 de dosare penale. Prin comportamentul său repetat dovedește că reprezintă un risc real pentru ordinea și siguranța publică. Încadrarea se face pe baza istoricului infracțional, a probelor existente și a evaluării pericolului social al faptelor comise.
+
+La atingerea pragului de 50 de dosare, persoana intră automat pe lista Most Wanted. I se emite mandat de arestare cu această acuzație și este adusă în fața instanței competente. Instanța analizează toate dosarele, probele și circumstanțele cauzei. 
+
+Dacă este găsită vinovată, persoana poate primi pedeapsa maximă prevăzută de lege, inclusiv închisoare pe viață.
+
+Infracțiunea se pedepsește cu:
+
+- **Sentință: 500 de luni - închisoare pe viață**
 
 În situațiile în care persoana acuzată a colaborat la aflarea adevărului și la identificarea altor infractori, limitele speciale ale pedepsei se reduc la jumătate.
 

@@ -20,7 +20,7 @@ export default defineConfig({
       { 
         text: 'Linkuri',
         items: [
-          { text: 'UCP', link: 'https://v.b-zone.ro' },
+          { text: 'UCP', link: 'https://gta5.ro' },
           { text: 'Discord', link: 'https://b-zone.ro/rage' },
           { text: 'RAGEMP', link: 'https://rage.mp' },
         ]
@@ -31,23 +31,46 @@ export default defineConfig({
         text: '🕹️ RAGEMP',
         items: [
           { text: 'RAGE Multiplayer', link: '/server/rage/rage' },
-          { text: 'Probleme RAGE', link: '/server/rage/probleme_rage' },
+          { text: 'Probleme RAGE',
+            collapsed: false,
+            items: [
+              { text: 'Probleme generale', link: '/server/rage/probleme_generale' },
+              { text: 'Probleme la conectare', link: '/server/rage/probleme_conectare' },
+              { text: 'Probleme la microfon', link: '/server/rage/probleme_microfon' },
+            ]
+           },
         ]
       },
       {
-        text: '📖 Regulamente',
+        text: '📖 Server Info',
         items: [
-          { text: 'Regulament (Română)', link: '/server/rules' },
-          { text: 'Cod Penal (Română)', link: '/server/rules/penal_code' },
+          { 
+            text: 'Regulamente',
+            collapsed: false,
+            items: [
+              { text: 'Regulament General', link: '/server/rules' },
+              { text: 'Regulament Mafii/Grupari', link: '/server/rules/mafii' },
+              { text: 'Regulament Jafuri', link: '/server/rules/jafuri' },
+              { text: 'Regulament Zone', link: '/server/rules/zones' },
+              { text: 'Regulament Programe Interzise', link: '/server/rules/hacking' }
+            ]
+          },
+          { text: 'Cod Penal', link: '/server/rules/penal_code' },
+        ]
+      },
+      {
+        text: '🚗 Vehicule Server',
+        items: [
+          { text: 'Vehicule', link: '/server/rules/vehicles' },
         ]
       },
       {
         text: 'ℹ️ General',
         items: [
-          // { text: '🐇Eveniment Paște', link: '/server/info/easter' },
+          { text: '🐇Eveniment Paște', link: '/server/info/easter' },
           // { text: '🍂Eveniment Toamnă', link: '/server/info/autumn' },
           // { text: '🎃Eveniment Halloween', link: '/server/info/halloween' },
-          { text: '🎄Eveniment Iarnă', link: '/server/info/christmas' },
+          // { text: '🎄Eveniment Iarnă', link: '/server/info/christmas' },
           {
             text: 'Activități',
             collapsed: false,
@@ -81,7 +104,7 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
-              { text: 'Cutii Haine', link: '/server/info/clothing-case' },
+              { text: 'Cutii', link: '/server/info/clothing-case' },
               { text: 'BNN', link: '/server/info/bnn' },
               { text: 'ATM', link: '/server/info/atm' },
               { text: 'Licențe', link: '/server/info/licenses' },

@@ -1,6 +1,6 @@
 # B-Zone V Wiki
 
-Welcome to the official Wiki page for [**B-Zone V Roleplay Server**](https://v.b-zone.ro/)!
+Welcome to the official Wiki page for [**B-Zone V Roleplay Server**](https://gta5.ro/)!
 
 ## About
 

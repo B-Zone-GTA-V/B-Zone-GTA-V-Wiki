@@ -58,7 +58,7 @@ Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea
         <img src="https://assets.b-zone.ro/items/8035.png" alt="Item 8035">
       </div>
     </td>
-    <tr>
+  <tr>
     <td>Skill 2</td>
     <td>
         <div class="image-row">
@@ -73,8 +73,8 @@ Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea
         <img src="https://assets.b-zone.ro/items/8039.png" alt="Item 8039">
       </div>
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>Skill 3</td>
     <td>
         <div class="image-row">
@@ -89,8 +89,8 @@ Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea
         <img src="https://assets.b-zone.ro/items/8046.png" alt="Item 8046">
       </div>
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>Skill 4</td>
     <td>
         <div class="image-row">
@@ -106,8 +106,8 @@ Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea
         <img src="https://assets.b-zone.ro/items/8047.png" alt="Item 8047">
       </div>
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>Skill 5</td>
     <td>
         <div class="image-row">
@@ -123,8 +123,8 @@ Hobby-urile pot fi făcute oricând fără nevoia de a te angaja. Pentru a putea
         <img src="https://assets.b-zone.ro/items/8054.png" alt="Item 8054">
       </div>
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>Skill 6</td>
     <td>
         <div class="image-row">

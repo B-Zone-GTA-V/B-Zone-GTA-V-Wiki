@@ -29,7 +29,7 @@ După ce ați descarcat jocul va trebui sa vă conectați contul de **Steam**/**
 
 Serverul rulează pe platforma **RAGE Multiplayer**, iar singura metodă prin care te poți conecta la server este aceea de a utiliza launcher-ul oficial.
 Pentru a descărca launcher-ul accesați pagina oficială ([rage.mp](https://rage.mp/)) și apăsați pe butonul de **Download** (**Descarcă**).
-Dacă întâmpini probleme la conectare pe server îți recomandăm să consulți [pagina de probleme](/server/rage/probleme_rage).
+Dacă întâmpini probleme la conectare pe server îți recomandăm să consulți [pagina de probleme](/server/rage/probleme_generale).
 
 ## Utilizare Launcher
 
@@ -74,5 +74,5 @@ Conectarea pe serverul nostru se face în 2 moduri:
 
 1. Cauți serverul cu ajutorul bării de search, folosind unul dintre keyword-urile urmatoare: **B-ZONE ROLEPLAY**, **B-ZONE**, **BZONE** ș.a.m.d.
 
-2 Te conectezi direct folosind opțiunea Direct Connect, folosind DNS-ul: **v.b-zone.ro** sau IP-ul: **141.95.33.25**.
+2 Te conectezi direct folosind opțiunea Direct Connect, folosind DNS-ul: **v.b-zone.ro** sau IP-ul: **103.216.173.6**.
 Portul rămâne cel default **:22005**

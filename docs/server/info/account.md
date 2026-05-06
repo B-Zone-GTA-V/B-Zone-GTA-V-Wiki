@@ -14,7 +14,7 @@ De asemenea, la înregistrarea contului o să vă puteți seta limba jocului, ac
 
 La crearea contului ai posibilitatea de a adăuga codul de Referral unde îți va aduce niște beneficii considerabile.
 
-În cazul în care întâmpinați probleme de conectivitate (ați uitat parola), puteți oricând să o recuperați accesând [v.b-zone.ro -> Forgot Password](https://assets.b-zone.ro/account/forgot-password).
+În cazul în care întâmpinați probleme de conectivitate (ați uitat parola), puteți oricând să o recuperați accesând [gta5.ro -> Forgot Password](https://assets.b-zone.ro/account/forgot-password).
 
 ### Despre interfață
 
