@@ -1408,13 +1408,14 @@ Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de 
 
 
 ### <a id="4.5"></a><span style="color: #0088CC">4.4 Tranzacțiile OOC</span>
-Afacerile sau tentativele de afaceri cu bunuri reale pe bunuri în joc sau conturi nu sunt permise.
+Afacerea sau tentativa de comercializare a bunurilor reale în schimbul bunurilor/conturilor din joc este strict interzisă.
 
-<div class="rule-box rule-yellow">
-<div class="title">Exceptii:</div>
+Sunt permise tranzacțiile de bunuri din joc în schimbul încărcării unei sume de Gold pe contul celuilalt jucător. Acest lucru se realizează de pe pagina de achiziție Gold, folosind opțiunea „Recipient ID”.
 
-- tranzacțiile de bunuri din joc pentru încărcarea unei sume de Gold în contul celuilalt
-</div>
+Pentru siguranța ambelor părți și pentru evitarea eventualelor fraude/țepe, jucătorii sunt obligați să deschidă un ticket și să solicite prezența unui membru al staff-ului care să supravegheze tranzacția. De asemenea, jucătorii sunt obligați să înregistreze audio-video întreaga tranzacție.
+
+În cazul în care tranzacția are loc fără prezența unui membru al staff-ului, transferul de Gold trebuie efectuat primul. Orice tranzacție realizată pe propria răspundere, fără supravegherea staff-ului, nu garantează intervenția administrației în cazul unei fraude.
+
 <div class="rule-box rule-sanction">
 <div class="title">Sancțiune:</div> 
 Ban permanent fără drept de plata
