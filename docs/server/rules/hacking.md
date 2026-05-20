@@ -99,11 +99,7 @@ Materialul video trebuie păstrat pentru o perioadă de 72 de ore și pus la dis
             </tr>
             <tr>
                 <td>2</td>
-                <td>Ban 30 de zile</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>Ban permanent</td>
+                <td>Ban Permanent</td>
             </tr>
         </tbody>
         </table>

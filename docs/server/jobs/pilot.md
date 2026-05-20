@@ -44,7 +44,7 @@ Pentru a putea lucra ca <span class="button-p-job">Pilot</span> trebuie să vă 
 
 De la locația din Hangar Los Santos este posibilă angajarea și selectarea Rutei dorite.
 <br>
-Rutele disponibile sunt: <span class="button-p-job">Sandy</span>, <span class="button-p-job">Roxwood</span>, <span class="button-p-job">Baza Militară</span> și <span class="button-p-job">Los Santos</span>. Pentru a avansa la acest job trebuie să completați cursele de la rutele anterioare astfel:
+Rutele disponibile sunt: <span class="button-p-job">Sandy</span>, <span class="button-p-job">Paleto</span>, <span class="button-p-job">Baza Militară</span> și <span class="button-p-job">Los Santos</span>. Pentru a avansa la acest job trebuie să completați cursele de la rutele anterioare astfel:
 
 <table>
     <tr>
@@ -56,12 +56,12 @@ Rutele disponibile sunt: <span class="button-p-job">Sandy</span>, <span class="b
         <td>0</td>
     </tr>
     <tr>
-        <td>Roxwood</td>
+        <td>Paleto</td>
         <td>100 completări cursă Sandy</td>
     </tr>
     <tr>
         <td>Baza Militară</td>
-        <td>100 completări cursă Roxwood</td>
+        <td>100 completări cursă Paleto</td>
     </tr>
     <tr>
         <td>Los Santos</td>

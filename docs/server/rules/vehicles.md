@@ -1518,6 +1518,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3101863448.png" alt="veh">
 </details>
 
+- Bizon W5 Performance
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/403911983.png" alt="veh">
+</details>
+
 ## Street Moto // Motociclete de stradă
 
 - Avarus
@@ -1835,13 +1842,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/1758263538.png" alt="veh">
-</details>
-
-- Bizon W5 Performance
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/403911983.png" alt="veh">
 </details>
 
 - Ubermacht XM
