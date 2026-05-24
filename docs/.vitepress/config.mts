@@ -82,7 +82,6 @@ export default defineConfig({
               { text: 'Poker', link: '/server/info/poker' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
               { text: 'Culegător de Ciuperci', link: '/server/info/mushrooms' },
-              { text: 'Căutatul în tomberoane', link: '/server/info/trashsearch' },
             ]
           },
           { 

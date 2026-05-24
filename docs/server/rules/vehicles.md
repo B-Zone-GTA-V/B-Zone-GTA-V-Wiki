@@ -13,6 +13,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2746139528.png" alt="veh">
 </details>
 
+- Pegassi SVJ
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/917788178.png" alt="veh">
+</details>
+
 - Annis 350z
 
 <details>
@@ -20,11 +27,32 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/147177933.png" alt="veh">
 </details>
 
+- Enus Paragon MAI
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3019688218.png" alt="veh">
+</details>
+
+- Enus Paragon EMS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2509904601.png" alt="veh">
+</details>
+
 - Annis Elegy GTR
 
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/4198061431.png" alt="veh">
+</details>
+
+- Ubermacht Rhinehart EMS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/11542890.png" alt="veh">
 </details>
 
 - Annis Miata
@@ -41,11 +69,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/4036327635.png" alt="veh">
 </details>
 
-- Apollo Intensa Emozione
+- Obey Tailgater EMS
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/765584592.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/3005469318.png" alt="veh">
+</details>
+
+- Lampadati Komoda EMS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3769600151.png" alt="veh">
 </details>
 
 - Asbo
@@ -55,11 +90,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1118611807.png" alt="veh">
 </details>
 
-- Balkan Fazan B6
+- Truffade Vivo
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1909978403.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/1503141430.png" alt="veh">
 </details>
 
 - Blista
@@ -74,6 +109,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/409049982.png" alt="veh">
+</details>
+
+- Grotti Itali R
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3098609338.png" alt="veh">
 </details>
 
 - Brioso R/A
@@ -95,13 +137,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/1324261434.png" alt="veh">
-</details>
-
-- Benefactor 63C EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/34261676.png" alt="veh">
 </details>
 
 - Benefactor Batiz
@@ -174,13 +209,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2864281543.png" alt="veh">
 </details>
 
-- Betty SS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2245688993.png" alt="veh">
-</details>
-
 - Beyoza Prime
 
 <details>
@@ -207,6 +235,20 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/762451094.png" alt="veh">
+</details>
+
+- Ubermacht G70
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1223507337.png" alt="veh">
+</details>
+
+- Ubermacht G90
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1197284348.png" alt="veh">
 </details>
 
 - Bizan Horizon BMS RX-34
@@ -237,88 +279,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2218676881.png" alt="veh">
 </details>
 
-- Bizon EX-36
+- Ubermacht F10
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3167717918.png" alt="veh">
-</details>
-
-- Bizon EX-38
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3357750514.png" alt="veh">
-</details>
-
-- Bizon F10
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1300060879.png" alt="veh">
-</details>
-
-- Bizon G60 EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3170094373.png" alt="veh">
-</details>
-
-- Bizon i320 EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/4257687865.png" alt="veh">
-</details>
-
-- Bizon i7
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3095692833.png" alt="veh">
-</details>
-
-- Bizon M8
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2890648288.png" alt="veh">
-</details>
-
-- Bizon MX-2 Coupe
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/917936781.png" alt="veh">
-</details>
-
-- Bizon MX-4 Contest
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/191208755.png" alt="veh">
-</details>
-
-- Bizon MX-5 EX-60
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1897651510.png" alt="veh">
-</details>
-
-- Bizon MX-6
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1526832565.png" alt="veh">
-</details>
-
-- Bizon W3 46E
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1896411446.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/1296400988.png" alt="veh">
 </details>
 
 - Bizon W36
@@ -335,11 +300,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2263515185.png" alt="veh">
 </details>
 
-- Bizon W5 G60
+- Ubermacht F90
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1393174666.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/3065745995.png" alt="veh">
+</details>
+
+- Ubermacht M8
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/877260156.png" alt="veh">
 </details>
 
 - Bizon ZT4
@@ -384,13 +356,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2707916591.png" alt="veh">
 </details>
 
-- Budi SR3 EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/566415938.png" alt="veh">
-</details>
-
 - Budi SX-8 1998
 
 <details>
@@ -398,11 +363,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2209648802.png" alt="veh">
 </details>
 
-- Buddy Black
+- Truffade Obsidian
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/4193270782.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/3094868518.png" alt="veh">
+</details>
+
+- BF Oktavia RS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1664025817.png" alt="veh">
 </details>
 
 - Buddy Bolid
@@ -426,13 +398,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3101256748.png" alt="veh">
 </details>
 
-- Buddy Diva
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1503141430.png" alt="veh">
-</details>
-
 - Buddy Spyder
 
 <details>
@@ -447,11 +412,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2226816254.png" alt="veh">
 </details>
 
-- Buddy Vision
+- Truffade Legacy
 
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/1803499236.png" alt="veh">
+</details>
+
+- Benefactor KLS 63s
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1513245066.png" alt="veh">
 </details>
 
 - Buddy Zion
@@ -466,6 +438,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3797859906.png" alt="veh">
+</details>
+
+- Buffalo STX EMS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3366985986.png" alt="veh">
 </details>
 
 - Buccaneer Custom
@@ -515,13 +494,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3306466016.png" alt="veh">
-</details>
-
-- Cheval Fugitive MAI
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1965489184.png" alt="veh">
 </details>
 
 - Coil Type S
@@ -620,6 +592,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3838718892.png" alt="veh">
+</details>
+
+- Ubermacht M6
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1897898727.png" alt="veh">
 </details>
 
 - Dinka Sugoi
@@ -735,6 +714,7 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 </details>
 
 - Grotti Spider 
+
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/1289935896.png" alt="veh">
@@ -803,20 +783,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3600817879.png" alt="veh">
 </details>
 
-- Koenigsberg Mera
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/285057540.png" alt="veh">
-</details>
-
-- Lambada Avantero SVJ
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/917788178.png" alt="veh">
-</details>
-
 - Lambada Black
 
 <details>
@@ -824,11 +790,60 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3668943058.png" alt="veh">
 </details>
 
+- Obey Avant RS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3122020535.png" alt="veh">
+</details>
+
+- Obey RSS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3700565806.png" alt="veh">
+</details>
+
+- Ocelot Vija
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/6638473.png" alt="veh">
+</details>
+
 - Lambada SAN
 
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/1454998807.png" alt="veh">
+</details>
+
+- Benefactor Vision Neon
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1398585823.png" alt="veh">
+</details>
+
+- Enus Bakalar 
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2859215460.png" alt="veh">
+</details>
+
+- Ubermacht G99
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3721971961.png" alt="veh">
+</details>
+
+- Ubermacht G70-eDrive
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3739064347.png" alt="veh">
 </details>
 
 - Lambada Spark
@@ -845,6 +860,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/283022024.png" alt="veh">
 </details>
 
+- Ubermacht e46
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1896411446.png" alt="veh">
+</details>
+
 - Lambada Ultimate
 
 <details>
@@ -857,6 +879,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/2498827233.png" alt="veh">
+</details>
+
+- Ubermacht e36
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3167717918.png" alt="veh">
 </details>
 
 - Lampadati GTA
@@ -908,13 +937,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/4066438967.png" alt="veh">
 </details>
 
-- Mercies BLS 63
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3444276594.png" alt="veh">
-</details>
-
 - Mercies BZG CX-63 Sedan
 
 <details>
@@ -929,18 +951,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/2269579986.png" alt="veh">
 </details>
 
-- Mercies BZG BMS-63 Coupe
+- Ubermacht e38
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/980885719.png" alt="veh">
-</details>
-
-- Mercies BZG SX-63 Coupe
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/360420537.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/3357750514.png" alt="veh">
 </details>
 
 - Mercies MAG
@@ -1041,6 +1056,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3640727577.png" alt="veh">
 </details>
 
+- Overflod Mera
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/285057540.png" alt="veh">
+</details>
+
 - Overflod Mera Turbo
 
 <details>
@@ -1062,7 +1084,7 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1830407356.png" alt="veh">
 </details>
 
-- Paradise 911 GT-3S
+- Paradise 911 GT-3SR
 
 <details>
   <summary>Preview</summary>
@@ -1125,18 +1147,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1656094088.png" alt="veh">
 </details>
 
-- Pejos 508 BMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2446190849.png" alt="veh">
-</details>
-
 - Pelicia Haira
 
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/2771484590.png" alt="veh">
+</details>
+
+- Ubermacht G42
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/4008716672.png" alt="veh">
 </details>
 
 - Pfister 911
@@ -1235,13 +1257,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/729783779.png" alt="veh">
-</details>
-
-- Soda Octavian III
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3675193632.png" alt="veh">
 </details>
 
 - Syan SS
@@ -1370,11 +1385,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3235779079.png" alt="veh">
 </details>
 
-- Ubermacht F-90
+- Ubermacht e30 Touring
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2589763334.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/3306270194.png" alt="veh">
 </details>
 
 - Ubermacht i8
@@ -1391,6 +1406,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3452544967.png" alt="veh">
 </details>
 
+- Overflod Emozione
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/765584592.png" alt="veh">
+</details>
+
 - Ubermacht Rhinehart MAI
 
 <details>
@@ -1403,6 +1425,20 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/528737473.png" alt="veh">
+</details>
+
+- Ubermacht M4
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3005278262.png" alt="veh">
+</details>
+
+- Ubermacht e60
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1897651510.png" alt="veh">
 </details>
 
 - Vapid Cruiser MAI
@@ -1447,7 +1483,7 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/3395457658.png" alt="veh">
 </details>
 
-- White Dragon GTRS
+- White Dragon GTR
 
 <details>
   <summary>Preview</summary>
@@ -1480,6 +1516,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3101863448.png" alt="veh">
+</details>
+
+- Bizon W5 Performance
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/403911983.png" alt="veh">
 </details>
 
 ## Street Moto // Motociclete de stradă
@@ -1661,6 +1704,55 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 
 ## Off-Road Cars // Mașini Off-Road
 
+- BF Club Variant 2020
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1639117088.png" alt="veh">
+</details>
+
+- Enus Paragon GTS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2245688993.png" alt="veh">
+</details>
+
+- Ubermacht e70
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3119160021.png" alt="veh">
+</details>
+
+- Benefactor XLS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2109671093.png" alt="veh">
+</details>
+
+- Benefactor Schafter GTR
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2421816971.png" alt="veh">
+</details>
+
+- Benefactor Schafter GTR Coupe
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/986737346.png" alt="veh">
+</details>
+
+- Ubermacht F86
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1613129990.png" alt="veh">
+</details>
+
 - Albany Cavalvade III
 
 <details>
@@ -1675,11 +1767,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1237245597.png" alt="veh">
 </details>
 
-- Benefactor Duo EMS
+- Vapid Sadler EMS
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3135857896.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/219551471.png" alt="veh">
 </details>
 
 - Benefactor Grande
@@ -1687,6 +1779,20 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/4069427921.png" alt="veh">
+</details>
+
+- Brute SMURD
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3923776159.png" alt="veh">
+</details>
+
+- Brute Ambulanta
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2374357104.png" alt="veh">
 </details>
 
 - Benefactor Grande EMS
@@ -1708,13 +1814,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/832039945.png" alt="veh">
-</details>
-
-- Benefactor Sprinter EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3009666007.png" alt="veh">
 </details>
 
 - Benefactor Transit
@@ -1745,32 +1844,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1758263538.png" alt="veh">
 </details>
 
-- Bizon BX-3
+- Ubermacht XM
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2867721461.png" alt="veh">
-</details>
-
-- Bizon BX-6
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1385640523.png" alt="veh">
-</details>
-
-- Bizon W5 Performance
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/403911983.png" alt="veh">
-</details>
-
-- Bizon XM
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3782457633.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/3762599215.png" alt="veh">
 </details>
 
 - Bravado CX-9
@@ -1808,18 +1886,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1826243937.png" alt="veh">
 </details>
 
+- Gallivanter Baller Ems
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1106750022.png" alt="veh">
+</details>
+
 - Lambada Urs
 
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3774753162.png" alt="veh">
-</details>
-
-- Mercies BZG BLS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2109671093.png" alt="veh">
 </details>
 
 - MTL Fire EMS
@@ -1855,13 +1933,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/1663453404.png" alt="veh">
-</details>
-
-- Super Range VRS EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3263286761.png" alt="veh">
 </details>
 
 - Surfer Custom
@@ -1943,18 +2014,18 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1221510024.png" alt="veh">
 </details>
 
+- Dinka Verus EMS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3230390773.png" alt="veh">
+</details>
+
 - Bizon 7X-W Sandstorm
 
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3378120979.png" alt="veh">
-</details>
-
-- Boop Spartan EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/705673412.png" alt="veh">
 </details>
 
 - Bravado Bison MAI
@@ -2048,12 +2119,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/281520139.png" alt="veh">
 </details>
 
-
-- Vapid Avalanche
+- Canis Terminus EMS
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/3583324786.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/1181589620.png" alt="veh">
 </details>
 
 - Vapid CaraCara MAI
@@ -2063,6 +2133,12 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/459970397.png" alt="veh">
 </details>
 
+- Vapid Caracara Ems
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3804790873.png" alt="veh">
+</details>
 
 - Vapid Riata
 
@@ -2086,13 +2162,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 </details>
 
 ## Extreme Off-Road Moto // Motociclete Extreme Off-Road
-
-- ATV EMS
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/1479424764.png" alt="veh">
-</details>
 
 - BF400
 
@@ -2120,6 +2189,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/1047274985.png" alt="veh">
+</details>
+
+- Nagasaki Bf400 EMS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2971599791.png" alt="veh">
 </details>
 
 - Enduro
