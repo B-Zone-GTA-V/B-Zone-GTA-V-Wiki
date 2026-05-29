@@ -37,20 +37,153 @@ outline: deep
     </tr>
 </table>
 
-Pentru a putea lucra ca <span class="button-p-job">Camionagiu</span> trebuie să vă îndreptați la zona de angajare din Los Santos.
-<br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> Camionagiu</span>.
-<br>Puteți deveni <span class="button-p-job">Camionagiu</span> în funcție de experiența dumneavoastră.
-<br>După ce alegeți să începeți munca, trebuie să mergeți la <span class="button-p-job">NPC-ul</span> de lângă pentru a vă alege cursa. 
+Pentru a putea lucra ca <span class="button-p-job">Transporter</span>, trebuie să vă îndreptați către zona de angajare din Los Santos.
+<br>→ Puteți folosi telefonul: <span class="button-p-job">Apăsați L → GPS → Joburi → Transporter</span>.
 
-De îndată ce cursa a fost aleasă (<span style="color: #e9cc54">cursele de skill mai mare nu pot fi selectate și sunt afișate cu un efect de blur</span>), este nevoie să luați transportul mergând cu tirul la punctul marcat pe GPS. Pentru a avansa în <span class="button-p-job">skill</span>, trebuie să luați cursele ce vă sunt alocate în funcție de <span class="button-p-job">skill-ul</span> curent. 
+După ce ați obținut jobul, puteți închiria un pickup de la NPC-ul din zona de angajare. Urcați în vehicul, deschideți tableta și selectați comanda pe care doriți să o efectuați.
 
-În cazul în care tiristul alege o cursă de <span class="button-p-job">skill 1</span>, acesta având <span class="button-p-job">skill 2</span> nu o să primească puncte de avansare în skill, doar bani. În funcție de cursă, încărcătura <span class="button-p-job">remorca</span> o să vă fie oferită în funcție de livrarea pe care urmează să o faceți.
+După selectarea comenzii, mergeți la locația indicată pe hartă pentru a încărca marfa. Odată încărcată, transportați marfa la destinația marcată pe hartă și descărcați-o. La finalizarea livrării, veți primi recompensa aferentă comenzii.
 
-#### <span class="button-p-job"><b>Important</b></span>
+#### Cum deschid tableta?
 
-- Dacă nu intrați în vehiculul de Truck timp de <span class="button-r-job">30 minute</span>, tura de job se încheie, iar mașina este despawnată datorită inactivității. 
+→ Tableta se deschide cu tasta <span class="button-p-job">O</span> sau cu tasta pe care ați configurat-o pentru această acțiune.
+
+#### Cu ce vehicule pot lucra?
+
+Puteți efectua comenzi folosind vehiculele din tabelul de mai jos. Rețineți că vehiculele cu un tonaj mai mare oferă recompense mai mari pentru comenzile efectuate.
+
+<table>
+    <thead>
+        <tr>
+            <td>Tip vehicul</td>
+            <td>Model</td>
+            <td>Tonaj</td>
+            <td>Premium</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pickup</td>
+            <td>Bravado Bison Utility</td>
+            <td>0.35 t</td>
+            <td>Nu</td>
+        </tr>
+        <tr>
+            <td>Pickup</td>
+            <td>Canis Griffon</td>
+            <td>0.45 t</td>
+            <td>Nu</td>
+        </tr>
+        <tr>
+            <td>Pickup</td>
+            <td>Karin Tunder</td>
+            <td>0.55 t</td>
+            <td>Da</td>
+        </tr>
+        <tr>
+            <td>Pickup</td>
+            <td>Vapid Raptor</td>
+            <td>0.65 t</td>
+            <td>Nu</td>
+        </tr>
+        <tr>
+            <td>Camion</td>
+            <td>Maibatsu Mule</td>
+            <td>3.65 t</td>
+            <td>Nu</td>
+        </tr>
+        <tr>
+            <td>Camion</td>
+            <td>HVY Sturdy</td>
+            <td>3.80 t</td>
+            <td>Da</td>
+        </tr>
+        <tr>
+            <td>Camion</td>
+            <td>MTL Brickade</td>
+            <td>4 t</td>
+            <td>Nu</td>
+        </tr>
+        <tr>
+            <td>TIR</td>
+            <td>MTL OldBoy</td>
+            <td>17 t</td>
+            <td>Nu</td>
+        </tr>
+        <tr>
+            <td>TIR</td>
+            <td>MTL BigBoy</td>
+            <td>19 t</td>
+            <td>Da</td>
+        </tr>
+        <tr>
+            <td>TIR</td>
+            <td>MTL Haulking</td>
+            <td>21 t</td>
+            <td>Nu</td>
+        </tr>
+    </tbody>
+</table>
 
 <details>
-  <summary>Trucker</summary>
-  <img src="https://assets.b-zone.ro/wiki/trucker.gif" alt="Trucker">
+  <summary>Transporter</summary>
+  <img src="https://assets.b-zone.ro/wiki/transporter.png" alt="Transporter">
+</details>
+
+#### Ce sunt perk-urile?
+
+Perk-urile reprezintă bonusuri speciale care pot fi deblocate folosind **Perk Points**. Aceste puncte se obțin după finalizarea comenzilor.
+
+Comenzile standard oferă un număr de bază de Perk Points, în timp ce comenzile speciale, precum cele fragile, urgente, periculoase sau ilegale, oferă mai multe puncte.
+
+<details>
+  <summary>Perk Tree</summary>
+  <img src="https://assets.b-zone.ro/wiki/perk_tree_transporter.png" alt="Perk Tree">
+</details>
+
+#### Ce tipuri de comenzi există?
+
+Există 6 tipuri de comenzi:
+
+- Comenzi standard
+- Comenzi fragile
+- Comenzi urgente
+- Comenzi pe distanță lungă
+- Comenzi periculoase
+- Comenzi ilegale
+
+Recompensa primită depinde atât de tipul comenzii, cât și de marfa transportată.
+
+<details>
+  <summary>Tableta cu comenzi</summary>
+  <img src="https://assets.b-zone.ro/wiki/comenzi_transporter.png" alt="Tableta cu comenzi">
+</details>
+
+#### Ce îmi oferă skill-ul la acest job?
+
+Skill-ul este esențial pentru progresul în cadrul jobului și pentru deblocarea vehiculelor mai mari.
+
+- Pentru a putea efectua comenzi cu **camioane**, aveți nevoie de **skill 4**.
+- Pentru a putea efectua comenzi cu **TIR-uri**, aveți nevoie de **skill 7**.
+
+De asemenea, progresul skill-ului este limitat în funcție de categoria de vehicule utilizată:
+
+- Cu **pickup-urile**, puteți avansa doar până la **skill 4**.
+- După atingerea nivelului 4, va trebui să efectuați comenzi cu **camioane** pentru a continua progresul.
+- Cu **camioanele**, puteți avansa doar până la **skill 7**.
+- După atingerea nivelului 7, va trebui să efectuați comenzi cu **TIR-uri** pentru a continua progresul.
+
+Acest sistem încurajează trecerea treptată la vehicule mai mari și la comenzi mai complexe.
+
+
+<details open>
+  <summary>Videoclip tutorial - Bunny - coming soon</summary>
+
+  <div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/e7ibEifppW4"
+      title="Videoclip tutorial"
+      allowfullscreen>
+    </iframe>
+  </div>
 </details>
