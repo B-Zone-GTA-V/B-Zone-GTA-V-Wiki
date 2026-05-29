@@ -1984,6 +1984,48 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1169829579.png" alt="veh">
 </details>
 
+- Maibatsu Mule
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2510640224.png" alt="veh">
+</details>
+
+- HVY Sturdy
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3413493451.png" alt="veh">
+</details>
+
+- MTL Brickade
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2246376247.png" alt="veh">
+</details>
+
+- MTL OldBoy 
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/799566516.png" alt="veh">
+</details>
+
+- MTL BigBoy
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1377619001.png" alt="veh">
+</details>
+
+- MTL Haulking
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/431507053.png" alt="veh">
+</details>
+
 ## Extreme Off-Road Cars // Mașini Extreme Off-Road
 
 - Benefactor Dubsta EMS
@@ -2159,6 +2201,34 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/616169499.png" alt="veh">
+</details>
+
+- Bravado Bison Utility
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/158894446.png" alt="veh">
+</details>
+
+- Canis Griffon
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3321159710.png" alt="veh">
+</details>
+
+- Karin Tunder
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/1244458845.png" alt="veh">
+</details>
+
+- Vapid Raptor
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/3904705601.png" alt="veh">
 </details>
 
 ## Extreme Off-Road Moto // Motociclete Extreme Off-Road

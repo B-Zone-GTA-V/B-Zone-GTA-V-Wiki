@@ -140,7 +140,7 @@ export default defineConfig({
             text: '✒️ Locuri de munca / Jobs',
             collapsed: false,
             items: [
-              { text: '🚛 Camionagiu', link: '/server/jobs/trucker' },
+              { text: '🚛 Transporter', link: '/server/jobs/transporter' },
               { text: '🚌 Șofer De Autobuz', link: '/server/jobs/bus_driver' },
               { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
               { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
