@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Camionagiu / Trucker
+# Transporter
 
 ## Introducere
 
