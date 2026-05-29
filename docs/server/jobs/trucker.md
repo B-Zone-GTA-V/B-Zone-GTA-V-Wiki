@@ -176,14 +176,16 @@ De asemenea, progresul skill-ului este limitat în funcție de categoria de vehi
 Acest sistem încurajează trecerea treptată la vehicule mai mari și la comenzi mai complexe.
 
 
+
 <details open>
-  <summary>Videoclip tutorial - Bunny - coming soon</summary>
+  <summary>Videoclip tutorial - Bunny</summary>
 
   <div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/e7ibEifppW4"
+      src="https://www.youtube.com/embed/F-4usk4gVaY"
       title="Videoclip tutorial"
       allowfullscreen>
     </iframe>
   </div>
 </details>
+- <span style="color: #f36d6d;">Multumim Bunny pentru videoclipul tutorial!</span> 🐰
