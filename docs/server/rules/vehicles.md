@@ -174,6 +174,20 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1612085460.png" alt="veh">
 </details>
 
+- Benefactor Schafter GTR
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2421816971.png" alt="veh">
+</details>
+
+- Benefactor Schafter GTR Coupe
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/986737346.png" alt="veh">
+</details>
+
 - Benefactor Opulent
 
 <details>
@@ -615,6 +629,13 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1791686571.png" alt="veh">
 </details>
 
+- Enus Paragon GTS
+
+<details>
+  <summary>Preview</summary>
+  <img src="https://assets.b-zone.ro/vehicles/2245688993.png" alt="veh">
+</details>
+
 - Enus Expert GT
 
 <details>
@@ -1005,13 +1026,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/3855635391.png" alt="veh">
-</details>
-
-- Obey Q7
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2878158734.png" alt="veh">
 </details>
 
 - Obey RS5
@@ -1711,11 +1725,11 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
   <img src="https://assets.b-zone.ro/vehicles/1639117088.png" alt="veh">
 </details>
 
-- Enus Paragon GTS
+- Obey Q7
 
 <details>
   <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2245688993.png" alt="veh">
+  <img src="https://assets.b-zone.ro/vehicles/2878158734.png" alt="veh">
 </details>
 
 - Ubermacht e70
@@ -1730,20 +1744,6 @@ Lista oficială a vehiculelor de pe server, atât din Dealership cât și din fa
 <details>
   <summary>Preview</summary>
   <img src="https://assets.b-zone.ro/vehicles/2109671093.png" alt="veh">
-</details>
-
-- Benefactor Schafter GTR
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/2421816971.png" alt="veh">
-</details>
-
-- Benefactor Schafter GTR Coupe
-
-<details>
-  <summary>Preview</summary>
-  <img src="https://assets.b-zone.ro/vehicles/986737346.png" alt="veh">
 </details>
 
 - Ubermacht F86
