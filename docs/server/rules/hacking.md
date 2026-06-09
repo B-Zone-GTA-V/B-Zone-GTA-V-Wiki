@@ -118,8 +118,16 @@ Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă 
 - moduri de tracere pentru gloante
 - moduri ce scot texturi sau elemente de mapping
 - moduri ce coloreaza tinta cand e pusă pe un jucator
+- Bright Nights (Nopți luminoase)
+- No Fog (Fără ceață)
+- Clear Interiors
+- Particles (Efecte de particule modificate)
+- Graphics Packs: Redux din Network Graphics (orice versiune) (Pachete grafice interzise) 
 <br><br>
 <strong style="color: #e87a5f">*Faptul că un mod nu este menționat în această listă nu înseamnă că acesta este permis sau legal. Dacă nu sunteți siguri dacă un mod este legal sau ilegal, puteți deschide un ticket pentru a întreba un membru din Cheater Team.*</strong>
+
+
+Sunt permise doar modurile grafice care îmbunătățesc aspectul vizual al jocului, fără a elimina, reduce sau modifica elemente grafice în scopul obținerii unui avantaj față de alți jucători.
 </div>
 
 <div class="rule-box rule-sanction">
