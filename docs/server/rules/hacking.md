@@ -120,7 +120,7 @@ Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă 
 - moduri ce coloreaza tinta cand e pusă pe un jucator
 - Bright Nights (Nopți luminoase)
 - No Fog (Fără ceață)
-- Clear Interiors (Interioare clare)
+- Clear Interiors
 - Particles (Efecte de particule modificate)
 - Graphics Packs: Redux din Network Graphics (orice versiune) (Pachete grafice interzise) 
 <br><br>
