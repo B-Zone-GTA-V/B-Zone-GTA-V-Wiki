@@ -68,7 +68,7 @@ Jucătorii suspectați de folosirea codurilor pot fi luați la teste TW de cătr
 - Registry Editor
 </div>
 
-### <a id="C1.2"></a>C1.3 - Filmare obligatorie
+### <a id="C1.3"></a>C1.3 - Filmare obligatorie
 
 Toți jucătorii care utilizează o armă și provoacă damage altor jucători au obligația de a înregistra integral acțiunea desfășurată. Înregistrarea trebuie să surprindă în mod clar și neîntrerupt desfășurarea actiunii, de la inițierea interacțiunii până la finalizarea acesteia, fără editări sau intervenții asupra conținutului.
 
@@ -105,6 +105,10 @@ Materialul video trebuie păstrat pentru o perioadă de 72 de ore și pus la dis
         </table>
 </div>
 
+
+### <a id="C1.4"></a>C1.4 - Complice Cheats
+
+Jucătorii care sunt prinși împreună cu un jucător care folosește programe interzise (cheats) și nu raportează acest fapt echipei administrative sunt considerați complici și vor fi sancționați conform regulii <a href="#C1.1">C1.1 - Cheats</a>.
 
 ## <a id="C2.1"></a>C2.1 - Moduri ilegale
 
