@@ -68,7 +68,7 @@ Jucătorii suspectați de folosirea codurilor pot fi luați la teste TW de cătr
 - Registry Editor
 </div>
 
-### <a id="C1.2"></a>C1.3 - Filmare obligatorie
+### <a id="C1.3"></a>C1.3 - Filmare obligatorie
 
 Toți jucătorii care utilizează o armă și provoacă damage altor jucători au obligația de a înregistra integral acțiunea desfășurată. Înregistrarea trebuie să surprindă în mod clar și neîntrerupt desfășurarea actiunii, de la inițierea interacțiunii până la finalizarea acesteia, fără editări sau intervenții asupra conținutului.
 
@@ -106,6 +106,10 @@ Materialul video trebuie păstrat pentru o perioadă de 72 de ore și pus la dis
 </div>
 
 
+### <a id="C1.4"></a>C1.4 - Complice Cheats
+
+Jucătorii care sunt prinși împreună cu un jucător care folosește programe interzise (cheats) și nu raportează acest fapt echipei administrative sunt considerați complici și vor fi sancționați conform regulii <a href="#C1.1">C1.1 - Cheats</a>.
+
 ## <a id="C2.1"></a>C2.1 - Moduri ilegale
 
 Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă oferii avantaje față de alți jucători.
@@ -118,8 +122,16 @@ Reprezintă folosirea de moduri ce alterează starea jocului cu scopul de a vă 
 - moduri de tracere pentru gloante
 - moduri ce scot texturi sau elemente de mapping
 - moduri ce coloreaza tinta cand e pusă pe un jucator
+- Bright Nights (Nopți luminoase)
+- No Fog (Fără ceață)
+- Clear Interiors
+- Particles (Efecte de particule modificate)
+- Graphics Packs: Redux din Network Graphics (orice versiune) (Pachete grafice interzise) 
 <br><br>
 <strong style="color: #e87a5f">*Faptul că un mod nu este menționat în această listă nu înseamnă că acesta este permis sau legal. Dacă nu sunteți siguri dacă un mod este legal sau ilegal, puteți deschide un ticket pentru a întreba un membru din Cheater Team.*</strong>
+
+
+Sunt permise doar modurile grafice care îmbunătățesc aspectul vizual al jocului, fără a elimina, reduce sau modifica elemente grafice în scopul obținerii unui avantaj față de alți jucători.
 </div>
 
 <div class="rule-box rule-sanction">

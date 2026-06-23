@@ -181,9 +181,10 @@ Acest sistem încurajează trecerea treptată la vehicule mai mari și la comenz
 
   <div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/e7ibEifppW4"
+      src="https://www.youtube.com/embed/F-4usk4gVaY"
       title="Videoclip tutorial"
       allowfullscreen>
     </iframe>
   </div>
 </details>
+<span style="color: #fcbd83;">Multumim Bunny pentru video tutorial! :D</span>
