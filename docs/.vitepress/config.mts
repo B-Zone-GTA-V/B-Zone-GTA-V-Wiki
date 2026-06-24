@@ -67,7 +67,8 @@ export default defineConfig({
       {
         text: 'ℹ️ General',
         items: [
-          { text: '🐇Eveniment Paște', link: '/server/info/easter' },
+          { text: '🐇Eveniment Vară', link: '/server/info/summer' },
+          // { text: '🐇Eveniment Paște', link: '/server/info/easter' },
           // { text: '🍂Eveniment Toamnă', link: '/server/info/autumn' },
           // { text: '🎃Eveniment Halloween', link: '/server/info/halloween' },
           // { text: '🎄Eveniment Iarnă', link: '/server/info/christmas' },
