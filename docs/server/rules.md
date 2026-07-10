@@ -12,7 +12,7 @@ Prin conectarea la server, sunteți direct de acord să respectați regulile ser
 
 ### <a id="1.2"></a><span style="color: #0088CC">1.2 Interpretare regulament</span>
 
-Interpretarea oricărei reguli este interzisă! Nu puteți interpreta nicio regulă după bunul plac pentru a vă oferi avantaje într-un RolePlay. 
+Interpretarea oricărei reguli este interzisă! Nu puteți interpreta nicio regulă după bunul plac pentru a vă oferi avantaje într-un RolePlay.
 
 Pentru orice neclaritate pe parte de regulament contactați un membru staff. În situațiile de ticket, identificarea încălcării de regulament se face de către membrul staff care a preluat ticketul și nu de către jucători.
 
@@ -22,7 +22,7 @@ Pentru orice neclaritate pe parte de regulament contactați un membru staff. În
 - Aveți nevoie de un microfon funcțional pentru a comunica cu restul jucătorilor.
 - Numele Roleplay - Folosirea numelor de persoane celebre, respectiv cu tentă și/sau intenția de a face troll, sunt interzise. Numele pot fi cele reale sau inventate de voi și care pot fi întâlnite în viața de zi cu zi.
 
-Exemple de nume interzise: Mickael Jackson / Jhon Coa*eLungi / MaJocBine
+Exemple de nume interzise: Mickael Jackson / Jhon Coa\*eLungi / MaJocBine
 
 Exemple de nume permise: Mihai Ionescu / Michael Aoki / Laurentiu Lautaru
 
@@ -32,11 +32,11 @@ Neconformarea sau necooperarea cu administrația serverului pentru a respecta or
 
 Echipa Administrativă își rezervă dreptul de a elimina permanent jucătorii de pe server care strică experiența de joc pentru alți utilizatori. Acest drept se mai numește Toleranță Zero (ZT). Echipa evaluează atitudinea, comportamentul, toxicitatea și alte aspecte relevante ale jucătorilor. Scopul nostru este de a menține un mediu plăcut pentru toți utilizatorii, iar persoanele care generează probleme vor fi excluse.
 
-Jucătorii care acumulează foarte multe sancțiuni într-o perioadă scurtă de timp, care au un comportament toxic sau care strică experiența de joc pot fi sancționați cu ban permanent fără drept de plată. 
+Jucătorii care acumulează foarte multe sancțiuni într-o perioadă scurtă de timp, care au un comportament toxic sau care strică experiența de joc pot fi sancționați cu ban permanent fără drept de plată.
 
-### <a id="1.5"></a><span style="color: #0088CC">1.5 Obligativitatea deținerii unei filmări AUDIO-VIDEO</span>  
+### <a id="1.5"></a><span style="color: #0088CC">1.5 Obligativitatea deținerii unei filmări AUDIO-VIDEO</span>
 
-Pentru a asigura corectitudinea și transparența în cadrul sesiunilor de Roleplay, toți jucătorii au obligația de a înregistra constant gameplay-ul sub formă de filmare AUDIO-VIDEO.  
+Pentru a asigura corectitudinea și transparența în cadrul sesiunilor de Roleplay, toți jucătorii au obligația de a înregistra constant gameplay-ul sub formă de filmare AUDIO-VIDEO.
 
 <div class="rule-box rule-yellow">
   <div class="title">Reguli specifice:</div>
@@ -91,6 +91,7 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 </div>
 
 ### <a id="1.7"></a><span style="color: #0088CC">1.7 Sindicatul</span>
+
 <div class="rule-box rule-yellow">
     <div class="title">Explicații:</div>
 
@@ -105,6 +106,7 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 </div>
 
 ### <a id="1.8"></a><span style="color: #0088CC">1.8 Gravitatea sancțiunilor</span>
+
 <div class="rule-box rule-yellow">
     <div class="title">Explicații:</div>
 
@@ -114,7 +116,6 @@ Depunerea mai multor reclamații nefondate împotriva jucătorilor, în special 
 - La adunarea a **3 warn-uri** veți primi automat un ban de 5 zile.
 - În cazul unor situații excepționale unde sunt încălcate 3 sau mai multe reguli, sancțiunea acordată va fi aceea de **Greșeli Multiple** ce se sancționează cu **BAN** între 1-30 de zile în funcție de gravitate.
 </div>
-
 
 ## <a id="2"></a><span style="color: #0088CC">CAP. 2 - REGULI DE BAZĂ</span>
 
@@ -186,7 +187,7 @@ Toate informațiile ce sunt discutate pe chat-ul din joc sau în afara jocului �
 
 ### <a id="2.4"></a><span style="color: #0088CC">2.4 Revenge Kill (RK)</span>
 
-Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, după ce ți-ai acceptat moartea și te-ai respawnat. 
+Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, după ce ți-ai acceptat moartea și te-ai respawnat.
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
@@ -250,7 +251,7 @@ Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, d
 
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Coma</span>
 
-Reprezintă situația în care ești doborât la pământ din diferite motive (împușcat, înjunghiat, lipsă de hrană/apă). Vă este INTERZIS să comunicați prin orice cale, atât IC, cât și OOC cât timp sunteți în comă. Informațiile văzute în comă vor fi ignorate. 
+Reprezintă situația în care ești doborât la pământ din diferite motive (împușcat, înjunghiat, lipsă de hrană/apă). Vă este INTERZIS să comunicați prin orice cale, atât IC, cât și OOC cât timp sunteți în comă. Informațiile văzute în comă vor fi ignorate.
 
 Cât timp ați fost în comă nu știți ce s-a întâmplat în jur, altfel se va considera și se va sancționa conform regulii <a href="#2.10">#2.10 MetaGaming (MG)</a>
 
@@ -271,7 +272,7 @@ Este simulat de către alți oameni care v-au văzut fiind în comă.
 
 - când ești într-o zonă nepopulată în care nu ai putea fi văzut de către alți oameni
 - când ești aruncat în apă într-o zonă nepopulată<br><br>
-  <span style="color: #88bfa2">Verificați harta cu zonele nepopulate <a href="rules/zones#Z6">Z6 Zone Nepopulate</a></span>
+<span style="color: #88bfa2">Verificați harta cu zonele nepopulate <a href="rules/zones#Z6">Z6 Zone Nepopulate</a></span>
 </div>
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
@@ -299,12 +300,11 @@ Este simulat de către alți oameni care v-au văzut fiind în comă.
     </table>
 </div>
 
-
 #### <a id="2.6.2"></a><span style="color: #0088CC">2.6.2 Acceptarea morții</span>
 
 Se poate face după ce au trecut primele 5 minute de comă și reprezintă un <a href="#2.3">#2.3 Player-Kill (PK)</a>. În urma acceptării morții se vor pierde banii cash și toate itemele din inventar, mai puțin hainele. Deconectarea de pe server după primele 5 minute de comă rezultă într-un PK automatizat.
 
-Această acțiune se poate face chiar dacă medicul a ajuns în apropierea voastră. Puteți să alegeți moartea până la ultima secundă când medicul vă oferă primul ajutor. Dacă acesta nu reușește să vă resusciteze înseamnă ca ați ales moartea. 
+Această acțiune se poate face chiar dacă medicul a ajuns în apropierea voastră. Puteți să alegeți moartea până la ultima secundă când medicul vă oferă primul ajutor. Dacă acesta nu reușește să vă resusciteze înseamnă ca ați ales moartea.
 
 <div class="rule-box rule-yellow">
 <div class="title">Exemplu:</div>
@@ -330,7 +330,7 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 <div class="title">Exemple:</div>
 
 - Medici - Eșecul de a salva persoane. Situația în care un cadru medical are o interacțiune directă sau indirectă cu un cetățean care are nevoie de asistență medicală. Ignorându-l, se consideră fail roleplay.
-- Polițiști - Eșecul de a aplica Codul Penal Rutier. Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea interveni. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate să plece și să ceară/aștepte întăriri). 
+- Polițiști - Eșecul de a aplica Codul Penal Rutier. Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea interveni. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate să plece și să ceară/aștepte întăriri).
 - Deschiderea OOC în IC
 - Tractarea de vehicule parcate regulamentar fără să vă asigurați că acestea sunt abandonate. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
 - Jefuirea de oameni în comă indiferent de zona unde se află (Ex. Găsești pe cineva în comă și il jefuiești, indiferent dacă îi dai in vreum fel revive sau pe loc în timp ce e mort)
@@ -362,7 +362,6 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
         </tbody>
     </table>
 </div>
-
 
 ### <a id="2.9"></a><span style="color: #0088CC">2.9 Refuz RP</span>
 
@@ -409,15 +408,13 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
 <div class="rule-box rule-yellow">
     <div class="title">Exemple:</div>
 
-- Prietenul tău îți scrie pe chat să te duci sa îl iei dintr-o locație pentru că nu mai are mașină, iar tu te duci. 
+- Prietenul tău îți scrie pe chat să te duci sa îl iei dintr-o locație pentru că nu mai are mașină, iar tu te duci.
 - Coordonarea pe discord în locul voice chat-ului din joc.
 - Ai auzit diferite informații cât ai fost în comă și te folosești de acestea.
 - Identificarea unei grupari dupa texte sau culoarea de pe hainele custom de pe acestia fără un RP anterior prin care acea uniforma a fost compromisa.
 - Utilizarea tastei Home fără un motiv bine întemeiat(încălcări grave de regulament prin care un roleplay nu poate continua).
 - Identificarea unei persoane după voce, chiar și atunci când aceasta poartă o mască sau se află într-un vehicul cu geamuri fumurii.
-- Utilizarea informațiilor obținute prin sisteme care restricționează accesul la anumite bunuri pentru un număr limitat de jucători. De exemplu: 
-    - Știu că o persoană este lider de mafie deoarece are acces la un gadget disponibil exclusiv pentru el, conform sistemului.
-    - Recunosc o grupare ca fiind „Mafia Porumbeilor” deoarece sistemul le-a atribuit echipamente personalizate cu simboluri ale mafiei și porumbei.
+- Utilizarea informațiilor obținute prin sisteme care restricționează accesul la anumite bunuri pentru un număr limitat de jucători. De exemplu: - Știu că o persoană este lider de mafie deoarece are acces la un gadget disponibil exclusiv pentru el, conform sistemului. - Recunosc o grupare ca fiind „Mafia Porumbeilor” deoarece sistemul le-a atribuit echipamente personalizate cu simboluri ale mafiei și porumbei.
 </div>
 <div class="rule-box rule-red">
     <div class="title">Mențiuni:</div>
@@ -490,7 +487,6 @@ Reprezintă oferirea informațiilor IC în OOC.
         </tbody>
     </table>
 </div>
-
 
 ### <a id="2.13"></a><span style="color: #0088CC">2.13 Power Gaming (PG)</span>
 
@@ -569,7 +565,7 @@ Este acel roleplay pe care îl fac persoanele pentru a denigra alte persoane pri
 </div>
 
 ### <a id="2.15"></a><span style="color: #0088CC">2.15 Random Death Match (RDM)</span>
- 
+
 Reprezintă atacarea cu pumnii/arme albe sau împușcarea unui jucător sau a unui grup de jucători fără vreun motiv sau un roleplay anterior.
 
 <div class="rule-box rule-yellow">
@@ -654,7 +650,6 @@ Reprezintă înotarea la nesfârșit și este interzisă deoarece în realitate 
 - Ai căzut din barca în care erai cu prietenii tăi, iar ei s-au îndepărtat foarte mult, ești la o distanță foarte mare de orice mal și hotărăști să înoți pană acolo fără oprire. Acest lucru este interzis.
 </div>
 
-
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
     <table>
@@ -681,8 +676,8 @@ Reprezintă înotarea la nesfârșit și este interzisă deoarece în realitate 
     </table>
 </div>
 
-
 ### <a id="2.18"></a><span style="color: #0088CC">2.18 No Fear (NF)</span>
+
 Reprezintă acțiunea în care nu îți este frică că propria ta viață ar putea fi pusă în pericol.
 
 <div class="rule-box rule-yellow">
@@ -726,6 +721,7 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 </div>
 
 #### <a id="2.18.1"></a><span style="color: #0088CC">2.18.1 S.A.S. - No Fear</span>
+
 <div class="rule-box rule-yellow">
     <div class="title">Exemple:</div>
 
@@ -744,6 +740,7 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 </div>
 
 #### <a id="2.18.2"></a><span style="color: #0088CC">2.18.2 Division - No Fear</span>
+
 <div class="rule-box rule-yellow">
     <div class="title">Exemple:</div>
 
@@ -757,7 +754,6 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - 1 Division vs 4, <strong style="color: green">DA</strong>, se aplică NF
 - 2 Division vs oricâți, <strong style="color: red">NU</strong>, nu se aplică NF
 </div>
-
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
@@ -822,7 +818,7 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
   - jaf bancar
   - livrari de droguri
   - patrule rau famate în intervalul 20:00-08:00
-</div>
+  </div>
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
@@ -892,6 +888,7 @@ Dacă deconectarea a avut ca scop evitarea unui posibil CK, acesta va fi aplicat
 </div>
 
 ### <a id="2.22"></a><span style="color: #0088CC">2.22 Bombardier</span>
+
 Reprezintă orice atitudine/comportament de superioritate față de ceilalți jucători sau jignirea, în mod repetat, **în lipsa unui roleplay anterior**.
 
 <div class="rule-box rule-yellow">
@@ -1026,8 +1023,10 @@ Corupția IC reprezintă orice metodă de corupție la nivel de caracter.
 - Luarea de mită
 </div>
 
-<span style="color: green">Mențiuni:</span>
-- Conducerea poliției poate să ceară dovezi administratiei în cazul în care un jucător este suspectat de corupție
+<div class="rule-box rule-yellow">
+<div class="title">Mențiuni:</div>
+
+- conducerea poliției poate să ceară dovezi administratiei în cazul în care un jucător este suspectat de corupție
 </div>
 
 <div class="rule-box rule-sanction">
@@ -1046,7 +1045,7 @@ Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de 
 - Oferirea de informații pe care le dobândiți în facțiunea din care faceți parte (exemplu: informații din poliție în momentul în care se face razie la o locație ilegală) prin canale de comunicare OOC (discord, whatsapp, etc)
 - Depozitarea de echipamente de facțiune in vehicule personale sau case
 - Eliberarea unui deținut (indiferent dacă are sau nu obiecte ilegale asupra sa) din custodia poliției fără un motiv solid și justificat IC sau fără un roleplay anterior care să susțină acțiunea.  
-(Motivul eliberării nu trebuie să se bazeze pe informații OOC sau relații de prietenie OOC.) - Dacă sunteți suspectat de un astfel de act de corupție și nu puteți demonstra o relație sau un motiv valid IC între voi și deținut, veți fi sancționați corespunzător.
+  (Motivul eliberării nu trebuie să se bazeze pe informații OOC sau relații de prietenie OOC.) - Dacă sunteți suspectat de un astfel de act de corupție și nu puteți demonstra o relație sau un motiv valid IC între voi și deținut, veți fi sancționați corespunzător.
 - Acțiuni ce încalcă logica de Roleplay al unei facțiuni guvernamentale: furtul, înșelătoria, omorul, utilizarea de arme ilegale, tranzacții cu obiecte ilegale etc.
 </div>
 <div class="rule-box rule-green">
@@ -1059,9 +1058,8 @@ Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi san
     <p>BAN 1–14 zile, în funcție de gravitate, fără drept de plată + 30 Faction Punish (nu vei mai putea intra într-o altă facțiune sau gang timp de 30 de zile) + blacklist în facțiune.</p>
 </div>
 
-
-
 ### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
+
 Freechat reprezintă folosirea chatului OOC din joc, transmițând mesaje care nu sunt de interes comun, a mesajelor de ură sau a frustrărilor.
 
 Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și comanda /ticket pot adresa întrebări și pot socializa cu alți jucători fără sa deranjeze pe alții. Dorim ca pe acest chat să vedem o atitudine pozitivă, să ne ajutăm unii pe alții sau să ne distrăm. Acest chat este văzut de toți jucătorii și poate fi închis ori de câte ori noi considerăm că nu se folosește în scopurile în care a fost oferit.
@@ -1072,6 +1070,7 @@ Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și c
 </div>
 
 ### <a id="2.28"></a><span style="color: #0088CC">2.28 Low Effort Roleplay (LER)</span>
+
 Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 
 <div class="rule-box rule-yellow">
@@ -1111,6 +1110,7 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 </div>
 
 ### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
+
 Este <span style="color:red">**STRICT INTERZIS**</span> să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului).
 
 <div class="rule-box rule-yellow">
@@ -1120,6 +1120,7 @@ Este <span style="color:red">**STRICT INTERZIS**</span> să înșelați alte per
 - În cazul unei înșelătorii, toate bunurile vor fi returnate persoanei păgubite.
 
 <span style="color: green">Mențiuni:</span>
+
 - Împrumuturile de bunuri se fac pe propria răspundere și nu sunt sancționabile, atâta timp cât se respectă limitele bunului simț.
 - Complicitatea la înșelătorie este sancționată în aceeași măsură ca fapta în sine.
 </div>
@@ -1154,9 +1155,10 @@ Este <span style="color:red">**STRICT INTERZIS**</span> să înșelați alte per
 
 ### <a id="3.1"></a><span style="color: #0088CC">3.1 Comportamentului neadecvat față de fete (IC/OOC)</span>
 
-Reprezintă orice formă de comportament neadecvat, hărțuire verbală sau discriminare bazată pe gen îndreptată împotriva fetelor. Jucătorii sunt obligați să respecte drepturile și confortul tuturor jucătorilor, indiferent de gen, și să se abțină de la orice comportament care ar putea crea un mediu nedorit sau neplăcut. 
+Reprezintă orice formă de comportament neadecvat, hărțuire verbală sau discriminare bazată pe gen îndreptată împotriva fetelor. Jucătorii sunt obligați să respecte drepturile și confortul tuturor jucătorilor, indiferent de gen, și să se abțină de la orice comportament care ar putea crea un mediu nedorit sau neplăcut.
 
 Aceasta regulă include, dar nu se limitează la:
+
 - Utilizarea limbajului obscen sau aluzii cu conținut sexual în conversațiile cu fetele de pe server.
 - Hărțuirea constantă sau persistentă a jucătoarelor prin mesaje private, chat public sau alte mijloace de comunicare disponibile pe server.
 
@@ -1213,6 +1215,7 @@ Echipa administrativă nu va interveni în cazul jignirilor transmise prin căil
 </div>
 
 ### <a id="3.3"></a><span style="color: #0088CC">3.3 Suferințele OOC</span>
+
 Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire care are scopul de a umili, provoca sau denigra un alt jucător sau a unui grup de persoane în urma unui roleplay sau revenirea la o acțiune anterioară cu scopul de a enerva.
 
 <div class="rule-box rule-red">
@@ -1222,8 +1225,9 @@ Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire 
 - Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> repetitiv pe canalele vocale din joc a persoanelor în comă.
 - Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jignii</span> pe Discord, fie în mesaje private, fie pe serverul comunității sau pe alte servere.
 - Exprimarea cu intenția de a <span style="color: yellowgreen">umili / jigni</span> pe transmisiuni live (chaturi live).
-  
+
 <span style="color: red">Exemple interzise:</span>
+
 - „Polițiștilor, cum vă descurcați acolo pe jos, tot picați?”
 - „Mafioților, ar fi bine să învățați să țintiți corect.”
 - „Iată cum arată un roleplay de calitate, nu ce faceți voi.”
@@ -1256,6 +1260,7 @@ Se interzice orice formă de exprimare verbală ostilă, intimidare sau jignire 
 </div>
 
 ### <a id="3.4"></a><span style="color: #0088CC">3.4 Toxicitate</span>
+
 Reprezintă încălcări repetate ale regulamentului și distrugerea experienței de joc pentru alți jucători. Această regulă este menită să asigure un mediu de joc pozitiv și plăcut pentru toți membrii comunității. Administrația va lua deciziile necesare pentru menținerea integrității și bunăstării comunității.
 
 <div class="rule-box rule-red">
@@ -1290,6 +1295,7 @@ Reprezintă încălcări repetate ale regulamentului și distrugerea experiențe
 </div>
 
 ### <a id="3.5"></a><span style="color: #0088CC">3.5 Injurii sau denigrare staff și comunitate</span>
+
 Această regulă vizează comportamentele prin care se aduc injurii, acuzații nefondate sau se denigrează în mod repetat membrii echipei administrative sau comunitatea în ansamblu. Lipsa de respect față de staff sau față de alți membri ai comunității subminează eforturile de a menține un mediu de joc echilibrat, corect și plăcut pentru toți participanții. Feedback-ul constructiv este încurajat, însă exprimarea acestuia trebuie făcută într-un mod civilizat, prin canalele oficiale puse la dispoziție.
 
 <div class="rule-box rule-red">
@@ -1324,6 +1330,7 @@ Această regulă vizează comportamentele prin care se aduc injurii, acuzații n
 </div>
 
 ### <a id="3.6"></a><span style="color: #0088CC">3.6 Reacții (Plâns) nejustificate</span>
+
 Această regulă este aplicabilă jucătorilor care manifestă comportamente exagerate sau reacții disproporționate față de situații de roleplay sau față de deciziile luate de echipa administrativă. (Sancțiunea poate fi acordată doar cu aprobarea unui Admin 4+).
 
 <div class="rule-box rule-sanction">
@@ -1351,15 +1358,18 @@ Această regulă este aplicabilă jucătorilor care manifestă comportamente exa
 ## <a id="4"></a><span style="color: #0088CC">CAP. 4 ABUZURI</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Bug abuse</span>
+
 Reprezintă crearea unui avantaj prin folosirea unui bug/exploit și, în funcție de gravitate, poate duce de la retragerea bunurilor obținute până la ban permanent. Bug-urile se raportează prin /ticket pentru a fi rezolvate și nu abuzate.
 
 ### <a id="4.2"></a><span style="color: #0088CC">4.2 Ban Evading</span>
+
 Încercarea de a te conecta pe server prin orice modalitate pentru a evita un ban temporar sau unul permanent va duce la banarea permanentă a contului și blocarea oricărei căi de acces.
 
 ### <a id="4.4"></a><span style="color: #0088CC">4.3 AFK (Away From Keyboard)</span>
+
 Este permis cel mult de 5 minute într-o zonă publică populată (secție poliție, spital, etc) și cel mult de 30 de minute într-o zonă retrasă dacă nu aveți un roleplay activ.
 
-Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de o pauză și să primiți acordul acestora. 
+Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de o pauză și să primiți acordul acestora.
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni - Afk în roleplay (ex. vine poliția la razie la Mina):</div>
@@ -1410,8 +1420,8 @@ Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de 
     </table>
 </div>
 
-
 ### <a id="4.5"></a><span style="color: #0088CC">4.4 Tranzacțiile OOC</span>
+
 Afacerea sau tentativa de comercializare a bunurilor reale în schimbul bunurilor/conturilor din joc este strict interzisă.
 
 Sunt permise tranzacțiile de bunuri din joc în schimbul încărcării unei sume de Gold pe contul celuilalt jucător. Acest lucru se realizează de pe pagina de achiziție Gold, folosind opțiunea „Recipient ID”.
@@ -1426,6 +1436,7 @@ Ban permanent fără drept de plata
 </div>
 
 ### <a id="4.6"></a><span style="color: #0088CC">4.5 System Abuse</span>
+
 Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea un avantaj față de ceilalți jucători.
 
 <div class="rule-box rule-red">
@@ -1466,6 +1477,7 @@ Este interzis să vă folosiți de sistemele serverului cu scopul de a vă crea 
 </div>
 
 ### <a id="4.7"></a><span style="color: #0088CC">4.6 Reclama este interzisă</span>
+
 Orice promovare de conținut ce nu ține de comunitatea B-Zone este interzisă!
 
 <div class="rule-box rule-sanction">
@@ -1474,6 +1486,7 @@ Orice promovare de conținut ce nu ține de comunitatea B-Zone este interzisă!
 </div>
 
 ### <a id="4.8"></a><span style="color: #0088CC">4.7 Trolling</span>
+
 Reprezintă încălcarea regulamentului în mod repetat sau băgarea în seamă pentru a interacționa cu alți jucători care nu își doresc acest lucru, doar pentru propriul tău amuzament.
 
 <div class="rule-box rule-sanction">
@@ -1483,7 +1496,8 @@ Reprezintă încălcarea regulamentului în mod repetat sau băgarea în seamă 
 </div>
 
 ### <a id="4.9"></a><span style="color: #0088CC">4.8 Account sharing</span>
-Împărțirea contului cu alte persoane este interzisă. Această practică reprezintă un risc la adresa securității contului, apar inconsistențe în povestea unui caracter, se poate distorsiona echilibrul jocului și poate duce la conflicte între jucători. Este esențial ca fiecare jucător să aibă propriul său cont și să nu împărtășească informații de conectare cu alte persoane. 
+
+Împărțirea contului cu alte persoane este interzisă. Această practică reprezintă un risc la adresa securității contului, apar inconsistențe în povestea unui caracter, se poate distorsiona echilibrul jocului și poate duce la conflicte între jucători. Este esențial ca fiecare jucător să aibă propriul său cont și să nu împărtășească informații de conectare cu alte persoane.
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
@@ -1508,7 +1522,8 @@ Reprezintă încălcarea regulamentului în mod repetat sau băgarea în seamă 
 </div>
 
 ### <a id="4.10"></a><span style="color: #0088CC">4.9 Conturi multiple</span>
-Pentru a asigura o experiență autentică și echitabilă pentru toți jucătorii, este permisă utilizarea unui singur cont pe server. Conectarea de pe mai multe conturi este strict interzisă. 
+
+Pentru a asigura o experiență autentică și echitabilă pentru toți jucătorii, este permisă utilizarea unui singur cont pe server. Conectarea de pe mai multe conturi este strict interzisă.
 
 Orice încălcare a acestei reguli va duce la sancționarea conturilor duplicate (**_2.000.000_** de minute, nu **BAN**).
 
@@ -1538,15 +1553,15 @@ Orice încălcare a acestei reguli va duce la sancționarea conturilor duplicate
 
 ### <a id="5.1"></a><span style="color: #0088CC">5.1 Limitele de viteză (INFO)</span>
 
-Limita de viteză în oraș este de 100 km/h. 
+Limita de viteză în oraș este de 100 km/h.
 
-Limita de viteză pe drumurile naționale este de 150 km/h. 
+Limita de viteză pe drumurile naționale este de 150 km/h.
 
 Limita de viteză pe autostradă este de 250 km/h.
 
 ### <a id="5.2"></a><span style="color: #0088CC">5.2 Pit-Stop</span>
 
-Este interzisă folosirea manevrei pit-stop la o viteza de peste 150 km/h. 
+Este interzisă folosirea manevrei pit-stop la o viteza de peste 150 km/h.
 
 Manevra este interzisă indiferent de viteză pentru clasele de mașini: SPORT/SUPER SPORT. Excepție de la regulă se aplică pentru mașinile de poliție, întrucât prinderea unui suspect periculos primează și mașinile poliției sunt reparate/decontate de către stat.
 
@@ -1584,9 +1599,10 @@ De asemenea, o mașină joasă nu poate face pitstop unei mașini cu gardă îna
 </div>
 
 ### <a id="5.3"></a><span style="color: #0088CC">5.3 Ninja-Jack</span>
-Reprezintă acțiunea prin care te urci într-un vehicul imediat după ce un jucător a părăsit-o și pleci cu ea imediat fără a verifica dacă în contact se regăsesc cheile. 
 
-Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit. 
+Reprezintă acțiunea prin care te urci într-un vehicul imediat după ce un jucător a părăsit-o și pleci cu ea imediat fără a verifica dacă în contact se regăsesc cheile.
+
+Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit.
 
 În cazul în care o mașină este deblocată puteți să rolați că îi legați firele și apoi să ii porniți motorul.
 
@@ -1623,7 +1639,8 @@ Nu se consideră ninja-jack dacă vehiculul este descuiat și motorul pornit.
 </div>
 
 ### <a id="5.4"></a><span style="color: #0088CC">5.4 Condus NON-RP</span>
-Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră în care în realitate nu ai putea. 
+
+Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră în care în realitate nu ai putea.
 
 <div class="rule-box rule-yellow">
     <div class="title">Exemple:</div>
@@ -1670,10 +1687,12 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 </div>
 
 #### <a id="5.4.2"></a><span style="color: #0088CC">5.4.2 Extreme Off-Road</span>
+
 Conducerea vehicului pe porțiunile de drum care nu sunt marcate pe harta se poate face respectând următoarele aspecte:
+
 - Mașina sa fie echipata cu roti de tip OFF-ROAD.
 - Mașina sa fie de tip SUV cu gardă înaltă.
-- Viteza să nu fie mai mare de 50 km/h. 
+- Viteza să nu fie mai mare de 50 km/h.
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
@@ -1681,6 +1700,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 </div>
 
 #### <a id="5.4.3"></a><span style="color: #0088CC">5.4.3 Motociclete</span>
+
 - Motociclete de viteză - sunt destinate a fi folosite doar pe drumurile asfaltate fără limită de viteza în afara orașului.
 - Cross-uri - Sunt permise folosirea acestora atât pe drumuri asfaltate, cât și pe drumurile forestiere cu o viteza maxima de 100 km/h, dar și pe drumurile nemarcate cu o viteza maximă de 70 km/h.
 
@@ -1690,6 +1710,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 </div>
 
 #### <a id="5.4.4"></a><span style="color: #0088CC">5.4.4 Elicoptere</span>
+
 <div class="rule-box rule-green">
 <div class="title">Este PERMIS să aterizați cu un elicopter pe:</div>
 
@@ -1758,7 +1779,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 
 - Liderul Sindicatului organizează un roleplay în Paleto și are nevoie de transport din Los Santos.
 - Chestorul General organizează un roleplay în zona bazei militare și are nevoie de transport.
-- *Motiv neîntemeiat*: **"M-a chemat X în Paleto să îl iau si sa il duc pe cayo."**.
+- _Motiv neîntemeiat_: **"M-a chemat X în Paleto să îl iau si sa il duc pe cayo."**.
 </div>
 
 <div class="rule-box rule-red">
@@ -1793,6 +1814,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 </div>
 
 ### <a id="5.5"></a><span style="color: #0088CC">5.5 Car-Ram (CR)</span>
+
 <div class="rule-box rule-red">
 <div class="title">Sunt interzise:</div>
 
@@ -1834,7 +1856,8 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 </div>
 
 #### <a id="5.5.1"></a><span style="color: #0088CC">5.5.1 Blocajele</span>
-  Blocajul reprezintă acțiunea de a obstrucționa intenționat deplasarea unui vehicul, jucător sau accesul într-o zonă, folosind mijloace fizice (vehicule, obiecte).
+
+Blocajul reprezintă acțiunea de a obstrucționa intenționat deplasarea unui vehicul, jucător sau accesul într-o zonă, folosind mijloace fizice (vehicule, obiecte).
 
 <div class="rule-box rule-red">
 <div class="title">STRICT INTERZIS să:</div>
@@ -1877,6 +1900,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 </div>
 
 ## <a id="6"></a><span style="color: #0088CC">CAP.6 JOBURI ȘI ACTIVITĂȚI LEGALE</span>
+
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Locurile de muncă legale</span>
 
 <div class="rule-box rule-green">
@@ -1919,7 +1943,8 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 ## <a id="7"></a><span style="color: #0088CC">CAP. 7 ACȚIUNI ILEGALE</span>
 
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Furt vehicule</span>
-Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi. 
+
+Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi.
 
 - Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="#5.3">#5.3 Ninja-Jack</a> la orice oră, **DOAR** mașina.<br>
 - Este permis să furați bunuri dintr-o mașină dacă respectați regulile din <a href="./rules/zones#Z1">Regulament Zone</a> și regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>.
@@ -1963,6 +1988,7 @@ Vă este permis să furați o mașină de poliție/medici doar în cazuri extrem
 în cazul în care nu aveți 50 de ore pe <strong style="color: red">CARACTER</strong>, este interzisă orice tip de ilegalitate. Nu vă este permis să ajutați, indirect prin acordarea de informații sau alte mijloace care să ajute persoanele implicate, într-o acțiune ilegală dacă nu aveți peste 50 de ore pe <strong style="color: red">CARACTER</strong>. Toată lumea trebuie să îndeplinească acest criteriu.
 
 Acțiunile ilegale cuprind:
+
 - Jefuirea persoanelor/proprietăților sau participarea la o acțiune de acest tip.
 - Luarea de Ostatic sau participarea la o actiune de acest tip.
 - Craftarea respectiv, confecționarea de obiecte ilegale.
@@ -1994,6 +2020,7 @@ Acțiunile ilegale cuprind:
 </div>
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Ilegalități în zonă publică</span>
+
 Se consideră o acțiune ilegală în zonă publică atunci când o persoană sau un grup de persoane comit o infracțiune într-o zonă dens populată, zonă de job/hobby, pe autostradă sau în proximitatea unui magazin, benzinărie, bănci, ATM-uri, garaje de mașini sau orice alt tip de afacere, respectiv interiorul acestora. Zonele publice sunt definite ca și zonele verzi în regula <a href="./rules/zones#Z2">Z2 - Zone Verzi</a>.
 
 Denumim zone publice locurile în care în realitate ar exista camere de luat vederi sau ar fi o zona des circulată.
@@ -2042,6 +2069,7 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 ### <a id="7.4"></a><span style="color: #0088CC">7.4 Ostatic (În situațiile cu poliția)</span>
 
 Luarea de ostatic este actul de a captura și reține o persoană sau un grup de persoane împotriva voinței lor, în momentul în care libertatea ta sau a oamenilor tăi este pusă în pericol, cu scopul de a scăpa de aceste presiuni.
+
 <div class="rule-box rule-yellow">
 <div class="title">Exemple de situații în care se poate lua ostatic:</div>
 - Luarea de ostatic poate avea loc doar dacă <span style="color: yellowgreen">liderul</span> oficial sau neoficial este pus în pericol sau arestat, iar doar mafia sa are dreptul și capacitatea de a cere eliberarea lui. 
@@ -2061,6 +2089,7 @@ Luarea de ostatic este actul de a captura și reține o persoană sau un grup de
 </div>
 
 Este <span style="color: yellow">OBLIGATORIU</span>:
+
 - Ca după o înțelegere/negociere pe baza ostaticului să vă țineți de cuvânt și să nu fie o înșelăciune la mijloc. Lucru valabil pentru abele părți implicate.
 
 <div class="rule-box rule-green">
@@ -2098,6 +2127,7 @@ Este <span style="color: yellow">OBLIGATORIU</span>:
 </div>
 
 ### <a id="7.5"></a><span style="color: #0088CC">7.5 Răpirea</span>
+
 <div class="rule-box rule-yellow">
 <div class="title">Este permisă, respectând următoarele cerințe:</div>
 
@@ -2136,8 +2166,10 @@ Este <span style="color: yellow">OBLIGATORIU</span>:
 </div>
 
 ### <a id="7.6"></a><span style="color: #0088CC">7.6 Acțiunile teroriste</span>
-Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul pe care vreți să-l faceți. 
-- Aceste acțiuni sunt permise cu aprobarea unui membru staff senior în baza unui roleplay complex. 
+
+Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul pe care vreți să-l faceți.
+
+- Aceste acțiuni sunt permise cu aprobarea unui membru staff senior în baza unui roleplay complex.
 - Eșecul unei astfel de acțiuni teroriste se sancționează cu CK tuturor membrilor implicați în aceasta acțiune (indiferent daca e aprobat sau nu).
 
 <div class="rule-box rule-yellow">
@@ -2155,7 +2187,7 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 - Ban 7-14 zile în funcție de gravitate
 </div>
 
---- 
+---
 
 - Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri. Dacă o persoană aflată într-o zonă roșie sau gri provoacă intenționat (face 'Provoking'), aveți permisiunea să o îndepărtați din fața afacerii / din afacere — inclusiv prin folosirea armelor, dacă este necesar. În cazul afacerilor legale ce dispun de o parte ilegala (ex. Hanul Namol), în partea ilegală a acestor afaceri, sunt permise acțiunile ilegale din partea proprietarilor acestor afaceri și nu se aplica regula de ilegalitate în zonă publică.
 
@@ -2168,7 +2200,6 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
   <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiune între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
 
 _Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
-
 
 ### <a id="7.9"></a><span style="color: #0088CC">7.7 Jafuri jucători</span>
 
@@ -2189,7 +2220,7 @@ Puteți să jefuiți o persoană doar de banii și obiectele care se află asupr
 - să jefuiți un medic sau un polițist care se află la datorie sau persoanele care se află la locurile de muncă legale dacă aceștia sunt în uniformă.
 - să jefuiți un jucător care lucrează la un job legal. Vezi <a href="#6.1">#6.1 Locuri de muncă legale</a>
 - este interzis să jefuiți o persoană cu care ați format o echipă pentru un job, quest sau orice altă activitate.
-(dacă echipa a fost formată fără un motiv concret, această regulă nu se aplică.)
+  (dacă echipa a fost formată fără un motiv concret, această regulă nu se aplică.)
 - jefuirea aceluiasi individ intr-un interval mai mic de 2 ore (Persoanele care au fost jefuite nu au voie sa abuzeze de această regula și trebuie să ruleze în continuare frica de jefuire)
 - să jefuiți itemele cu background albastru (itemele protejate)
 </div>
@@ -2221,11 +2252,13 @@ Puteți să jefuiți o persoană doar de banii și obiectele care se află asupr
 </div>
 
 #### <a id="7.9.1"></a><span style="color: #0088CC">7.7.1 Rob & Kill | Kill & Rob | Drop & Kill</span>
+
 - Rob & Kill reprezintă acțiunea de a jefui, ulterior omorî o persoană (PK). Este interzisă omorârea unei persoane (PK) după ce ați jefuit-o.<br>
 - Kill & Rob reprezintă acțiunea de a omorî (Comă), ulterior jefuind persoană cât ea este în comă.<br>
 - Drop & Kill reprezintă acțiunea de a pune pe cineva sa arunce pe jos / ofere / dezechipeze obiectele din inventar ca mai apoi să-l omori (PK).
 
 In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, acesta nu poate să fie privat de acest drept. Orice acțiune ce asigură PK-ul jucătorului în urma jefuirii nu este permisă.
+
 <div class="rule-box rule-red">
 
 - Este strict <span style="color: red">INTERZISĂ</span> folosirea truselor de prim ajutor pe cineva în Comă cu scopul de a-l jefui ulterior. Dacă vreți să jefuiți pe cineva picat el trebuie să fie dus la un spital ilegal, roleplay-ul de jefuit continuându-se de acolo.
@@ -2242,12 +2275,13 @@ In principiu jucătorul jefuit trebuie să rețină faptul că a fost jefuit, ac
 <div class="rule-box rule-green">
     <div class="title">Excepții de la regulă:</div>
 
-- Ai voie să omori o persoană doar atunci când tu pleci din acel loc unde ai jefuit-o, iar aceasta te urmărește singură sau se întâlnește cu alte persoane pentru a te doborî/recupera lucrurile furate. 
+- Ai voie să omori o persoană doar atunci când tu pleci din acel loc unde ai jefuit-o, iar aceasta te urmărește singură sau se întâlnește cu alte persoane pentru a te doborî/recupera lucrurile furate.
 - Persoanele care sunt guralive, nu au frică și care nu se conformează jefuitorului pot fi omorâte. De asemenea, persoanele care folosesc telefonul sau stația în timp ce sunt amenințate cu arma pot fi omorâte.
 - Persoana jefuită, dacă întâlnește jefuitorul, îl poate jefui pe acesta de tot ce are în inventar și de a-l omorî ulterior doar pe jefuitorul inițial, fără a avea 50 de ore jucate pe <strong style="color: red">CARACTER</strong>
 - În momentul în care primiți o țeapă IC cu obiecte ilegale
 
 Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>
+
 </div>
 
 <div class="rule-box rule-sanction">
@@ -2277,6 +2311,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 </div>
 
 ### <a id="7.8"></a><span style="color: #0088CC">7.8 Ilegalități în case și în jurul caselor</span>
+
 <div class="rule-box rule-yellow">
     <div class="title">Sunt permise următoarele **DOAR** în intervalul **20:00 - 08:00**:</div>
 
@@ -2293,7 +2328,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 - intratul în curtile cu garduri fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 4+
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="./rules/zones#Z1"> Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br><br>
-*<span style="color: yellow">Exemplu:</span> Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei.*
+_<span style="color: yellow">Exemplu:</span> Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei._
 </div>
 
 <div class="rule-box rule-green">
@@ -2329,9 +2364,9 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
     </table>
 </div>
 
-
 ## <a id="8"></a><span style="color: #0088CC">CAP 8. Tickete</span>
-Ticketul reprezintă o formă de contactare a staff-ului serverului pentru a rezolva o problemă sau pentru a raporta o încălcare a regulamentului. 
+
+Ticketul reprezintă o formă de contactare a staff-ului serverului pentru a rezolva o problemă sau pentru a raporta o încălcare a regulamentului.
 
 Dorim să vă transmitem că membrii staff vor veni să vă soluționeze problema într-un mod calm și vă rugăm să uitați toate problemele IC și să aveți un comportament adecvat.
 
@@ -2340,6 +2375,7 @@ Ticketele în care nu se oferă informații pot fi respinse. Descrierea ne ajut�
 Pentru prezentarea dovezilor din joc se solicită să fie afișate data și ora, respectiv ID-urile persoanelor care au încălcat regula.
 
 ### <a id="8.1"></a><span style="color: #0088CC">8.1 Comportamentul neadecvat la ticket</span>
+
 Prin comportament neadecvat catalogăm orice situație în care luați peste picior echipa administrativă sau persoanele implicate în ticket. În momentul în care luați parte la un ticket va trebui să uitați de toate problemele pe care le aveți IC și să vă comportați respectuos.
 
 <div class="rule-box rule-sanction">
@@ -2361,10 +2397,12 @@ Prin comportament neadecvat catalogăm orice situație în care luați peste pic
 </div>
 
 ### <a id="8.2"></a><span style="color: #0088CC">8.2 Minciuni la ticket</span>
+
 Nu sunt permise minciuni la ticket. Staff-ul dorește să vă ajute în rezolvarea problemelor și nu acceptăm să pierdem timpul în care am putea să ajutăm alte persoane.
 Tot minciuni la ticket se considera și ascunderea, refuzul sau alterarea de informații în cadrul unui ticket.
 
 <span style="color: yellow">Exemple:</span>
+
 - Nu recunoașteți că ați fost implicat într-o acțiune cu dovezi clar prezentate
 - Încercarea de a falsifica dovezi
 - Iteme pierdute care de fapt au fost depozitate în alte părți
@@ -2389,13 +2427,16 @@ Tot minciuni la ticket se considera și ascunderea, refuzul sau alterarea de inf
 </div>
 
 ### <a id="8.3"></a><span style="color: #0088CC">8.3 Tickete pe Panel (gta5.ro)</span>
+
 Pot fi deschise tickete în zona de support de pe site-ul nostru (<a href="https://gta5.ro/support/my-tickets">gta5.ro</a>) în termen de 24 ore de la data incidentului pentru următoarele probleme:
+
 - Reclamații staff
 - Cereri unban
 - Alte probleme<br><br>
-Soluționarea ticketelor se va face în maxim 72 ore de la deschiderea lui.
+  Soluționarea ticketelor se va face în maxim 72 ore de la deschiderea lui.
 
 ### <a id="8.4"></a><span style="color: #0088CC">8.4 Ticket in RolePlay</span>
+
 Orice tip de ticket se poate deschide doar după încheierea roleplay-ului
 
 <div class="rule-box rule-sanction">
@@ -2469,7 +2510,7 @@ Anunțurile care conțin cuvinte jignitoare, injurii, mesaje rasiste sau orice a
 
 ### <a id="10.2"></a><span style="color: #0088CC"> 10.2 Obligativitatea roleplay-ului</span>
 
-Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay. 
+Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay.
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
@@ -2500,6 +2541,7 @@ Anunțurile trebuie redactate într-o manieră care respectă regulile roleplay.
 ### <a id="10.3"></a><span style="color: #0088CC"> 10.3 Obligativitatea imaginilor relevante</span>
 
 Poza atașată anunțului trebuie să fie relevantă pentru produsul sau serviciul oferit. Sunt interzise imaginile care:
+
 - Nu reprezintă bunul vândut.
 - Au caracter non-roleplay.
 - Conțin arme, cadavre sau alte elemente inadecvate roleplay-ului.
@@ -2572,6 +2614,7 @@ Postările care instigă la ură, certuri sau conflicte inutile nu sunt permise.
 ### <a id="10.6"></a><span style="color: #0088CC"> 10.6 Interzicerea anunțurilor nepotrivite</span>
 
 Exemple de anunțuri interzise:
+
 - "Vând sclav."
 - "Razie Cayo."
 - "Cumpăr femeie de moravuri ușoare."
@@ -2613,6 +2656,7 @@ Ban Permanent
 </div>
 
 ### <span style="color: #0088CC"> 10.8 Limba permisă în anunțuri</span>
+
 Anunțurile trebuie redactate exclusiv în limba <b>română</b> sau <b>engleză</b>.
 Este permisă folosirea unor termeni sau denumiri în alte limbi (ex: numele unui restaurant, sloganuri scurte sau expresii consacrate), atâta timp cât anunțul rămâne clar și inteligibil în română sau engleză.
 
@@ -2650,7 +2694,6 @@ Este permisă folosirea unor termeni sau denumiri în alte limbi (ex: numele unu
         </tbody>
     </table>
 </div>
-
 
 <br>
 <br>
