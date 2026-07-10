@@ -818,7 +818,8 @@ Reprezintă acțiunea prin care vrei să atragi atenția departamentului de poli
   - jaf bancar
   - livrari de droguri
   - patrule rau famate în intervalul 20:00-08:00
-  </div>
+
+</div>
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
