@@ -1026,6 +1026,10 @@ Corupția IC reprezintă orice metodă de corupție la nivel de caracter.
 - Luarea de mită
 </div>
 
+<span style="color: green">Mențiuni:</span>
+- Conducerea poliției poate să ceară dovezi administratiei în cazul în care un jucător este suspectat de corupție
+</div>
+
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiune:</div>
     <p>14 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 14 zile) + blacklist în facțiune</p>
