@@ -2326,7 +2326,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 - răpirea unui jucător din propria casă fără un RP anterior cu acesta
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
-- intratul în curtile cu garduri fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 4+
+- intratul în curtile cu garduri fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 6+
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="./rules/zones#Z1"> Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br><br>
 _<span style="color: yellow">Exemplu:</span> Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei._
