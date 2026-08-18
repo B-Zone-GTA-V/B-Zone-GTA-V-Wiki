@@ -9,6 +9,11 @@ lastUpdated: true
 
 Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a deranja ceilalți jucători pentru propriul amuzament. Este interzisă utilizarea oricăror programe sau instrumente care modifică în mod intenționat conexiunea la internet, fișierele jocului în timpul sesiunilor de joc, cu scopul de a obține un avantaj sau de a perturba experiența altor jucători.
 
+<div class="rule-box rule-yellow">
+    <div class="title">Mentiune:</div>
+Dacă sunteți banați pentru folosirea de cheat-uri, nu aveți dreptul de a folosi arme de foc pe server timp de 30 de zile, chiar dacă banul este plătit.
+Dacă sunteți prinși folosind arme de foc în această perioadă, veți fi banați permanent.
+</div>
 
 <div class="rule-box rule-sanction">
     <div class="title">Sanctiuni:</div>
@@ -72,7 +77,11 @@ Jucătorii suspectați de folosirea codurilor pot fi luați la teste TW de cătr
 
 Toți jucătorii care utilizează o armă și provoacă damage altor jucători au obligația de a înregistra integral acțiunea desfășurată. Înregistrarea trebuie să surprindă în mod clar și neîntrerupt desfășurarea actiunii, de la inițierea interacțiunii până la finalizarea acesteia, fără editări sau intervenții asupra conținutului.
 
+De asemenea, toți jucătorii sunt obligați să filmeze când achiziționează următoarele iteme de la Shop-urile de pe server: <span style="color: #e87a5f;">Condimente de Lux</span>, <span style="color: #e87a5f;">Acetonă</span> și <span style="color: #e87a5f;">Aloe Vera</span>. (În cazul în care nu aveți filmare la achiziționarea acestor itemuri, veți fi sancționați cu Ban 1 zi, iar la a doua abatere, Ban 7 zile.)
+
 Materialul video trebuie păstrat pentru o perioadă de 72 de ore și pus la dispoziția echipei administrative la solicitare. În lipsa unei dovezi video conforme, jucătorul poate fi considerat responsabil și sancționat în consecință.
+
+
 
 <div class="rule-box rule-red">
     <div class="title">Filmare obligatorie:</div>
