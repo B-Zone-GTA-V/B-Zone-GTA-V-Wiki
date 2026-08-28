@@ -4,6 +4,37 @@ outline: deep
 
 # Despre cont și crearea caracterului.
 
+## Migrarea contului
+
+După migrarea întregului server pe platforma oficială FiveM, conturile trebuiesc adaptate să funcționeze pe această platformă. Pentru a vă ușura viața veți putea selecta una din cele două opțiuni:
+
+1. Creezi cont nou, dacă ești un jucător nou ce nu s-a jucat pe comunitatea noastră până acum vei putea selecta **Creează cont nou** și vei fi redirecționat pe pagina specifică de creare de cont.
+
+2. Migrezi contul tău existent de RageMP.
+
+<details>
+  <summary>Ecran principal</summary>
+  <img src="https://assets.b-zone.ro/wiki/migrare1.png" alt="LogIn">
+</details>
+
+După ce ai selectat să îți migrezi contul va trebui să îți introduci adresa de email și parola contului tău de RageMP.
+
+După ce îți vei introduce aceste date va trebui să verificăm dacă contul este într-adevăr al tău, astfel vei primi un email cu un cod pe care va trebui să îl introduci în următorul ecran.
+
+<details>
+  <summary>Ecran migrare 1</summary>
+  <img src="https://assets.b-zone.ro/wiki/migrare2.png" alt="LogIn">
+</details>
+
+Dacă nu ați primit codul pe email veți putea apăsa pe butonul de **Retrimite** la fiecare 30 secunde.
+
+O dată introdus codul migrarea contului s-a finalizat și vă veți putea juca la fel ca pe platforma RageMP.
+
+<details>
+  <summary>Ecran migrare 2</summary>
+  <img src="https://assets.b-zone.ro/wiki/migrare3.png" alt="LogIn">
+</details>
+
 ## Crearea contului
 
 Pentru a te conecta pe serverul comunității B-Zone de GTA V ai nevoie de un cont valid. Pentru a-ți face un cont ai nevoie de un nume care să nu conțină caractere speciale (doar litere și cifre), o adresă de email validă, precum și o parolă securizată.

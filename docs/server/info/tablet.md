@@ -13,6 +13,9 @@ Tableta vine cu mai multe aplicații după cum urmează:
 |Setări|Puteți modifica background-ul tabletei, oprire sunete și modificarea luminozității.|
 |Calculator|Calculator|
 |CarJacker|Interacțiune cu jobul Car Jacker.|
+|MDT|Aplicație specifică poliției.|
+|EMS|Aplicație specifică medicilor.|
+|FOX|Aplicație specifică sindicatului.|
 
 <details>
   <summary>Tabletă</summary>

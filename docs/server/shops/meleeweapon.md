@@ -24,5 +24,5 @@ De reținut este faptul că armele albe dispar din inventar atunci când jucăto
 
 <details>
   <summary>Gunshop</summary>
-  <img src="https://assets.b-zone.ro/wiki/melee-shop.pngf" alt="Gunshop">
+  <img src="https://assets.b-zone.ro/wiki/melee-shop.png" alt="Gunshop">
 </details>

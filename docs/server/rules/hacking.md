@@ -64,7 +64,7 @@ Jucătorii suspectați de folosirea codurilor pot fi luați la teste TW de cătr
 
     <div class="title">Tentative de Bypass:</div>
 
-*Orice interacțiune înainte de pornirea RageMP cu următoarele aplicații:*
+*Orice interacțiune înainte de pornirea FiveM cu următoarele aplicații:*
 - CMD
 - Python
 - PowerShell

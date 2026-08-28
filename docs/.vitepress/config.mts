@@ -28,15 +28,15 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '🕹️ RAGEMP',
+        text: '🕹️ FIVEM',
         items: [
-          { text: 'RAGE Multiplayer', link: '/server/rage/rage' },
-          { text: 'Probleme RAGE',
+          { text: 'FiveM', link: '/server/fivem/fivem' },
+          { text: 'Probleme FIVEM',
             collapsed: false,
             items: [
-              { text: 'Probleme generale', link: '/server/rage/probleme_generale' },
-              { text: 'Probleme la conectare', link: '/server/rage/probleme_conectare' },
-              { text: 'Probleme la microfon', link: '/server/rage/probleme_microfon' },
+              { text: 'Probleme generale', link: '/server/fivem/probleme_generale' },
+              { text: 'Probleme la conectare', link: '/server/fivem/probleme_conectare' },
+              { text: 'Probleme la microfon', link: '/server/fivem/probleme_microfon' },
             ]
            },
         ]
@@ -67,11 +67,7 @@ export default defineConfig({
       {
         text: 'ℹ️ General',
         items: [
-          { text: '☀️Eveniment Vară', link: '/server/info/summer' },
-          // { text: '🐇Eveniment Paște', link: '/server/info/easter' },
-          // { text: '🍂Eveniment Toamnă', link: '/server/info/autumn' },
-          // { text: '🎃Eveniment Halloween', link: '/server/info/halloween' },
-          // { text: '🎄Eveniment Iarnă', link: '/server/info/christmas' },
+          // { text: '☀️Eveniment Vară', link: '/server/info/summer' },
           {
             text: 'Activități',
             collapsed: false,
@@ -104,7 +100,7 @@ export default defineConfig({
             text: 'Sisteme',
             collapsed: true,
             items: [
-              { text: 'Cutii', link: '/server/info/clothing-case' },
+              { text: 'Colecții de haine', link: '/server/info/clothing-collection' },
               { text: 'BNN', link: '/server/info/bnn' },
               { text: 'ATM', link: '/server/info/atm' },
               { text: 'Licențe', link: '/server/info/licenses' },
