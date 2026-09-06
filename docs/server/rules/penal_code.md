@@ -854,15 +854,17 @@ Purtarea fără drept, în spații publice, a obiectelor special fabricate sau m
 - **Sentință: 50 - 80 de luni**
 - **Măsură complementară: Confiscarea armei**
 
-### <a id="7.2"></a><span style="color: #0088CC">7.2 Posesia unei arme de foc de calibru mic fără permis PORT-ARMĂ</span>
+### <a id="7.2"></a><span style="color: #0088CC">7.2 Posesia unei arme de foc de calibru mic</span>
 
-Deținerea sau portul fără permis port-armă valabil al unei arme de foc de calibru mic (Pistol 9mm, Combat Pistol, SNS Pistol, Machine Pistol / TEC-9, Vintage Pistol) sau a muniției aferente (9mm).
+Deținerea sau portul al unei arme de foc de calibru mic (Pistol 9mm, Combat Pistol, SNS Pistol, Machine Pistol / TEC-9, Vintage Pistol) sau a muniției aferente (9mm sau calibru .22).
 
 Arma este considerată în posesie chiar dacă se află asupra persoanei, în interiorul autovehiculului sau într-o proprietate privată ce-i aparține.
 
 - **Amendă penală: 10.000$**
 - **Sentință: 75 - 100 de luni**
 - **Măsură complementară: Confiscarea armei și muniției**
+
+Permisul de port-armă se poate obține de la Departamentul de Poliție, iar acesta va permite portul legal al armei de tip SNS Pistol, avand obligația de a deține permisul valabil si asupra persoanei in timpul portului, iar nerespectarea acestei obligații constituie o infracțiune.
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Posesia unei arme de foc de calibru mare</span>
 
