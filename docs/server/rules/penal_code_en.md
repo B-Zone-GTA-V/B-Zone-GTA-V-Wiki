@@ -1,852 +1,890 @@
 ---
 outline: deep
-lastUpdated: true
 ---
 
 # Criminal Code (English)
 ## <a id="0"></a><span style="color: #0088CC">General Definitions</span>
 
-### <a id="0.1"></a><span style="color: #0088CC">Complicity</span>
+### <a id="0.1"></a><span style="color: #0088CC">0.1 Complicity and Instigation</span>
 
-An accomplice is a person who intentionally helps in committing a crime or instigates it. Additionally, an accomplice is also someone who promises, before or during the commission of the act, to keep illegally obtained goods or to help the perpetrator, even if the promise is not fulfilled.
+- An **accomplice** intentionally helps or supports, directly or indirectly, the preparation or commission of a crime, or promises before/during the act to conceal illegally obtained goods or help the perpetrator evade the authorities.
+- An **instigator** intentionally causes another person to commit a crime.
+- Accomplices and instigators receive the penalty provided for the perpetrator, but may receive a reduction of up to **half the sentence**, depending on involvement and cooperation with law enforcement.
 
-An accomplice to an intentional crime receives the same punishment as the perpetrator, depending on their role in the commission of the act.
+### <a id="0.2"></a><span style="color: #0088CC">0.2 Attempt</span>
 
-### <a id="0.2"></a><span style="color: #0088CC">Attempt</span>
+- An attempt is putting the intention to commit a crime into action where execution is interrupted or has no effect for reasons independent of the perpetrator's will.
+- **Voluntary abandonment:** A person is not punished if, before discovery by the authorities, they voluntarily abandon the action, actively prevent the result, or cooperate with the authorities.
 
-An attempt is when a person tries to commit a crime, but the action is interrupted or does not have the desired effect. The perpetrator is not punished if, before being discovered, they admit the act or notify the authorities, thus preventing the crime, or they stop the commission of the crime themselves. An attempt is punished with half of the penalty provided for the complete crime.
+### <a id="0.3"></a><span style="color: #0088CC">0.3 Recidivism and the Most Wanted List</span>
 
-### <a id="0.3"></a><span style="color: #0088CC">Repeated violation of the penal code</span>
+- **Most Wanted status:** A person with **5 or more active criminal files** (unpaid/unclosed), or an active judicial warrant for serious offenses, becomes **Most Wanted**.
+- **Closing files:** Citizens may clear active files by paying the rehabilitation/closure fee at the dedicated Police Department counter, provided they have no active arrest warrants.
+- **Extreme recidivism:** A Most Wanted person who commits new major offenses and remains a danger to public safety may be brought before a court for **life imprisonment**.
 
-Any person with 5 or more criminal files will be placed on the police department's **"Most Wanted"** list. Only active files are taken into consideration. There is the possibility of closing the files by paying a fee at the information and documents counter in the police station.
+### <a id="0.4"></a><span style="color: #0088CC">0.4 Concurrent Sentences and Maximum Sentence</span>
 
-Persons on the **"Most Wanted"** list who are found to violate the penal code again (upon the creation of criminal file No. 6) will be sanctioned with **life detention of the suspect**.
+- For multiple offenses, prison sentences (months) and financial fines are cumulative unless an article expressly prohibits cumulation.
+- **Maximum cap:** The maximum cumulative sentence for one detention/arrest at the State Penitentiary is **360 months**, except for court-ordered special sentences (life imprisonment). This may be exceeded on a judge's legal grounds or under charges in <a href="#1">Chapter 8: Road Legislation</a>.
 
-## <a id="1"></a><span style="color: #0088CC">CH. 1 Road Legislation</span>
+### <a id="0.5"></a><span style="color: #0088CC">0.5 Penalty Points and Traffic Sanctions</span>
+
+- Penalty points are automatically applied for violations in <a href="#8">Chapter 1: Offenses Against National Security</a>.
+- At **15 penalty points**, the driving license is automatically suspended for a determined period or revoked, requiring the driving exam to be taken again.
+
+### <a id="0.6"></a><span style="color: #0088CC">0.6 Sanctions (Contraventions vs. Crimes)</span>
+
+- **Contravention:** A minor public-order or traffic violation punished only by a contravention fine, penalty points, or administrative measures (vehicle removal or license suspension). It does not create a criminal record/file.
+- **Crime (offense):** An unlawful act with medium or high social danger, punished by a criminal fine and/or deprivation of liberty in months and automatically creating a criminal file.
+
+## <a id="1"></a><span style="color: #0088CC">CH. 1 Road Legislation (Contraventions)</span>
 
 ### <a id="1.1"></a><span style="color: #0088CC">1.1 Speed Limits</span>
 
-Any citizen who drives a vehicle is required to drive with a maximum speed of:
+Drivers must observe: City/urban areas **100 km/h**; national road/rural areas **150 km/h**; highway **250 km/h**.
 
-- City - **100 km/h**
-- National Road - **150 km/h**
-- Highway - **250 km/h**
+- Up to double the legal limit: **$3,000** and **3 penalty points**.
+- More than double: **$7,000** and **revocation of the driving license**.
 
-Speed limit violations are sanctioned as follows:
+### <a id="1.2"></a><span style="color: #0088CC">1.2 Reckless / Aggressive Driving</span>
 
-- Below double the legal speed limit: **$3,000** and **3 penalty points**
-- Above double the legal speed limit: **$7,000** and **revocation of the driving license**
-
-### <a id="1.2"></a><span style="color: #0088CC">1.2 Reckless Driving</span>
-
-Reckless driving means operating a vehicle aggressively, failing to ensure traffic safety, driving at excessive speed, or endangering one's own life or the lives of others.
-
-Reckless drivers can be sanctioned with:
+Negligent or aggressive operation (unauthorized drifting, sudden unsignaled lane changes, weaving, or failure to check surroundings) that endangers others.
 
 - **Contravention fine: $5,000**
-- **Penalty points: 3**
+- **Penalty points: 5**
+- **Additional measure: License suspension for serious violations**
 
-### <a id="1.3"></a><span style="color: #0088CC">1.3 Non-compliance with Road Markings</span>
+### <a id="1.3"></a><span style="color: #0088CC">1.3 Failure to Observe Road Markings and Signs</span>
 
-Any vehicle driver who does not comply with road markings (STOP, double solid lines, etc.) can be punished with:
+Failure to observe mandatory signs (STOP, Yield, Wrong Way) or markings (single/double solid lines, hatched areas).
 
 - **Contravention fine: $4,000**
 - **Penalty points: 3**
 
 ### <a id="1.4"></a><span style="color: #0088CC">1.4 Failure to Yield</span>
 
-Any vehicle driver who does not yield to vehicles and pedestrians crossing can be punished with:
+Failure to yield to vehicles at priority intersections/roundabouts or pedestrians lawfully crossing.
 
 - **Contravention fine: $4,000**
 - **Penalty points: 3**
 
-### <a id="1.5"></a><span style="color: #0088CC">1.5 Disobeying Policeman's Traffic Signals</span>
+### <a id="1.5"></a><span style="color: #0088CC">1.5 Failure to Obey Police Signals</span>
 
-Any vehicle driver who does not obey the traffic signals imposed by a policeman can be punished with:
+Refusing or failing to obey manual or light signals from a police officer directing traffic.
 
 - **Contravention fine: $4,000**
-- **Revocation of the driving license**
+- **Additional measure: Revocation of the driving license**
 
-### <a id="1.6"></a><span style="color: #0088CC">1.6 Failure to give way to emergency vehicles</span>
+### <a id="1.6"></a><span style="color: #0088CC">1.6 Failure to Obey Emergency Vehicle Signals</span>
 
-Every driver must stop on the right side of the road if there is sufficient space when they see or hear a Police car or Ambulance with the emergency lights or lights + sirens on. After they've passed, the driver can start moving again.
-
-Failure to do so is a misdemeanor and can be punished with:
+Drivers must slow down, clear the lane, and stop as close as possible to the right curb when a Police, Ambulance, or Fire Department vehicle approaches with lights and/or siren active.
 
 - **Contravention fine: $8,000**
-- **Revocation of the driving license**
+- **Additional measure: Revocation of the driving license**
 
-### <a id="1.7"></a><span style="color: #0088CC">1.7 Illegal parking</span>
+### <a id="1.7"></a><span style="color: #0088CC">1.7 Illegal Parking</span>
 
-It is forbidden to park on the curbside or sidewalk! You can park next to the curbside only if it is not painted red! A red curbside indicates that parking is not allowed!
-
-Illegal parking is a misdemeanor and will be sanctioned with:
+Stopping or parking on sidewalks, green spaces, pedestrian crossings, or beside **red** curbs (no-stopping areas). Curbside parking is allowed only where the curb is not red and no prohibition sign exists.
 
 - **Contravention fine: $2,500**
-- **Towing the vehicle**
+- **Additional measure: Vehicle removal / immobilization**
 
 <div style="display: flex; justify-content: center; width: 100%"><img src="https://i.imgur.com/0Dyd4fE.png"/></div>
 <p style="text-align: center">Illegal parking</p>
 <div style="display: flex; justify-content: center; width: 100%"><img src="https://i.imgur.com/1pJdLBC.png"/></div>
-<p style="text-align: center">Lawful parking</p>
+<p style="text-align: center">Legal parking</p>
 
-### <a id="1.8"></a><span style="color: #0088CC">1.8 Jaywalking</span>
+### <a id="1.8"></a><span style="color: #0088CC">1.8 Improper Pedestrian Crossing</span>
 
-Any person who crosses in a place where crossing is not allowed, endangering the life of a citizen or their own life, can be sanctioned with:
+Crossing a public road in an unauthorized place or without checking, endangering traffic or one's own safety.
 
 - **Contravention fine: $1,000**
 
-### <a id="1.9"></a><span style="color: #0088CC">1.9 Covering the face behind the wheel</span>
+### <a id="1.9"></a><span style="color: #0088CC">1.9 Face Covering While Driving</span>
 
-Any driver that wears a mask/bandana or any other object that can cover their face, reduce their visibility, and endanger the safety of all traffic participants can be sanctioned with:
+Masks, balaclavas, bandanas, or accessories preventing identification while driving on public roads are prohibited (except approved motorcycle helmets worn on a motorcycle/ATV).
 
 - **Contravention fine: $5,000**
-- **Vehicle search**
-- **Driver search**
+- **Administrative measure: Search of the driver and vehicle**
 
-### <a id="1.10"></a><span style="color: #0088CC">1.10 Using a phone while driving</span>
+### <a id="1.10"></a><span style="color: #0088CC">1.10 Mobile Phone Use While Driving</span>
 
-It is strictly forbidden to use a phone while driving.
-
-Failure to comply with this rule is a misdemeanor and will be punished with:
+Using a phone or mobile device (messages or calls without hands-free) while driving a moving vehicle.
 
 - **Contravention fine: $1,500**
+- **Penalty points: 2**
 
-### <a id="1.11"></a><span style="color: #0088CC">1.11 Excessive honking</span>
+### <a id="1.11"></a><span style="color: #0088CC">1.11 Excessive and Unjustified Honking</span>
 
-The audible warning equipment must be used at a distance of a minimum of 25 m from the person that it is addressed to, on short bursts that assure that the message would be received, without inducing a state of panic that could lead to them getting in danger or becoming a danger to other traffic participants.
+Abusive horn use without imminent danger or to create disturbing noise in residential/urban areas.
 
-Disobeying this law is a misdemeanor and it is sanctioned with a fine of **$5,000**.
+- **Contravention fine: $5,000**
 
-### <a id="1.12"></a><span style="color: #0088CC">1.12 Tinted windows</span>
+### <a id="1.12"></a><span style="color: #0088CC">1.12 Unauthorized Tinted Windows</span>
 
-Anyone that has a car with tinted windows installed that prevent the policeman from seeing and recognizing the driver or passengers will be sanctioned with:
+Tinted film with reduced transparency on the windshield or front side windows that prevents occupants from being identified.
 
 - **Contravention fine: $3,000**
 
 <div style="text-align: center"><img src="https://i.imgur.com/LTXuq1C.png"/></div>
-<p style="text-align: center">A car with full tinted windows</p>
+<p style="text-align: center">Vehicle with unauthorized tinted windows</p>
 
-### <a id="1.13"></a><span style="color: #0088CC">1.13 Underglow lights</span>
+### <a id="1.13"></a><span style="color: #0088CC">1.13 Neon Lights Under the Vehicle</span>
 
-It is strictly forbidden to install underglow lights on your vehicle and it is punished with:
+Installing or using underbody neon lighting on public roads.
 
 - **Contravention fine: $5,000**
 
-### <a id="1.14"></a><span style="color: #0088CC">1.14 Unapproved horn</span>
+### <a id="1.14"></a><span style="color: #0088CC">1.14 Unauthorized / Musical Horn</span>
 
-Any driver that installs a different horn than the stock one on the car will be sanctioned with:
+Installing or using special horns (musical horns, fake sirens, or horns differing from factory specifications).
 
 - **Contravention fine: $3,000**
 
-### <a id="1.15"></a><span style="color: #0088CC">1.15 Xenons</span>
+### <a id="1.15"></a><span style="color: #0088CC">1.15 Unauthorized Lighting (Colored Xenon/LED)</span>
 
-Anyone who installs xenons or any other lighting installations on their car besides the ones provided by the dealership will be sanctioned with:
+Installing red, blue, or green headlights, or lights that blind other traffic participants.
 
 - **Contravention fine: $4,500**
 
-### <a id="1.16"></a><span style="color: #0088CC">1.16 Disregarding Traffic Light Signals</span>
+### <a id="1.16"></a><span style="color: #0088CC">1.16 Failure to Obey a Red Traffic Light</span>
 
-Any driver/person who does not comply with the traffic light signals for road traffic or pedestrian crossings may be penalized with:
+Passing a red traffic or pedestrian light.
 
-- **Administrative Fine: $8,000**
-- **Driver's License Revocation**
+- **Contravention fine: $8,000**
+- **Penalty points: 5**
+- **Additional measure: License revocation for recidivism or causing an accident**
 
-Exceptions:
+*Exceptions:*
+- Right turns on red are allowed only after yielding to all moving vehicles and pedestrians.
+- Between **00:00 and 12:00**, lights operate for traffic flow; crossing is allowed with increased caution and after yielding.
 
-- Vehicles making a right turn will benefit from a flashing green signal and will be required to yield to vehicles and pedestrians with the right of way.
-- Flashing green signal schedule: This will be active between 00:00 - 12:00, allowing traffic flow to be optimized during this time interval.
+### <a id="1.17"></a><span style="color: #0088CC">1.17 Driving on the Wrong Side</span>
 
-## <a id="2"></a><span style="color: #0088CC">CH. 2 Traffic Felonies</span>
+Driving in the opposing direction, on opposing lanes, or entering a one-way street in the prohibited direction.
 
-### <a id="2.1"></a><span style="color: #0088CC">2.1 Fleeing from an officer in a vehicle</span>
+- **Contravention fine: $10,000**
+- **Additional measure: Revocation of the driving license**
 
-The act of trying to escape from an officer with a vehicle is considered a felony and can be punished with:
+## <a id="2"></a><span style="color: #0088CC">CH. 2 Traffic Crimes</span>
+
+### <a id="2.1"></a><span style="color: #0088CC">2.1 Driving an Unregistered Vehicle</span>
+
+Driving without a valid plate or with false plates or plates assigned to another vehicle.
+
+- **Criminal fine: $10,000**
+- **Additional measures: Person and vehicle search; license revocation**
+
+### <a id="2.2"></a><span style="color: #0088CC">2.2 Refusal to Provide Biological Samples</span>
+
+Refusing an alcohol/drug test or biological samples at a medical facility.
+
+- **Criminal fine: $15,000**
+- **Sentence: 60 - 80 months**
+- **Additional measure: Revocation of the driving license**
+
+### <a id="2.3"></a><span style="color: #0088CC">2.3 DUI</span>
+
+Driving above **0.80 mg/l pure alcohol in exhaled air** (or 0.8 g/l in blood), or under confirmed narcotic/drug influence.
+
+- **Criminal fine: $6,000**
+- **Sentence: 60 - 100 months**
+- **Additional measure: Revocation of the driving license**
+
+*Contravention note:* Up to 0.79 mg/l without narcotics is punished with a **$5,000 contravention fine** and **license revocation/suspension**.
+
+### <a id="2.4"></a><span style="color: #0088CC">2.4 Illegal Racing</span>
+
+Organizing, participating in, or blocking public roads for unauthorized car/motorcycle races.
+
+- **Criminal fine: $15,000**
+- **Sentence: 60 - 100 months**
+- **Additional measures: License revocation and vehicle impoundment**
+
+### <a id="2.5"></a><span style="color: #0088CC">2.5 Leaving the Scene of an Accident</span>
+
+Leaving without authorization after an accident involving victims or serious public/private property damage.
+
+- **Criminal fine: $5,500**
+- **Sentence: 40 - 60 months**
+- **Additional measure: Revocation of the driving license**
+
+### <a id="2.6"></a><span style="color: #0088CC">2.6 Driving Without a License</span>
+
+Driving without a valid license, with a suspended/revoked license, or without the required category.
+
+- **Criminal fine: $6,000**
+- **Sentence: 50 - 80 months**
+
+### <a id="2.7"></a><span style="color: #0088CC">2.7 Evading an Officer by Vehicle</span>
+
+Intentionally and repeatedly refusing police signals to stop, then attempting to escape through evasive maneuvers or excessive speed.
+
+- **Criminal fine: $7,000**
+- **Sentence: 80 - 150 months**
+- **Additional measure: Revocation of the driving license**
+
+## <a id="3"></a><span style="color: #0088CC">CH. 3 Crimes Against Morals, Property, and Public Peace</span>
+
+### <a id="3.1"></a><span style="color: #0088CC">3.1 Face Covering</span>
+
+Covering the face with an object or makeup in public (mask, bandana, scarf, etc.) is punishable by **$3,000 contravention fine** and **mandatory search**.
+
+### <a id="3.2"></a><span style="color: #0088CC">3.2 Harassment</span>
+
+Knowingly following and harassing someone to make them fear for their safety or their family's safety:
 
 - **Contravention fine: $7,000**
 - **Sentence: 40 - 60 months**
-- **Revocation of the driving license**
 
-### <a id="2.2"></a><span style="color: #0088CC">2.2 Driving without a license</span>
+### <a id="3.3"></a><span style="color: #0088CC">3.3 Following a Police/Medical Unit Without Consent</span>
 
-The act of driving a vehicle without having a valid driving license is considered a felony and will be punished with:
+Knowingly following and harassing a police or medical unit to cause fear:
+
+- **Contravention fine: $12,000**
+- **Sentence: 50 - 80 months**
+
+### <a id="3.4"></a><span style="color: #0088CC">3.4 Indecent Exposure</span>
+
+Knowingly exposing one's genitals in public or where other people are present:
 
 - **Contravention fine: $6,000**
-- **Sentence: 30 - 50 months**
-
-### <a id="2.3"></a><span style="color: #0088CC">2.3 Driving under the influence of drugs or alcohol</span>
-
-Any person who is driving and has a blood alcohol level of 0.8% or is under the influence of any type of narcotics and endangers the life of a civilian or their own life commits an offense that can be punished with:
-
-- **Contravention fine: $6,000**
-- **Sentence: 30 - 50 months**
-- **Revocation of the driving license**
-
-For an alcohol concentration between 0.1% and 0.7%, a misdemeanor is committed which is punished with:
-
-- **Contravention fine: $5,000**
-- **Revocation of the driving license**
-
-### <a id="2.4"></a><span style="color: #0088CC">2.4 Illegal racing</span>
-
-Any person who engages in any type of street racing without legal permission from the police, endangering the lives of civilians, commits an offense that can be punished with:
-
-- **Contravention fine: $15,000**
 - **Sentence: 40 - 60 months**
-- **Revocation of the driving license**
 
-### <a id="2.5"></a><span style="color: #0088CC">2.5 Leaving the scene of an accident</span>
+### <a id="3.5"></a><span style="color: #0088CC">3.5 Prostitution and Pimping</span>
 
-The act of running from the scene of an accident or of a crime, without going to the police or calling them, is a felony and can be punished with:
-
-- **Contravention fine: $5,500**
-- **Sentence: 20 - 40 months**
-- **Revocation of the driving license**
-
-### <a id="2.6"></a><span style="color: #0088CC">2.6 Driving an unregistered vehicle</span>
-
-Any citizen driving a vehicle/motorcycle without having valid license plates is considered to be committing a felony and will be punished with:
+Prostitution is obtaining one's main means of subsistence through sexual relations with different people; inducing or facilitating it (pimping) is prohibited. Clients are charged with the same crime.
 
 - **Contravention fine: $10,000**
-- **Person search**
-- **Vehicle search**
-- **Revocation of the driving license**
-
-### <a id="2.7"></a><span style="color: #0088CC">2.7 Refusal of biological samples</span>
-
-Any person that refuses the sampling of biological matter can be sanctioned with:
-
-- **Contravention fine: $15,000**
-- **Sentence: 50 - 60 months**
-- **Revocation of the driving license**
-
-## <a id="3"></a><span style="color: #0088CC">CH. 3 Offenses against good morals, properties, and public peace</span>
-
-### <a id="3.1"></a><span style="color: #0088CC">3.1 Covering the face</span>
-
-Any person who covers their facial area with any kind of object/tattoo (mask, bandana, scarf, makeup, etc.) in public spaces can be sanctioned with:
-
-- **Contravention fine: $3,000**
-- **Mandatory search**
-
-### <a id="3.2"></a><span style="color: #0088CC">3.2 Stalking</span>
-
-The act of following, wilfully, or harassing another person in circumstances that would cause a reasonable person to fear injury or death for themselves or their family is a felony and can be punished with:
-
-- **Contravention fine: 7.000$**
-- **Sentence: 20 - 40 months**
-
-### <a id="3.3"></a><span style="color: #0088CC">3.3 Following an emergency vehicle without permission</span>
-
-The act of following, wilfully, or harassing an emergency vehicle (police car, ambulance) in circumstances that would cause them to fear injury or death can be punished with:
-
-- **Contravention fine: 6.000$**
-- **Sentence: 20 - 40 months**
-
-### <a id="3.4"></a><span style="color: #0088CC">3.4 Indecent exposure</span>
-
-The act of exposing your genital area, wilfully, in public or in any public space where there are other citizens, is a felony and can be punished with:
-
-- **Contravention fine: 6.000$**
-- **Sentence: 20 - 40 months**
-
-### <a id="3.5"></a><span style="color: #0088CC">3.5 Prostitution</span>
-
-The act of practicing of sexual relations with multiple different persons, to receive money to pay for daily needs, is a felony that can be punished with:
-
-- **Contravention fine: 10.000$**
-- **Sentence: 20 - 40 months**
-
-The customers of these people will be accused of the same felony, for encouraging prostitution.
+- **Sentence: 50 - 80 months**
 
 ### <a id="3.6"></a><span style="color: #0088CC">3.6 Rape</span>
 
-The act of having a sexual act, of any nature, with another male or female, by forcing them, or by taking advantage of them when they cannot consent, is a felony and can be punished with:
+Any sexual act through coercion or by exploiting a person's inability to defend themselves or express their will:
 
-- **Contravention fine: 25.000$**
-- **Sentence: 50 - 100 months**
+- **Contravention fine: $25,000**
+- **Sentence: 120 - 200 months**
 
-### <a id="3.7"></a><span style="color: #0088CC">3.7 Trespassing</span>
+### <a id="3.7"></a><span style="color: #0088CC">3.7 Trespassing on Private Property</span>
 
-Trespassing, in any mode or situation, or the refusal to leave the area when asked by the landlord, is a felony that can be punished with:
+Entering a home, room, or private place without consent, or refusing to leave when requested:
 
-- **Contravention fine: 7.000$**
-- **Sentence: 25 - 50 months**
+- **Contravention fine: $7,000**
+- **Sentence: 60 - 80 months**
 
 ### <a id="3.8"></a><span style="color: #0088CC">3.8 Vandalism</span>
 
-Any person who destroys or damages a good or property that does not belong to them commits an offense that can be punished with:
+Destroying or damaging another person's property:
 
-- **Administrative fine: $15,000**
-- **Sentence: 30 - 50 months**
+- **Contravention fine: $15,000**
+- **Sentence: 60 - 80 months**
 
 ### <a id="3.9"></a><span style="color: #0088CC">3.9 Blackmail</span>
 
-Blackmail is defined as the use of fear or other methods as a mechanism to influence an individual to perform various activities or services, and constitutes an offense that can be punished with:
+Using fear or other methods to force an individual to perform activities or services:
 
-- **Administrative fine: $6,000**
-- **Sentence: 35 - 55 months**
+- **Contravention fine: $6,000**
+- **Sentence: 75 - 100 months**
 
-### <a id="3.10"></a><span style="color: #0088CC">3.10 Theft</span>
+### <a id="3.10"></a><span style="color: #0088CC">3.10 Robbery</span>
 
-Theft consists of the act of a person taking a movable property from another person's possession, without that person's consent, with the intent to unlawfully appropriate it.
+Taking movable property through violence or threats:
 
-This act constitutes an offense that can be punished with:
+- **Contravention fine: $15,000**
+- **Sentence: 70 - 100 months**
 
-- **Administrative fine: $15,000**
+### <a id="3.11"></a><span style="color: #0088CC">3.11 Vehicle Theft</span>
+
+Stealing a vehicle, or breaking into one with or without intent to steal:
+
+- **Contravention fine: $7,000**
+- **Sentence: 50 - 80 months**
+
+#### <a id="3.11.1"></a><span style="color: #0088CC">3.11.1 Police / Hospital Vehicle Theft</span>
+
+Stealing or breaking into a Police Department, Hospital, or government vehicle:
+
+- **Contravention fine: $10,000**
+- **Sentence: 120 - 150 months**
+
+### <a id="3.12"></a><span style="color: #0088CC">3.12 Heist</span>
+
+Theft through violence, threats, or force to obtain goods or money:
+
+- **Contravention fine: $30,000**
+- **Sentence: 100 - 150 months**
+
+#### <a id="3.12.1"></a><span style="color: #0088CC">3.12.1 Armed Heist</span>
+
+Heist using a melee weapon, small-caliber firearm, or large-caliber firearm:
+
+- **Contravention fine: $35,000**
+- **Sentence: 120 - 170 months**
+
+#### <a id="3.12.2"></a><span style="color: #0088CC">3.12.2 Building Heist</span>
+
+Heist involving forced entry into a building such as a store or house:
+
+- **Contravention fine: $35,000**
+- **Sentence: 120 - 150 months**
+
+#### <a id="3.12.3"></a><span style="color: #0088CC">3.12.3 Bank Heist</span>
+
+Heist involving forced entry into a bank:
+
+- **Contravention fine: $45,000**
+- **Sentence: 250 - 360 months**
+
+### <a id="3.13"></a><span style="color: #0088CC">3.13 Disturbing the Public Peace</span>
+
+Maximum-volume devices, excessive noise, vulgar public language, or arguments likely to lead to a fight:
+
+- **Contravention fine: $5,000**
+- **Sentence: 20 - 40 months**
+
+### <a id="3.14"></a><span style="color: #0088CC">3.14 Failure to Leave a Location</span>
+
+Refusing to leave a place indicated by a law enforcement officer:
+
+- **Contravention fine: $5,000**
 - **Sentence: 50 - 70 months**
-
-### <a id="3.11"></a><span style="color: #0088CC">3.11 Auto Theft</span>
-
-Any person who steals a vehicle, regardless of its value, commits an offense that can be punished with:
-
-- **Administrative fine: $7,000**
-- **Sentence: 30 - 50 months**
-
-This charge also applies to breaking into a vehicle, with or without the intent to steal it.
-
-#### <a id="3.11.1"></a><span style="color: #0088CC">3.11.1 Police/Hospital Auto Theft</span>
-
-Any person who steals a vehicle belonging to the Police Department or the Hospital commits an offense that can be punished with:
-
-- **Administrative fine: $10,000**
-- **Sentence: 50 - 70 months**
-
-This charge also applies to breaking into a vehicle, with or without the intent to steal it.
-
-### <a id="3.12"></a><span style="color: #0088CC">3.12 Robbery</span>
-
-Committing theft by violence, threat, or coercion of a person, with the intent of obtaining goods or money.
-This action constitutes a crime that can be punished with:
-
-- **Administrative fine: $30,000**
-- **Sentence: 60 - 100 months**
-
-#### <a id="3.12.1"></a><span style="color: #0088CC">3.12.1 Armed Robbery</span>
-
-Committing theft by violence, threat, or coercion of a person with the aid of a cold weapon / a small-caliber firearm / a large-caliber firearm, with the intent of obtaining goods or money,
-constitutes an offense that can be punished with:
-
-- **Administrative fine: $35,000**
-- **Sentence: 80 - 120 months**
-
-#### <a id="3.12.2"></a><span style="color: #0088CC">3.12.2 Building Robbery</span>
-
-Committing theft by violence, threat, or forcing entry into a building (e.g., store, house), with the intent of stealing goods or money.
-
-This offense is punished with:
-
-- **Administrative fine: $35,000**
-- **Sentence: 60 - 100 months**
-
-#### <a id="3.12.3"></a><span style="color: #0088CC">3.12.3 Bank Robbery</span>
-
-Committing theft by violence, threat, or forcing entry into a bank, with the intent of stealing goods or money.
-
-This offense is punished with:
-
-- **Administrative fine: $45,000**
-- **Sentence: 90 - 120 months**
-
-### <a id="3.13"></a><span style="color: #0088CC">3.13 Public Disturbance</span>
-
-If someone turns a device to maximum volume, speaks too loudly, uses vulgar words in public, or starts an argument that could lead to a fight, they commit an offense that can be punished with:
-
-- **Administrative fine: $5,000**
-- **Sentence: 10 - 20 months**
-
-### <a id="3.14"></a><span style="color: #0088CC">3.14 Failure to Leave a Premises</span>
-
-Any person who refuses to leave the location indicated by a law enforcement officer commits an offense that can be punished with:
-
-- **Administrative fine: $5,000**
-- **Sentence: 15 - 30 months**
 
 ### <a id="3.15"></a><span style="color: #0088CC">3.15 Inciting a Riot</span>
 
-When one or more civilians attempt to incite a riot with the intent of destroying public property or injuring multiple people, they commit an offense that can be punished with:
+Attempting to create a riot to destroy public property or injure multiple people:
 
-- **Administrative fine: $20,000**
-- **Sentence: 25 - 50 months**
+- **Contravention fine: $20,000**
+- **Sentence: 80 - 120 months**
 
 ### <a id="3.16"></a><span style="color: #0088CC">3.16 Defamation</span>
 
-Accusing or spreading lies in public about a person, which, if true, would bring criminal sanctions upon that person or cause them to be despised by others.
+Publicly accusing or spreading lies that would, if true, cause criminal sanctions or public contempt:
 
-This act constitutes an offense that can be punished with:
+- **Contravention fine: $7,000**
+- **Sentence: 30 - 50 months**
 
-- **Administrative fine: $7,000**
-- **Sentence: 15 - 30 months**
+### <a id="3.17"></a><span style="color: #0088CC">3.17 Searching Public Garbage</span>
 
-### <a id="3.17"></a><span style="color: #0088CC">3.17 Searching Public Trash</span>
+Civilians may not search, rummage through, or inspect public garbage, dumpsters, or trash cans.
 
-It is strictly prohibited for civilians to search, rummage through, or inspect trash in public areas, including dumpsters or trash cans.
-
-This constitutes an offense that can be punished with:
-
-- **Administrative fine: $2,000**
+- **Contravention fine: $2,000**
 
 ### <a id="3.18"></a><span style="color: #0088CC">3.18 Fraud</span>
 
-Telling lies or distorting the truth to obtain an undeserved benefit, if it causes damages. This constitutes an offense that can be punished with:
+Lying or distorting the truth to obtain an undue benefit and cause damage:
 
-- **Administrative fine: $40,000**
-- **Sentence: 40 - 60 months**
+- **Contravention fine: $40,000**
+- **Sentence: 120 - 200 months**
 - **Return of the goods or their equivalent value**
 
-## <a id="4"></a><span style="color: #0088CC">CH. 4 Offenses Against Justice</span>
+### <a id="3.19"></a><span style="color: #0088CC">3.19 Theft of Services or Goods for Immediate Consumption</span>
 
-### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstruction of an Officer</span>
+Benefiting from a commercial service or consuming goods provided for immediate payment while intentionally refusing to pay their value or leaving the location without paying (e.g., fueling at a gas station and fleeing the pump, unpaid consumption at a restaurant/bar, or failing to pay for transport/taxi rides).
 
-Any person who prevents an officer from performing their duties or endangers the safety of the officer or other citizens.
+This action constitutes a crime and is punishable by:
 
-This act constitutes an offense that can be punished with:
+- **Criminal fine: $10,000**
+- **Sentence: 30 - 50 months**
+- **Complementary measure: Full payment of the damages to the injured party (the value of the unpaid service/goods)**
+
+*If the perpetrator uses force, threats, or a weapon to refuse payment or leave the premises, the act will be classified as <a href="#3.10">Robbery (#3.10)</a> or <a href="#3.12">Heist (#3.12)</a>.*
+
+## <a id="4"></a><span style="color: #0088CC">CH. 4 Crimes Against Justice</span>
+
+### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstructing an Officer</span>
+
+Preventing an officer from performing duties or endangering the officer or citizens:
 
 - **Criminal fine: $15,000**
-- **Sentence: 40 - 70 months**
+- **Sentence: 100 - 150 months**
 
-Not to be imposed together with **<a href="#4.4">#4.4 Resisting Arrest.</a>**
+Do not issue with **<a href="#4.5">#4.5 Resisting Arrest</a>**.
 
 ### <a id="4.2"></a><span style="color: #0088CC">4.2 Failure to Leave a State Institution</span>
 
-Any person who refuses to leave a state institution (Police Station / Hospital / Penitentiary, etc.) upon the request of law enforcement commits an offense that can be punished with:
+Refusing to leave a Police Station, Hospital, Penitentiary, or other state institution at police request:
 
-- **Administrative fine: $8,000**
-- **Sentence: 15 - 30 months**
+- **Contravention fine: $8,000**
+- **Sentence: 75 - 95 months**
 
-### <a id="4.3"></a><span style="color: #0088CC">4.3 Assault</span>
+### <a id="4.3"></a><span style="color: #0088CC">4.3 Insulting a Police Officer</span>
 
-An offense consisting of insult, slander, defamation, vandalism, threat, or other acts of both verbal and physical violence against a police officer. This action constitutes an offense that can be punished with:
+Insult, humiliation, defamation, threats, or verbal/physical violence against an officer on duty:
 
 - **Criminal fine: $20,000**
-- **Sentence: 50 - 80 months**
+- **Sentence: 50 - 360 months**
 
 ### <a id="4.4"></a><span style="color: #0088CC">4.4 Escape from Custody</span>
 
-Any person who has been physically detained by a police officer and escapes from their custody will result in a search or arrest warrant being issued. In the new criminal case, the person will be punished with:
+Escaping after being physically detained or handcuffed by a police officer:
 
 - **Criminal fine: $10,000**
-- **Sentence: 80 - 120 months**
+- **Sentence: 120 - 200 months**
 
 ### <a id="4.5"></a><span style="color: #0088CC">4.5 Resisting Arrest</span>
 
-Any person who resists arrest or detention by police officers commits an offense that can be punished with:
+Physically resisting arrest/detention or trying to escape on foot:
 
 - **Criminal fine: $7,500**
-- **Sentence: 60 - 80 months**
+- **Sentence: 80 - 160 months**
 
-This charge replaces the charge **<a href="#2.1">#2.1 Escape from an officer with a vehicle</a>** and should be used when a suspect flees to avoid arrest.
+*Applies separately from vehicle evasion (#2.7) and concerns resistance to handcuffing or fleeing on foot.*
 
 ### <a id="4.6"></a><span style="color: #0088CC">4.6 Failure to Identify</span>
 
-Any person who refuses to identify themselves to an officer with a legal document or their name commits an offense that can be punished with:
+Refusing an official identity document or real identity details (name, surname, personal identification number):
 
 - **Criminal fine: $15,000**
-- **Sentence: 15 - 30 months**
+- **Sentence: 60 - 80 months**
 
-### <a id="4.7"></a><span style="color: #0088CC">4.7 Bribery</span>
+### <a id="4.7"></a><span style="color: #0088CC">4.7 Offering a Bribe</span>
 
-Anyone who gives personal property to change the opinion of a government employee or to influence their decisions commits an offense that can be punished with:
+Promising, offering, or giving an undue benefit to a public official or law enforcement agent to violate their duties:
 
 - **Criminal fine: $15,000**
+- **Sentence: 150 - 300 months**
+
+### <a id="4.8"></a><span style="color: #0088CC">4.8 Accepting a Bribe</span>
+
+Requesting or receiving an undue benefit as a public official, officer, or government employee to perform, omit, or delay an official act:
+
+- **Criminal fine: $25,000**
+- **Sentence: 150 - 300 months**
+- **Administrative measure: Dismissal and ban on working in a public institution**
+
+### <a id="4.9"></a><span style="color: #0088CC">4.9 Labor Law Violation / Undeclared Work</span>
+
+Providing regulated services without the required license, certificate, or authorization:
+
+- **Criminal fine: $15,000**
+- **Criminal file and confiscation of illegally obtained/used goods**
+
+City Hall licenses: **Fishing**, **Mining**, **Tobacco Grower**, **Lumberjack**, and **Towing/Recovery Operator**.
+
+### <a id="4.9.1"></a><span style="color: #0088CC">4.9.1 Commercial Transport Overloading</span>
+
+Transporting goods above the vehicle's authorized mass or cargo limit:
+
+- **Contravention fine: $15,000**
+- **Penalty points: 3**
+- **Additional measures: Confiscation of excess cargo and vehicle immobilization until corrected**
+
+### <a id="4.9.2"></a><span style="color: #0088CC">4.9.2 Commercial Transport Without a License</span>
+
+Commercial transport without a valid City Hall license or with an unapproved commercial vehicle:
+
+- **Criminal fine: $20,000**
 - **Sentence: 30 - 50 months**
+- **Additional measure: Confiscation of cargo and license if suspended**
 
-### <a id="4.8"></a><span style="color: #0088CC">4.8 Labor Code</span>
+### <a id="1.20"></a><span style="color: #0088CC">1.20 Heavy Vehicle Traffic in Restricted Areas</span>
 
-Providing services without having a license or certification in a field that requires it is considered defrauding the state and is punishable by law. If a person is caught without these documents, it means they have violated the Labor Code and commit an offense that can be punished with:
+Entering residential areas, narrow pedestrian streets, or weight-restricted roads with trucks/heavy commercial vehicles without special authorization:
 
-- **Criminal fine: $15,000**
-- **Sentence: 15 - 30 months**
+- **Contravention fine: $10,000**
+- **Penalty points: 3**
 
-At this time, the following licenses can be issued by the city hall:
-- **Fishing**
-- **Mining**
+### <a id="4.10"></a><span style="color: #0088CC">4.10 Improper Towing</span>
 
-### <a id="4.9"></a><span style="color: #0088CC">4.9 Discouraging a Witness or Victim</span>
+Removing/towing a vehicle without justification, procedure, or clear photographic evidence; towing a legally parked vehicle is also a contravention:
 
-Any person who prevents or discourages any witness or victim from testifying in a trial, using bribery, threats, or other tactics, with knowledge and malicious intent, commits an offense that can be punished with:
+- **Contravention fine: $15,000**
+- **Additional measure: Confiscation of the towing license**
+
+*The towing operator must retain clear photographic evidence of the violation for every removed vehicle.*
+
+### <a id="4.11"></a><span style="color: #0088CC">4.11 Influencing or Intimidating Witnesses / Victims</span>
+
+Preventing, intimidating, or discouraging a victim/witness from making a complaint, statement, or testimony through threats, corruption, or violence:
 
 - **Criminal fine: $10,000**
-- **Sentence: 35 - 55 months**
+- **Sentence: 80 - 120 months**
 
-### <a id="4.10"></a><span style="color: #0088CC">4.10 Vulgar Language</span>
+### <a id="4.12"></a><span style="color: #0088CC">4.12 Vulgar or Insulting Language</span>
 
-Any person who uses vulgar words with the intent to insult, intimidate, or gain an advantage over another person commits an offense that can be punished with:
+Repeated obscene, insulting, or degrading language before authorities or in official spaces to humiliate:
 
 - **Criminal fine: $7,000**
 
-### <a id="4.11"></a><span style="color: #0088CC">4.11 Abuse of the Emergency Line</span>
+### <a id="4.13"></a><span style="color: #0088CC">4.13 Abusive Emergency Calls</span>
 
-Any person who abusively calls the emergency line 112 or does so without a genuine problem commits an offense that can be punished with:
+Repeated unjustified calls or false reports to the 911/112 dispatcher:
 
 - **Criminal fine: $10,000**
-- **Sentence: 30 - 50 months**
+- **Sentence: 50 - 80 months**
 
-### <a id="4.12"></a><span style="color: #0088CC">4.12 Poaching</span>
+### <a id="4.14"></a><span style="color: #0088CC">4.14 Poaching</span>
 
-Any person who hunts or fishes in areas not designated by law as hunting/fishing locations commits the offense of poaching and is punished by law with:
+Hunting/fishing in unauthorized areas or seasons, without permits, or capturing protected species:
 
 - **Criminal fine: $30,000**
-- **Sentence: 20 - 30 months**
+- **Sentence: 70 - 100 months**
 
-Information:
+*Illegally obtained animals/fish and equipment are confiscated. Presence in a protected area with relevant equipment mounted is attempted poaching. Protected species: Barracuda, Octopus, Stingray, shark species, whales, olive ridley/blue/green turtles, and Pufferfish.*
 
-- An animal illegally hunted in a non-permitted area is considered contraband and confiscated.
-- Persons caught in the act of poaching are subject to a body search and vehicle search (if applicable).
-- Poaching includes the possession of animal carcasses obtained illegally.
+### <a id="4.15"></a><span style="color: #0088CC">4.15 Forgery and Use of Forged Documents</span>
 
-Attempted poaching occurs when a person is found equipped for hunting in a prohibited area or when they intend to hunt in such areas.
-
-List of fish protected by law: Barracuda, Octopus, Sea Cat, any species of shark, any species of whale, Olive Turtle, Blue Turtle, Green Turtle, Pufferfish.
-
-### <a id="4.13"></a><span style="color: #0088CC">4.13 Forgery/Use of Forgery</span>
-
-Anyone who falsifies a public document, either by copying a signature or by altering a genuine document in any way, commits the offense of forgery in public documents and is punished with:
+Forging, altering, or using forged official documents before public authorities:
 
 - **Criminal fine: $15,000**
-- **Sentence: 20 - 50 months**
+- **Sentence: 80 - 150 months**
 
-### <a id="4.14"></a><span style="color: #0088CC">4.14 Failure to Pay Fines</span>
+### <a id="4.16"></a><span style="color: #0088CC">4.16 Failure to Pay Fines</span>
 
-All fines imposed by the Los Santos Main Judicial Inspectorate must be paid within 21 days. Failure to pay within this period may be sanctioned with:
+Not paying contravention or criminal fines within **21 days** of issuance:
 
-- **Sentence: 20 - 40 months**
-## <a id="5"></a><span style="color: #0088CC">CH. 5 Offenses Against Public Health and Safety</span>
+- **Sentence: 40 - 80 months**
 
-### <a id="5.1"></a><span style="color: #0088CC">5.1 Possession or Production of Illegal Substances</span>
+### <a id="4.17"></a><span style="color: #0088CC">4.17 Usurpation of Official Capacity</span>
 
-The production, possession, as well as any operation regarding the cultivation for the purpose of processing plants that contain such substances, is punishable with:
+Illegally wearing Police, Medical, or state uniforms, or falsely claiming official authority:
+
+- **Criminal fine: $15,000**
+- **Sentence: 60 - 90 months**
+
+### <a id="4.18"></a><span style="color: #0088CC">4.18 Perjury</span>
+
+A witness making false statements or concealing essential truth in a criminal case or investigation:
 
 - **Criminal fine: $10,000**
-- **Sentence: 15 - 30 months**
+- **Sentence: 50 - 80 months**
 
-This applies only to the seeds and leaves of plants that contain such substances.
+### <a id="4.19"></a><span style="color: #0088CC">4.19 Abuse of Office</span>
 
-Not to be cumulated with <a href="#5.2">#5.2 Processing or Possession of Contraband Cigarettes</a>, <a href="#5.3">#5.3 Processing or Possession of Low-Risk Drugs</a> or <a href="#5.4">#5.3 Processing or Possession of High-Risk Drugs</a>.
+A public official, officer, doctor, or government employee who deliberately violates duties, laws, regulations, or procedures and harms a person's rights or the institution:
 
-### <a id="5.2"></a><span style="color: #0088CC">5.2 Processing or Possession of Contraband Cigarettes</span>
+- **Criminal fine: $25,000**
+- **Sentence: 100 - 180 months**
+- **Administrative measure: Dismissal/revocation of rank and a public-institution work ban of 14 - 30 days**
 
-Any person who transports, manufactures, or possesses contraband cigarettes that are provided by law as being illegal.
+### <a id="4.20"></a><span style="color: #0088CC">4.20 Negligence in Office</span>
 
-This act constitutes a crime that can be punished with the detention of the suspect and a fine, depending on the quantity of cigarettes possessed:
+Defective, delayed, deliberate, or careless performance/non-performance of a duty by a public official or government member.
 
-- **TYPE I (1 - 10 cigarettes): sentence 10 - 20 months and fine $10,000.**
-- **TYPE II (10 - 50 cigarettes): sentence 20 - 30 months and fine $15,000.**
-- **TYPE III (50 - 100 cigarettes): sentence 30 - 40 months and fine $20,000.**
-- **TYPE IV (100+ cigarettes): sentence 40 - 60 months and fine $25,000.**
+#### LOW Level (Minor errors, no security impact)
+- **Description:** Failing to confiscate harmless items (seeds, leaves, waste), omitting a minor MDT charge, or issuing an incorrect fine.
+- **Administrative/internal sanction:** Verbal or written warning.
+- **Fine:** Up to **$100,000**, set by department leadership.
 
-If caught producing/possessing this type of illegal items, the necessary components for producing the items will be confiscated (seeds/leaves/rolling paper).
+#### MEDIUM Level (Procedural errors with operational risk)
+- **Description:** Leaving secured penitentiary/cell doors open, losing an unsupervised suspect, or leaving a police vehicle unlocked/running and enabling theft.
+- **Administrative/internal sanction:** Written Faction Warn or demotion (Down).
+- **Fine:** **$250,000**, adjusted for severity where appropriate.
 
-### <a id="5.3"></a><span style="color: #0088CC">5.3 Processing or Possession of Low-Risk Drugs</span>
+#### HIGH Level (Serious errors with critical consequences)
+- **Description:** Negligence directly causing serious injury/death, failure to confiscate firearms/melee weapons during processing, or directly facilitating a dangerous inmate's escape.
+- **Administrative/internal sanction:** Demotion with **$500,000** fine, or immediate dismissal (Out), with or without Blacklist.
+- **Judicial sanction:** **Criminal file**, **60 - 120 months**, either under this article or as an accomplice to the resulting offense.
 
-Any person who transports, manufactures, or possesses substances that are provided by law as being illegal, either chemically or naturally.
+## <a id="5"></a><span style="color: #0088CC">CH. 5 Crimes Against Public Health and Safety</span>
 
-This act constitutes a crime that can be punished with the detention of the suspect.
+### <a id="5.1"></a><span style="color: #0088CC">5.1 Illegal Seeds and Raw Materials</span>
 
-The fine is calculated based on the quantity of drugs possessed:
+Producing, acquiring, possessing, or cultivating plants containing narcotic substances.
 
-- **TYPE I (1 - 10 joints): sentence 20 - 30 months and fine $15,000.**
-- **TYPE II (10 - 50 joints): sentence 30 - 40 months and fine $20,000.**
-- **TYPE III (50 - 100 joints): sentence 40 - 50 months and fine $25,000.**
-- **TYPE IV (100+ joints): sentence 50 - 70 months and fine $30,000.**
+- **Criminal fine: $10,000**
+- **Sentence: 40 - 60 months**
 
-If caught producing/possessing this type of illegal items, the necessary components for producing the items will be confiscated (seeds/leaves/rolling paper).
+*Applies only to raw seeds, leaves, or precursor substances. Do not combine with 5.2, 5.3, or 5.4 when those offenses have already been committed.*
 
-### <a id="5.4"></a><span style="color: #0088CC">5.4 Processing or Possession of High-Risk Drugs</span>
+### <a id="5.2"></a><span style="color: #0088CC">5.2 Contraband Cigarettes</span>
 
-Any person who transports, manufactures, or possesses substances that are provided by law as being illegal, either chemically or naturally.
+Transporting, making, or possessing untaxed/illegal cigarettes above the legal limit:
 
-This act constitutes a crime that can be punished with the detention of the suspect.
+- **TYPE I (1 - 20):** Legal personal-use limit without a manufacturing license.
+- **TYPE II (21 - 50):** Confiscation, criminal file, **$15,000 fine**.
+- **TYPE III (51 - 100):** Confiscation, criminal file, **$20,000 fine**.
+- **TYPE IV (101+):** Confiscation, **60 - 80 months**, **$25,000 fine**.
 
-The fine is calculated based on the quantity of drugs possessed:
+*Seeds, raw tobacco, and rolling papers required for production are confiscated.*
 
-- **TYPE I (1 - 10 packets of cocaine): sentence 40 - 50 months and fine $30,000.**
-- **TYPE II (10 - 50 packets of cocaine): sentence 50 - 60 months and fine $40,000.**
-- **TYPE III (50 - 100 packets of cocaine): sentence 60 - 70 months and fine $50,000.**
-- **TYPE IV (100+ packets of cocaine): sentence 70 - 100 months and fine $60,000.**
+### <a id="5.3"></a><span style="color: #0088CC">5.3 Risk Drugs</span>
 
-If caught producing/possessing this type of illegal items, the necessary components for producing the items will be confiscated (seeds/leaves/rolling paper).
+Transporting, preparing, possessing, or selling marijuana/joints:
+
+- **TYPE I (1 - 5):** Confiscation, criminal file, **$15,000 fine**.
+- **TYPE II (6 - 50):** Confiscation, **40 - 80 months**, **$20,000 fine**.
+- **TYPE III (51 - 100):** Confiscation, **80 - 120 months**, **$25,000 fine**.
+- **TYPE IV (101+):** Confiscation, **120 - 250 months**, **$30,000 fine**.
+
+*Processing components and tools are confiscated.*
+
+### <a id="5.4"></a><span style="color: #0088CC">5.4 High-Risk Drugs</span>
+
+Transporting, synthesizing, possessing, or distributing cocaine, methamphetamine, hallucinogenic mushrooms, etc.:
+
+- **TYPE I (1 - 3 cocaine packets / mushrooms):** Confiscation, criminal file, **$30,000 fine**.
+- **TYPE II (4 - 50):** Confiscation, **70 - 90 months**, **$40,000 fine**.
+- **TYPE III (51 - 100):** Confiscation, **90 - 140 months**, **$50,000 fine**.
+- **TYPE IV (101+):** Confiscation, **140 - 360 months**, **$60,000 fine**.
+
+*Chemical components, precursor plants, and processing tools are confiscated.*
 
 ### <a id="5.5"></a><span style="color: #0088CC">5.5 Unmarked Money (Blood Money)</span>
 
-Any person who possesses unmarked money obtained through various illegal means.
+Possessing, transporting, or handling unmarked money from criminal activities:
 
-This act constitutes a crime that can be punished with the detention of the suspect and a fine, depending on the amount of unmarked money possessed:
+- **TYPE I ($10,000 - $100,000):** Confiscation, **40 - 70 months**, **$20,000 fine**.
+- **TYPE II ($100,001 - $1,000,000):** Confiscation, **70 - 100 months**, **$30,000 fine**.
+- **TYPE III ($1,000,001 - $10,000,000):** Confiscation, **100 - 150 months**, **$40,000 fine**.
+- **TYPE IV ($10,000,001+):** Confiscation, **120 - 175 months**, **$50,000 fine**.
 
-- **TYPE I (10,000 - 100,000 unmarked banknotes): sentence 20 - 30 months and fine $20,000.**
-- **TYPE II (100,000 - 1,000,000 unmarked banknotes): sentence 30 - 40 months and fine $30,000.**
-- **TYPE III (1,000,000 - 100,000,000 unmarked banknotes): sentence 40 - 50 months and fine $40,000.**
-- **TYPE IV (10,000,000+ unmarked banknotes): sentence 50 - 60 months and fine $50,000.**
+### <a id="5.6"></a><span style="color: #0088CC">5.6 Money Laundering</span>
 
-### <a id="5.6"></a><span style="color: #0088CC">5.6 Practicing Medicine Without a License</span>
+Clandestine operations, fictitious transactions, or money-cleaning equipment used to place unmarked money into the legal system:
 
-Any person who practices medicine without a legal document issued by government institutions, without having the necessary training.
+- **Criminal fine: $40,000**
+- **Sentence: 100 - 160 months**
+- **Additional measure: Full confiscation of laundered money and equipment**
 
-This applies only to those who attempt to administer injections or perform surgical interventions.
+### <a id="5.7"></a><span style="color: #0088CC">5.7 Practicing Medicine Without a License</span>
 
-This act constitutes a crime that can be punished with:
+Unauthorized medical acts, injections, resuscitation, or surgery:
 
 - **Criminal fine: $20,000**
-- **Sentence: 60 - 100 months**
+- **Sentence: 120 - 180 months**
 
-### <a id="5.7"></a><span style="color: #0088CC">5.7 Obligation of Proper Identification</span>
+### <a id="5.8"></a><span style="color: #0088CC">5.8 Professional Identification and Licenses</span>
 
-All persons are required to possess and present identification appropriate to their role and activities. While pedestrians are advised to carry an identification card (recommended), the following are mandatory for exercising the rights and benefits associated with certain licenses:
+Required documents: **Driver:** driving license; **Miner:** mining license; **Truck driver:** commercial transport license; **Fisher:** fishing license; **Tow operator:** towing license; **Pilot:** flight license; **Boat operator:** navigation license; **Weapon user:** valid gun permit when carrying legally.
 
-- **Driver:** Must carry a valid driver's license.
-- **Miner:** Must hold a valid mining license.
-- **Trucker:** Must have a commercial transport license.
-- **Fisherman:** Must possess a fishing license.
-- **Tow Truck Operator:** Must have a towing license.
-- **Pilot (airplane):** Must present a pilot's license.
-- **Boat Operator:** Must hold a navigation license.
-- **Weapon User:** Must have a weapon permit when using arms.
+- Failure to present required identification or license: **$10,000 contravention fine**.
 
-Failure to present the identification required by authorities or within regulated activities can be punished with:
+### <a id="5.9"></a><span style="color: #0088CC">5.9 Drug / Illegal Substance Trafficking</span>
 
-- **Administrative fine: $10,000**
+Selling, brokering, distributing, possessing large quantities for sale, or being caught in a drug transaction:
 
-## <a id="6"></a><span style="color: #0088CC">CH. 6 Offenses Against Persons</span>
+- **Criminal fine: $50,000**
+- **Sentence: 180 - 260 months**
+- **Additional measure: Confiscation of substances, proceeds, and transport vehicle**
+
+*May be charged separately or together with possession, depending on the circumstances.*
+
+## <a id="6"></a><span style="color: #0088CC">CH. 6 Crimes Against Persons</span>
 
 ### <a id="6.1"></a><span style="color: #0088CC">6.1 Criminal Threats</span>
 
-Any person who intentionally threatens to commit a crime that could result in the killing or serious bodily injury of another person in writing, verbally, or through any means of electronic communication, while physical contact is not present.
-
-These criminal threats constitute an offense that can be punished with:
+Threatening death or serious injury by speech, writing, message, or electronic means, causing legitimate fear:
 
 - **Criminal fine: $8,500**
-- **Sentence: 20 - 40 months**
+- **Sentence: 50 - 80 months**
 
 ### <a id="6.2"></a><span style="color: #0088CC">6.2 Attempted Murder</span>
 
-Any person who attempts to commit a crime or cause severe and irreversible injuries commits an offense and can be punished with:
+Actions intended to kill or cause critical injuries where death does not occur for reasons independent of the attacker's will:
 
 - **Criminal fine: $10,000**
-- **Sentence: 40 - 60 months**
+- **Sentence: 70 - 90 months**
 
-### <a id="6.3"></a><span style="color: #0088CC">6.3 Bodily Injury</span>
+### <a id="6.3"></a><span style="color: #0088CC">6.3 Bodily Harm</span>
 
-Any person who injures another person by various means without causing severe injuries commits a crime that can be punished with:
+Physical violence causing superficial or moderate injuries without endangering life:
 
 - **Criminal fine: $7,500**
-- **Sentence: 20 - 40 months**
-
-### <a id="6.4"></a><span style="color: #0088CC">6.4 Serious Bodily Injury</span>
-
-Any person who injures another person using a deadly weapon or causes bodily injury where severe injuries occur commits a crime that can be punished with:
-
-- **Criminal fine: $11,000**
-- **Sentence: 40 - 60 months**
-
-### <a id="6.5"></a><span style="color: #0088CC">6.5 Assault with a Deadly Weapon</span>
-
-Assault with a deadly weapon is an act of assault in which the suspect is in possession of an object or weapon capable of inflicting injury and constitutes a crime that can be punished with:
-
-- **Criminal fine: $13,000**
-- **Sentence: 50 - 70 months**
-
-### <a id="6.6"></a><span style="color: #0088CC">6.6 Manslaughter</span>
-
-Manslaughter represents the unintentional killing of an individual, with or without a prior altercation. This act constitutes a crime that can be punished with:
-
-- **Criminal fine: $10,000**
-- **Sentence: 40 - 60 months**
-
-### <a id="6.7"></a><span style="color: #0088CC">6.7 Homicide (Crime)</span>
-
-Homicide is the illegal act of killing a human being and constitutes a crime that can be punished with:
-
-- **Criminal fine: $14,000**
 - **Sentence: 60 - 80 months**
 
-### <a id="6.8"></a><span style="color: #0088CC">6.8 Kidnapping</span>
+### <a id="6.4"></a><span style="color: #0088CC">6.4 Aggravated Bodily Harm</span>
 
-A person who steals, detains, holds, or arrests another individual by force and against their will commits a crime that can be punished with:
-
-- **Criminal fine: $11,000**
-- **Sentence: 60 - 100 months**
-
-### <a id="6.9"></a><span style="color: #0088CC">6.9 Torture</span>
-
-Any person who, with the intent to cause relentless pain and extreme suffering for the purpose of revenge, blackmail, coercion, or any other sadistic purpose, resulting in extremely severe bodily injury, may be charged with torture that can be punished with:
-
-- **Criminal fine: $20,000**
-- **Sentence: 70 - 100 months**
-
-Not to be cumulated with the charge of <a href="#6.2">#6.2 Attempted Murder</a>. However, if the torture results in the death of an individual, the charge of torture will be cumulated with the charge of <a href="#6.7">#6.7 Homicide (Crime)</a>.
-
-### <a id="6.10"></a><span style="color: #0088CC">6.10 Defrauding Creditors</span>
-
-Anyone who hides, sells, destroys, or damages property from a creditor's assets, creates false debts, or commits other acts that put them in financial difficulty will be sanctioned with:
-
-- **Criminal fine: $15,000 - $150,000**
-- **Sentence: 100 - 500 months**
-- **Restitution of all property or its equivalent value**
-
-## <a id="7"></a><span style="color: #0088CC">CH. 7 Lethal Weapons Control</span>
-
-### <a id="7.1"></a><span style="color: #0088CC">7.1 Possession of a Bladed Weapon</span>
-
-Any person who carries, without authorization, in places and areas where the life or bodily integrity of persons may be endangered or public order and peace may be disturbed, a knife with a blade longer than 9 centimeters (exception **Switchblade**), a dagger, a baton, or other similar objects manufactured or crafted specifically for cutting, thrusting, or striking.
-
-This act constitutes a crime that can be punished with:
-
-- **Criminal fine: $6,500**
-- **Sentence: 25 - 50 months**
-
-### <a id="7.2"></a><span style="color: #0088CC">7.2 Possession of a Small-Caliber Firearm Without a Carry Permit</span>
-
-Any person who possesses on their person a small-caliber firearm without having a legally issued carry permit from the police department.
-
-The weapon can be considered in their possession even if it is located in the individual's home, personal vehicle, or on property that belongs to them.
-
-This act constitutes an offense that can be punished with:
-
-- **Criminal fine: $10,000**
-- **Sentence: 30 - 50 months**
-
-### <a id="7.3"></a><span style="color: #0088CC">7.3 Possession of a Large-Caliber Firearm</span>
-
-Any person who possesses on their person a large-caliber firearm such as: **Navy Revolver**, **Heavy Revolver**, **Gadget Pistol**.
-
-This act constitutes an offense that can be punished with:
+Severe injury using melee weapons, blunt objects, or firearms, including severe trauma or loss of consciousness:
 
 - **Criminal fine: $11,000**
-- **Sentence: 35 - 55 months**
-
-### <a id="7.4"></a><span style="color: #0088CC">7.4 Possession of an Automatic Firearm</span>
-
-Any person who possesses on their person an automatic firearm, such as: **AK47**, **SMG**, **TEC**, **SHOTGUN**, **M4**, etc., or derivatives or even ammunition for these weapons.
-
-This act constitutes a crime that can be punished with:
-
-- **Criminal fine: $12,000**
-- **Sentence: 40 - 60 months**
-
-In the event that the person also possesses a small-caliber firearm, this charge is not cumulative with <a href="#7.2">#7.2 Possession of a Small-Caliber Firearm Without a Carry Permit</a> or <a href="#7.3">#7.3 Possession of a Large-Caliber Firearm</a>.
-
-### <a id="7.5"></a><span style="color: #0088CC">7.5 Possession of Explosives</span>
-
-Any person who possesses on their person explosives, flammable objects, or very large quantities of gunpowder that can lead to serious bodily harm to a civilian, the destruction of property, or private property.
-
-This act constitutes a crime that can be punished with:
-
-- **Criminal fine: $20,000**
-- **Sentence: 90 - 120 months**
-
-### <a id="7.6"></a><span style="color: #0088CC">7.6 Aiming a Firearm</span>
-
-Any person who possesses a firearm and aims it at an object or a person.
-
-This act constitutes an offense that can be punished with:
-
-- **Sentence: 20 - 40 months**
-
-### <a id="7.7"></a><span style="color: #0088CC">7.7 Lethal Discharge of a Firearm</span>
-
-Any person who uses a firearm with the intent to inflict serious bodily harm on another person, not in self-defense.
-
-This act constitutes a crime that can be punished with:
-
-- **Sentence: 30 - 50 months**
-
-### <a id="7.8"></a><span style="color: #0088CC">7.8 Trafficking of Armaments or Ammunition</span>
-
-Any person who possesses three or more firearms and/or more than 300 rounds of ammunition without holding a permit for their sale.
-
-This act constitutes a crime that can be punished with:
-
-- **Criminal fine: $50,000**
 - **Sentence: 80 - 120 months**
 
-Additionally, all objects used to manufacture ammunition or weapons found in the production area will be confiscated.
+### <a id="6.5"></a><span style="color: #0088CC">6.5 Manslaughter</span>
 
-**This act is not cumulative with other charges from chapter 7.**
+Accidental killing through inattention, negligence, or recklessness, including a fatal traffic accident, without prior intent:
 
-## <a id="8"></a><span style="color: #0088CC">CH. 8 Offenses Against National Security</span>
+- **Criminal fine: $10,000**
+- **Sentence: 120 - 150 months**
+
+### <a id="6.6"></a><span style="color: #0088CC">6.6 Murder (Homicide)</span>
+
+Intentionally killing a person:
+
+- **Criminal fine: $14,000**
+- **Sentence: 130 - 160 months**
+
+### <a id="6.7"></a><span style="color: #0088CC">6.7 Kidnapping and Unlawful Confinement</span>
+
+Unlawfully depriving a person of liberty through force, coercion, threats, or deception:
+
+- **Criminal fine: $11,000**
+- **Sentence: 100 - 130 months**
+
+*Kidnapping for ransom is cumulative with Blackmail.*
+
+### <a id="6.8"></a><span style="color: #0088CC">6.8 Torture</span>
+
+Intentionally inflicting extreme physical or psychological suffering to obtain information/confessions, revenge, or blackmail:
+
+- **Criminal fine: $20,000**
+- **Sentence: 100 - 150 months**
+
+*Do not combine with Attempted Murder. If torture causes death, combine with Murder.*
+
+### <a id="6.9"></a><span style="color: #0088CC">6.9 Defrauding Creditors</span>
+
+Hiding, destroying, damaging, or transferring assets, or creating fictitious debts to harm creditors or avoid enforcement:
+
+- **Criminal fine: $15,000 - $150,000**
+- **Sentence: 200 - 500 months**
+- **Additional measure: Return of goods or equivalent value to the injured party**
+
+### <a id="6.10"></a><span style="color: #0088CC">6.10 Hostage-Taking</span>
+
+Detaining and threatening a person while conditioning release on authorities meeting demands:
+
+- **Criminal fine: $25,000**
+- **Sentence: 120 - 180 months**
+
+## <a id="7"></a><span style="color: #0088CC">CH. 7 Control of Deadly Weapons</span>
+
+### <a id="7.1"></a><span style="color: #0088CC">7.1 Possession of a Melee Weapon</span>
+
+Unlawfully carrying public-use cutting, stabbing, or striking objects (blades over 9 cm, daggers, machetes, swords, metal bats, brass knuckles). *Exception: folding Switchblade and work tools such as a pickaxe or lumberjack axe.*
+
+- **Criminal fine: $6,500**
+- **Sentence: 50 - 80 months**
+- **Additional measure: Weapon confiscation**
+
+### <a id="7.2"></a><span style="color: #0088CC">7.2 Small-Caliber Firearm Without a Gun Permit</span>
+
+Possessing/carrying a 9mm Pistol, Combat Pistol, SNS Pistol, Machine Pistol/TEC-9, Vintage Pistol, or 9mm ammunition without a valid permit. Possession includes the person, vehicle, or private property.
+
+- **Criminal fine: $10,000**
+- **Sentence: 75 - 100 months**
+- **Additional measure: Weapon and ammunition confiscation**
+
+### <a id="7.3"></a><span style="color: #0088CC">7.3 Large-Caliber Firearm</span>
+
+Unauthorized Navy Revolver, Heavy Revolver, Gadget Pistol, Double-Action Revolver, Pump/Sawed-off Shotgun, or dedicated ammunition:
+
+- **Criminal fine: $11,000**
+- **Sentence: 80 - 120 months**
+- **Additional measure: Weapon and ammunition confiscation**
+
+### <a id="7.4"></a><span style="color: #0088CC">7.4 Automatic Firearm</span>
+
+Unauthorized AK-47/Assault Rifle, Carbine Rifle/M4, Micro SMG, SMG, Combat PDW, Sniper Rifle, or ammunition:
+
+- **Criminal fine: $12,000**
+- **Sentence: 100 - 140 months**
+- **Additional measure: Weapon and ammunition confiscation**
+
+*If a small- or large-caliber firearm is also possessed, do not combine #7.2 or #7.3; use the most serious charge.*
+
+### <a id="7.5"></a><span style="color: #0088CC">7.5 Explosives or Detonating Substances</span>
+
+Grenades, C4, homemade bombs, mines, Molotov cocktails, or industrial gunpowder/fuses possessed on a person, in a vehicle, or on property:
+
+- **Criminal fine: $20,000**
+- **Sentence: 150 - 250 months**
+- **Additional measures: Immediate confiscation and perimeter security**
+
+### <a id="7.6"></a><span style="color: #0088CC">7.6 Pointing a Firearm</span>
+
+Threateningly displaying or unjustifiably pointing a firearm at a person, vehicle, or public area without lawful firing or self-defense:
+
+- **Criminal fine: $10,000**
+- **Sentence: 60 - 100 months**
+
+### <a id="7.7"></a><span style="color: #0088CC">7.7 Unauthorized / Lethal Discharge</span>
+
+Firing on public roads, in populated areas, or toward people/property outside legitimate self-defense or an authorized range:
+
+- **Criminal fine: $15,000**
+- **Sentence: 70 - 100 months**
+
+### <a id="7.8"></a><span style="color: #0088CC">7.8 Trafficking Weapons, Components, or Ammunition</span>
+
+Unauthorized possession, transport, brokerage, or distribution of **3 or more firearms** and/or **over 300 rounds**, or materials for manufacturing weapons/ammunition:
+
+- **Criminal fine: $50,000**
+- **Sentence: 250 - 360 months**
+- **Additional measure: Confiscation of weapons, ammunition, materials, and transport vehicle**
+
+*Standalone offense; do not combine with simple possession articles in Chapter 7.*
+
+## <a id="8"></a><span style="color: #0088CC">CH. 8 Crimes Against National Security</span>
 
 ### <a id="8.1"></a><span style="color: #0088CC">8.1 Terrorism</span>
 
-Organizing or participating in terrorist acts, including attacks or assaults on vital institutions or infrastructure. 
+Organizing, financing, planning, or actively participating in armed actions, explosive attacks, or coordinated attacks on fundamental institutions or critical infrastructure to intimidate the population or blackmail authorities:
 
-An attack may result in loss of life, the destruction of essential infrastructure, or jeopardize national security.
+- **Sentence: Life imprisonment**
 
-This act constitutes a crime that is punished by **detaining the suspect for life**.
+### <a id="8.2"></a><span style="color: #0088CC">8.2 Violating Military / Government Security Zones</span>
 
-### <a id="8.2"></a><span style="color: #0088CC">8.2 Violation of State Security Regulations</span>
-
-Illegal entry into protected zones or buildings, with the purpose of gathering information or conducting harmful activities, constitutes an offense that can be punished with:
+Unauthorized entry or presence in military, classified, or secured government areas (Fort Zancudo, Military Port, City Hall/FIB roof, etc.) for espionage or disruption:
 
 - **Criminal fine: $35,000**
-- **Sentence: 60 - 90 months**
+- **Sentence: 120 - 200 months**
 
-### <a id="8.3"></a><span style="color: #0088CC">8.3 Obstruction of Government Activities</span>
+### <a id="8.3"></a><span style="color: #0088CC">8.3 Impeding Government Activities</span>
 
-Any act that interferes with or hinders the activities of the government, security agencies, or public services—such as blocking roads or attacking government officials—constitutes an offense that can be punished with:
+Organized access blockades, sabotage of state utilities, or physical assault on official convoys and dignitaries:
 
 - **Criminal fine: $50,000**
-- **Sentence: 80 - 100 months**
+- **Sentence: 120 - 250 months**
 
-### <a id="8.4"></a><span style="color: #0088CC">8.4 Forming a Paramilitary Group</span>
+### <a id="8.4"></a><span style="color: #0088CC">8.4 Paramilitary or Insurrectionary Structures</span>
 
-The creation of or membership in organized groups whose purpose is to combat the authorities or destabilize the state, with or without weapons, constitutes an offense that can be punished with:
+Creating, militarily equipping, or joining illegal armed organizations seeking to fight law enforcement and undermine executive authority:
 
 - **Criminal fine: $35,000**
-- **Sentence: 60 - 90 months**
+- **Sentence: 120 - 200 months**
 
-Not cumulative with **<a href="#8.3">#8.3 Obstruction of Government Activities</a>**
+### <a id="8.5"></a><span style="color: #0088CC">8.5 Incitement to Violence Against the Rule of Law</span>
 
-### <a id="8.5"></a><span style="color: #0088CC">8.5 Acts of Inciting Violence Against Government Institutions</span>
-
-Organizing rallies, protests, or other actions that encourage violence against the authorities or government institutions constitutes an offense that can be punished with:
+Calling for violent demonstrations, attacks on law enforcement buildings, or killing police/state representatives:
 
 - **Criminal fine: $25,000**
-- **Sentence: 70 - 90 months**
+- **Sentence: 120 - 180 months**
 
-### <a id="8.6"></a><span style="color: #0088CC">8.6 Forgery of Government Documents</span>
+### <a id="8.6"></a><span style="color: #0088CC">8.6 Forgery of Classified State Documents</span>
 
-The creation, modification, or illegal use of official documents to access restricted information or locations constitutes an offense that can be punished with:
-
-- **Criminal fine: $20,000**
-- **Sentence: 40 - 60 months**
-
-### <a id="8.7"></a><span style="color: #0088CC">8.7 Espionage</span>
-
-Obtaining or transmitting secret or sensitive information to external entities, which could jeopardize national security or a state's interests, constitutes an offense that can be punished with:
+Fabricating or using badges, false warrants, government credentials, or fraudulent city-administration approvals:
 
 - **Criminal fine: $20,000**
-- **Sentence: 40 - 60 months**
+- **Sentence: 80 - 120 months**
 
-### <a id="8.8"></a><span style="color: #0088CC">8.8 Sabotage</span>
+### <a id="8.7"></a><span style="color: #0088CC">8.7 Espionage and Treason</span>
 
-Sabotage consists of the intentional destruction or damage of essential infrastructure or equipment, such as vehicles, buildings, or power plants, to create chaos or endanger the safety of the city.
-The offense is punished with:
+Clandestinely collecting, possessing, or transmitting secret documents, encrypted emergency frequencies, or tactical plans to hostile entities:
+
+- **Criminal fine: $20,000**
+- **Sentence: 60 - 100 months**
+
+### <a id="8.8"></a><span style="color: #0088CC">8.8 Critical Infrastructure Sabotage</span>
+
+Damaging, burning, or detonating power stations, fuel depots, communications hubs, dams, or civilian airports:
 
 - **Criminal fine: $35,000**
-- **Sentence: 60 - 80 months**
+- **Sentence: 100 - 150 months**
 
-### <a id="8.9"></a><span style="color: #0088CC">8.9 Forming an Organized Criminal Group</span>
+### <a id="8.9"></a><span style="color: #0088CC">8.9 Organized Criminal Group</span>
 
-An organized criminal group is defined as a structured group consisting of three or more persons, formed for a specific period of time and acting in a coordinated manner to commit one or more offenses.
-
-The initiation, formation, joining, or support, in any form, of such a group can be punished with:
+Initiating, forming, joining, or supporting a clandestine hierarchy (mafia, cartel, or criminal syndicate of 3+ people) planned for serious crimes:
 
 - **Criminal fine: $250,000 - $500,000**
-- **Sentence: 150 months - life imprisonment**
+- **Sentence: 250 months - Life imprisonment**
 
-If the person who committed one of the above-mentioned acts contributes to uncovering the truth and bringing one or more members of an organized criminal group to justice, the special penalty limits are reduced by half.
+*Substantial cooperation may halve the limits. Standalone offense; do not combine with other articles.*
 
-This act is not cumulative with other articles of the penal code.
+### <a id="8.10"></a><span style="color: #0088CC">8.10 Government Corruption and Abuse of Office</span>
 
-### <a id="8.10"></a><span style="color: #0088CC">8.10 Corruption</span>
-
-Corruption is defined as the abuse of power for the purpose of obtaining material benefits or undue advantages, whether through accepting bribes, favoring third parties, or influencing administrative decisions to the detriment of the public interest. This act undermines the integrity of institutions and public trust, affecting balance and justice within the server.
-
-The offense is punished with:
+Repeated abuse of authority, influencing justice, favoring criminal networks, or using institutional resources for illicit enrichment:
 
 - **Criminal fine: $150,000 - $300,000**
-- **Sentence: 120 months - life imprisonment**
+- **Sentence: 250 months - Life imprisonment**
+- **Administrative measure: Removal and lifetime ban from public office**
 
-In cases where the accused has cooperated in uncovering the truth and identifying other offenders, the special penalty limits are reduced by half.
+*Full cooperation with prosecutors/investigators halves the penalty limits.*
 
-This act is not cumulative with other articles of the penal code.
+### <a id="8.11"></a><span style="color: #0088CC">8.11 Grave Danger to Public Safety (Extreme Recidivism)</span>
+
+Judicial classification for notorious offenders reaching **at least 5 active criminal files** and demonstrating no ability to be rehabilitated. At five files, the person is prioritized on the Most Wanted list and brought before the competent court.
+
+- **Sentence: 500 months - Life imprisonment**
+
+*Active cooperation and disclosure of major organized-crime networks may lead the judge to halve the sentence.*
