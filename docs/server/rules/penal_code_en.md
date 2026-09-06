@@ -25,11 +25,11 @@ outline: deep
 ### <a id="0.4"></a><span style="color: #0088CC">0.4 Concurrent Sentences and Maximum Sentence</span>
 
 - For multiple offenses, prison sentences (months) and financial fines are cumulative unless an article expressly prohibits cumulation.
-- **Maximum cap:** The maximum cumulative sentence for one detention/arrest at the State Penitentiary is **360 months**, except for court-ordered special sentences (life imprisonment). This may be exceeded on a judge's legal grounds or under charges in <a href="#1">Chapter 8: Road Legislation</a>.
+- **Maximum cap:** The maximum cumulative sentence for one detention/arrest at the State Penitentiary is **360 months**, except for court-ordered special sentences (life imprisonment). This may be exceeded on a judge's legal grounds or under charges in <a href="#8">Chapter 8: Offenses Against National Security</a>.
 
 ### <a id="0.5"></a><span style="color: #0088CC">0.5 Penalty Points and Traffic Sanctions</span>
 
-- Penalty points are automatically applied for violations in <a href="#8">Chapter 1: Offenses Against National Security</a>.
+- Penalty points are automatically applied for violations in <a href="#1">Chapter 1: Road Legislation</a>.
 - At **15 penalty points**, the driving license is automatically suspended for a determined period or revoked, requiring the driving exam to be taken again.
 
 ### <a id="0.6"></a><span style="color: #0088CC">0.6 Sanctions (Contraventions vs. Crimes)</span>
@@ -477,7 +477,7 @@ Commercial transport without a valid City Hall license or with an unapproved com
 - **Sentence: 30 - 50 months**
 - **Additional measure: Confiscation of cargo and license if suspended**
 
-### <a id="1.20"></a><span style="color: #0088CC">1.20 Heavy Vehicle Traffic in Restricted Areas</span>
+### <a id="4.9.3"></a><span style="color: #0088CC">4.9.3 Heavy Vehicle Traffic in Restricted Areas</span>
 
 Entering residential areas, narrow pedestrian streets, or weight-restricted roads with trucks/heavy commercial vehicles without special authorization:
 
