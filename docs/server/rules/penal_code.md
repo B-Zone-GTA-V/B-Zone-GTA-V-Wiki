@@ -26,11 +26,11 @@ outline: deep
 ### <a id="0.4"></a><span style="color: #0088CC">0.4 Cumulul de Pedepse și Limita Maximă a Sentinței</span>
 
 - În cazul săvârșirii mai multor infracțiuni (concurs de infracțiuni), pedepsele cu închisoarea (lunile) și amenzile financiare se cumulează, cu excepția articolelor care specifică expres interdicția cumulului.
-- **Plafonul Maxim:** Sentința maximă cumulată care poate fi executată la Penitenciarul de Stat pentru o singură reținere/arestare este de **360 de luni**, exceptând sentințele speciale date de instanță (Închisoare pe viață). Această pedeapsă maximă se poate deroga în baza temeiurilor legale stabilite de judecător sau conform acuzațiilor prevăzute în <a href="#1">Capitolul 8: Legislație Rutieră</a>.
+- **Plafonul Maxim:** Sentința maximă cumulată care poate fi executată la Penitenciarul de Stat pentru o singură reținere/arestare este de **360 de luni**, exceptând sentințele speciale date de instanță (Închisoare pe viață). Această pedeapsă maximă se poate deroga în baza temeiurilor legale stabilite de judecător sau conform acuzațiilor prevăzute în <a href="#8">Capitolul 8: Infracţiuni împotriva securității naționale</a>.
 
 ### <a id="0.5"></a><span style="color: #0088CC">0.5 Sistemul de Puncte de Penalizare și Sancțiuni Rutiere</span>
 
-- Punctele de penalizare se aplică automat la încălcarea contravențiilor din <a href="#8">Capitolul 1: Infracţiuni împotriva securității naționale</a>..
+- Punctele de penalizare se aplică automat la încălcarea contravențiilor din <a href="#1">Capitolul 1: Legislație Rutieră</a>..
 - La acumularea a **15 puncte de penalizare**, permisul de conducere este **suspendat automat** pentru o perioadă determinată sau **anulat**, fiind necesară susținerea din nou a examenului auto.
 
 ### <a id="0.6"></a><span style="color: #0088CC">0.6 Natura Sancțiunilor (Contravenții vs. Infracțiuni)</span>
@@ -537,7 +537,7 @@ Această acțiune reprezintă o infracțiune și se pedepsește cu:
 - **Sentință: 30 - 50 de luni**
 - **Măsură complementară: Confiscarea mărfii transportate și a licenței (dacă este suspendată)**
 
-### <a id="1.20"></a><span style="color: #0088CC">1.20 Tranzitarea zonelor interzise vehiculelor de mare tonaj</span>
+### <a id="4.9.3"></a><span style="color: #0088CC">4.9.3 Tranzitarea zonelor interzise vehiculelor de mare tonaj</span>
 
 Pătrunderea și tranzitarea cu camioane sau vehicule comerciale grele în zone rezidențiale, străzi pietonale înguste sau pe drumuri semnalizate cu indicator de restricție de tonaj, fără o autorizație specială de acces.
 
