@@ -747,13 +747,17 @@ Unlawfully carrying public-use cutting, stabbing, or striking objects (blades ov
 - **Sentence: 50 - 80 months**
 - **Additional measure: Weapon confiscation**
 
-### <a id="7.2"></a><span style="color: #0088CC">7.2 Small-Caliber Firearm Without a Gun Permit</span>
+### <a id="7.2"></a><span style="color: #0088CC">7.2 Possession of a Small-Caliber Firearm</span>
 
-Possessing/carrying a 9mm Pistol, Combat Pistol, SNS Pistol, Machine Pistol/TEC-9, Vintage Pistol, or 9mm ammunition without a valid permit. Possession includes the person, vehicle, or private property.
+Possessing or carrying a small-caliber firearm (9mm Pistol, Combat Pistol, SNS Pistol, Machine Pistol/TEC-9, Vintage Pistol) or the corresponding ammunition (9mm or .22 caliber).
+
+A firearm is considered to be in a person's possession even if it is on their person, inside their vehicle, or in private property belonging to them.
 
 - **Criminal fine: $10,000**
 - **Sentence: 75 - 100 months**
 - **Additional measure: Weapon and ammunition confiscation**
+
+A gun-carry permit may be obtained from the Police Department and allows the lawful carrying of an SNS Pistol. The permit holder must carry the valid permit on their person while carrying the weapon; failure to do so constitutes a criminal offense.
 
 ### <a id="7.3"></a><span style="color: #0088CC">7.3 Large-Caliber Firearm</span>
 
