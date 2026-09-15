@@ -34,6 +34,7 @@ Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și,
 <div class="rule-box rule-green">
     <div class="title">Excepții:</div>
 - Pe zonele verzi de pe Aeroport Cayo sau Maldive va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
+- Pe insula Cayo / Maldive daca, cineva incearca sa va jefuiasca pe voi sau un alt membru din alta mafie si surprindeti aceasta actiune puteti sa mergeti sa il ridicati de oriunde de pe insula INCLUSIV HANGAR / AEROPORT / GARAJ etc. Cu conditia sa il luati de acolo cat mai repede si sa nu treaca mai mult de 15 minute de la momentul in care l-ati avut in vizor.
 </div>
 
 ---
