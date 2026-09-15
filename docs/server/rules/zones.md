@@ -13,13 +13,11 @@ lastUpdated: true
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://assets.b-zone.ro/b-zone-zone_cayo.png" target="_blank">
     <img src="https://assets.b-zone.ro/b-zone-zone_cayo.png">
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://assets.b-zone.ro/b-zone-zone_maldive.png" target="_blank">
@@ -33,13 +31,14 @@ Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și,
 
 <div class="rule-box rule-green">
     <div class="title">Excepții:</div>
-- Pe zonele verzi de pe Aeroport Cayo sau Maldive va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
+- Pe zonele verzi de pe Aeroport Cayo sau Maldive va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.<br>
 - Pe insula Cayo / Maldive daca, cineva incearca sa va jefuiasca pe voi sau un alt membru din alta mafie si surprindeti aceasta actiune puteti sa mergeti sa il ridicati de oriunde de pe insula INCLUSIV HANGAR / AEROPORT / GARAJ etc. Cu conditia sa il luati de acolo cat mai repede si sa nu treaca mai mult de 15 minute de la momentul in care l-ati avut in vizor.
 </div>
 
 ---
 
 ## <a id="Z3"></a><span style="color:red; font-size: 20px;">Z3 - ZONE ROSII</span>
+
 Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara acestuia, unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
 
 <div class="rule-box rule-green">
@@ -59,6 +58,7 @@ Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara 
 ---
 
 ## <a id="Z4"></a><span style="color:yellow; font-size: 20px;">Z4 - ZONE/DRUMURI GALBENE</span>
+
 Zonele și drumurile galbene sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar <strong style="color: red">NU</strong> cu scopul de a jefuii. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea roleplay-ului.
 
 <div class="rule-box rule-green">
@@ -79,6 +79,7 @@ Zonele și drumurile galbene sunt zone semipublice sau semifamate care marcheaz�
 ---
 
 ## <a id="Z5"></a><span style="color:gray; font-size: 20px;">Z5 - ZONE GRI / DRUMURI ROȘII</span>
+
 Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități. În principiu sunt drumurile ce nu au fost marcate pe harta de mai sus cu nici o culoare, alei între cladiri, drumuri prin munți sau prin extremitatea hărții.
 
 <span style="color:gray; font-size: 18px;">În orașe</span>
@@ -128,7 +129,9 @@ Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalit
 </div>
 
 ## <a id="Z6"></a><span style="color: #0088CC">Z6 - ZONE NEPOPULATE</span>
+
 Sunt acele zone pe hartă unde nu ați putea fi văzuți de cetățeni trecători, fiind niște zone foarte retrase pe unde nu trece lumea în mod constant.<br>
+
 <div class="rule-box rule-red">
 <div class="title">În aceste zone este strict <span style="color: red">INTERZIS</span>:</div>
 - apelul medicilor cât timp sunteți în comă<br>
