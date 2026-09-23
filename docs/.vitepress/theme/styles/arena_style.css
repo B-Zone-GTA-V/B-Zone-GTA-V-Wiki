@@ -1,0 +1,91 @@
+.vp-doc .arena-logo {
+  display: block;
+  width: 240px;
+  max-width: 60%;
+  margin: 8px auto 24px;
+}
+
+.arena-modes {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 20px 0;
+}
+
+.arena-mode {
+  display: flex;
+  background: #1b1f24;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+}
+
+.vp-doc .arena-mode img {
+  display: block;
+  flex: 0 0 200px;
+  width: 200px;
+  min-height: 190px;
+  object-fit: cover;
+  object-position: center 20%;
+}
+
+.arena-mode-body {
+  flex: 1;
+  padding: 18px 22px 10px;
+  color: #d5dde3;
+}
+
+@media (max-width: 560px) {
+  .arena-mode {
+    flex-direction: column;
+  }
+
+  .vp-doc .arena-mode img {
+    flex: none;
+    width: 100%;
+    height: 180px;
+    min-height: 0;
+  }
+}
+
+.arena-mode-title {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.arena-mode-tagline {
+  color: #8b98a5;
+  font-size: 14px;
+  margin: 2px 0 12px;
+}
+
+.vp-doc .arena-mode ul {
+  padding-left: 18px;
+  margin: 0 0 8px;
+}
+
+.vp-doc .arena-mode li {
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 6px;
+}
+
+.arena-maps {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.vp-doc .arena-maps img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 5 / 2;
+  object-fit: cover;
+  border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
