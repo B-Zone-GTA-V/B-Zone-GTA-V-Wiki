@@ -145,6 +145,7 @@ export default defineConfig({
               { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
               { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
               { text: '⛏️ Miner', link: '/server/jobs/miner' },
+              { text: '🤿 Miner Subacvatic', link: '/server/jobs/underwater_miner' },
               { text: '✈️ Pilot', link: '/server/jobs/pilot' },
             ]
           },
