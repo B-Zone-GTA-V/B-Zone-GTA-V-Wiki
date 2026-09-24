@@ -72,6 +72,7 @@ export default defineConfig({
             text: 'Activități',
             collapsed: false,
             items: [
+              { text: 'VR Arena', link: '/server/info/vr_arena' },
               { text: 'Market', link: '/server/info/market' },
               { text: 'Sală', link: '/server/info/gym' },
               { text: 'Cărți', link: '/server/info/books' },
@@ -145,6 +146,7 @@ export default defineConfig({
               { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
               { text: '♻️ Gunoier', link: '/server/jobs/garbageman' },
               { text: '⛏️ Miner', link: '/server/jobs/miner' },
+              { text: '🤿 Miner Subacvatic', link: '/server/jobs/underwater_miner' },
               { text: '✈️ Pilot', link: '/server/jobs/pilot' },
             ]
           },
