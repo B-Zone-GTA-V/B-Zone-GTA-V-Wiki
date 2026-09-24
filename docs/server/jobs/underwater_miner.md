@@ -48,11 +48,11 @@ Pentru a putea lucra ca <span class="button-p-job">Miner Subacvatic</span> trebu
 <div class="npc-dialog">
   <div class="npc-dialog-head">
     <span class="npc-dialog-npc">
-      <img src="/assets/images/underwater_miner/npc_vasile_scafandru.png" alt="Vasile Scafandru">
+      <img src="https://assets.b-zone.ro/wiki/npc_vasile_scafandru.png" alt="Vasile Scafandru">
       <span class="npc-dialog-name">Vasile Scafandru</span>
     </span>
     <span class="npc-dialog-npc">
-      <img src="/assets/images/underwater_miner/npc_ion_scafandru.png" alt="Ion Scafandru">
+      <img src="https://assets.b-zone.ro/wiki/npc_ion_scafandru.png" alt="Ion Scafandru">
       <span class="npc-dialog-name">Ion Scafandru</span>
     </span>
     <span class="npc-dialog-line"></span>
@@ -81,7 +81,7 @@ Costumul de scafandru și tuburile de oxigen se cumpără de la angajatori (Vasi
 
 <details>
   <summary>Echipamentul de scafandru</summary>
-  <img src="/assets/images/underwater_miner/diving_gear.png" alt="Echipamentul de scafandru" class="gear-strip">
+  <img src="https://assets.b-zone.ro/wiki/diving_gear.png" alt="Echipamentul de scafandru" class="gear-strip">
 </details>
 
 <div class="item-card">
@@ -97,7 +97,7 @@ Licența de minerit subacvatic costă <span class="button-p-job">$10.000/zi</spa
 <details>
   <summary>Licență de minerit subacvatic</summary>
   <div class="license-card">
-    <img src="/assets/images/underwater_miner/licenta_minerit_subacvatic.png" alt="Licență de minerit subacvatic">
+    <img src="https://assets.b-zone.ro/wiki/licenta_minerit_subacvatic.png" alt="Licență de minerit subacvatic">
     <div class="license-card-body">
       <div class="license-card-title">Licență de minerit subacvatic</div>
       <p>Licența de minerit subacvatic îți oferă dreptul legal de a extrage minereuri și nestemate din zonele de pe fundul mării. Fără ea, orice extracție subacvatică este ilegală și poate fi sancționată de autorități.</p>
@@ -112,7 +112,7 @@ Licența de minerit subacvatic costă <span class="button-p-job">$10.000/zi</spa
 
 ## Aplicația Underwater Miner / Perk-uri
 
-<img src="/assets/images/underwater_miner/app_icon.png" alt="Underwater Miner" width="64" style="float: right; margin: 0 0 8px 16px;">
+<img src="https://assets.b-zone.ro/wiki/app_icon.png" alt="Underwater Miner" width="64" style="float: right; margin: 0 0 8px 16px;">
 
 Perk-urile se setează din aplicația <span class="button-p-job">Underwater Miner</span> din tabletă. Deschideți tableta cu tasta <span class="button-p-job">O</span> și intrați în aplicație.
 
@@ -137,10 +137,10 @@ Perk-urile sunt așezate sub formă de arbore: se pornește din perk-ul din cent
 
 <details>
   <summary>Arborele de perk-uri</summary>
-  <img src="/assets/images/underwater_miner/perk_tree.webp" alt="Arborele de perk-uri Underwater Miner">
+  <img src="https://assets.b-zone.ro/wiki/perk_tree_miner_subacvatic.png" alt="Arborele de perk-uri Underwater Miner">
 </details>
 
 <details>
   <summary>Plămâni de Oțel</summary>
-  <img src="/assets/images/underwater_miner/perk_plamani_de_otel.png" alt="Plămâni de Oțel" width="400">
+  <img src="https://assets.b-zone.ro/wiki/perk_plamani_de_otel.png" alt="Plămâni de Oțel" width="400">
 </details>

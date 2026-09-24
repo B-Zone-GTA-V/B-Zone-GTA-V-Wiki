@@ -4,7 +4,7 @@ outline: deep
 
 # VR Arena
 
-<img src="/assets/images/vr_arena/logo.webp" alt="B-Zone Arena" class="arena-logo">
+<img src="https://assets.b-zone.ro/wiki/logo_arena.png" alt="B-Zone Arena" class="arena-logo">
 
 ## Introducere
 
@@ -14,14 +14,14 @@ Din meniul arenei alegeți un mod de joc și intrați într-o sală de așteptar
 
 <details>
   <summary>Meniul Arena VR</summary>
-  <img src="/assets/images/vr_arena/menu.webp" alt="Meniul Arena VR">
+  <img src="https://assets.b-zone.ro/wiki/menu_arena.png" alt="Meniul Arena VR">
 </details>
 
 ## Moduri de joc
 
 <div class="arena-modes">
   <div class="arena-mode">
-    <img src="/assets/images/vr_arena/mode_ffa.webp" alt="Free For All">
+    <img src="https://assets.b-zone.ro/wiki/mode_ffa_arena.png" alt="Free For All">
     <div class="arena-mode-body">
       <div class="arena-mode-title">Free For All</div>
       <div class="arena-mode-tagline">Fiecare jucător pentru el.</div>
@@ -32,7 +32,7 @@ Din meniul arenei alegeți un mod de joc și intrați într-o sală de așteptar
     </div>
   </div>
   <div class="arena-mode">
-    <img src="/assets/images/vr_arena/mode_echipe.webp" alt="Echipe">
+    <img src="https://assets.b-zone.ro/wiki/mode_echipe_arena.png" alt="Echipe">
     <div class="arena-mode-body">
       <div class="arena-mode-title">Echipe</div>
       <div class="arena-mode-tagline">Echipă contra echipă, un singur câștigător.</div>
@@ -44,7 +44,7 @@ Din meniul arenei alegeți un mod de joc și intrați într-o sală de așteptar
     </div>
   </div>
   <div class="arena-mode">
-    <img src="/assets/images/vr_arena/mode_gungame.webp" alt="Gun Game">
+    <img src="https://assets.b-zone.ro/wiki/mode_gungame_arena.png" alt="Gun Game">
     <div class="arena-mode-body">
       <div class="arena-mode-title">Gun Game</div>
       <div class="arena-mode-tagline">Urcă pe scara armelor.</div>
@@ -103,17 +103,17 @@ Vă puteți crea propria cameră, alegând harta și cine poate intra.
 
 <details>
   <summary>Creează cameră</summary>
-  <img src="/assets/images/vr_arena/create_room.webp" alt="Creează cameră">
+  <img src="https://assets.b-zone.ro/wiki/create_room_arena.png" alt="Creează cameră">
 </details>
 
 #### Hărți
 
 <div class="arena-maps">
-  <img src="/assets/images/vr_arena/map_founders_hall.webp" alt="Founders Hall">
-  <img src="/assets/images/vr_arena/map_dusty.webp" alt="Dusty">
-  <img src="/assets/images/vr_arena/map_dusty2.webp" alt="Dusty 2">
-  <img src="/assets/images/vr_arena/map_fountain.webp" alt="Fountain">
-  <img src="/assets/images/vr_arena/map_snow.webp" alt="Snow">
+  <img src="https://assets.b-zone.ro/wiki/map_founders_hall.png" alt="Founders Hall">
+  <img src="https://assets.b-zone.ro/wiki/map_dusty.png" alt="Dusty">
+  <img src="https://assets.b-zone.ro/wiki/map_dusty2.png" alt="Dusty 2">
+  <img src="https://assets.b-zone.ro/wiki/map_fountain.png" alt="Fountain">
+  <img src="https://assets.b-zone.ro/wiki/map_snow.png" alt="Snow">
 </div>
 
 #### Arme

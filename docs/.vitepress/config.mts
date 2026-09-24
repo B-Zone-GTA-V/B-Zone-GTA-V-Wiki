@@ -72,12 +72,12 @@ export default defineConfig({
             text: 'Activități',
             collapsed: false,
             items: [
+              { text: 'VR Arena', link: '/server/info/vr_arena' },
               { text: 'Market', link: '/server/info/market' },
               { text: 'Sală', link: '/server/info/gym' },
               { text: 'Cărți', link: '/server/info/books' },
               { text: 'Roata Norocului', link: '/server/info/wheel_of_fortune' },
               { text: 'Poker', link: '/server/info/poker' },
-              { text: 'VR Arena', link: '/server/info/vr_arena' },
               { text: 'Plătirea amenzilor', link: '/server/info/fines' },
               { text: 'Culegător de Ciuperci', link: '/server/info/mushrooms' },
             ]
