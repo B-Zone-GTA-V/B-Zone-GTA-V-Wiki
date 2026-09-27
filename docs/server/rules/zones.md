@@ -126,6 +126,18 @@ Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalit
 - Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
 
 - Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie. Se va sancționa conform regulii de <a href="../rules#2.13">#2.13 PowerGaming (PG)</a>
+
+- Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri. Dacă o persoană aflată într-o zonă roșie sau gri provoacă intenționat (face 'Provoking'), aveți permisiunea să o îndepărtați din fața afacerii / din afacere — inclusiv prin folosirea armelor, dacă este necesar. În cazul afacerilor legale ce dispun de o parte ilegala (ex. Hanul Namol), în partea ilegală a acestor afaceri, sunt permise acțiunile ilegale din partea proprietarilor acestor afaceri și nu se aplica regula de ilegalitate în zonă publică.
+
+- Există zone retrase în interiorul zonelor verzi (ex: zona Rockford – între blocuri, în spatele clădirilor). Dacă atrageți un jucător în astfel de locuri, îl puteți răpi, jefui sau omorî. În aleile dintre blocuri din zona verde, se aplică regulile Zonei Gri.
+
+- ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
+  - să evite provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)
+  - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc. (Sancțiune: No-Fear + scoaterea acestuia din zona verde)
+
+  <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiune între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
+
+_Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
 </div>
 
 ## <a id="Z6"></a><span style="color: #0088CC">Z6 - ZONE NEPOPULATE</span>
