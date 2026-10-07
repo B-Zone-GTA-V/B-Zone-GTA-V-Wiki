@@ -37,6 +37,8 @@ Pentru fiecare dintre locurile de muncă specificate mai sus, aveți nevoie de u
 
 Fiecare loc de muncă afișează informații despre modul de lucru și despre cum sunteți plătit.
 
+Pentru fiecare loc de muncă care necesită un vehicul pentru desfășurare va trebui să închiriați vehiculul respectiv de la NPC-ul de la care vă angajați.
+
 <details>
   <summary>Aplicare Job</summary>
   <img src="https://assets.b-zone.ro/wiki/jobs-application.png" alt="Job Application system">

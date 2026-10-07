@@ -2190,18 +2190,6 @@ Reprezintă acțiuni prin care vor muri mai multe persoane în urma roleplay-ul 
 
 ---
 
-- Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri. Dacă o persoană aflată într-o zonă roșie sau gri provoacă intenționat (face 'Provoking'), aveți permisiunea să o îndepărtați din fața afacerii / din afacere — inclusiv prin folosirea armelor, dacă este necesar. În cazul afacerilor legale ce dispun de o parte ilegala (ex. Hanul Namol), în partea ilegală a acestor afaceri, sunt permise acțiunile ilegale din partea proprietarilor acestor afaceri și nu se aplica regula de ilegalitate în zonă publică.
-
-- Există zone retrase în interiorul zonelor verzi (ex: zona Rockford – între blocuri, în spatele clădirilor). Dacă atrageți un jucător în astfel de locuri, îl puteți răpi, jefui sau omorî. În aleile dintre blocuri din zona verde, se aplică regulile Zonei Gri.
-
-- ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
-  - să evite provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)
-  - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc. (Sancțiune: No-Fear + scoaterea acestuia din zona verde)
-
-  <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiune între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
-
-_Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
-
 ### <a id="7.9"></a><span style="color: #0088CC">7.7 Jafuri jucători</span>
 
 Intervalul orar în care puteți jefui un jucător este <span style="color:yellowgreen">**20:00 - 08:00**</span>.
@@ -2326,7 +2314,7 @@ Toate aceste excepții se pot face respectând regula <a href="#7.3">#7.3 Ilegal
 - răpirea unui jucător din propria casă fără un RP anterior cu acesta
 - forțarea unui jucător să scoată iteme din seifuri personale
 - încuierea ușii atunci când ești urmărit de alți oameni/poliție
-- intratul în curtile cu garduri fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 4+
+- intratul în curtile cu garduri fără aprobarea proprietarului/chiriașului, un roleplay anterior (ex. o urmărire) sau un roleplay complex aprobat de un Admin 6+
 - acțiuni ilegale în apropierea caselor care nu sunt în <a href="./rules/zones#Z1"> Zonele rău famate</a>
 - Este strict interzisa asteptarea iesirii unui jucator din casa sa, in proximitatea casei sale, cu scopul de a-l jefui / omora. <br><br>
 _<span style="color: yellow">Exemplu:</span> Eu te-am vazut in Grove, te-am vazut ca ai intrat in casa, nu interactionez cu tine pana atunci, si te astept in afara casei ca sa te jefuiesc cand iesi. Si in cazul in care interactionezi cu el, incerci sa il jefuiesti, acesta fuge in casa si inchide usa nu ai voie sa il campezi, in momentul acela el a incalcat regula de incuiere a unei usi in timpul unei urmariri. In cazul in care stii ca cineva locuieste intr-o casa intr-o zona rau famata, ai tot dreptul de a-l astepta pe strazile alaturate sau alte zone relativ apropiate pentru a incerca sa il jefuiesti dar nu in imediata apropiere a casei._

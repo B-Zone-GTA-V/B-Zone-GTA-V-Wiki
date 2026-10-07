@@ -21,8 +21,6 @@ Telefonul vine cu mai multe aplicații folosite după cum urmează:
 |B-Invest|Pentru a vedea informații despre investiții|
 |Galerie|Pentru a vedea fotografiile făcute|
 |BNN|B-Zone Network App|
-|Faction|Leader App|
-|Staff|Admin App|
 |Camera|Pentru a face poze|
 |Settings|Pentru a schimba setările telefonului|
 |Message|Pentru a trimite / citi mesaje|

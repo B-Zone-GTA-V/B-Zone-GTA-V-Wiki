@@ -12,5 +12,5 @@ Canistrele de benzină ocupă un spațiu generic de 2 kg, având o capacitate de
 
 <details>
   <summary>Benzinărie</summary>
-  <img src="https://assets.b-zone.ro/wiki/gas-station.gif" alt="Gas">
+  <img src="https://assets.b-zone.ro/wiki/gas-station.png" alt="Gas">
 </details>

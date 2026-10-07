@@ -6,11 +6,12 @@ outline: deep
 
 ## Introducere
 
-Licențele sunt achiziționate sau dobândite în urma acțiunilor jucătorilor. Pe server există un număr total de 10 licențe ce se pot achiziționa de la primărie / DMV / Poliție. 
+Licențele sunt achiziționate sau dobândite în urma acțiunilor jucătorilor. Pe server există un număr total de 11 licențe ce se pot achiziționa de la primărie / DMV / Poliție. 
 
 > Licențe disponibile la Primărie:
 - Licența de pescuit
 - Licența de minerit
+- Licența de minerit subacvatic
 - Licența de crescător de tabac
 - Licența de tăietor de lemne 
 
@@ -35,7 +36,7 @@ Licențele de navigat bărci și pilotat elicoptere/avioane se obțin din acela�
 
 Redobândirea acestor licențe se face repetând testele de la DMV.
 
-Licențele de pescuit și minerit permit jucătorilor să facă joburi complet legal și să nu fie sancționați de poliție atunci când sunt opriți pentru un control de rutină. Activitatea la locul de muncă NU este afectată de o licență (poți lucra și fără licențe active, dar ești predispus la sancțiunile polițiștilor).
+Licențele de pescuit, minerit și minerit subacvatic permit jucătorilor să facă joburi complet legal și să nu fie sancționați de poliție atunci când sunt opriți pentru un control de rutină. Activitatea la locul de muncă NU este afectată de o licență (poți lucra și fără licențe active, dar ești predispus la sancțiunile polițiștilor).
 
 Licența de port-armă și cea de tractări poate să fie primită doar de la polițiști în urma unui test.
 

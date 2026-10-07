@@ -13,13 +13,11 @@ lastUpdated: true
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://assets.b-zone.ro/b-zone-zone_cayo.png" target="_blank">
     <img src="https://assets.b-zone.ro/b-zone-zone_cayo.png">
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://assets.b-zone.ro/b-zone-zone_maldive.png" target="_blank">
@@ -33,12 +31,14 @@ Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și,
 
 <div class="rule-box rule-green">
     <div class="title">Excepții:</div>
-- Pe zonele verzi de pe Aeroport Cayo sau Maldive va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.
+- Pe zonele verzi de pe Aeroport Cayo sau Maldive va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.<br>
+- Pe insula Cayo / Maldive daca, cineva incearca sa va jefuiasca pe voi sau un alt membru din alta mafie si surprindeti aceasta actiune puteti sa mergeti sa il ridicati de oriunde de pe insula INCLUSIV HANGAR / AEROPORT / GARAJ etc. Cu conditia sa il luati de acolo cat mai repede si sa nu treaca mai mult de 15 minute de la momentul in care l-ati avut in vizor.
 </div>
 
 ---
 
 ## <a id="Z3"></a><span style="color:red; font-size: 20px;">Z3 - ZONE ROSII</span>
+
 Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara acestuia, unde se pot întâmpla multe ilegalități, dar nu în apropierea unor business-uri (exemple: benzinării, frizerii, magazine, locuri de muncă, locuri de parcare, cluburi - marcate pe hartă).
 
 <div class="rule-box rule-green">
@@ -58,6 +58,7 @@ Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara 
 ---
 
 ## <a id="Z4"></a><span style="color:yellow; font-size: 20px;">Z4 - ZONE/DRUMURI GALBENE</span>
+
 Zonele și drumurile galbene sunt zone semipublice sau semifamate care marchează tranziția dintre o zonă publică și una periculoasă. În aceste zone, ilegalitățile se comit pe propria răspundere. Este permis să răpiți sau să folosiți arme pentru răpiri, dar <strong style="color: red">NU</strong> cu scopul de a jefuii. Pentru a ucide pe cineva în aceste zone, trebuie să aveți un motiv solid. De obicei, aceste drumuri sunt frecvent tranzitate, astfel încât există riscul de a fi văzuți comițând ilegalități, ceea ce dorim să evităm. În apropierea zonelor galbene se află zonele rău famate, așa că se recomandă răpirea din zona galbenă și mutarea în zona rău famată pentru continuarea roleplay-ului.
 
 <div class="rule-box rule-green">
@@ -78,6 +79,7 @@ Zonele și drumurile galbene sunt zone semipublice sau semifamate care marcheaz�
 ---
 
 ## <a id="Z5"></a><span style="color:gray; font-size: 20px;">Z5 - ZONE GRI / DRUMURI ROȘII</span>
+
 Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalități. În principiu sunt drumurile ce nu au fost marcate pe harta de mai sus cu nici o culoare, alei între cladiri, drumuri prin munți sau prin extremitatea hărții.
 
 <span style="color:gray; font-size: 18px;">În orașe</span>
@@ -124,10 +126,24 @@ Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalit
 - Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
 
 - Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie. Se va sancționa conform regulii de <a href="../rules#2.13">#2.13 PowerGaming (PG)</a>
+
+- Regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a> se aplică pentru toate afacerile (benzinării, garaje, saloane, ATM-uri etc.), indiferent dacă acestea se află în zone roșii, galbene sau gri. Dacă o persoană aflată într-o zonă roșie sau gri provoacă intenționat (face 'Provoking'), aveți permisiunea să o îndepărtați din fața afacerii / din afacere — inclusiv prin folosirea armelor, dacă este necesar. În cazul afacerilor legale ce dispun de o parte ilegala (ex. Hanul Namol), în partea ilegală a acestor afaceri, sunt permise acțiunile ilegale din partea proprietarilor acestor afaceri și nu se aplica regula de ilegalitate în zonă publică.
+
+- Există zone retrase în interiorul zonelor verzi (ex: zona Rockford – între blocuri, în spatele clădirilor). Dacă atrageți un jucător în astfel de locuri, îl puteți răpi, jefui sau omorî. În aleile dintre blocuri din zona verde, se aplică regulile Zonei Gri.
+
+- ⚠️ Dacă un jucător este urmărit de persoane înarmate și se refugiază într-o zonă de siguranță (ex. zonă verde), acesta trebuie:
+  - să evite provocările, jignirile și orice acțiuni care pot escalada conflictul (Sancțiune: Provoking + scoaterea acestuia din zona verde)
+  - să adopte o atitudine precaută și să caute metode rezonabile de a ieși din situația de risc. (Sancțiune: No-Fear + scoaterea acestuia din zona verde)
+
+  <span style="color: lightpink"> _Dacă jucătorul rămâne în zonă verde mai mult de 30 de minute doar pentru a trage de timp, poate primi sancțiune între Ban 1 – 7 zile și ștergerea completă a inventarului._</span>
+
+_Important:_ Evitați comiterea de ilegalități în locuri aglomerate, tranzitate, supravegheate sau aproape de secții de poliție. Ilegalitățile trebuie comise în locuri ferite și ascunse. **Nu aveți voie să răpiți din zona verde și să transportați victima între blocuri pentru jaf sau omor.** Încercați mai degrabă să atrageți victima în astfel de locuri.
 </div>
 
 ## <a id="Z6"></a><span style="color: #0088CC">Z6 - ZONE NEPOPULATE</span>
+
 Sunt acele zone pe hartă unde nu ați putea fi văzuți de cetățeni trecători, fiind niște zone foarte retrase pe unde nu trece lumea în mod constant.<br>
+
 <div class="rule-box rule-red">
 <div class="title">În aceste zone este strict <span style="color: red">INTERZIS</span>:</div>
 - apelul medicilor cât timp sunteți în comă<br>
