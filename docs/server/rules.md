@@ -1002,17 +1002,9 @@ Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este in
     </table>
 </div>
 
-### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitenciar</span>
+### <a id="2.25"></a><span style="color: #0088CC">2.25 Corupția</span>
 
-În interiorul și în curtea penitenciarului nu se aplică „Legea Junglei”.
-
-Regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> se aplică atât în interiorul, cât și în curtea penitenciarului.
-
-Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci când sunt prezenți membri din cadrul departamentului de poliție.
-
-### <a id="2.26"></a><span style="color: #0088CC">2.26 Corupția</span>
-
-#### <a id="2.26.1"></a><span style="color: #0088CC">2.26.1 Corupție IC</span>
+#### <a id="2.25.1"></a><span style="color: #0088CC">2.25.1 Corupție IC</span>
 
 Corupția IC reprezintă orice metodă de corupție la nivel de caracter.
 
@@ -1035,7 +1027,7 @@ Corupția IC reprezintă orice metodă de corupție la nivel de caracter.
     <p>14 Fanction Punish (nu vei mai putea intra în altă facțiune sau gang pentru 14 zile) + blacklist în facțiune</p>
 </div>
 
-#### <a id="2.26.2"></a><span style="color: #0088CC">2.26.2 Corupție OOC</span>
+#### <a id="2.25.2"></a><span style="color: #0088CC">2.25.2 Corupție OOC</span>
 
 Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de comunicare decât cele oferite de server.
 
@@ -1051,7 +1043,7 @@ Corupția OOC reprezintă orice metodă de corupție făcută pe alte canale de 
 </div>
 <div class="rule-box rule-green">
     <div class="title">Excepție:</div>
-Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi sancționate în baza regulii 2.26 - Corupție
+Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi sancționate în baza regulii 2.25 - Corupție
 </div>
 
 <div class="rule-box rule-sanction">
@@ -1059,7 +1051,7 @@ Gradele de conducere ale facțiunilor (Comisar-Șef+ și Director) nu pot fi san
     <p>BAN 1–14 zile, în funcție de gravitate, fără drept de plată + 30 Faction Punish (nu vei mai putea intra într-o altă facțiune sau gang timp de 30 de zile) + blacklist în facțiune.</p>
 </div>
 
-### <a id="2.27"></a><span style="color: #0088CC">2.27 Freechat</span>
+### <a id="2.26"></a><span style="color: #0088CC">2.26 Freechat</span>
 
 Freechat reprezintă folosirea chatului OOC din joc, transmițând mesaje care nu sunt de interes comun, a mesajelor de ură sau a frustrărilor.
 
@@ -1070,7 +1062,7 @@ Chat-ul OOC este o formă prin care jucătorii noi care nu cunosc serverul și c
     <p>Mute 10 - 600 minute și poate ajunge până la ban 7 zile sau permanent în funcție de gravitate.</p>
 </div>
 
-### <a id="2.28"></a><span style="color: #0088CC">2.28 Low Effort Roleplay (LER)</span>
+### <a id="2.27"></a><span style="color: #0088CC">2.27 Low Effort Roleplay (LER)</span>
 
 Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
 
@@ -1110,7 +1102,7 @@ Reprezintă atunci când nu depui un minim de interes pentru un roleplay.
     </table>
 </div>
 
-### <a id="2.29"></a><span style="color: #0088CC">2.29 Înșelătoriile (Trasul în țeapă)</span>
+### <a id="2.28"></a><span style="color: #0088CC">2.28 Înșelătoriile (Trasul în țeapă)</span>
 
 Este <span style="color:red">**STRICT INTERZIS**</span> să înșelați alte persoane, atât IC (în joc), cât și OOC (în afara jocului).
 
