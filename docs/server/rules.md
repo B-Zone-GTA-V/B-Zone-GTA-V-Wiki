@@ -1004,11 +1004,11 @@ Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este in
 
 ### <a id="2.25"></a><span style="color: #0088CC">2.25 Penitenciar</span>
 
-În interiorul și în curtea penitenciarului se aplica “Legea Junglei”.
+În interiorul și în curtea penitenciarului nu se aplică „Legea Junglei”.
 
-Sunteți într-o zonă în care există numai infractori, iar regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> nu se aplică.
+Regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> se aplică și în interiorul și în curtea penitenciarului.
 
-Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci cand sunt prezenți membri din cadrul departamentului de poliție.
+Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci când sunt prezenți membri din cadrul departamentului de poliție.
 
 ### <a id="2.26"></a><span style="color: #0088CC">2.26 Corupția</span>
 
@@ -2039,7 +2039,9 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 </div>
 <div class="rule-box rule-green">
     <div class="title">Mențiuni și excepții:</div>
-- în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
+
+- în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă 
+- în cazul în care se constată că bătaia a fost declanșată fără un roleplay anterior sau fără un context Roleplay care să o justifice, aceasta se va încadra la regula <a href="#4.7">4.7 Troll</a> și se va sancționa conform regulamentului.
 </div>
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
