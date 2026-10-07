@@ -1006,7 +1006,7 @@ Jefuirea, omorârea și interacțiunile cu persoanele care sunt pe sleep este in
 
 În interiorul și în curtea penitenciarului nu se aplică „Legea Junglei”.
 
-Regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> se aplică și în interiorul și în curtea penitenciarului.
+Regulile de <a href="#2.15">#2.15 Random Death Match (RDM)</a> și <a href="#2.22">#2.22 Bombardier</a> se aplică atât în interiorul, cât și în curtea penitenciarului.
 
 Se va respecta regula de <a href="#2.19">#2.19 Cop-Fear (CF)</a> atunci când sunt prezenți membri din cadrul departamentului de poliție.
 
