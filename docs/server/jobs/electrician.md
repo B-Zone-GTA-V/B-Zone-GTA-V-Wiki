@@ -94,6 +94,31 @@ Aplicația are două pagini:
   <img src="/assets/images/electrician/tablet_app.webp" alt="Aplicația Electrician">
 </details>
 
+## Minigame: conectarea cablurilor
+
+La panourile electrice trebuie să refaceți conexiunile:
+
+1. Trageți câte un <span class="button-p-job">conector</span> din panoul din stânga pe fiecare cablu de jos.
+2. Conectați fiecare cablu la portul de <b>aceeași culoare</b> din partea de sus.
+3. Un port conectat corect se aprinde (leduri verde și portocaliu).
+
+Cablurile și porturile nu sunt în aceeași ordine, așa că uneori trebuie să le încrucișați. Un cablu legat la portul greșit vă poate electrocuta și vă scade din HP.
+
+<details>
+  <summary>1. Panoul la început</summary>
+  <img src="/assets/images/electrician/minigame_1_start.webp" alt="Panoul electric la început">
+</details>
+
+<details>
+  <summary>2. Atașarea conectorilor pe cabluri</summary>
+  <img src="/assets/images/electrician/minigame_2_conectori.webp" alt="Atașarea conectorilor">
+</details>
+
+<details>
+  <summary>3. Cablurile conectate la porturi</summary>
+  <img src="/assets/images/electrician/minigame_3_conectare.webp" alt="Cablurile conectate la porturile de aceeași culoare">
+</details>
+
 ## Tipuri de locații
 
 <table>
