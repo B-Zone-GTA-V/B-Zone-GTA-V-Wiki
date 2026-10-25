@@ -143,6 +143,6 @@ Pentru orice sancțiune de Ban cu o durata mai lunga de 5 zile aveți nevoie de 
 Jucătorii au termen de 72 de ore pentru a deschide o plângere dacă consideră că au fost sancționați greșit. Este important să le oferiți toate informațiile relevante și dovezile pentru a susține decizia luată.
 
 <div class="info-box">
-    <strong>Regulamentul STAFF a fost modificat de către <span class="button-p-hobby">Pant1limon[7]</span> si <span class="button-p-hobby">Livius[25]</span> si acceptat de catre <span class="button-r-job">Roho[1].</span></strong>
+    <strong>Regulamentul STAFF a fost modificat de către <span class="button-p-hobby">Pant1limon</span> si <span class="button-p-hobby">Livius</span> si acceptat de catre <span class="button-r-job">Roho.</span></strong>
     <p>Asigurați-vă că ați citit și respectati noile modificări pentru a evita eventualele sancțiuni și pentru a fi la curent cu regulile actualizate.</p>
 </div>

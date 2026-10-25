@@ -249,6 +249,28 @@ Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, d
 - Transferul de bunuri înainte de a primi CK și recuperarea ulterioară este interzis și se sancționează cu <span style="color: red">warn</span> și ștergerea respectivelor bunuri.
 </div>
 
+<div class="rule-box rule-sanction">
+    <div class="title">Sancțiuni:</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Abaterea</th>
+                <th>Sancțiune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Acumulare 5 CK-uri</td>
+                <td>Ban permanent cu drept de plată</td>
+            </tr>
+            <tr>
+                <td>Acumulare 10 CK-uri</td>
+                <td>Ban permanent fără drept de plată</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 ### <a id="2.6"></a><span style="color: #0088CC">2.6 Coma</span>
 
 Reprezintă situația în care ești doborât la pământ din diferite motive (împușcat, înjunghiat, lipsă de hrană/apă). Vă este INTERZIS să comunicați prin orice cale, atât IC, cât și OOC cât timp sunteți în comă. Informațiile văzute în comă vor fi ignorate.
@@ -330,7 +352,7 @@ Reprezintă situația în care un jucător nu respectă regulile și normele sta
 <div class="title">Exemple:</div>
 
 - Medici - Eșecul de a salva persoane. Situația în care un cadru medical are o interacțiune directă sau indirectă cu un cetățean care are nevoie de asistență medicală. Ignorându-l, se consideră fail roleplay.
-- Polițiști - Eșecul de a aplica Codul Penal Rutier. Situația în care un membru din departamentul de poliție observă o persoană sau un grup de persoane care încalcă codul penal sau rutier și trece pe lângă aceștia fără a lua atitudine conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Exceptie:</span> Momentul în care poliția nu are capacitățile necesare din punct de vedere numeric, al echipamentului sau al aptitudinilor pentru a putea interveni. (Exemplu: Un singur echipaj vine la un jaf de magazin și vede faptul că sunt depășiți considerabil numeric 2 vs 8, moment în care poliția poate să plece și să ceară/aștepte întăriri).
+- Polițiști – Eșecul de a aplica Codul Penal. Situația în care un membru al departamentului de poliție observă o persoană sau un grup de persoane care încalcă Codul Penal și trece pe lângă aceștia fără a lua atitudine, conform protocolului intern al departamentului în cauză. <span style="color: yellowgreen">Excepție:</span> Momentul în care poliția nu are capacitățile necesare, din punct de vedere numeric, al echipamentului sau al aptitudinilor, pentru a putea interveni. (Exemplu: Un singur echipaj vine la un jaf de magazin și observă că este depășit considerabil numeric (2 vs. 8), moment în care poliția poate să plece și să ceară/aștepte întăriri).
 - Deschiderea OOC în IC
 - Tractarea de vehicule parcate regulamentar fără să vă asigurați că acestea sunt abandonate. Dacă găsiți un vehicul parcat legal, dar considerați că este abandonat, întrebați jucătorii din jur pentru a verifica dacă vehiculul este deținut de cineva sau dacă este abandonat. Dacă nu există nimeni în apropiere, sunteți obligați să așteptați cel puțin 5 minute pentru a confirma dacă acesta este într-adevăr abandonat. În cazul în care un jucător deschide un ticket pentru dispariția unei mașini parcate legal, sunteți obligați să furnizați dovezi clare care să arate că ați verificat dacă mașina este deținută de cineva din apropiere și că ați așteptat cele 5 minute.
 - Jefuirea de oameni în comă indiferent de zona unde se află (Ex. Găsești pe cineva în comă și il jefuiești, indiferent dacă îi dai in vreum fel revive sau pe loc în timp ce e mort)
@@ -573,6 +595,12 @@ Reprezintă atacarea cu pumnii/arme albe sau împușcarea unui jucător sau a un
     <p>Te deplasezi pe o stradă, iar la un moment dat vezi 2 persoane care stau retrase și discută. Te apropii de ei și îi împuști, dar tu nu i-ai mai văzut până în acel moment și nu ai nici un roleplay anterior care să te lege de aceștia.</p>
 </div>
 
+<div class="rule-box rule-green">
+    <div class="title">Excepție:</div>
+
+- În cadrul jafurilor Fleeca, RDM-ul este permis în zona marcată. Orice persoană care intră în această zonă poate fi împușcată fără avertisment sau explicații suplimentare. Această excepție nu se aplică vehiculelor sau persoanelor aflate în afara zonei marcate. De asemenea, este interzisă deschiderea focului asupra persoanelor care desfășoară un job sau asupra vehiculelor utilizate pentru acesta.
+</div>
+
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
     <table>
@@ -686,6 +714,7 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - Nu te temi în mod realist de a muri atunci când ești amenințat cu arma sau lovit cu pumnii.
 - Ești singur și nu îți este frică să te apropii de zone rău famate unde sunt grupuri cu arme în mâini și începi să îi provoci.
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
+- Intri în zona marcată a unui jaf Fleeca în calitate de civil, fără a ține cont de pericolul la care te expui.
 </div>
 
 <div class="rule-box rule-green">

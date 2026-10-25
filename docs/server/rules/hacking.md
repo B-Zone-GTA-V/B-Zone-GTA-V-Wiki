@@ -11,8 +11,7 @@ Reprezintă folosirea programelor pentru a îți crea avantaje sau pentru a dera
 
 <div class="rule-box rule-yellow">
     <div class="title">Mentiune:</div>
-Dacă sunteți banați pentru folosirea de cheat-uri, nu aveți dreptul de a folosi arme de foc pe server timp de 30 de zile, chiar dacă banul este plătit.
-Dacă sunteți prinși folosind arme de foc în această perioadă, veți fi banați permanent.
+Jucătorii care primesc ban pentru folosirea de cheat-uri vor avea interdicție la utilizarea armelor de foc pe server timp de 90 de zile, chiar dacă achită banul. Începând cu a doua abatere, perioada de interdicție va fi de 365 de zile pentru fiecare abatere ulterioară.
 </div>
 
 <div class="rule-box rule-sanction">

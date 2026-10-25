@@ -52,8 +52,8 @@ lastUpdated: true
 <span style="color: yellowgreen">Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.</span>
 </div>
 
-## <a id="M2"></a>M2 - Deturnarea unui transport
-Se permite deturnarea unui transport de deținuți, oriunde în afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere), dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
+## <a id="M2"></a>M2 - Deturnarea unui transport de deținuți
+Se permite deturnarea unui transport de deținuți, oriunde în afara orașului, dacă liderul sau cel puțin 2 membri din gruparea voastră se află în acest transport. Se permite alianța dintre 2 mafii (oficiale / neoficiale) pentru a deturna un transport. Numărul minim de oameni pentru a efectua o deturnare este de 3 oameni.
 <div class="rule-box rule-red">
 <div class="title">Sunt interzise:</div>
 
@@ -86,6 +86,16 @@ Se permite deturnarea unui transport de deținuți, oriunde în afara orașului 
         </table>
         În cazul în care această regulă este încălcată în prezența liderului și/sau a subliderului, mafia respectivă va primi implicit <strong style="color: red">Mafia WARN</strong>.<br><br>
         <span style="color: yellowgreen">Sancțiunea oferită poate fi mai drastică în funcție de gravitatea situației și nu se respectă numărul de abateri.</span>
+</div>
+
+## <a id="M2.1"></a>M2.1 -  Transporturi ilegale ale mafiilor
+
+În cadrul transporturilor de marfă ilegală organizate de mafii prin sistemul disponibil în tableta de la sindicat, restricțiile privind desfășurarea activităților ilegale în zonele publice nu se aplică, cu excepția zonelor foarte aglomerate.
+
+Doar mafia care interceptează transportul are dreptul să intervină asupra acestuia. Celelalte mafii nu au dreptul să se implice în desfășurarea transportului.
+<div class="rule-box rule-sanction">
+<div class="title">Sancțiuni:</div>
+Încălcarea acestei reguli se sancționează cu 2x Mafia Warn.
 </div>
 
 ## <a id="M3"></a>M3 - Limite membri la ilegalitati
