@@ -4,9 +4,15 @@ outline: deep
 
 # Electrician
 
-::: tip ⚡ Rework
-Jobul de Electrician a fost refăcut complet, cu interfețe noi, contracte, progresie prin experiență și posibilitatea de a lucra singur sau în echipă cu un prieten.
-:::
+<div class="el-hero">
+  <div class="el-hero-icon">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8z"/></svg>
+  </div>
+  <div>
+    <span class="el-hero-tag">⚡ Rework</span>
+    <p>Jobul de Electrician a fost refăcut complet, cu interfețe noi, contracte, progresie prin experiență și posibilitatea de a lucra singur sau în echipă cu un prieten.</p>
+  </div>
+</div>
 
 ## Introducere
 
@@ -44,132 +50,122 @@ Jobul de Electrician a fost refăcut complet, cu interfețe noi, contracte, prog
 Pentru a putea lucra ca <span class="button-p-job">Electrician</span> trebuie să vă angajați la NPC-ul Electrician din Los Santos.
 <br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> Electrician</span>.
 
-De la NPC-ul Electrician puteți lua uniforma, închiria vehiculul de job și cumpăra uneltele necesare.
-
 ## Cum funcționează
 
-1. Vă angajați la NPC-ul Electrician, luați uniforma, închiriați vehiculul și cumpărați uneltele.
-2. Vă asigurați că aveți o <span class="button-p-job">șurubelniță</span> în inventar.
-3. Din aplicația <span class="button-p-job">Electrician</span> de pe tabletă alegeți contractul și locația în care vreți să lucrați.
-4. Mergeți la locație, verificați instalațiile electrice, identificați defecțiunile și rezolvați minigame-urile de reparație.
-5. Finalizați contractul înainte să expire timpul.
+<div class="el-steps">
+  <div class="el-step"><b>Angajare</b>De la NPC-ul Electrician luați uniforma, închiriați vehiculul și cumpărați uneltele.</div>
+  <div class="el-step"><b>Șurubelniță</b>Asigurați-vă că aveți o șurubelniță în inventar.</div>
+  <div class="el-step"><b>Contract</b>Din aplicația Electrician de pe tabletă alegeți contractul și locația.</div>
+  <div class="el-step"><b>Reparație</b>Verificați instalațiile, găsiți defecțiunile și rezolvați minigame-urile.</div>
+  <div class="el-step"><b>Progres</b>Terminați la timp și primiți experiență și puncte de perk.</div>
+</div>
 
-La fiecare contract terminat acumulați <span class="button-p-job">experiență</span> și <span class="button-p-job">Puncte Perk</span>, cu care deblocați abilități și locații noi.
-
-#### <span class="button-p-job"><b>Important</b></span>
-
-- Contractele trebuie finalizate înainte de expirarea timpului.
-- Conexiunile greșite pot provoca <span class="button-r-job">electrocutare</span> și pierdere de HP.
+<div class="el-warn">
+  <span class="el-warn-icon">⚠️</span>
+  <div><b>Atenție:</b> contractele trebuie finalizate înainte să expire timpul. Conexiunile greșite pot provoca electrocutare și pierdere de HP.</div>
+</div>
 
 ## Unelte
 
-Șurubelnița se cumpără de la NPC-ul Electrician și este obligatorie pentru reparații. Are acum <span class="button-p-job">200 de puncte de durabilitate</span>, care scad pe măsură ce o folosiți.
-
-<div class="item-card">
-  <div class="item-card-title">Șurubelniță</div>
-  <p>Unealta de bază a electricianului, necesară pentru repararea instalațiilor. Are 200 de puncte de durabilitate.</p>
-  <span class="item-card-weight">⚖️ 0.50KG</span>
+<div class="el-feature">
+  <img src="/assets/images/electrician/surubelnita_card.png" alt="Șurubelniță în market">
+  <div class="el-feature-body">
+    <div class="el-feature-title">Șurubelniță</div>
+    <p>Unealta de bază a electricianului, obligatorie pentru reparații. Se cumpără de la NPC-ul Electrician.</p>
+    <div class="el-chips">
+      <span class="el-chip green">🔧 200 puncte de durabilitate</span>
+      <span class="el-chip">⚖️ 0.50 KG</span>
+    </div>
+  </div>
 </div>
-
-<details>
-  <summary>Șurubelnița în market</summary>
-  <img src="/assets/images/electrician/surubelnita_market.png" alt="Șurubelniță" width="400">
-</details>
 
 ## Aplicația Electrician
 
-<img src="/assets/images/electrician/app_icon.png" alt="Electrician" width="64" style="float: right; margin: 0 0 8px 16px;">
-
 Contractele se aleg din aplicația <span class="button-p-job">Electrician</span> din tabletă. Deschideți tableta cu tasta <span class="button-p-job">O</span> și intrați în aplicație.
 
-Aplicația are două pagini:
+<div class="el-device">
+  <img src="/assets/images/electrician/tablet_app.webp" alt="Aplicația Electrician pe tabletă">
+</div>
+<div class="el-caption">Aplicația Electrician: lista de comenzi în stânga, harta cu locațiile în dreapta.</div>
 
-- <b>Comenzi</b> — lista contractelor disponibile, cu tipul defecțiunii, locația, distanța, timpul limită și plata. Lista se poate sorta (de exemplu după distanța până la locație), iar locațiile se văd și pe hartă.
-- <b>Perk-uri</b> — arborele de perk-uri, unde vă cheltuiți punctele.
-
-În partea de sus vedeți punctele perk disponibile, rangul (de exemplu <b>Amateur Electrician</b>), nivelul și progresul până la nivelul următor.
-
-<details>
-  <summary>Aplicația Electrician</summary>
-  <img src="/assets/images/electrician/tablet_app.webp" alt="Aplicația Electrician">
-</details>
+<div class="el-legend">
+  <div class="el-legend-item"><b>⚡ Comenzi</b>Contractele disponibile, cu defecțiunea, locația, distanța, timpul limită și plata. Lista se poate sorta, de exemplu după distanță.</div>
+  <div class="el-legend-item"><b>🌳 Perk-uri</b>Arborele de perk-uri, unde vă cheltuiți punctele câștigate.</div>
+  <div class="el-legend-item"><b>📈 Progres</b>Sus vedeți punctele perk, rangul (de exemplu Amateur Electrician), nivelul și experiența până la nivelul următor.</div>
+</div>
 
 ## Minigame: conectarea cablurilor
 
-La panourile electrice trebuie să refaceți conexiunile:
+La panourile electrice refaceți conexiunile: fiecare cablu primește un conector și se leagă la portul de **aceeași culoare**. Cablurile nu sunt în aceeași ordine ca porturile, așa că uneori trebuie încrucișate.
 
-1. Trageți câte un <span class="button-p-job">conector</span> din panoul din stânga pe fiecare cablu de jos.
-2. Conectați fiecare cablu la portul de <b>aceeași culoare</b> din partea de sus.
-3. Un port conectat corect se aprinde (leduri verde și portocaliu).
-
-Cablurile și porturile nu sunt în aceeași ordine, așa că uneori trebuie să le încrucișați. Un cablu legat la portul greșit vă poate electrocuta și vă scade din HP.
-
-<details>
-  <summary>1. Panoul la început</summary>
-  <img src="/assets/images/electrician/minigame_1_start.webp" alt="Panoul electric la început">
-</details>
-
-<details>
-  <summary>2. Atașarea conectorilor pe cabluri</summary>
-  <img src="/assets/images/electrician/minigame_2_conectori.webp" alt="Atașarea conectorilor">
-</details>
-
-<details>
-  <summary>3. Cablurile conectate la porturi</summary>
-  <img src="/assets/images/electrician/minigame_3_conectare.webp" alt="Cablurile conectate la porturile de aceeași culoare">
-</details>
+<div class="el-gallery">
+  <div class="el-shot">
+    <a class="el-shot-img" href="/assets/images/electrician/minigame_1_start.webp" target="_blank"><img src="/assets/images/electrician/minigame_1_start.webp" alt="Panoul electric la început"></a>
+    <div class="el-shot-text"><b>Pasul 1</b>Panoul are porturile colorate sus, cablurile jos și conectorii în stânga.</div>
+  </div>
+  <div class="el-shot">
+    <a class="el-shot-img" href="/assets/images/electrician/minigame_2_conectori.webp" target="_blank"><img src="/assets/images/electrician/minigame_2_conectori.webp" alt="Atașarea conectorilor"></a>
+    <div class="el-shot-text"><b>Pasul 2</b>Trageți câte un conector pe fiecare cablu.</div>
+  </div>
+  <div class="el-shot">
+    <a class="el-shot-img" href="/assets/images/electrician/minigame_3_conectare.webp" target="_blank"><img src="/assets/images/electrician/minigame_3_conectare.webp" alt="Cablurile conectate la porturi"></a>
+    <div class="el-shot-text"><b>Pasul 3</b>Legați cablul la portul de aceeași culoare. Portul se aprinde când e corect.</div>
+  </div>
+</div>
 
 ## Tipuri de locații
 
-<table>
-    <tr>
-        <td>Tip</td>
-        <td>Ce înseamnă</td>
-    </tr>
-    <tr>
-        <td><span class="button-r-job">Periculoase</span></td>
-        <td>Există riscul de electrocutare.</td>
-    </tr>
-    <tr>
-        <td><span class="button-r-job">Cu risc de incendiu</span></td>
-        <td>Greșelile sau evenimentele aleatorii pot provoca incendii.</td>
-    </tr>
-    <tr>
-        <td><span class="button-r-job">De urgență</span></td>
-        <td>Trebuie să rezolvați problema într-un timp limitat.</td>
-    </tr>
-</table>
+<div class="el-types">
+  <div class="el-type danger">
+    <span class="el-type-icon">⚡</span>
+    <div class="el-type-title">Periculoase</div>
+    Există riscul de electrocutare.
+  </div>
+  <div class="el-type fire">
+    <span class="el-type-icon">🔥</span>
+    <div class="el-type-title">Risc de incendiu</div>
+    Greșelile sau evenimentele aleatorii pot provoca incendii.
+  </div>
+  <div class="el-type urgent">
+    <span class="el-type-icon">⏱️</span>
+    <div class="el-type-title">De urgență</div>
+    Trebuie să rezolvați problema într-un timp limitat.
+  </div>
+</div>
 
 ## Lucru în echipă
 
-Puteți invita un prieten pentru a lucra împreună. Ambii jucători trebuie să aibă deblocat <span class="button-p-job">perk-ul pentru lucrul în echipă</span>.
+Puteți invita un prieten pentru a lucra împreună. Ambii jucători trebuie să aibă deblocat <span class="button-p-job">perk-ul pentru lucrul în echipă</span>. Unele minigame-uri se pot rezolva doar împreună:
 
-Unele minigame-uri necesită colaborare între cei doi jucători:
-
-- un jucător vede panoul cu cabluri;
-- celălalt are schema conexiunilor corecte;
-- trebuie să comunicați prin stație pentru a conecta corect cablurile.
+<div class="el-team">
+  <div class="el-team-player">
+    <span class="el-type-icon">🔌</span>
+    <b>Jucătorul 1</b>
+    Vede panoul cu cabluri și face conexiunile.
+  </div>
+  <div class="el-team-link">
+    <span>📻</span>
+    <span>Stație</span>
+  </div>
+  <div class="el-team-player">
+    <span class="el-type-icon">📋</span>
+    <b>Jucătorul 2</b>
+    Are schema cu conexiunile corecte și îl ghidează.
+  </div>
+</div>
 
 ## Perk-uri
 
 Punctele perk primite la contracte se cheltuie în pagina <b>Perk-uri</b> din aplicație. Apăsați pe un perk pentru a vedea descrierea și costul, apoi pe <span class="button-p-job">Învață perk</span>.
 
-**Exemplu:**
-
-<table>
-    <tr>
-        <td>Perk</td>
-        <td>Descriere</td>
-        <td>Cost</td>
-    </tr>
-    <tr>
-        <td>Contracte Profitabile I</td>
-        <td>Bonus la plată pentru fiecare comandă standard finalizată: +5%.</td>
-        <td>250 Puncte perk</td>
-    </tr>
-</table>
-
-<details>
-  <summary>Contracte Profitabile I</summary>
-  <img src="/assets/images/electrician/perk_contracte_profitabile.png" alt="Contracte Profitabile I" width="400">
-</details>
+<div class="el-feature portrait">
+  <img src="/assets/images/electrician/perk_contracte_profitabile.png" alt="Contracte Profitabile I">
+  <div class="el-feature-body">
+    <div class="el-feature-title">Contracte Profitabile I</div>
+    <p>Bonus la plată pentru fiecare comandă standard finalizată.</p>
+    <div class="el-chips">
+      <span class="el-chip green">💵 +5% la plată</span>
+      <span class="el-chip gold">250 puncte perk</span>
+    </div>
+  </div>
+</div>
