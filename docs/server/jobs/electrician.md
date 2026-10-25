@@ -117,7 +117,7 @@ Pentru a putea lucra ca <span class="button-p-job">Electrician</span> trebuie s�
 <details class="el-drop">
   <summary><span class="el-drop-icon">📷</span><span>Captura din joc<br><span class="el-drop-sub">Șurubelnița în market</span></span></summary>
   <div class="el-drop-body">
-    <img src="/assets/images/electrician/surubelnita_market.png" alt="Șurubelniță în market" style="max-width: 485px">
+    <img src="https://assets.b-zone.ro/wiki/surubelnita_market.png" alt="Șurubelniță în market" style="max-width: 485px">
   </div>
 </details>
 
@@ -174,7 +174,7 @@ Contractele se aleg din aplicația <span class="button-p-job">Electrician</span>
 <details class="el-drop">
   <summary><span class="el-drop-icon">📷</span><span>Captura din joc<br><span class="el-drop-sub">Aplicația Electrician pe tabletă</span></span></summary>
   <div class="el-drop-body">
-    <img src="/assets/images/electrician/tablet_app.webp" alt="Aplicația Electrician pe tabletă">
+    <img src="https://assets.b-zone.ro/wiki/tablet_app.webp" alt="Aplicația Electrician pe tabletă">
   </div>
 </details>
 
@@ -223,9 +223,9 @@ La panourile electrice refaceți conexiunile: puneți câte un conector pe fieca
   <summary><span class="el-drop-icon">📷</span><span>Capturi din joc<br><span class="el-drop-sub">Minigame-ul pas cu pas (3 poze)</span></span></summary>
   <div class="el-drop-body">
     <div class="el-drop-grid">
-      <img src="/assets/images/electrician/minigame_1_start.webp" alt="Panoul electric la început">
-      <img src="/assets/images/electrician/minigame_2_conectori.webp" alt="Atașarea conectorilor">
-      <img src="/assets/images/electrician/minigame_3_conectare.webp" alt="Cablurile conectate la porturi">
+      <img src="https://assets.b-zone.ro/wiki/minigame_1_start.webp" alt="Panoul electric la început">
+      <img src="https://assets.b-zone.ro/wiki/minigame_2_conectori.webp" alt="Atașarea conectorilor">
+      <img src="https://assets.b-zone.ro/wiki/minigame_3_conectare.webp" alt="Cablurile conectate la porturi">
     </div>
   </div>
 </details>
@@ -309,7 +309,7 @@ Punctele perk primite la contracte se cheltuie în pagina <b>Perk-uri</b> din ap
 <details class="el-drop">
   <summary><span class="el-drop-icon">📷</span><span>Captura din joc<br><span class="el-drop-sub">Perk-ul Contracte Profitabile I</span></span></summary>
   <div class="el-drop-body">
-    <img src="/assets/images/electrician/perk_contracte_profitabile.png" alt="Contracte Profitabile I" style="max-width: 420px">
+    <img src="https://assets.b-zone.ro/wiki/perk_contracte_profitabile.png" alt="Contracte Profitabile I" style="max-width: 420px">
   </div>
 </details>
 
