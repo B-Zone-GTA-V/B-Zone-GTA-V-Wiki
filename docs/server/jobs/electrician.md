@@ -232,21 +232,32 @@ La panourile electrice refaceți conexiunile: puneți câte un conector pe fieca
 
 ## Tipuri de locații
 
+Contractele pot avea loc în trei tipuri de locații, fiecare cu riscul ei:
+
 <div class="el-types">
   <div class="el-type danger">
-    <span class="el-type-icon">⚡</span>
-    <div class="el-type-title">Periculoase</div>
-    Există riscul de electrocutare.
+    <div class="el-type-badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8z"/></svg></div>
+    <div class="el-type-body">
+      <div class="el-type-title">Periculoase</div>
+      <div class="el-type-text">Există riscul de electrocutare.</div>
+    </div>
+    <span class="el-type-tag">− HP</span>
   </div>
   <div class="el-type fire">
-    <span class="el-type-icon">🔥</span>
-    <div class="el-type-title">Risc de incendiu</div>
-    Greșelile sau evenimentele aleatorii pot provoca incendii.
+    <div class="el-type-badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2c1 4 5 6 5 11a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5 0 2 1 3 2 3-1-3 0-6 1-9.5z"/></svg></div>
+    <div class="el-type-body">
+      <div class="el-type-title">Risc de incendiu</div>
+      <div class="el-type-text">Greșelile sau evenimentele aleatorii pot provoca incendii.</div>
+    </div>
+    <span class="el-type-tag">Incendiu</span>
   </div>
   <div class="el-type urgent">
-    <span class="el-type-icon">⏱️</span>
-    <div class="el-type-title">De urgență</div>
-    Trebuie să rezolvați problema într-un timp limitat.
+    <div class="el-type-badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 1h6v2H9zM12 4a9 9 0 1 0 0 18 9 9 0 0 0 0-18zm1 9.4V8h-2v6.2l4.2 2.5 1-1.7z"/></svg></div>
+    <div class="el-type-body">
+      <div class="el-type-title">De urgență</div>
+      <div class="el-type-text">Trebuie să rezolvați problema într-un timp limitat.</div>
+    </div>
+    <span class="el-type-tag">Timp limitat</span>
   </div>
 </div>
 
