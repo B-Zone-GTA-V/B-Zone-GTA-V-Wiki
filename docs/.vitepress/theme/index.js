@@ -6,6 +6,7 @@ import './styles/hobby_style.css'
 import './styles/rules_style.css'
 import './styles/table_style.css'
 import './styles/arena_style.css'
+import './styles/electrician_style.css'
 
 export default {
     ...DefaultTheme,
