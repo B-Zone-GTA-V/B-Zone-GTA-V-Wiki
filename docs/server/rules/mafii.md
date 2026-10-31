@@ -92,7 +92,9 @@ Se permite deturnarea unui transport de deținuți, oriunde în afara orașului,
 
 În cadrul transporturilor de marfă ilegală organizate de mafii prin sistemul disponibil în tableta de la sindicat, restricțiile privind desfășurarea activităților ilegale în zonele publice nu se aplică, cu excepția zonelor foarte aglomerate.
 
-Doar mafia care interceptează transportul are dreptul să intervină asupra acestuia. Celelalte mafii nu au dreptul să se implice în desfășurarea transportului.
+Doar mafia care interceptează transportul are dreptul să intervină asupra acestuia. Celelalte mafii nu au dreptul să se implice în desfășurarea transportului. Totodată, mafia care interceptează transportul unei alte mafii are obligația de a ataca transportul și de a încerca să îl captureze. Nu sunt permise alianțele sau înțelegerile între mafii pentru a ajuta transportul să ajungă la destinație.
+
+
 <div class="rule-box rule-sanction">
 <div class="title">Sancțiuni:</div>
 Încălcarea acestei reguli se sancționează cu 2x Mafia Warn.
