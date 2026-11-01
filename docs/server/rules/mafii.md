@@ -94,6 +94,7 @@ Se permite deturnarea unui transport de deținuți, oriunde în afara orașului,
 
 Doar mafia care interceptează transportul are dreptul să intervină asupra acestuia. Celelalte mafii nu au dreptul să se implice în desfășurarea transportului. Totodată, mafia care interceptează transportul unei alte mafii are obligația de a ataca transportul și de a încerca să îl captureze. Nu sunt permise alianțele sau înțelegerile între mafii pentru a ajuta transportul să ajungă la destinație.
 
+În cadrul transporturilor mafiile implicate sunt obligate să aibe mașinile în culoarea mafie lor.
 
 <div class="rule-box rule-sanction">
 <div class="title">Sancțiuni:</div>
