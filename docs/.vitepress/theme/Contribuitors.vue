@@ -35,16 +35,18 @@ const contributors = computed(() => page.value.contributors || [])
 }
 
 .contributors-list {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 72px);
+  gap: 1rem;
   list-style: none;
   padding: 0;
   margin: 0;
-  justify-content: flex-start;
 }
 
 .contributor-item {
-  margin: 0.5rem;
+  margin: 0;
+  display: flex;
+  justify-content: center;
 }
 
 .contributor-link {
@@ -74,21 +76,35 @@ const contributors = computed(() => page.value.contributors || [])
   transform: scale(1.1);
 }
 
+/* Numele apare ca tooltip sub avatar, fara sa ocupe spatiu in layout */
 .name {
-  margin-top: 0.5rem;
-  font-size: 0.875rem;
-  color: var(--vp-c-text-2);
-  opacity: 0; /* Initially hidden */
-  transition: opacity 0.2s ease-in-out;
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  font-size: 0.8rem;
+  color: var(--vp-c-text-1);
   white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
 }
 
 .avatar-container:hover .name {
-  opacity: 1; /* Show on hover */
+  opacity: 1;
 }
 
-/* Responsive adjustments */
 @media (max-width: 600px) {
+  .contributors-list {
+    grid-template-columns: repeat(auto-fill, 58px);
+    gap: 0.75rem;
+  }
+
   .avatar {
     width: 50px;
     height: 50px;
