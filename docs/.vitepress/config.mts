@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import crypto from 'crypto'
 import Git from 'simple-git'
 
 const git = Git({
@@ -212,44 +211,88 @@ export default defineConfig({
   }
 })
 
-async function getContributors() {
-  try {
-    const logOutput = await git.raw(['log', '--pretty=format:%an|%ae']);
+const GITHUB_REPO = 'B-Zone-GTA-V/B-Zone-GTA-V-Wiki'
 
-    if (!logOutput.trim()) {
-      console.warn('No commits found in the repository');
-      return [];
+interface Contributor {
+  name: string
+  commits: number
+  avatar: string
+  githubUrl: string
+}
+
+// Se calculeaza o singura data per build, nu pentru fiecare pagina
+let contributorsPromise: Promise<Contributor[]> | null = null
+
+function getContributors(): Promise<Contributor[]> {
+  if (!contributorsPromise) contributorsPromise = loadContributors()
+  return contributorsPromise
+}
+
+async function loadContributors(): Promise<Contributor[]> {
+  try {
+    const fromGithub = await getGithubContributors()
+    if (fromGithub.length) return fromGithub
+  } catch (e) {
+    console.warn('[contributors] GitHub API indisponibil, folosesc git log:', e)
+  }
+  return getGitContributors()
+}
+
+// Sursa principala: GitHub API -> avatar GitHub, link profil, commit-uri adunate pe cont
+async function getGithubContributors(): Promise<Contributor[]> {
+  const headers: Record<string, string> = {
+    Accept: 'application/vnd.github+json',
+    'User-Agent': 'b-zone-wiki-build'
+  }
+  if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`
+
+  const res = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contributors?per_page=100`, { headers })
+  if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`)
+
+  const data: any[] = await res.json()
+  return data
+    .filter((c) => c.type !== 'Bot')
+    .map((c) => ({
+      name: c.login,
+      commits: c.contributions,
+      avatar: `${c.avatar_url}${c.avatar_url.includes('?') ? '&' : '?'}s=120`,
+      githubUrl: c.html_url
+    }))
+    .sort((a, b) => b.commits - a.commits)
+}
+
+// Fallback: git log, grupat pe email, cu commit-urile numarate corect
+async function getGitContributors(): Promise<Contributor[]> {
+  try {
+    const logOutput = await git.raw(['log', '--pretty=format:%an|%ae'])
+    if (!logOutput.trim()) return []
+
+    const byEmail: Record<string, Contributor> = {}
+    for (const line of logOutput.split('\n')) {
+      const [name, rawEmail] = line.split('|')
+      const email = rawEmail?.trim().toLowerCase()
+      if (!email) continue
+
+      if (!byEmail[email]) {
+        // ex: 150546396+Pant1limon@users.noreply.github.com
+        const noreply = email.match(/^(?:(\d+)\+)?([^@]+)@users\.noreply\.github\.com$/)
+        byEmail[email] = {
+          name: noreply ? noreply[2] : name,
+          commits: 0,
+          avatar: noreply?.[1]
+            ? `https://avatars.githubusercontent.com/u/${noreply[1]}?s=120`
+            : noreply
+              ? `https://github.com/${noreply[2]}.png?size=120`
+              : 'https://github.com/ghost.png?size=120',
+          githubUrl: noreply ? `https://github.com/${noreply[2]}` : `https://github.com/${GITHUB_REPO}/commits?author=${encodeURIComponent(email)}`
+        }
+      }
+      byEmail[email].commits++
     }
 
-    const list = logOutput
-      .split('\n')
-      .map((line) => line.split('|') as [string, string]);
-
-    const contributorsMap: Record<string, { name: string; email: string; commits: number }> = {};
-    const uniqueNames: Set<string> = new Set();
-
-    list.forEach(([name, email]) => {
-      if (!email || uniqueNames.has(name)) return;
-
-      if (!contributorsMap[email]) {
-        contributorsMap[email] = { name, email, commits: 0 };
-        uniqueNames.add(name);
-      }
-      contributorsMap[email].commits++;
-    });
-
-    return Object.values(contributorsMap)
-      .sort((a, b) => b.commits - a.commits)
-      .map((contributor) => ({
-        name: contributor.name,
-        commits: contributor.commits,
-        avatar: `https://www.gravatar.com/avatar/${crypto
-          .createHash('md5')
-          .update(contributor.email.trim().toLowerCase())
-          .digest('hex')}?s=100&d=identicon`,
-      }));
+    return Object.values(byEmail).sort((a, b) => b.commits - a.commits)
   } catch (e) {
-    console.error('Error fetching contributors:', e);
-    return [];
+    console.error('Error fetching contributors:', e)
+    return []
   }
 }
