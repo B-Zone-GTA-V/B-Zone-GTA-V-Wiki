@@ -27,7 +27,7 @@ Locurile de muncă disponibile pe server sunt:
 - [Miner](/server/jobs/miner.html) - Novice & Experimentat (de la skill 4+)
 - [McBeeDelivery](/server/jobs/mcbee.html) - valabil în Los Santos
 - [Electrician](/server/jobs/electrician.html) - valabil în Los Santos
-- [Trucker](/server/jobs/trucker.html) - valabil în Los Santos
+- [Transporter](/server/jobs/transporter.html) - valabil în Los Santos
 - [Șofer De Autobuz / Bus Driver](/server/jobs/bus_driver.html) - valabil în Los Santos
 - [GoPostal](/server/jobs/gopostal.html) - valabil în Los Santos
 - [Fermier](/server/jobs/farmer.html) - valabil în Grapeseed
