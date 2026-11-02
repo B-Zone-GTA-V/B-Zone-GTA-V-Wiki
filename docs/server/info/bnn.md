@@ -12,7 +12,7 @@ Prețul publicării unui anunț timp de o oră este de <span class="money">$500<
 
 Locația publicării unui anunț se găsește pe hartă sau în aplicația de GPS de pe telefon la categoria Locuri Importante.
 
-Vă rugăm să consultați regulamentul înainte de a posta un anunț: [click](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/rules.html#cap-10-bnn-b-zone-network-news).
+Vă rugăm să consultați regulamentul înainte de a posta un anunț: [click](/server/rules.html#cap-10-bnn-b-zone-network-news).
 
 <details>
   <summary>BNN</summary>

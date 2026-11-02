@@ -9,10 +9,10 @@ const git = Git({
 export default defineConfig({
   title: "B-Zone V Wiki",
   description: "Wiki page - B-Zone V Roleplay",
-  base: '/B-Zone-GTA-V-Wiki/',
+  base: '/',
   appearance: 'force-dark', 
   head: [
-    ['link', { rel: 'icon', href: '/B-Zone-GTA-V-Wiki/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   themeConfig: {
     logo: '/assets/images/logo.png',

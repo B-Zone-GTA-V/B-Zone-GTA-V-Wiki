@@ -23,15 +23,15 @@ Pentru a aplica la orice loc de muncă disponibil pe server, trebuie să vă dep
 <br>Asigurați-vă că îndepliniți cerințele de ore pentru acel job din <span class="button-p-job">ESC -> meniul Jobs.</span>
 
 Locurile de muncă disponibile pe server sunt:
-- [Gunoier](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/garbageman.html) - valabil în Los Santos
-- [Miner](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/miner.html) - Novice & Experimentat (de la skill 4+)
-- [McBeeDelivery](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/mcbee.html) - valabil în Los Santos
-- [Electrician](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/electrician.html) - valabil în Los Santos
-- [Trucker](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/trucker.html) - valabil în Los Santos
-- [Șofer De Autobuz / Bus Driver](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/bus_driver.html) - valabil în Los Santos
-- [GoPostal](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/gopostal.html) - valabil în Los Santos
-- [Fermier](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/farmer.html) - valabil în Grapeseed
-- [Pilot](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/jobs/pilot.html) - valabil pe toate aeroporturile
+- [Gunoier](/server/jobs/garbageman.html) - valabil în Los Santos
+- [Miner](/server/jobs/miner.html) - Novice & Experimentat (de la skill 4+)
+- [McBeeDelivery](/server/jobs/mcbee.html) - valabil în Los Santos
+- [Electrician](/server/jobs/electrician.html) - valabil în Los Santos
+- [Trucker](/server/jobs/trucker.html) - valabil în Los Santos
+- [Șofer De Autobuz / Bus Driver](/server/jobs/bus_driver.html) - valabil în Los Santos
+- [GoPostal](/server/jobs/gopostal.html) - valabil în Los Santos
+- [Fermier](/server/jobs/farmer.html) - valabil în Grapeseed
+- [Pilot](/server/jobs/pilot.html) - valabil pe toate aeroporturile
 
 Pentru fiecare dintre locurile de muncă specificate mai sus, aveți nevoie de un <span class="button-p-job">permis de conducere</span> valabil pentru a vă putea angaja.
 

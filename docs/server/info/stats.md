@@ -12,7 +12,7 @@ Indicatorul de foame scade pe măsură ce timpul trece sau în urma anumitor act
 
 Satietatea reflectă cât de sătul este personajul tău după ce a mâncat. Pentru a crește satietatea, consumă alimente nutritive și variate. Mâncarea de calitate nu doar că reduce foamea, dar crește și satietatea pentru o perioadă mai lungă de timp. 
 
-- Puteți găsi cele mai bune și mai calitative preparate pe pagina noastră de Wiki dedicată hobby-ului de [Bucătar](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/hobby/cooking.html).
+- Puteți găsi cele mai bune și mai calitative preparate pe pagina noastră de Wiki dedicată hobby-ului de [Bucătar](/server/hobby/cooking.html).
 
 ## Stres
 Stresul crește în urma unor activități intense sau a unor evenimente negative. Poți reduce stresul prin mai multe metode:

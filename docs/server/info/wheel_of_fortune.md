@@ -9,7 +9,7 @@ outline: deep
 Pentru a putea accesa Wheel of Fortune trebuie să fiți la Cazino.
 <br />
 Prețul unei rotiri este de **1000 Jetoane**.
-Pentru achiziționarea Jetoanelor citiți <a href="https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/server/info/poker.html#jetoane">aici</a>.
+Pentru achiziționarea Jetoanelor citiți <a href="/server/info/poker.html#jetoane">aici</a>.
 <br />
 Tematica roții diferă de la sezon la sezon, iar mașina dată ca premiu este schimbată frecvent, fiind ceva unic și de scurtă durată!
 
