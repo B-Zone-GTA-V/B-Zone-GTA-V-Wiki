@@ -31,8 +31,15 @@ Zonele și drumurile verzi sunt zone publice, frecventate de multe persoane și,
 
 <div class="rule-box rule-green">
     <div class="title">Excepții:</div>
+
 - Pe zonele verzi de pe Aeroport Cayo sau Maldive va este permis să folosiți arma doar în scopul de a vă apăra de razie sau în cadrul unor roleplay-uri complexe. În continuare nu vă este permis să jefuiți sau să răpiți de pe zonă.<br>
 - Pe insula Cayo / Maldive daca, cineva incearca sa va jefuiasca pe voi sau un alt membru din alta mafie si surprindeti aceasta actiune puteti sa mergeti sa il ridicati de oriunde de pe insula INCLUSIV HANGAR / AEROPORT / GARAJ etc. Cu conditia sa il luati de acolo cat mai repede si sa nu treaca mai mult de 15 minute de la momentul in care l-ati avut in vizor.
+</div>
+<div class="rule-box rule-red">
+    <div class="title">Mențiuni:</div>
+
+- Dacă o acțiune ilegală sau un conflict a început într-o zonă roșie, jucătorii implicați au dreptul să continue acțiunea și în zona galbenă sau verde, atât timp cât aceasta reprezintă o continuare directă a roleplay-ului inițial. În zona verde, continuarea acțiunii este permisă doar în scopul continuării conflictului inițial, fiind strict interzisă folosirea acestei excepții pentru jefuirea persoanelor sau inițierea unor noi acțiuni ilegale. De asemenea, este interzisă folosirea zonelor publice pentru obținerea unor avantaje în cadrul acțiunii.
+- Jucătorii care sunt urmăriți în urma unei acțiuni ilegale și au asupra lor bunuri ilegale (arme ilegale, droguri, materiale ilegale etc.) nu au voie să se refugieze intenționat în locații precum Sediul Poliției, Spitalul, Casino-ul sau alte locații similare, cu scopul de a evita continuarea acțiunii sau de a scăpa de consecințele acesteia. O astfel de acțiune va fi sancționată conform regulamentului Fail RP.
 </div>
 
 ---
@@ -44,6 +51,7 @@ Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara 
 <div class="rule-box rule-green">
 <div class="title">Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">20:00 - 08:00</span> pentru <b>Los Santos</b> / <span style="color:yellowgreen">18:00 - 10:00</span> pentru <b>Insula Cayo si Maldive</b>:
 </div><br>
+
 - Jefuirea persoanelor, a vehiculelor, a plantelor sau orice forma de furt/jaf
 </div>
 
@@ -51,6 +59,7 @@ Zonele roșii sunt zone rău famate și periculoase ale orașului sau din afara 
     <div class="title">
         Se permit urmatoarele în intervalul orar <span style="color:yellowgreen"><b>00:00 - 24:00</b></span>:
     </div>
+
 - Luarea de ostatic respectiv răpirea cetățenilor în baza unui roleplay anterior sau un motiv foarte bine întemeiat<br>
 - Deschiderea focului în baza unui roleplay anterior sau un motiv foarte bine întemeiat (Exemplu: Voi controlați zona Grove, iar o mafie rivală vă intră pe teritoriu, aveți voie sa deschideți focul asupra lor)
 </div>
@@ -64,6 +73,7 @@ Zonele și drumurile galbene sunt zone semipublice sau semifamate care marcheaz�
 <div class="rule-box rule-green">
     <div class="title">Se permit urmatoarele în intervalul orar <span style="color:yellowgreen">**20:00 - 08:00**</span>:
     </div>
+
 - Luarea de ostatic, respectiv răpirea cetățenilor, în baza unui roleplay anterior sau un motiv foarte bine întemeiat.<br>
 - Deschiderea focului în baza unui roleplay anterior și un motiv foarte bine întemeiat. <br><br>
 <span style="color:red">OPRIREA LA UN TRAFIC STOP NU ESTE UN MOTIV BINE ÎNTEMEIAT PENTRU A DESCHIDE FOCUL ÎN ACESTE ZONE</span>
@@ -73,6 +83,7 @@ Zonele și drumurile galbene sunt zone semipublice sau semifamate care marcheaz�
     <div class="title">
         În intervalul orar <span style="color:yellowgreen">08:01 - 19:59</span>:
     </div>
+
 - Se aplică regulamentul de <a href="../rules#7.3"> 7.3 Ilegalități în zonă publică</a>
 </div>
 
@@ -122,8 +133,6 @@ Acestea sunt zone sau drumuri nepopulate unde este permis să comiteți ilegalit
 <div class="title">
 <span style="color: green">Mențiuni și Excepții:</span>
 </div>
-
-- Răpirea din zonele verzi este permisă doar cu aprobarea <strong style="color: yellowgreen">SINDICATULUI</strong>. Cererea trebuie să fie făcută de liderul sau subliderul unei mafii (oficiale sau neoficiale). Aceasta trebuie realizată cât mai rapid și, pe cât posibil, fără focuri de armă. Detaliile se discută și IC, însă sancțiunile pentru focuri de armă în zone publice sunt foarte severe.
 
 - Autostrăzile din afara orașului (cu excepția zonelor din jurul vămilor – dinspre vamă, spre vamă sau între tabere) sunt considerate **drumuri roșii**, unde <strong style="color: red">NU</strong> este permisă jefuirea. Este interzis să se folosească vamele pentru a vă genera avantaje în bătaie, este strict interzis să se traga dinspre vamă, spre vamă sau cu vama între taberele de bătaie. Se va sancționa conform regulii de <a href="../rules#2.13">#2.13 PowerGaming (PG)</a>
 
