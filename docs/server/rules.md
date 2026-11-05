@@ -246,6 +246,7 @@ Acțiunea prin care te întorci la zona în care ai avut un roleplay anterior, d
     <div class="title">Mențiuni:</div>
 
 - Prin crearea unui nou caracter nu puteți face roleplay de verișor, frate care să cunoască toata viața caracterului anterior.
+- Nu este permisă sustragerea de la un roleplay care ar putea conduce la aplicarea unui CK prin încălcarea intenționată a regulamentului. În cazul în care se constată o astfel de abatere, jucătorul va primi atât CK-ul corespunzător, cât și sancțiunea aferentă încălcării regulamentului, ambele fiind aplicate pe loc.
 - Transferul de bunuri înainte de a primi CK și recuperarea ulterioară este interzis și se sancționează cu <span style="color: red">warn</span> și ștergerea respectivelor bunuri.
 </div>
 
@@ -2061,7 +2062,7 @@ De asemenea, este interzis să se desfășoare activități ilegale în apropier
 <div class="rule-box rule-green">
     <div class="title">Mențiuni și excepții:</div>
 
-- în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă 
+- în cazul în care începe o bătaie cu pumnii între 2 jucători/grupuri pe baza unui roleplay anterior și ambele părți au dat cu pumnul, nu se consideră ilegalitate în zonă publică chiar dacă cineva ajunge în comă
 - în cazul în care se constată că bătaia a fost declanșată fără un roleplay anterior sau fără un context Roleplay care să o justifice, aceasta se va încadra la regula <a href="#4.7">4.7 Troll</a> și se va sancționa conform regulamentului.
 </div>
 <div class="rule-box rule-sanction">
