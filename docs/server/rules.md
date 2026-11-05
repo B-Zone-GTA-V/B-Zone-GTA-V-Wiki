@@ -716,6 +716,7 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - Ești singur și nu îți este frică să te apropii de zone rău famate unde sunt grupuri cu arme în mâini și începi să îi provoci.
 - Există un conflict între mafii sau între mafie și poliție și nu îți este frică să treci prin acea zonă.
 - Intri în zona marcată a unui jaf Fleeca în calitate de civil, fără a ține cont de pericolul la care te expui.
+- Ești depășit considerabil numeric de persoane înarmate care te amenință și alegi să le înfrunți, ignorând pericolul la care te expui, fără a avea un avantaj tactic care să justifice în mod realist acțiunile tale.
 </div>
 
 <div class="rule-box rule-green">
